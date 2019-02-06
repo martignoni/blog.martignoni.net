@@ -1,0 +1,99 @@
+baseurl: https://blog.martignoni.net/
+title: Perspective
+theme:
+#  - hugo-cloak-email
+  - hugo-academic
+languageCode: fr-ch
+
+# Do not inject generator meta tag on homepage
+#disableHugoGeneratorInject: false
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage: fr
+
+# Show a placeholder instead of the default value or an empty string if a translation is missing
+# enableMissingTranslationPlaceholders: false
+
+# Log File path (if set, logging enabled automatically)
+# logFile: "./hugolog.txt"
+
+# Define the number of posts per page
+paginate: 5
+
+taxonomies:
+  tag: "tags"
+  categories: "categories"
+  publication_type: "publication_types"
+  author: "authors"
+
+# Allow taxonomy term with special characters
+preserveTaxonomyNames: true
+
+# Enable robots.txt generation
+enableRobotsTXT: true
+
+params:
+  author: Nicolas Martignoni
+  address: ''
+  defaultDescription:
+  defaultKeywords:
+  - MoodleBox
+  - Moodle
+  - Moodle Box
+
+  email: nicolas@martignoni.net
+
+  copyright: ""
+
+  # Enable Matomo analytics by entering your tracking code
+  matomoAnalytics:
+    siteid: 4
+    matomoroot: "stats.martignoni.net" # Do not add slashes
+
+related:
+  threshold: 50
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: "keywords"
+      weight: 200
+
+    - name: "categories"
+      weight: 100
+
+    - name: "tags"
+      weight: 50
+
+    - name: "date"
+      weight: 1
+      pattern: "2006"
+
+blackfriday:
+  hrefTargetBlank: true
+  angledQuotes: false
+  latexDashes: true
+  extensions:
+    - backslashLineBreak
+
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+pygmentsUseClasses: true
+# pygmentsStyle: "emacs"
+
+footnoteReturnLinkContents: ↩
+# footnoteReturnLinkContents: ↑
+
+#outputFormats:
+#  JS:
+#    mediaType: application/javascript
+#    baseName: 'search '
+#    path: 'js'
+#    isPlainText: true
+
+outputs:
+  home: ["HTML", "CSS", "RSS", "JSON"]
+  section: ["HTML", "RSS"]
+
+permalinks:
+  help: /help/:slug
+  # kb: /kb/:slug
+  # blog: "/blog/:year/:month/:day/:filename/"
