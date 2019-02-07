@@ -3,7 +3,7 @@
 # This widget displays recent posts from `content/post/`.
 widget = "posts"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Recent Posts"
 subtitle = ""
@@ -15,7 +15,7 @@ count = 5
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view = 2
+view = 1
 
 # Filter posts by tag or category.
 #  E.g. to only show posts tagged with `Academic`, set `filter_tag = "Academic"`
