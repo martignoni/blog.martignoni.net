@@ -10,5 +10,5 @@ Copyright © 2019 onwards, Nicolas Martignoni <nicolas@martignoni.net>
 
 This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 
-  [blog]: https://martignoni.net
+  [blog]: http://martignoni.net
   [cc]: http://creativecommons.org/licenses/by-nc-sa/4.0/
