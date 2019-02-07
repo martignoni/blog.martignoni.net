@@ -1,7 +1,7 @@
 baseurl: https://blog.martignoni.net/
 title: Perspectives
-theme:
-  - hugo-bulma
+#theme:
+#  - hugo-bulma
 languageCode: en-us
 
 # Define the number of posts per page
@@ -19,7 +19,7 @@ SectionPagesMenu: main
 params:
   # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
   theme_variant:
-  description: A Simple Blog with Bulma
+  description: Nicolas Martignoni
   powered_by: love
   hide_author: false
   images: []

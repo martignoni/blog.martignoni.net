@@ -1,0 +1,11 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+
+{{ define "main" }}
+
+  {{range where .Site.RegularPages "Section" "posts" }}
+    {{- partial "page-summary.html" . -}}
+  {{ end }}
+{{ end }}
+
+{{ define "footer" }} {{ partial "footer" .}} {{ end }}

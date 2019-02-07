@@ -1,0 +1,26 @@
+<article class="post type-post status-publish format-standard has-post-thumbnail hentry">
+  <header class="entry-header">
+
+    <div class="entry-meta">{{ partial "post/meta" . }}</div>
+
+    <h3 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" itemprop="headline">{{ .Title }}</a></h3>
+
+<!--
+    {{ if .Description }}
+      <blockquote itemprop="about">{{ .Description }}</blockquote>
+    {{ end }}
+ -->
+
+  </header> <!-- .entry-header -->
+
+  <div class="post-thumbnail">
+  </div> <!-- .post-thumbnail -->
+
+  <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
+    {{ .Summary }}
+  </div> <!-- .entry-content -->
+
+  <div class="button">
+    <a href="{{ .RelPermalink }}" itemprop="url">Read More…</a>
+  </div>
+</article>

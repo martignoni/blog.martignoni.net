@@ -1,0 +1,18 @@
+<div class="custom-header">
+
+  <div class="custom-header-media"></div>
+
+  <div class="site-branding">
+    <div class="wrap">
+
+      <div class="site-branding-text">
+        <h1 class="site-title"><a href="https://blog.martignoni.net/" rel="home">{{ .Site.Title }}</a></h1>
+        {{ with .Site.Params.Description }}
+          <p class="site-description">{{ . }}</p>
+        {{ end }}
+      </div><!-- .site-branding-text -->
+
+    </div><!-- .wrap -->
+  </div><!-- .site-branding -->
+
+</div><!-- .custom-header -->
