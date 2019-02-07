@@ -1,0 +1,27 @@
+baseurl: https://blog.martignoni.net/
+title: Perspectives
+theme:
+  - hugo-bulma
+languageCode: en-us
+
+# Define the number of posts per page
+paginate: 5
+
+# Enable robots.txt generation
+enableRobotsTXT: true
+
+#googleAnalytics:
+#disqusShortname:
+
+# Enable menu system for lazy bloggers
+SectionPagesMenu: main
+
+params:
+  # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
+  theme_variant:
+  description: A Simple Blog with Bulma
+  powered_by: love
+  hide_author: false
+  images: []
+  github: martignoni
+  twitter: nmartignoni
