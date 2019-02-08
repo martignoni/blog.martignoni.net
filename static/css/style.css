@@ -417,7 +417,7 @@ input,
 select,
 textarea {
 	color: #333;
-	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 	font-size: 15px;
 	font-size: 0.9375rem;
 	font-weight: 400;
@@ -1059,24 +1059,24 @@ input[type="submit"].secondary:focus {
 /* Placeholder text color -- selectors need to be separate to work. */
 ::-webkit-input-placeholder {
 	color: #333;
-	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
 :-moz-placeholder {
 	color: #333;
-	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
 ::-moz-placeholder {
 	color: #333;
-	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 	opacity: 1;
 	/* Since FF19 lowers the opacity of the placeholder by default */
 }
 
 :-ms-input-placeholder {
 	color: #333;
-	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -1596,7 +1596,7 @@ body {
 
 .site-title,
 .site-title a {
-	color: #222;
+	color: #ed0000;
 	opacity: 1; /* Prevent opacity from changing during selective refreshes in the customize preview */
 }
 
@@ -1604,11 +1604,11 @@ body.has-header-image .site-title,
 body.has-header-video .site-title,
 body.has-header-image .site-title a,
 body.has-header-video .site-title a {
-	color: #fff;
+	color: #ed0000;
 }
 
 .site-description {
-	color: #666;
+	color: #ed0000;
 	font-size: 13px;
 	font-size: 0.8125rem;
 	margin-bottom: 0;
@@ -1616,7 +1616,7 @@ body.has-header-video .site-title a {
 
 body.has-header-image .site-description,
 body.has-header-video .site-description {
-	color: #fff;
+	color: #ed0000;
 	opacity: 0.8;
 }
 
@@ -1930,9 +1930,9 @@ body.page:not(.twentyseventeen-front-page) .entry-title {
 
 .entry-meta {
 	color: #767676;
-	font-size: 11px;
-	font-size: 0.6875rem;
-	font-weight: 800;
+	font-size: 12px;
+	font-size: 0.75rem;
+	font-weight: 700;
 	letter-spacing: 0.1818em;
 	padding-bottom: 0.25em;
 	text-transform: uppercase;
@@ -2532,8 +2532,8 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 h2.widget-title {
 	color: #222;
-	font-size: 13px;
-	font-size: 0.8125rem;
+	font-size: 14px;
+	font-size: 0.875rem;
 	font-weight: 800;
 	letter-spacing: 0.1818em;
 	margin-bottom: 1.5em;
@@ -3031,7 +3031,9 @@ p > object:only-child {
 .icon {
 	display: inline-block;
 	fill: currentColor;
+/*
 	height: 1em;
+ */
 	position: relative; /* Align more nicely with capital letters */
 	top: -0.0625em;
 	vertical-align: middle;
@@ -4012,16 +4014,16 @@ p > object:only-child {
 	/* Secondary */
 
 	#secondary {
-		font-size: 14px;
-		font-size: 0.875rem;
+		font-size: 15px;
+		font-size: 1rem;
 		line-height: 1.6;
 	}
 
 	/* Widgets */
 
 	h2.widget-title {
-		font-size: 11px;
-		font-size: 0.6875rem;
+		font-size: 12px;
+		font-size: 0.75rem;
 		margin-bottom: 2em;
 	}
 
@@ -4029,7 +4031,7 @@ p > object:only-child {
 
 	.site-footer {
 		font-size: 14px;
-		font-size: 0.875rem;
+		font-size: 0.9375rem;
 		line-height: 1.6;
 		margin-top: 3em;
 	}
