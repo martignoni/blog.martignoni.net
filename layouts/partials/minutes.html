@@ -1,0 +1,5 @@
+{{- if le .ReadingTime 1 -}}
+  {{- i18n "minuteSingular" -}}
+{{- else -}}
+  {{- i18n "minutePlural" -}}
+{{- end -}}

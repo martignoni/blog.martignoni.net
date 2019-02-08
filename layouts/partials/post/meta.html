@@ -16,4 +16,4 @@
 {{ end }}
  -->
 <span class="icon"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
-<span>{{ .ReadingTime }} minutes de lecture</span>
+<span>{{ .ReadingTime }} {{ partial "minutes" . }} {{ i18n "readingTime" }}</span>
