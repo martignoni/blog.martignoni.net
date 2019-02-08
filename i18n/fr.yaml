@@ -49,7 +49,7 @@
 - id: previous
   translation: "Précédent"
 - id: next
-  translation: "suivant"
+  translation: "Suivant"
 - id: publishedOn
   translation: "le"
 - id: testimonials
