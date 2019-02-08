@@ -2,7 +2,9 @@ baseurl: https://blog.martignoni.net/
 title: Perspectives
 #theme:
 #  - hugo-bulma
-languageCode: en-us
+languageCode: fr-ch
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage: fr
 
 # Define the number of posts per page
 paginate: 5
