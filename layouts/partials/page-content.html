@@ -5,11 +5,9 @@
 
     <h3 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" itemprop="headline">{{ .Title }}</a></h3>
 
-<!--
     {{ if .Description }}
       <blockquote itemprop="about">{{ .Description }}</blockquote>
     {{ end }}
- -->
 
   </header> <!-- .entry-header -->
 
@@ -17,7 +15,7 @@
   </div> <!-- .post-thumbnail -->
 
   <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
-    {{ .Summary }}
+    {{ .Content }}
   </div> <!-- .entry-content -->
 
   <div class="button">

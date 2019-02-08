@@ -42,7 +42,7 @@
 </head>
 <!--theme variation-->
 
-<body>
+<body class="home blog wp-embed-responsive hfeed has-sidebar colors-light">
     <header id="masthead" class="site-header" role="banner">{{ block "header" . }}{{ end }}</header>
     {{/* with .featuredImage */}}
     <div class="single-featured-image-header">{{/* . */}}</div>
@@ -51,9 +51,23 @@
       <div id="content" class="site-content">
         <div class="wrap">
           <header class="page-header"><h2 class="page-title">Articles</h2></header>
-            <div id="primary" class="content-area">
-              <main id="main" class="site-main" role="main">{{ block "main" . }}{{ end }}</main>
-            </div> <!-- #primary -->
+          <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">{{ block "main" . }}{{ end }}</main>
+          </div> <!-- #primary -->
+          <aside id="secondary" class="widget-area" role="complementary" aria-label="side column">
+            <section id="search" class="widget widget_search">
+            </section>
+            <section id="search" class="widget widget_search">
+              <h2 class="widget-title">Articles récents</h2>
+              <ul>
+                <li> <a href="https://blog.martignoni.net/2019/02/desole-vous-pouvez-etre-identifie-meme-si-vos-donnees-sont-anonymisees/">Désolé, vous pouvez être identifié même si vos données sont anonymisées</a> </li>
+                <li> <a href="https://blog.martignoni.net/2018/02/facebook-toujours-plus-agressif-dans-la-collecte-de-donnees/">Facebook toujours plus agressif dans la collecte de données</a> </li>
+                <li> <a href="https://blog.martignoni.net/2017/12/facebook-messenger-kids/">Facebook Messenger Kids&nbsp;: dans la gueule du loup</a> </li>
+                <li> <a href="https://blog.martignoni.net/2017/09/evaluer-la-qualite-de-votre-mot-de-passe/">Évaluer la qualité de votre mot de passe</a> </li>
+                <li> <a href="https://blog.martignoni.net/2017/08/pourquoi-vous-devriez-arreter-de-poster-des-photos-de-vos-enfants-sur-les-reseaux-sociaux/">Pourquoi vous devriez arrêter de poster des photos de vos enfants sur les réseaux sociaux</a> </li>
+              </ul>
+            </section>
+          </aside>
         </div> <!-- .wrap -->
       </div> <!-- #content -->
 

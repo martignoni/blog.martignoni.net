@@ -4,8 +4,9 @@
 {{ define "main" }}
 
   {{range where .Site.RegularPages "Section" "posts" }}
-    {{- partial "page-summary.html" . -}}
+    {{- partial "page-content.html" . -}}
   {{ end }}
+
 {{ end }}
 
 {{ define "footer" }} {{ partial "footer" .}} {{ end }}
