@@ -2,7 +2,7 @@
 
 <!-- [![Build Status](https://travis-ci.org/moodlebox/moodlebox.net.svg?branch=master)](https://travis-ci.org/moodlebox/moodlebox.net/) -->
 
-This repository contains the content pages of the [martignoni.net][blog] website .
+This repository contains the source files of the [martignoni.net][blog] website.
 
 ## License
 
