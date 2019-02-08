@@ -1,0 +1,15 @@
+---
+title: Comment la technologie pirate l’esprit des gens
+author: Nicolas Martignoni
+type: post
+date: 2017-07-23T11:39:50+00:00
+draft: true
+url: /?p=1368
+categories:
+  - Citoyenneté
+tags:
+  - Digitalisation
+  - Numérisation
+
+---
+https://medium.com/france/comment-la-technologie-pirate-lesprit-des-gens-e8bd041adb4c

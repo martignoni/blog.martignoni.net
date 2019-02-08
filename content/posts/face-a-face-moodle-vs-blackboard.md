@@ -1,0 +1,29 @@
+---
+title: Face à face Moodle vs Blackboard
+author: Nicolas Martignoni
+type: post
+date: 2010-10-27T10:56:45+00:00
+url: /2010/10/face-a-face-moodle-vs-blackboard/
+yourls_shorturl:
+  - http://is.gd/gm77P
+yourls_tweeted:
+  - 1
+categories:
+  - École, e-learning et ICT
+  - Logiciel libre
+tags:
+  - Blackboard
+  - e-learning
+  - LMS
+  - Logiciel Libre
+  - Moodle
+  - Open Source
+
+---
+Le logiciel d'environnement d'apprentissage libre [Moodle][1] gagne du terrain aux dépends de [Blackboard][2], système de gestion de cours commercial le plus vendu. Les leaders de ces deux logiciels discutent de l'avenir de leur plateforme, de meilleures interfaces pour les téléphones portables et de l'intégration aux autres systèmes de gestion scolaire.
+
+<div class="video-container">
+</div>
+
+ [1]: http://moodle.org/
+ [2]: http://www.blackboard.com/

@@ -1,0 +1,25 @@
+---
+title: Interface de Windows 8
+author: Nicolas Martignoni
+type: post
+date: 2011-06-02T09:25:12+00:00
+url: /2011/06/interface-de-windows-8/
+yourls_shorturl:
+  - http://is.gd/zIqcKG
+yourls_tweeted:
+  - 1
+categories:
+  - Technologie
+tags:
+  - Interface tactile
+  - Microsoft
+  - Windows
+
+---
+Microsoft a présenté hier, à la conférence D9, une vidéo démontrant [quelques fonctionnalités de son futur Windows 8][1]. Quelques idées innovantes et intéressantes au niveau de l'interface tactile, notamment la possibilité d'afficher côte à côte deux applications en même temps.
+
+Pour une entreprise technologique, la mauvaise qualité de la bande son de la vidéo est cependant étonnante.
+
+<small><em>Via <a href="http://daringfireball.net/linked/2011/06/01/previewing-windows-8">DaringFireball</a></em></small>
+
+ [1]: http://www.microsoft.com/presspass/features/2011/jun11/06-01corporatenews.aspx
