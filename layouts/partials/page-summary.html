@@ -6,23 +6,19 @@
     <h3 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" itemprop="headline">{{ .Title }}</a></h3>
 
     {{ if .Description }}
-      <span itemprop="about"><em>{{ .Description }}</em></span>
+      <blockquote itemprop="about">{{ .Description }}</blockquote>
     {{ end }}
 
   </header> <!-- .entry-header -->
 
-  {{ if 0 }}
   <div class="post-thumbnail">
   </div> <!-- .post-thumbnail -->
-  {{ end }}
 
   <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
-    {{ .Content }}
+    {{ .Summary }}
   </div> <!-- .entry-content -->
 
-<!--
   <div class="button">
     <a href="{{ .RelPermalink }}" itemprop="url">Read More…</a>
   </div>
- -->
 </article>

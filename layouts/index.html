@@ -3,7 +3,7 @@
 
 {{ define "main" }}
 
-  {{range where .Site.RegularPages "Section" "posts" }}
+  {{ range where .Site.RegularPages "Section" "posts" }}
     {{- partial "page-content.html" . -}}
   {{ end }}
 
