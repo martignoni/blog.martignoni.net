@@ -1,4 +1,7 @@
 {{ define "header" }}{{ partial "site-header" . }}{{ end }}
+{{ define "page-header" }}
+<header class="page-header"><h2 class="page-title">{{ .Data.Singular }} : {{ $.Title }}</h2></header>
+{{ end }}
 
 {{ define "main" }}
 

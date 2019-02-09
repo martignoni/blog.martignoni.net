@@ -44,32 +44,35 @@
     {{ end }}
 </head>
 
-<body class="home blog wp-embed-responsive hfeed has-sidebar colors-light">
-  <header id="masthead" class="site-header" role="banner">{{ block "header" . }}{{ end }}</header>
-  <div class="site-content-contain">
-    <div id="content" class="site-content">
-      <div class="wrap">
-        <header class="page-header"><h2 class="page-title">Articles</h2></header>
-        <div id="primary" class="content-area">
-          <main id="main" class="site-main" role="main">{{ block "main" . }}{{ end }}</main>
-        </div> <!-- #primary -->
-        <aside id="secondary" class="widget-area" role="complementary" aria-label="side column">
-          <section id="search" class="widget widget_search">
-          </section>
-          <section id="recent-posts" class="widget widget_recent_entries">
-          <h2 class="widget-title">{{ i18n "recentPosts" }}</h2>
-            <ul>
-            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-              <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-            </ul>
-          </section>
-        </aside>
-      </div> <!-- .wrap -->
-    </div> <!-- #content -->
+<body class="wp-embed-responsive has-sidebar">
+  <div id="page" class="site">
+    {{ block "header" . }}{{ end }}
+    {{ block "featured-image" . }}{{ end }}
+    <div class="site-content-contain">
+      <div id="content" class="site-content">
+        <div class="wrap">
+          {{ block "page-header" . }}{{ end }}
+          <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">{{ block "main" . }}{{ end }}</main>
+          </div> <!-- #primary -->
+          <aside id="secondary" class="widget-area" role="complementary" aria-label="side column">
+            <section id="search" class="widget widget_search">
+            </section>
+            <section id="recent-posts" class="widget widget_recent_entries">
+            <h2 class="widget-title">{{ i18n "recentPosts" }}</h2>
+              <ul>
+              {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+              {{ end }}
+              </ul>
+            </section>
+          </aside>
+        </div> <!-- .wrap -->
+      </div> <!-- #content -->
 
-    <footer>{{ block "footer" . }}{{ end }}</footer>
-  </div> <!-- .site-content-contain -->
+      <footer>{{ block "footer" . }}{{ end }}</footer>
+    </div> <!-- .site-content-contain -->
+  </div> <!-- #page -->
 </body>
 
 </html>

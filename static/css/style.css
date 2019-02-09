@@ -3891,6 +3891,7 @@ p > object:only-child {
 		display: table-cell;
 		vertical-align: middle;
 		width: 100%;
+		float: right;
 	}
 
 	.entry-footer .edit-link {

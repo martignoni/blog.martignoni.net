@@ -18,9 +18,6 @@
   </div> <!-- .post-thumbnail -->
   {{ end }}
 
-  {{ if 0 }}
-  {{ end }}
-
   <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
     {{/* Remove footnotes, see https://discourse.gohugo.io/t/how-to-make-footnote-links-absolute/5749/10 */}}
     {{ .Summary | replaceRE `<sup.*footnote-ref.*><a href.*#fn:.*/a></sup>` "" | safeHTML}}

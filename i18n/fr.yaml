@@ -54,6 +54,8 @@
   translation: "le"
 - id: testimonials
   translation: "Témoignages"
+- id: toMainContent
+  translation: "Aller au contenu principal"
 - id: relatedTitle
   translation: "Pages similaires"
 - id: whatsYourName
