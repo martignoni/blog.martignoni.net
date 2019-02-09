@@ -6,7 +6,7 @@
     <h3 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" itemprop="headline">{{ .Title }}</a></h3>
 
     {{ if .Description }}
-      <span itemprop="about"><em>{{ .Description }}</em></span>
+    <span itemprop="about"><em>{{ .Description }}</em></span>
     {{ end }}
 
   </header> <!-- .entry-header -->
@@ -20,9 +20,4 @@
     {{ .Content }}
   </div> <!-- .entry-content -->
 
-<!--
-  <div class="button">
-    <a href="{{ .RelPermalink }}" itemprop="url">Read More…</a>
-  </div>
- -->
 </article>

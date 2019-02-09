@@ -4,7 +4,7 @@
 {{ define "main" }}
 
   {{ range .Paginator.Pages }}
-    {{- partial "page-content.html" . -}}
+    {{- partial "page-summary.html" . -}}
   {{ end }}
 
   {{ partial "pagination" . }}

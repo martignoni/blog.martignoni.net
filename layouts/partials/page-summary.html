@@ -6,19 +6,22 @@
     <h3 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" itemprop="headline">{{ .Title }}</a></h3>
 
     {{ if .Description }}
-      <blockquote itemprop="about">{{ .Description }}</blockquote>
+    <span itemprop="about"><em>{{ .Description }}</em></span>
     {{ end }}
 
   </header> <!-- .entry-header -->
 
+  {{ if 0 }}
   <div class="post-thumbnail">
   </div> <!-- .post-thumbnail -->
+  {{ end }}
 
   <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
-    {{ .Summary }}
+    {{/* Remove footnotes, see https://discourse.gohugo.io/t/how-to-make-footnote-links-absolute/5749/10 */}}
+    {{ .Summary | replaceRE `<sup.*footnote-ref.*><a href.*#fn:.*/a></sup>` "" | safeHTML}}
+    {{ if .Truncated }}
+    <p><a href="{{ .RelPermalink }}" class="more-link">{{ i18n "continueReading" }}<span class="screen-reader-text"> de « {{ .Title }} »</span></a></p>
+    {{ end }}
   </div> <!-- .entry-content -->
 
-  <div class="button">
-    <a href="{{ .RelPermalink }}" itemprop="url">Read More…</a>
-  </div>
 </article>
