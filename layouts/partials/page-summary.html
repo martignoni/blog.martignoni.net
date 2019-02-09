@@ -11,9 +11,14 @@
 
   </header> <!-- .entry-header -->
 
-  {{ if 0 }}
+  {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ with $img }}
   <div class="post-thumbnail">
+    <img src="{{ .Permalink }}" alt="{{ $.Title }}">
   </div> <!-- .post-thumbnail -->
+  {{ end }}
+
+  {{ if 0 }}
   {{ end }}
 
   <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
