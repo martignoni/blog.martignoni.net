@@ -1,23 +1,43 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
 <nav class="navigation pagination" role="navigation">
   <h2 class="screen-reader-text">
     Navigation des articles
   </h2>
   <div class="nav-links">
-  {{if .Paginator.HasPrev }}
-    <a class="prev page-numbers" href="{{ .Paginator.Prev.URL }}"><svg class="icon icon-arrow-left" aria-hidden="true" role="img"> <use href="#icon-arrow-left" xlink:href="#icon-arrow-left"></use> </svg><span class="screen-reader-text">{{ i18n "previous" }}</span></a>
-  {{ end }}
-  {{ range .Paginator.Pagers }}
-    {{ .PageNumber }}
+
+  {{if $pag.HasPrev }}
+    <a class="prev page-numbers" href="{{ $pag.Prev.URL }}"><i class="fa fa-long-arrow-left" aria-hidden="true"></i><span class="screen-reader-text">{{ i18n "previous" }}</span></a>
   {{ end }}
 
+  {{ $.Scratch.Set "__paginator.ellipsed" false }}
+  {{ range $pag.Pagers }}
+    {{ $right := sub .TotalPages .PageNumber }}
+    {{ $showNumber := or (le .PageNumber 1) (le $right 0) }}
+    {{ $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 3)) (lt .PageNumber (add $pag.PageNumber 3)))  }}
+    {{ if $showNumber }}
+        {{ $.Scratch.Set "__paginator.ellipsed" false }}
+        {{ $.Scratch.Set "__paginator.shouldEllipse" false }}
+    {{ else }}
+        {{ $.Scratch.Set "__paginator.shouldEllipse" (not ($.Scratch.Get "__paginator.ellipsed") ) }}
+        {{ $.Scratch.Set "__paginator.ellipsed" true }}
+    {{ end }}
 
-    <a class="page-numbers" href="{{ .Paginator.First.URL }}"><span class="meta-nav screen-reader-text">Page </span>1</a>
-    <span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>{{ .Paginator.PageNumber }}</span>
-    <a class="page-numbers" href="https://blog.martignoni.net/page/2/"><span class="meta-nav screen-reader-text">Page </span>2</a>
-    <span class="page-numbers dots">…</span>
-    <a class="page-numbers" href="{{ .Paginator.Last.URL }}"><span class="meta-nav screen-reader-text">Page </span>{{ .Paginator.TotalPages }}</a>
-  {{ if .Paginator.HasNext }}
-    <a class="next page-numbers" href="{{ .Paginator.Next.URL }}"><span class="screen-reader-text">{{ i18n "next" }}</span><svg class="icon icon-arrow-right" aria-hidden="true" role="img"> <use href="#icon-arrow-right" xlink:href="#icon-arrow-right"></use> </svg></a>
+    {{ if $showNumber }}
+      {{ if eq .PageNumber $pag.PageNumber  }}
+        <span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>{{ .PageNumber }}</span>
+      {{ else }}
+        <a class="page-numbers" href="{{ .URL }}"><span class="meta-nav screen-reader-text">Page </span>{{ .PageNumber }}</a>
+      {{ end }}
+    {{ else if ($.Scratch.Get "__paginator.shouldEllipse") }}
+      <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
+    {{ end }}
+
+  {{ end }}
+
+  {{ if $pag.HasNext }}
+    <a class="next page-numbers" href="{{ $pag.Next.URL }}"><span class="screen-reader-text">{{ i18n "next" }}</span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
   {{ end }}
   </div>
 </nav>
+{{ end }}
