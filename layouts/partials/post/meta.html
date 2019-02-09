@@ -1,19 +1,22 @@
 <span class="icon"><i class="fa fa-pencil" aria-hidden="true"></i></span>
 {{ if .PublishDate.IsZero }}
-  <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+  <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
+    <span class="date-day">{{ .Date.Format "2" }}</span>
+    <span class="date-month">{{ default .Date (i18n .Date.Month) }}</span>
+    <span class="date-year">{{ .Date.Format "2006" }}</span>
+  </time>
 {{ else if lt .PublishDate .Lastmod }}
-  <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">{{ .Lastmod.Format "2 Jan 2006" }}</time>
+  <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
+    <span class="date-day">{{ .Lastmod.Format "2" }}</span>
+    <span class="date-month">{{ default .Lastmod (i18n .Lastmod.Month) }}</span>
+    <span class="date-year">{{ .Lastmod.Format "2006" }}</span>
+  </time>
 {{ else }}
-  <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">{{ .PublishDate.Format "2 Jan 2006" }}</time>
+  <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">
+    <span class="date-day">{{ .PublishDate.Format "2" }}</span>
+    <span class="date-month">{{ default .PublishDate (i18n .PublishDate.Month) }}</span>
+    <span class="date-year">{{ .PublishDate.Format "2006" }}</span>
+  </time>
 {{ end }}
-<!--
-{{ if .PublishDate.IsZero }}
-  Publié le <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ .Date.Format "2 Jan 2006" }}</time>
-{{ else if lt .PublishDate .Lastmod }}
-  Mis à jour le <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">{{ .Lastmod.Format "2 Jan 2006" }}</time>
-{{ else }}
-  Publié le <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">{{ .PublishDate.Format "2 Jan 2006" }}</time>
-{{ end }}
- -->
 <span class="icon"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
 <span>{{ .ReadingTime }} {{ partial "minutes" . }} {{ i18n "readingTime" }}</span>
