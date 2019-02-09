@@ -39,7 +39,7 @@
       {{ end }}
     </div> <!-- .entry-title -->
     <div class="entry-meta">
-      {{ partial "post/meta" . }}
+      <a href="{{ .Permalink }}">{{ partial "post/meta" . }}</a>
     </div> <!-- .entry-meta -->
   </header> <!-- .entry-header -->
   <div class="entry-content">
