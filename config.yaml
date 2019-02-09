@@ -30,3 +30,6 @@ params:
   images: []
   github: martignoni
   twitter: nmartignoni
+
+permalinks:
+  posts: /:year/:month/:slug/
