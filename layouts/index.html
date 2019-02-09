@@ -4,11 +4,11 @@
 {{ define "main" }}
 
   {{ range .Paginator.Pages }}
-    {{- partial "page-summary.html" . -}}
+    {{- partial "page-summary" . -}}
   {{ end }}
 
   {{ partial "pagination" . }}
 
 {{ end }}
 
-{{ define "footer" }} {{ partial "footer" . }} {{ end }}
+{{ define "footer" }}{{ partial "footer" . }}{{ end }}

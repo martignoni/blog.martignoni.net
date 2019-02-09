@@ -1,16 +1,11 @@
-{{ define "header" }}
-  {{ partial "menu" . }}
-{{ end }}
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+
 {{ define "main" }}
-  <header>
-    <h1>{{ .Title }}</h1>
-  </header>
+
   {{ range .Paginator.Pages }}
-    {{ partial "page-summary" . }}
+    {{- partial "page-summary" . -}}
   {{ end }}
+
 {{ end }}
-{{ define "footer" }}
-  {{ partial "pagination" . }}
-  {{ partial "footer" . }}
-{{ end }}
- 
+
+{{ define "footer" }}{{ partial "footer" . }}{{ end }}

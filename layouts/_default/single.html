@@ -2,7 +2,7 @@
   {{ .Title }} | {{ .Site.Title }}
 {{- end }}
 
-{{ define "header" }} {{ partial "menu" . }} {{ end }} 
+{{ define "header" }} {{ partial "site-header" . }} {{ end }}
 
 {{ define "main" }}
 
@@ -18,7 +18,7 @@
         </section>
     </div>
 </div>
-{{ end }} 
-{{ define "footer" }} 
-  {{ partial "footer" . }} 
+{{ end }}
+{{ define "footer" }}
+  {{ partial "footer" . }}
 {{ end }}
