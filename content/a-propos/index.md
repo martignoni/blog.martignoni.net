@@ -9,7 +9,7 @@ Le blog _Perspectives_ offre des informations et points de vue sur la numérisat
 
 ## L'auteur
 
-<img class="wp-image-1253 alignright" src="https://blog.martignoni.net/wp-content/uploads/2006/04/nicolas-222x300.jpg" alt="" width="167" height="226" srcset="https://blog.martignoni.net/wp-content/uploads/2006/04/nicolas-222x300.jpg 222w, https://blog.martignoni.net/wp-content/uploads/2006/04/nicolas.jpg 500w" sizes="(max-width: 167px) 100vw, 167px" />Depuis plusieurs décennies, Nicolas Martignoni est actif dans la conception et le développement des ICT, en particulier pour les écoles du canton de Fribourg en Suisse. Dès 2001, il a été collaborateur du [Centre fri-tic](https://www.fri-tic.ch/), puis professeur en intégration des ICT à la [Haute École pédagogique de Fribourg](https://hepfr.ch/), et de 2008 à 2017, directeur du [Centre fri-tic](https://www.fri-tic.ch/). Depuis 2017, il est professeur de mathématiques au [Gymnase intercantonal de la Broye](https://www.gyb.ch/) et conseiller en ICT auprès de la [Direction de l'instruction publique, de la culture et du sport](https://www.fr.ch/dics/) du canton de Fribourg.
+<img class="alignright" src="nicolas.jpg" alt="Nicolas Martignoni" width="167" height="226"/>Depuis plusieurs décennies, Nicolas Martignoni est actif dans la conception et le développement des ICT, en particulier pour les écoles du canton de Fribourg en Suisse. Dès 2001, il a été collaborateur du [Centre fri-tic](https://www.fri-tic.ch/), puis professeur en intégration des ICT à la [Haute École pédagogique de Fribourg](https://hepfr.ch/), et de 2008 à 2017, directeur du [Centre fri-tic](https://www.fri-tic.ch/). Depuis 2017, il est professeur de mathématiques au [Gymnase intercantonal de la Broye](https://www.gyb.ch/) et conseiller en ICT auprès de la [Direction de l'instruction publique, de la culture et du sport](https://www.fr.ch/dics/) du canton de Fribourg.
 
 Nicolas Martignoni est le coordinateur de la communauté francophone des utilisateurs de [Moodle](https://moodle.org) depuis 2003. Il est également le traducteur principal de Moodle en français.
 
@@ -39,10 +39,10 @@ Mathez J., Fahrni N., Fischer C., Standtke R., Schwab S., Bouverat M., Martignon
 
 ## Licence<a id="licence"></a>
 
-<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img class="alignright" style="margin: 1px 2px; border-width: 0;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licence Creative Commons" /></a>Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution &#8211; Pas d'Utilisation Commerciale &#8211; Partage dans les Mêmes Conditions 4.0 International][3]. Si vous avez des questions sur l'utilisation commerciale des textes ou des photographies originales de ce site, veuillez me contacter.
+[<img class="alignright" style="margin: 1px 1px; border-width: 0;" src="cc-by-nc-sa.png" alt="Licence Creative Commons" />][3]Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution &#8211; Pas d'Utilisation Commerciale &#8211; Partage dans les Mêmes Conditions 4.0 International][3]. Si vous avez des questions sur l'utilisation commerciale des textes ou des photographies originales de ce site, veuillez me contacter.
 
 Les opinions développées sur ce blog ne sont que celles de leur auteur. Elles n'impliquent en rien le Gymnase intercantonal de la Broye, ni la Direction de l'instruction publique, de la culture et du Sport du canton de Fribourg.
 
- [1]: https://moodlebox.net/
- [2]: http://moodle.org
- [3]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+ [1]: https://moodlebox.net
+ [2]: https://moodle.org
+ [3]: https://creativecommons.org/licenses/by-nc-sa/4.0/
