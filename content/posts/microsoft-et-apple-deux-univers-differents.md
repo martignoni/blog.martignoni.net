@@ -18,7 +18,7 @@ tags:
 ---
 [Marco Arment][1] décrit joliment la différence entre [Microsoft][2] et [Apple][3] :
 
-> Apple's products say, &lsquo;You can't do that because we think it would suck.' Microsoft's products say, &lsquo;We'll let you try to do anything on anything if you really want to, even if it sucks.'
+> Apple's products say, 'You can't do that because we think it would suck.' Microsoft's products say, 'We'll let you try to do anything on anything if you really want to, even if it sucks.'
 
 Traduction libre :
 

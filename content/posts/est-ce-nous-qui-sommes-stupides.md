@@ -27,9 +27,9 @@ Plus récemment, j'ai lu l'aventure du site ReadWriteWeb, dont [un des articles]
 
 Je me suis également souvenu du classique dialogue entendu maintes fois :
 
-> &lsquo; Mais où as-tu enregistré ton fichier ?
+> ' Mais où as-tu enregistré ton fichier ?
   
-> &lsquo; Je l'ai enregistré sous Word !
+> ' Je l'ai enregistré sous Word !
 
 La réaction classique des geeks à ce type de comportement est de dire, de façon moqueuse : « Mais comment peut-on être si stupide ?»
 

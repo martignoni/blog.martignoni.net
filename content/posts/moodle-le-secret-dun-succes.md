@@ -37,7 +37,7 @@ C'est ainsi que j'ai d'ailleurs été recruté pour contribuer à la traduction 
 
 Ainsi, outre ses qualités et compétences dans le développement, Martin Dougiamas possède les qualités permettant de gérer un projet dans le style _bazar_. Je cite toujours Eric Raymond:
 
-> Il existe une autre qualité qui n'est pas normalement associée au développement logiciel, mais je pense qu'elle est aussi importante qu'une bonne intelligence de la conception pour les projets de style bazar &lsquo; et elle est peut-être bien plus importante. Le chef, ou coordinateur, d'un projet dans le style bazar doit être bon en relations humaines et avoir un bon contact.
+> Il existe une autre qualité qui n'est pas normalement associée au développement logiciel, mais je pense qu'elle est aussi importante qu'une bonne intelligence de la conception pour les projets de style bazar ' et elle est peut-être bien plus importante. Le chef, ou coordinateur, d'un projet dans le style bazar doit être bon en relations humaines et avoir un bon contact.
 > 
 > Cela devrait être évident. Pour construire une communauté de développement, il vous faut séduire les gens, les intéresser à ce que vous faites, et les encourager pour les petits bout du travail qu'ils réalisent. De bonnes compétences techniques sont essentielles, mais elles sont loin de suffire. La personnalité que vous projetez compte aussi.
 

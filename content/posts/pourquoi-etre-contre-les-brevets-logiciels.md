@@ -15,7 +15,7 @@ tags:
   - Brevet
 
 ---
-On peut avancer que les brevets logiciels entravent l'innovation, que l'objectif premier d'un brevet &lsquo; stimuler l'invention en protégeant les droits de l'inventeur &lsquo; est totalement perverti, puisque des brevets à large spectre sont accumulés par des entreprises en compétition incapables ou ne voulant pas travailler ensemble aux progrès du marché.
+On peut avancer que les brevets logiciels entravent l'innovation, que l'objectif premier d'un brevet ' stimuler l'invention en protégeant les droits de l'inventeur ' est totalement perverti, puisque des brevets à large spectre sont accumulés par des entreprises en compétition incapables ou ne voulant pas travailler ensemble aux progrès du marché.
 
 On pourrait prétendre que le [logiciel est par nature différent][1] des inventions palpables et d'autres innovations, et qu'il ne nécessite donc pas le même type de protections que les biens physiques. C'est certainement vrai.
 
