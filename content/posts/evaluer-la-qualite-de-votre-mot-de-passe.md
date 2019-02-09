@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2017-09-29T17:36:56+00:00
 url: /2017/09/evaluer-la-qualite-de-votre-mot-de-passe/
-xyz_twap:
-  - 1
 categories:
   - Maths
   - Sécurité

@@ -5,8 +5,6 @@ type: post
 date: 2017-12-05T10:11:42+00:00
 url: /2017/12/facebook-messenger-kids/
 featured_image: /wp-content/uploads/2017/12/loup-e1512473885601.png
-xyz_twap:
-  - 1
 categories:
   - Citoyenneté
   - Sécurité

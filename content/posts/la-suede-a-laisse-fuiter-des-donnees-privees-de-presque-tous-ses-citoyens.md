@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2017-07-25T17:33:30+00:00
 url: /2017/07/la-suede-a-laisse-fuiter-des-donnees-privees-de-presque-tous-ses-citoyens/
-xyz_twap:
-  - 1
 categories:
   - Citoyenneté
   - Politique

@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2017-07-22T15:29:40+00:00
 url: /2017/07/parts-de-marche-des-lms-moodle-domine-presque-partout/
-xyz_twap:
-  - 1
 categories:
   - École, e-learning et ICT
 tags:

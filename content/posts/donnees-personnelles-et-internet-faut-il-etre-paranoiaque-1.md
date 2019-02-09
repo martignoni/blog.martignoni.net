@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2017-07-29T19:08:21+00:00
 url: /2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1/
-xyz_twap:
-  - 1
 categories:
   - Citoyenneté
   - École, e-learning et ICT
