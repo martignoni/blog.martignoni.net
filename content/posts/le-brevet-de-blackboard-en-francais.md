@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2006-08-07T21:22:21+00:00
 url: /2006/08/le-brevet-de-blackboard-en-francais/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://is.gd/eclq2
 categories:

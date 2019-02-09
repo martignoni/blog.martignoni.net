@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2006-05-07T18:31:39+00:00
 url: /2006/05/vlc-media-player-085/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://tinyurl.com/36zn85r
 categories:

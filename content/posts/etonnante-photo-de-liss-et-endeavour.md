@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2009-07-30T06:57:29+00:00
 url: /2009/07/etonnante-photo-de-liss-et-endeavour/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://tinyurl.com/3yfh7fx
 categories:

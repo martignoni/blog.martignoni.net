@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2006-04-15T21:03:13+00:00
 url: /2006/04/moodle-le-secret-dun-succes/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://tinyurl.com/35uayx9
 categories:

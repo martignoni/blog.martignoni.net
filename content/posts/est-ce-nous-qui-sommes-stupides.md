@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2010-03-01T20:03:19+00:00
 url: /2010/03/est-ce-nous-qui-sommes-stupides/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://is.gd/ec0sN
 categories:

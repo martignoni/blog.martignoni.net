@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2009-10-18T11:38:57+00:00
 url: /2009/10/lms-letat-du-marche-aux-usa/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://tinyurl.com/2vjc5yk
 categories:

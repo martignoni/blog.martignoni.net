@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2010-03-21T11:12:33+00:00
 url: /2010/03/pourquoi-etre-contre-les-brevets-logiciels/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://is.gd/ecEOK
 categories:

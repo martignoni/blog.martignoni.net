@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2006-04-23T18:57:30+00:00
 url: /2006/04/neooffice-20-cest-pour-bientot/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://tinyurl.com/3xt2hkj
 categories:

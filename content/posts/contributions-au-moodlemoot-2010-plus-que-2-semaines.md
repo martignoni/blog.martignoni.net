@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2010-03-03T11:12:26+00:00
 url: /2010/03/contributions-au-moodlemoot-2010-plus-que-2-semaines/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://is.gd/ebXOr
 categories:

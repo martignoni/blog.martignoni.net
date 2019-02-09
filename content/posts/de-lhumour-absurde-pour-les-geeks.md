@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2009-02-16T08:32:58+00:00
 url: /2009/02/de-lhumour-absurde-pour-les-geeks/
-aktt_notify_twitter:
-  - no
 yourls_shorturl:
   - http://is.gd/ecjE4
 categories:
