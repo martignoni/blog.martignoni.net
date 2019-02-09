@@ -3,7 +3,7 @@ title: "Données personnelles et internet: faut-il être paranoïaque ? (partie
 author: Nicolas Martignoni
 type: post
 date: 2017-07-30T09:30:21+00:00
-url: /2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2/
+slug: donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2
 categories:
   - Citoyenneté
   - École, e-learning et ICT
@@ -17,9 +17,7 @@ tags:
 ---
 <img class="aligncenter wp-image-1457 size-full" src="https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam.png" alt="" width="1407" height="877" srcset="https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam.png 1407w, https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam-300x187.png 300w, https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam-768x479.png 768w, https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam-1024x638.png 1024w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
-<p style="padding-left: 30px;">
-  <em>[Cet article a été publié en septembre 2015 dans <a href="http://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf">l'édition no 323</a> de la revue <a href="http://www4.ti.ch/decs/ds/pubblicazioni/presentazione/">Scuola Ticinese</a>. Il est publié ici en trois parties : <a href="https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1/">partie 1</a>, <a href="https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3/">partie 3</a>.]</em>
-</p>
+> *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 1][Partie1], [partie 3][Partie3].*
 
 Les motivations des entreprises privées pour collecter nos données personnelles sont différentes, mais tout aussi claires : en un mot, l’argent.
 
@@ -53,10 +51,12 @@ Il est tout à fait inadmissible qu’une activité légale — la protection de
 
 Autre élément à considérer : la surveillance est un marché juteux. Suite au piratage en juillet dernier de l’entreprise italienne Hacking Team, des fuites ont montré que pour certaines entreprises, il n’est pas tabou de faire du profit en vendant des procédés illégaux de surveillance, tels que des logiciels espions, des virus, des chevaux de Troie ou des failles de sécurité découvertes secrètement. Ces entreprises ne sont pas regardantes vis-à-vis de leurs clients, parmi lesquels on trouve des États répressifs, tels le Soudan, l’Ouzbékistan et l’Arabie saoudite, mais aussi des organismes plus honorables, comme la police cantonale zurichoise.[^12]
 
-_[[Vers la 1ère partie de l'article][1] – [Vers la 3e partie de l'article][2]]_
+_[[Vers la 1ère partie de l'article][Partie1] – [Vers la 3e partie de l'article][Partie3]]_
 
-  [1]: https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1/
-  [2]: https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3/
+  [Partie1]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1" >}}
+  [Partie3]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3" >}}
+  [article]: https://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf
+  [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 
   [^1]: « This industry [of information management] is estimated to be worth more than $100 billion and growing at almost 10% a year, roughly twice as fast as the software business as a whole.», <a href="http://www.economist.com/node/15557443">Data, data everywhere, The Economist, 27 février 2010</a>.
   [^2]: James Chu, responsable de la gouvernance internationale chez Alibaba (Chine), <a href="http://download-audio.rts.ch/la-1ere/programmes/le-journal-du-matin/2015/le-journal-du-matin_20150622_standard_1er-developpement_9c5f35b5-c8f7-4359-afe4-3be2ec956155-128k.mp3">Interview diffusée sur la RTS, 22 juin 2015</a>.

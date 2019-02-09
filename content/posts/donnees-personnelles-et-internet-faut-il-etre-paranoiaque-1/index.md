@@ -3,7 +3,7 @@ title: "Données personnelles et internet: faut-il être paranoïaque ? (partie
 author: Nicolas Martignoni
 type: post
 date: 2017-07-29T19:08:21+00:00
-url: /2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1/
+slug: donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1
 categories:
   - Citoyenneté
   - École, e-learning et ICT
@@ -17,9 +17,7 @@ tags:
 ---
 <img class="aligncenter wp-image-1447 size-full" src="https://blog.martignoni.net/wp-content/uploads/2017/07/parano.jpg" alt="Paranoïaque ?" width="1024" height="683" srcset="https://blog.martignoni.net/wp-content/uploads/2017/07/parano.jpg 1024w, https://blog.martignoni.net/wp-content/uploads/2017/07/parano-300x200.jpg 300w, https://blog.martignoni.net/wp-content/uploads/2017/07/parano-768x512.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
-<p style="padding-left: 30px;">
-  <em>[Cet article a été publié en septembre 2015 dans <a href="http://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf">l'édition no 323</a> de la revue <a href="http://www4.ti.ch/decs/ds/pubblicazioni/presentazione/">Scuola Ticinese</a>. Il est publié ici en trois parties : <a href="https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2/">partie 2</a>, <a href="https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3/">partie 3</a>.]</em>
-</p>
+> *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 2][Partie2], [partie 3][Partie3].*
 
 En 2012, un client de Minneapolis du grand distributeur américain Target (le pendant de la Migros ou de la Coop) a souhaité rencontrer le gérant du magasin local. Il lui a demandé des explications concernant sa fille, étudiante au lycée, qui recevait du magasin des publicités et des bons d’achat pour des vêtements de grossesse, des berceaux, des habits de bébé, articles donnant à penser qu’elle était enceinte. Le père de la jeune fille demanda au gérant si le magasin voulait encourager sa fille à tomber enceinte. Stupéfait, le gérant s’excusa en déclarant n’avoir aucune idée de la raison de ces promotions.
 
@@ -68,9 +66,12 @@ L’État ne doit pas être paranoïaque lui non plus. Ce n’est pas parce que 
 
 Bien entendu, les gouvernements doivent avoir accès aux données personnelles des malfaiteurs et le pouvoir d’y accéder ; ce pouvoir doit cependant être strictement encadré et protéger le droit à la vie privée des citoyens honnêtes, ce que la surveillance de masse ne respecte pas.
 
-_[[Vers la 2e partie de l'article][1]]_
+_[[Vers la 2e partie de l'article][Partie2]]_
 
-  [1]: https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2/
+  [Partie2]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2" >}}
+  [Partie3]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3" >}}
+  [article]: https://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf
+  [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 
   [^1]: Samuel Greengard, <a href="https://cacm.acm.org/magazines/2012/8/153815-advertising-gets-personal/abstract">Advertising Gets Personal, Communications of the ACM, August 2012, Vol. 55, No. 8</a>.
   [^2]: <a href="https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html#a3">Loi fédérale sur la protection des données (LPD), art. 3</a>.

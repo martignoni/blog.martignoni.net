@@ -3,7 +3,7 @@ title: "Données personnelles et internet: faut-il être paranoïaque ? (partie
 author: Nicolas Martignoni
 type: post
 date: 2017-07-30T16:09:30+00:00
-url: /2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3/
+slug: donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3
 categories:
   - Citoyenneté
   - École, e-learning et ICT
@@ -15,11 +15,8 @@ tags:
   - Réseaux sociaux
 
 ---
-<img class="aligncenter wp-image-1455 size-full" src="https://blog.martignoni.net/wp-content/uploads/2017/07/surveillance.jpg" alt="Surveillance" width="2048" height="1241" srcset="https://blog.martignoni.net/wp-content/uploads/2017/07/surveillance.jpg 2048w, https://blog.martignoni.net/wp-content/uploads/2017/07/surveillance-300x182.jpg 300w, https://blog.martignoni.net/wp-content/uploads/2017/07/surveillance-768x465.jpg 768w, https://blog.martignoni.net/wp-content/uploads/2017/07/surveillance-1024x621.jpg 1024w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
-<p style="padding-left: 30px;">
-  <em>[Cet article a été publié en septembre 2015 dans <a href="http://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf">l'édition no 323</a> de la revue <a href="http://www4.ti.ch/decs/ds/pubblicazioni/presentazione/">Scuola Ticinese</a>. Il est publié ici en trois parties : <a href="https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1/">partie 1</a>, <a href="https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2/">partie 2</a>.]</em>
-</p>
+> *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 1][Partie1], [partie 2][Partie2].*
 
 #### Ce n’est pas l’analyse et l’exploitation des données qui est problématique, mais le manque d’encadrement
 
@@ -71,9 +68,12 @@ La surveillance et la collecte des données sont en train de transformer le web,
 
 Je ne sais pas comment infléchir la tendance actuelle à négliger notre sphère privée. Mais je sais qu’une prise de conscience est nécessaire, afin d’éviter que notre monde ne se transforme peu à peu en un simple réservoir de consommateurs et de citoyens lambda.
 
-_[[Vers la 2e partie de l'article][1]]_
+_[[Vers la 2e partie de l'article][Partie2]]_
 
-  [1]: https://blog.martignoni.net/2017/07/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2/
+  [Partie1]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1" >}}
+  [Partie2]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2" >}}
+  [article]: https://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf
+  [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 
   [^1]: <a href="https://www.google.org/flutrends/about/"">Google Flu Trends</a>
   [^2]: <a href="http://www.lemonde.fr/technologies/article/2012/05/11/mobiles-facebook-gps-vos-donnees-valent-de-l-or_1699424_651865.html">Facebook, GPS, smartphone : comment concilier collecte de données et vie privée</a>
