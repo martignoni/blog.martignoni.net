@@ -1,12 +1,12 @@
-{{ define "title"}} {{ .Title }} {{ end }} 
+{{ define "title"}} {{ .Title }} {{ end }}
 
 {{ define "style"}}
-<link rel="stylesheet" href="/css/blog-post.css"> 
+<link rel="stylesheet" href="/css/blog-post.css">
 <link rel="stylesheet" href="/css/code-highlighting/dark.css">
-<link rel="stylesheet" href="/css/custom.css"> 
-{{ end }} 
+<link rel="stylesheet" href="/css/custom.css">
+{{ end }}
 
-{{ define "header"}} {{ partial "menu" .}} {{ end }} 
+{{ define "header"}}{{ partial "site-header" .}}{{ end }}
 
 {{ define "main"}}
 
@@ -40,21 +40,21 @@
                         {{ partial "post/byauthor" . }}
                         {{ partial "post/related-content" . }}
                     </div>
-          
+
                     {{ if .Site.DisqusShortname }}
                     <article>
 
                         {{ partial "disqus.html" . }}
                     </article>
                     {{ end }}
-            
+
                 </div>
             </div>
-        
+
         </div>
     </section>
 </div>
 
-{{ end }} 
+{{ end }}
 
 {{ define "footer"}} {{ partial "footer.html" .}} {{ end }}
