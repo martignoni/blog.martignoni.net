@@ -45,10 +45,44 @@
         {{ end }}
       </span>
     </span>
+<!--
     <div class="title is-4">
-      {{ partial "post/related-content" . }}
+      {{/* partial "post/related-content" . */}}
     </div>
+ -->
   </footer> <!-- .entry-footer -->
+  {{ if or .PrevInSection .NextInSection }}
+  <nav class="navigation post-navigation" role="navigation">
+    <h2 class="screen-reader-text">Navigation de l’article</h2>
+    <div class="nav-links">
+      {{if .PrevInSection}}
+      <div class="nav-previous">
+        <a href="{{ .PrevInSection.Permalink }}" rel="prev">
+          <span class="screen-reader-text">Article précédent</span>
+          <span aria-hidden="true" class="nav-subtitle">Précédent</span>
+          <span class="nav-title">
+            <span class="nav-title-icon-wrapper"><i class="fa fa-arrow-left" aria-hidden="true"></i></span>
+            {{ .PrevInSection.Title }}
+          </span>
+        </a>
+      </div>
+      {{ end}}
+      {{ if .NextInSection }}
+      <div class="nav-next">
+        <a href="{{ .NextInSection.Permalink }}" rel="next">
+          <span class="screen-reader-text">Article suivant</span>
+          <span aria-hidden="true" class="nav-subtitle">Suivant</span>
+          <span class="nav-title">
+            <span class="nav-title-icon-wrapper"><i class="fa fa-arrow-right" aria-hidden="true"></i></span>
+            {{ .NextInSection.Title }}
+          </span>
+        </a>
+      </div>
+      {{ end}}
+    </div>
+  </nav>
+  {{ end }}
+
 </article>
 </section>
 

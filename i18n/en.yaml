@@ -39,7 +39,7 @@
 - id: authorBy
   translation: "By"
 - id: recentPosts
-  translation: "Recently updated"
+  translation: "Recent articles"
 - id: aboutUs
   translation: "About"
 - id: newer
