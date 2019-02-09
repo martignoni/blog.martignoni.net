@@ -29,3 +29,5 @@ _<small>Via <a href="http://daringfireball.net/linked/2012/10/31/marco-surface">
  [1]: http://www.marco.org/2012/10/26/an-alternate-universe
  [2]: http://microsoft.com/
  [3]: http://apple.com/
+
+<!--more-->

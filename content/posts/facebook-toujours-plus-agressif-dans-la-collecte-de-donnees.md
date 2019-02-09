@@ -29,3 +29,5 @@ Facebook pourra ainsi contrôler ce que font les utilisateurs sur Internet, quel
 > Instead, Onavo’s VPN allow Facebook to monitor user activity across apps, giving Facebook a big advantage in terms of spotting new trends across the larger mobile ecosystem. For example, Facebook gets an early heads up about apps that are becoming breakout hits; it can tell which are seeing slowing user growth; it sees which apps’ new features appear to be resonating with their users, and much more.
 
  [1]: https://techcrunch.com/2018/02/12/facebook-starts-pushing-its-data-tracking-onavo-vpn-within-its-main-mobile-app/
+
+ <!--more-->

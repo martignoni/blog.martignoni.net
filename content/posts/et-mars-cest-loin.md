@@ -27,3 +27,5 @@ Très bonne réalisation graphique et technique en [HTML][3] et [JavaScript][4].
  [2]: http://fr.wikipedia.org/wiki/Mars_%28plan%C3%A8te%29
  [3]: http://fr.wikipedia.org/wiki/HTML
  [4]: http://fr.wikipedia.org/wiki/JavaScript
+
+<!--more-->

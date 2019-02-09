@@ -24,8 +24,10 @@ Notre monde hyper-connecté et bourré de capteurs fait de nous des producteurs 
 
 On nous dit souvent que ce n'est pas grave, puisque _les données sont anonymisées_, que tout ce qui pourrait nous identifier en est retiré et que l'on peut dormir tranquille.
 
-La réalité, comme le montre une <a href="https://ieeexplore.ieee.org/document/8470173" target="_blank" rel="noopener">publication du journal scientifique IEEE Transactions on Big Data</a>, est hélas différente. Les chercheurs ont montré qu'<a href="http://news.mit.edu/2018/privacy-risks-mobility-data-1207" target="_blank" rel="noopener">il est facile d'associer ces données avec des personnes réelles</a>.
+La réalité, comme le montre une <a href="https://ieeexplore.ieee.org/document/8470173">publication du journal scientifique IEEE Transactions on Big Data</a>, est hélas différente. Les chercheurs ont montré qu'<a href="http://news.mit.edu/2018/privacy-risks-mobility-data-1207">il est facile d'associer ces données avec des personnes réelles</a>.
 
 Voici pourquoi il est important de pouvoir contrôler non seulement nos données, mais également les méta-données que toutes nos activités numériques laissent derrière nous.
 
-En obligeant les collectivités et les entreprises à développer leurs applications en appliquant le principe de <a href="https://termly.io/resources/articles/privacy-by-design-best-practices/" target="_blank" rel="noopener"><strong>Privacy by Design</strong></a>, nous pourrons avoir peut-être une chance de recouvrer la maîtrise de nos données.
+En obligeant les collectivités et les entreprises à développer leurs applications en appliquant le principe de <a href="https://termly.io/resources/articles/privacy-by-design-best-practices/"><strong>Privacy by Design</strong></a>, nous pourrons avoir peut-être une chance de recouvrer la maîtrise de nos données.
+
+<!--more-->

@@ -24,3 +24,5 @@ Les données sont extraites à partir de la [source officielle de l'État de Fri
  [3]: http://php.net/ "PHP"
  [4]: http://www.json.org/ "JSON"
  [5]: http://www.highcharts.com/ "Highcharts"
+
+<!--more-->

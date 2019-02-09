@@ -27,3 +27,5 @@ Non, ce n'est pas une blague, vous avez bien lu : une entreprise possède le dro
  [2]: http://apple.com/ "Apple"
  [3]: http://www.uspto.gov/web/patents/patog/week46/OG/html/1384-2/USD0670713-20121113.html "Brevet D670713"
  [4]: https://blog.martignoni.net/wp-content/uploads/2012/11/Tourner-page.jpg
+
+<!--more-->

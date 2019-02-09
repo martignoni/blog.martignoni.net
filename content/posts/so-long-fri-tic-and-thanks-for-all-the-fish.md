@@ -1,5 +1,5 @@
 ---
-title: So Long fri-tic, and Thanks for All the Fish
+title: "So Long fri-tic, and Thanks for All the Fish"
 author: Nicolas Martignoni
 type: post
 date: 2017-07-31T16:19:34+00:00
@@ -14,7 +14,7 @@ Je quitte le Centre pour une raison des plus banales : les aspirations personnel
 
 Dure à prendre à cause des qualités de mes collaborateurs, ceux d'aujourd'hui bien sûr, mais aussi les anciens, pour lesquels j'ai un profond respect et qui sont devenus au fil du temps plus que des collègues. Merci à eux. C'est grâce à leur compétence et à leur engagement que nous avons pu ensemble accomplir notre travail.
 
-Dès demain, je me consacrerai à mon nouvel emploi : enseignant de mathématiques au [Gymnase intercantonal de la Broye][2] (GYB). En tant qu'expert, je continuerai également à conseiller la [Direction de l'instruction publique, de la culture et du sport][3] du canton de Fribourg dans le domaine de la numérisation de l'école. Vous trouverez également certaines de mes contributions [sur mon blog][4] et sur [Twitter][5].
+Dès demain, je me consacrerai à mon nouvel emploi : enseignant de mathématiques au [Gymnase intercantonal de la Broye][2] (GYB). En tant qu'expert, je continuerai également à conseiller la [Direction de l'instruction publique, de la culture et du sport][3] du canton de Fribourg dans le domaine de la numérisation de l'école. Vous trouverez également certaines de mes contributions [sur ce blog][4] et sur [Twitter][5].
 
 _[So Long, and Thanks for All the Fish][6]!_
 
@@ -24,3 +24,5 @@ _[So Long, and Thanks for All the Fish][6]!_
  [4]: https://blog.martignoni.net/
  [5]: https://twitter.com/nmartignoni
  [6]: https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#So_Long.2C_and_Thanks_for_All_the_Fish
+
+<!--more-->

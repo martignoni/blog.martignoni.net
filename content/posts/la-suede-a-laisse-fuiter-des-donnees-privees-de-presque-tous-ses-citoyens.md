@@ -30,3 +30,5 @@ Un tel épisode devrait faire réfléchir nos élus, qui s'apprêtent dans le [p
 <small><em>Source : </em><a href="http://thehackernews.com/2017/07/sweden-data-breach.html"><em>The Hacker News</em></a></small>
 
  [1]: https://www.bj.admin.ch/bj/fr/home/staat/gesetzgebung/e-id.html
+
+<!--more-->
