@@ -1,7 +1,23 @@
 {{ define "style"}}{{ end }}
 {{ define "title"}}{{ .Title }}{{ end }}
+{{ define "body-classes" }}has-sidebar{{ end }}
 
-{{ define "header"}}{{ partial "site-header" . }}{{ end }}
+{{ define "widgets-column" }}
+<aside id="secondary" class="widget-area" role="complementary" aria-label="side column">
+  <section id="search" class="widget widget_search">
+  </section>
+  <section id="recent-posts" class="widget widget_recent_entries">
+  <h2 class="widget-title">{{ i18n "recentPosts" }}</h2>
+    <ul>
+    {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </section>
+</aside>
+{{ end }}
+
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
 {{ define "featured-image"}}
   {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
   {{ with $img }}
