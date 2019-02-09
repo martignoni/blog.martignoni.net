@@ -3,10 +3,13 @@ title: Perspectives
 #theme:
 #  - hugo-bulma
 languageCode: fr-ch
-# Site language. Available translations in the theme's `/i18n` directory.
+# Set site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage: fr
-
-# Define the number of posts per page
+# Set summary length.
+summaryLength: 250
+# Customize footnote return links.
+footnoteReturnLinkContents: ↩
+# Set number of posts per page.
 paginate: 5
 
 # Enable robots.txt generation
