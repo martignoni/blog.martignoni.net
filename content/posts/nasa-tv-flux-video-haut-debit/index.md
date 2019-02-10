@@ -17,7 +17,7 @@ tags:
 ---
 Pour ceux qui aiment suivre les missions de la [navette spatiale][2] et le travail sur la [station spatiale internationale][3] (ISS), le flux vidéo de la [NASA TV][4] est bien pratique. Malheureusement, la résolution offerte est assez faible.
 
-En cherchant un peu, on trouve un [flux vidéo Yahoo de la NASA TV][5] à 1200 kbit/s. Le plus simple pour en profiter est d'utiliser le logiciel libre [VLC][6] (Fichier > Ouvrir un flux réseau&#8230; et coller le lien).
+En cherchant un peu, on trouve un [flux vidéo Yahoo de la NASA TV][5] à 1200 kbit/s. Le plus simple pour en profiter est d'utiliser le logiciel libre [VLC][6] (Fichier > Ouvrir un flux réseau&hellip; et coller le lien).
 
 Ce n'est pas encore de la HD, mais c'est toujours ça.
 

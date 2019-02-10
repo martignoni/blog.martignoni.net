@@ -17,13 +17,15 @@ Les brevets sont délivrés pour des inventions. La question qui se pose est don
 
 Voici, empruntée à <a href="http://mfeldstein.com/index.php/weblog/permalink/the_blackboard_patent_claims_in_plain_english/">Michael Feldstein</a> et à  <a href="http://tatler.typepad.com/nose/2006/08/how_to_think_ab_3.html">Alfred Essa</a>, une traduction en termes non juridiques du brevet de Blackboard. Est-ce vraiment une invention ? À vous de juger !
 
-### Description du brevet de Blackboard
+#### Description du brevet de Blackboard
 
   * On définit les _utilisateurs_, les _cours_ et les _fichiers de données_
   * L'accès d'un utilisateur à un fichier de données particulier est basé sur son _rôle_ et son appartenance à un cours
   * Les fichiers de données sont stockés sur un serveur et récupéré par un utilisateur sur son ordinateur personnel via un réseau
 
 Génial, personne n'y avait encore pensé ! Passons à la suite.
+
+<!--more-->
 
   * Un fichier de données peut être un fichier d'annonce, un fichier d'information de cours, un fichier d'information administrative, un fichier de devoir ou une boîte de dépôt (boîte à lettres)
   * Un fichier de données peut être transmis de façon synchrone ou asynchrone

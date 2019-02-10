@@ -19,3 +19,5 @@ Voir [cet article][1] décrivant 7 applications e-learning libres et très répa
 
  [1]: http://www.webresourcesdepot.com/7-widely-used-and-open-source-e-learning-applications
  [2]: http://www.webresourcesdepot.com/
+
+<!--more-->

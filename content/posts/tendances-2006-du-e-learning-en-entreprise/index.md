@@ -12,8 +12,10 @@ tags:
   - Entreprise
 
 ---
-À lire, le <a href="http://www.emob.fr/dotclear/index.php?2006/08/14/531-barometre-du-e-learning-2006-les-tendances-clefs">bref résumé du baromètre <em>5ème Baromètre du elearning</em></a>, enquête effectuée en France entre mars et avril 2006.
+À lire, le <a href="http://www.emob.fr/dotclear/index.php?2006/08/14/531-barometre-du-e-learning-2006-les-tendances-clefs">bref résumé du baromètre _5ème Baromètre du elearning_</a>, enquête effectuée en France entre mars et avril 2006.
 
 Le rapport peut être <a href="http://www.boutique.ccip.fr/Barometre_CCIP_2006_du_e_Learning-p-1025-t-4277.html">acheté ici pour 10 euros</a>.
 
 _<small>Source : <a href="http://www.emob.fr/dotclear/index.php?Coin-elearning">Le coin du e-learning</a></small>_
+
+<!--more-->

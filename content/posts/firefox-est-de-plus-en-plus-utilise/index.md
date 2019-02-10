@@ -17,16 +17,12 @@ Une <a href="http://www.xitimonitor.com/etudes/equipement14.asp">étude effectu�
 
 > Le trio de tête, la Slovénie, la Finlande et la Croatie, se situe au-dessus des 30% d'utilisation de Firefox (avec respectivement 35,8%, 33,1% et 31,3%) et affiche ainsi une nette avance par rapport à la moyenne européenne. Le taux d'utilisation de Firefox en France (17,4%) demeure encore inférieur à celui de l'Europe : elle arrive en 16ème position derrière l'Autriche (19,3%).
 
-La Suisse n'est pas mieux lotie : elle se classe au 18e rang, avec 16.49% d'utilisation de Firefox. En revanche, l'Allemagne, avec près de 30%, se classe au 5e rang (voir infographie).
+La Suisse n'est pas mieux lotie : elle se classe au 18e rang, avec 16.49% d'utilisation de Firefox. En revanche, l'Allemagne, avec près de 30%, se classe au 5e rang (voir infographie).
 
-&nbsp;
+Au niveau mondial, l'Europe conserve la 1ère place, avec une moyenne de 19.4%, juste devant l'Océanie.
 
-<p style="text-align: left;">
-  Au niveau mondial, l'Europe conserve la 1ère place, avec une moyenne de 19.4%, juste devant l'Océanie.
-</p>
-
-<p style="text-align: left;">
-  <em><small>Source : <a href="http://www.xitimonitor.com/">XitiMonitor</a></small></em>
-</p>
+<em><small>Source : <a href="http://www.xitimonitor.com/">XitiMonitor</a></small></em>
 
  [1]: http://www.mozilla-europe.org/fr/products/firefox/
+
+<!--more-->

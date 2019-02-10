@@ -25,3 +25,5 @@ Cette décision, en lien avec l'affaire du brevet sur le e-learning, renforce l'
  [2]: http://www.angellearning.com/ "ANGEL Learning"
  [3]: https://community.desire2learn.com/d2l/lms/blog/view_userentry.d2l?ou=1796&ownerId=6961&entryId=296&ec=1&iu=1&sp=&gb=usr
  [4]: http://chronicle.com/wiredcampus/index.php?id=3764
+
+<!--more-->

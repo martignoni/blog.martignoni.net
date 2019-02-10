@@ -21,3 +21,5 @@ tags:
 Avec plus de 35% d'utilisation, ce sont la Finlande et la Slovénie qui mènent le classement. En Allemagne, l'utilisatation de firefox atteint presque 30%, alors qu'en Suisse et en France, elle n'est que de moins de 18 %.
 
 La progression est également sensible sur les autres continents.
+
+<!--more-->

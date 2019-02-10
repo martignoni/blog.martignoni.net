@@ -11,7 +11,7 @@ tags:
   - Énergie
 
 ---
-Le visionnement de la <a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_fr_new/files/index.html">conférence de 2008</a> (<a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_uk_new/files/index.html">english version</a>) sur la « Contrainte carbone » de [Jean-Marc Jancovici][1], ainsi que de son cours « <a href="http://www.ensmp.fr/ingenieurcivil/SitesIC/Balado/Climat_som.html">Énergie et changement climatique</a> » donné à l'École Nationale Supérieure des Mines de Paris en mai et juin 2008 est à la fois ô combien ! éclairante et inquiétante.
+Le visionnement de la <a href="https://jancovici.com/videos/16h-du-big-bang-ou-presque-a-nos-jours/">conférence de 2008</a> (<a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_uk_new/files/index.html">english version</a>) sur la « Contrainte carbone » de [Jean-Marc Jancovici][1], ainsi que de son cours « <a href="http://www.ensmp.fr/ingenieurcivil/SitesIC/Balado/Climat_som.html">Énergie et changement climatique</a> » donné à l'École Nationale Supérieure des Mines de Paris en mai et juin 2008 est à la fois ô combien ! éclairante et inquiétante.
 
 Ces interventions nous démontrent, chiffres à l'appui, quelques vérités à contre-courant, par exemple :
 
@@ -23,12 +23,12 @@ Ces interventions nous démontrent, chiffres à l'appui, quelques vérités à c
 
 Sceptique, j'ai voulu vérifier cette dernière information pour la Suisse. Le graphique ci-dessous montre que ce constat est également vrai. Le prix de l'essence a bel et bien chuté entre 1970 (les [statistiques disponibles][5] ne remontent pas plus loin) et 2008, si l'on tient compte du renchérissement et des salaires réels (pouvoir d'achat). Pour ce qui est du fioul domestique, c'est également le cas, malgré la forte augmentation en 2008 du prix de litre à la pompe.
 
-<img class="alignnone size-full wp-image-229" title="Prix de l'essence et du fioul domestique" src="https://blog.martignoni.net/wp-content/uploads/2009/08/ComparaisonPrixEssence.png" alt="Prix de l'essence et du fioul domestique" width="600" height="413" srcset="https://blog.martignoni.net/wp-content/uploads/2009/08/ComparaisonPrixEssence.png 600w, https://blog.martignoni.net/wp-content/uploads/2009/08/ComparaisonPrixEssence-300x206.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
-
 Voilà de quoi tordre le cou aux idées reçues !
 
- [1]: http://www.manicore.com/
- [2]: http://fr.wikipedia.org/wiki/Baril
- [3]: http://www.manicore.com/documentation/pic.html
- [4]: http://fr.wikipedia.org/wiki/%C3%89quation_de_Kaya
- [5]: http://www.bfs.admin.ch/bfs/portal/fr/index/themen/05/01/keyw.html
+ [1]: https://jancovici.com
+ [2]: https://fr.wikipedia.org/wiki/Baril
+ [3]: https://jancovici.com/transition-energetique/petrole/a-quand-le-pic-de-production-mondial-pour-le-petrole/
+ [4]: https://fr.wikipedia.org/wiki/%C3%89quation_de_Kaya
+ [5]: https://www.bfs.admin.ch/bfs/fr/home/statistiques/prix/indice-prix-consommation/resultats-ipc.html
+
+<!--more-->

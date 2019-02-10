@@ -17,3 +17,5 @@ Le deuxième MoodleMoot francophone aura lieu comme l'an passé à Brest. J'y se
 > Le CIME (Centre d'Ingénierie Multimédia pour l'Enseignement de L'ENST Bretagne ) organise le second MoodleMoot en France les 7 et 8 juin 2006 à L'ENST Bretagne sur Brest : <a title="ENST Bretagne" href="http://www.enst-bretagne.fr/">http://www.enst-bretagne.fr/</a>.
 
 Toutes les informations à ce sujet sont disponibles ici : <a title="MoodleMoot" href="http://conferences.enst-bretagne.fr/moodlemoot/">http://conferences.enst-bretagne.fr/moodlemoot/</a>
+
+<!--more-->

@@ -29,3 +29,5 @@ Bonne lecture !
  [3]: http://www.circacfd.com/?p=1617
  [4]: http://albumoftheday.com/facebook/
  [5]: http://www.wired.com/techbiz/it/news/2007/01/72545
+
+<!--more-->

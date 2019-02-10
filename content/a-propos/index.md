@@ -46,3 +46,5 @@ Les opinions développées sur ce blog ne sont que celles de leur auteur. Elles 
  [1]: https://moodlebox.net
  [2]: https://moodle.org
  [3]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+<!--more-->

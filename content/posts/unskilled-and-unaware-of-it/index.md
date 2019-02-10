@@ -11,7 +11,7 @@ tags:
   - Formation
 
 ---
-> Les gens tendent à surestimer leurs aptitudes dans de nombreux domaines sociaux et intellectuels. [&#8230;] Non seulement ces personnes arrivent à de mauvaises conclusions et font des choix malheureux, mais leur incompétence leur soutrait en outre la capacité cognitive de s'en rendre compte.
+> Les gens tendent à surestimer leurs aptitudes dans de nombreux domaines sociaux et intellectuels. [&hellip;] Non seulement ces personnes arrivent à de mauvaises conclusions et font des choix malheureux, mais leur incompétence leur soutrait en outre la capacité cognitive de s'en rendre compte.
 
 Cette citation est tirée de l'article _Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments_, publié par le **Journal of Personality and Social Psychology**.
 
@@ -20,3 +20,5 @@ Cette article tend à montrer que l'incompétence n'est pas seulement la cause d
 Voir le [PDF de l'article][1].
 
  [1]: https://www.avaresearch.com/files/UnskilledAndUnawareOfIt.pdf
+
+<!--more-->

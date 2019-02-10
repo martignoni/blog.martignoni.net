@@ -15,7 +15,7 @@ tags:
   - Open Source
 
 ---
-<img class="alignright size-full wp-image-293" title="hotpot" src="https://blog.martignoni.net/wp-content/uploads/2009/09/hotpot.gif" alt="hotpot" width="323" height="123" srcset="https://blog.martignoni.net/wp-content/uploads/2009/09/hotpot.gif 323w, https://blog.martignoni.net/wp-content/uploads/2009/09/hotpot-300x114.gif 300w" sizes="(max-width: 323px) 100vw, 323px" />La société Half-Baked Software annonce sur [son site web][1] que le logiciel [Hot Potatoes][2], dont elle vendant les licences, est désormais gratuit et qu'elle ne fournit plus d'assistance à son sujet. Hot Potatoes est très utilisé dans les milieux de l'éducation pour fabriquer des tests (quiz) accessibles sur le web. De tels tests peuvent être intégrés à Moodle.
+<img class="alignright" title="hotpot" src="hotpot.gif" alt="hotpot" width="323" height="123" srcset="hotpot.gif 323w, hotpot-300x114.gif 300w" sizes="(max-width: 323px) 100vw, 323px" />La société Half-Baked Software annonce sur [son site web][1] que le logiciel [Hot Potatoes][2], dont elle vendant les licences, est désormais gratuit et qu'elle ne fournit plus d'assistance à son sujet. Hot Potatoes est très utilisé dans les milieux de l'éducation pour fabriquer des tests (quiz) accessibles sur le web. De tels tests peuvent être intégrés à Moodle.
 
 Le logiciel en version complète est téléchargeable sur le site web de Hot Potatoes, hébergé à l'[Université de Victoria][3], au Canada.
 
@@ -24,3 +24,5 @@ Malheureusement, aucune information n'est disponible sur la licence sous laquell
  [1]: http://www.halfbakedsoftware.com/
  [2]: http://hotpot.uvic.ca/
  [3]: http://hcmc.uvic.ca/
+
+<!--more-->

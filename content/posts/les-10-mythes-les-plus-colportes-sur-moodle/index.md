@@ -11,6 +11,8 @@ tags:
   - Moodle
 
 ---
-Une nouvelle page a été ajoutée à la documentation en français de Moodle. Ce document décrit les <a title="10 mythes" href="http://docs.moodle.org/fr/Mythes_sur_Moodle">10 mythes les plus colportés sur Moodle</a>.
+Une nouvelle page a été ajoutée à la documentation en français de Moodle. Ce document décrit les <a title="10 mythes" href="https://docs.moodle.org/19/fr/Mythes_sur_Moodle">10 mythes les plus colportés sur Moodle</a>.
 
 Il comporte d'intéressants éléments sur la comparaison entre logiciels libres et logiciels commerciaux.
+
+<!--more-->

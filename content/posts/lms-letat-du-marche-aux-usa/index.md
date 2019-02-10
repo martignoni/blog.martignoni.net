@@ -19,9 +19,9 @@ La [California State University][1], en partenariat avec l'entreprise [Delta Ini
 
 Ces informations, qui ne tiennent compte que des USA, sont résumées dans l'illustration ci-dessous.
 
-<img class="size-full wp-image-322   alignnone" title="LMS-market" src="https://blog.martignoni.net/wp-content/uploads/2009/10/LMS-market.png" alt="Le marché des solutions LMS aux USA" width="595" height="459" />
-
 Voici quelques constatations intéressantes tirées de ce graphique.
+
+<!--more-->
 
   * Il n'y a que cinq solutions qui se partagent le marché, Blackboard (avec Angel récemment acquis), Moodle, Desire2Learn, Sakai et eCollege, classés par part de marché décroissante. Blackboard domine largement le marché américain (avec ANGEL, près de 73% de part de marché des institutions ayant adopté une plateforme officielle). Deux des cinq solutions sont des logiciels libres : Moodle et Sakai. La part de marché de Moodle est passée de 5% à près de 12% en 3 ans !
   * Tous ces logiciels, y compris ceux qui ont été mangés par Blackboard (à savoir Prometheus, WebCT et ANGEL Learning) sont issus d'un projet universitaire. Pour mémoire, Moodle provient d'une recherche à l'Université Curtin de Perth.
@@ -31,10 +31,10 @@ Voici quelques constatations intéressantes tirées de ce graphique.
 
 Pour plus d'informations, voir le <a href="https://deltainitiative.webex.com/deltainitiative/ldr.php?AT=pb&SP=MC&rID=31734537&rKey=6472ec7dd2df31e2">webinar enregistré</a> et le <a href="http://www.deltainitiative.com/picts/pdf/deltainitiativelmswebinar09-2.pdf">PDF de la présentation</a>.
 
-_<small>Source : <a href="http://mfeldstein.com/the-state-of-the-lms-an-institutional-perspective/">eLiterate</a> et <a href="http://tatler.typepad.com/nose/2009/09/learning-management-systems-what-are-the-strategic-trends.html">Information Technology in Higher Education</a></small>_
+_<small>Source : <a href="https://mfeldstein.com/the-state-of-the-lms-an-institutional-perspective/">eLiterate</a> et <a href="https://tatler.typepad.com/nose/2009/09/learning-management-systems-what-are-the-strategic-trends.html">Information Technology in Higher Education</a></small>_
 
- [1]: http://www.calstate.edu/
+ [1]: https://www.calstate.edu/
  [2]: http://www.deltainitiative.com/
- [3]: http://fr.wikipedia.org/wiki/Conf%C3%A9rence_en_ligne
+ [3]: https://fr.wikipedia.org/wiki/Conf%C3%A9rence_en_ligne
  [4]: https://deltainitiative.webex.com/deltainitiative/ldr.php?AT=pb&SP=MC&rID=31734537&rKey=6472ec7dd2df31e2
  [5]: https://blog.martignoni.net/2009/06/blackboard-achete-angel/

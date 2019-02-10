@@ -18,6 +18,8 @@ Le congrès annuel 2010 de la [communauté francophone][1] des utilisateurs de [
 
 L'événement aura lieu du 28 au 30 juin 2010.
 
- [1]: http://moodle.org/course/view.php?id=20
- [2]: http://moodle.org/
- [3]: http://www.utt.fr/
+ [1]: https://moodle.org/course/view.php?id=20
+ [2]: https://moodle.org/
+ [3]: https://www.utt.fr/
+
+<!--more-->

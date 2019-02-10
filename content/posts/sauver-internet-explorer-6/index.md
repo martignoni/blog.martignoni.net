@@ -8,7 +8,7 @@ categories:
   - École, e-learning et ICT
 
 ---
-Le site [Save IE6][1], construit comme une farce de 1er avril, est très divertissant. En plus, son humour décalé fournit une jolie [critique de ses « fonctionnalités.»][2]
+Le site [Save IE6][1], construit comme une farce de 1er avril, est très divertissant. En plus, son humour décalé fournit une jolie [critique de ses « fonctionnalités.»][2]
 
 Voyez par exemple une des ses qualités :
 
@@ -16,3 +16,5 @@ Voyez par exemple une des ses qualités :
 
  [1]: http://www.saveie6.com/
  [2]: http://www.saveie6.com/compare.php
+
+<!--more-->

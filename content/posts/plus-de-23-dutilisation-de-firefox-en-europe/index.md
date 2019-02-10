@@ -19,3 +19,5 @@ L'<a href="http://www.xitimonitor.com/fr-FR/Technique/Firefox_Novembre_2006/inde
 En Suisse, de septembre à novembre 2006, la part de marché de Firefox est passée de 18% à 19.7%. Une progression du même ordre de grandeur a eu lieu dans les autres partie du monde, à part l'Amérique du Sud.
 
 > Enregistrant la progression la plus marquée (+ 2 points), l'Océanie est désormais le premier continent en taux d'utilisation de Firefox devant l'Europe. Firefox gagne également du terrain en Amérique du Nord, Afrique et Asie (entre 1 et 1.9 point), et de manière nettement moins prononcée en Amérique du Sud (+0.2 point).
+
+<!--more-->

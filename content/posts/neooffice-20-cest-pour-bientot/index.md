@@ -18,3 +18,5 @@ Ce que l'on gagne en convivialité est malheureusement perdu en rapidité: le pr
 La version 2.0, dont les versions de test seront disponibles contre paiement (à moins que vous ne les compiliez vous-même), se base sur les toutes dernières évolutions du code de OpenOffice.org.
 
 En attendant cette version, la version <a href="http://www.planamesa.com/neojava/fr/download.php">NeoOffice 1.2.2</a> est disponible en téléchargement. Elle comporte toutes les fonctionnalités de OpenOffice.org 1.1.5. Cette version ne fonctionne pas encore sur les Mac à base de processeur Intel.
+
+<!--more-->

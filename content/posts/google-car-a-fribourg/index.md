@@ -20,17 +20,15 @@ Ces prises de vues sont autorisées, mais le [préposé suisse à la protection 
 
 Les Google cars sont des véhicules équipés de caméras à 360° permettant de prendre des photos destinées à alimenter le programme [Street View][7] de [GoogleMaps][8]. La photo ci-dessous a été prise dans la région de Zürich.
 
-<p style="text-align: center;">
-  <img class="size-full wp-image-273 aligncenter" title="Google car" src="https://blog.martignoni.net/wp-content/uploads/2009/08/Google_Street_View_car.jpg" alt="Google car" width="401" height="498" srcset="https://blog.martignoni.net/wp-content/uploads/2009/08/Google_Street_View_car.jpg 401w, https://blog.martignoni.net/wp-content/uploads/2009/08/Google_Street_View_car-241x300.jpg 241w" sizes="(max-width: 401px) 100vw, 401px" />
-</p>
+_<small>Source de la photo : <a href="https://en.wikipedia.org/wiki/File:Google_Street_View_car_Switzerland.jpg">Wikimedia Commons</a></small>_
 
-_<small>Source de la photo : <a href="http://en.wikipedia.org/wiki/File:Google_Street_View_car_Switzerland.jpg">Wikimedia Commons</a></small>_
+ [1]: https://www.laliberte.ch/
+ [2]: https://duckduckgo.com/?q=Google+maps+car&iax=images&ia=images#
+ [3]: https://www.ville-fribourg.ch
+ [4]: https://www.google.com/maps/place/46°47'42.6%22N+7°07'38.6%22E/@46.795152,7.125191,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d46.795152!4d7.127385?hl=fr
+ [5]: https://www.villars-sur-glane.ch/
+ [6]: https://www.edoeb.admin.ch/edoeb/fr/home.html
+ [7]: https://maps.google.com/help/maps/streetview/
+ [8]: https://maps.google.com/
 
- [1]: http://www.laliberte.ch/
- [2]: http://images.google.ch/images?q=Google+cars
- [3]: http://www.ville-fribourg.ch
- [4]: http://maps.google.com/maps?f=q&source=s_q&hl=fr&q=&vps=1&jsv=171b&sll=46.789306,7.130064&sspn=0.010314,0.018969
- [5]: http://www.villars-sur-glane.ch/
- [6]: http://www.edoeb.admin.ch/index.html?lang=fr
- [7]: http://maps.google.com/help/maps/streetview/
- [8]: http://maps.google.com/
+<!--more-->

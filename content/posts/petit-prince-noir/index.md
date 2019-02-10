@@ -16,3 +16,5 @@ tags:
 <img class="alignnone" title="Astéroïde" src="http://imgs.xkcd.com/comics/asteroid.png" alt="Astéroïde" width="644" height="179" />
 
 _<small>Source : <a href="http://xkcd.com/618/">XKCD</a></small>_
+
+<!--more-->

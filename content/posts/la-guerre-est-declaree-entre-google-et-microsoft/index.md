@@ -18,7 +18,7 @@ tags:
 ---
 Ça a commencé ce mercredi 3 août, par la publication d'[un article de David Drummond][2], Senior Vice President and Chief Legal Officer de [Google][3], décrivant ce qui d'après lui est
 
-> (&#8230;) une campagne hostile contre Android financée à l'aide de brevets douteux et organisée par Microsoft, Oracle, Apple et d'autres entreprises.
+> (&hellip;) une campagne hostile contre Android financée à l'aide de brevets douteux et organisée par Microsoft, Oracle, Apple et d'autres entreprises.
 
 David Drummond y déclarait que l'achat des brevets de Nortel et Novell par un groupe d'entreprises et destiné à intenter des procès contre la plateforme [Android][4] est anti-concurrentielle (« anti-competitive »). Ce qu'il a oublié de dire, c'est que ce groupe d'entreprises a offert à Google de participer à l'achat commun, et que Google a refusé, mais a essayé d'acheter ces mêmes brevets à lui tout seul, vraisemblablement pour les utiliser contre quelqu'un d'autre (pourquoi sinon).
 

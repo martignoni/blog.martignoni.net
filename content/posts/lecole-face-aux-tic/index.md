@@ -15,8 +15,10 @@ En juin 2006, une <a href="http://www.clemi.org/international/mediappro/Mediappr
 
 Une des conclusions les plus marquantes de cette étude est la grande disparité d'utilisation des TIC entre l'école et la maison: les jeunes utilisent massivement les TIC dans la vie de tous les jours, alors qu'à l'école, les usages en sont encore très limités.
 
-> [&#8230;] C'est un goufre qui s'ouvre. Toutes les fonctions importantes pour les jeunes existent hors de l'école, comme l'essentiel de leurs apprentissages (surtout de l'auto-apprentissage et de l'apprentissage entre pairs). Dans le même temps, les écoles restreignent l'accès, interdisent certaines pratiques sans aucune nécessité, ne parviennent pas à comprendre la fonction communicationnelle d'Internet, et, pire que tout, échouent à transmettre les compétences de recherche documentaire, d'évaluation des sites, de recherche et de production créative qui devraient être les plus importantes pour elles.
-> 
-> On note partout clairement que les jeunes ne peuvent pas acquérir les savoir-faire nécessaires dans de bonnes conditions. [&#8230;] En outre, il est évident dans tous les pays qu'ils surestiment leur propre capacité à évaluer. Ce sont des types de connaissances et de compétences critiques que seule l'école peut transmettre.
+> [&hellip;] C'est un goufre qui s'ouvre. Toutes les fonctions importantes pour les jeunes existent hors de l'école, comme l'essentiel de leurs apprentissages (surtout de l'auto-apprentissage et de l'apprentissage entre pairs). Dans le même temps, les écoles restreignent l'accès, interdisent certaines pratiques sans aucune nécessité, ne parviennent pas à comprendre la fonction communicationnelle d'Internet, et, pire que tout, échouent à transmettre les compétences de recherche documentaire, d'évaluation des sites, de recherche et de production créative qui devraient être les plus importantes pour elles.
+>
+> On note partout clairement que les jeunes ne peuvent pas acquérir les savoir-faire nécessaires dans de bonnes conditions. [&hellip;] En outre, il est évident dans tous les pays qu'ils surestiment leur propre capacité à évaluer. Ce sont des types de connaissances et de compétences critiques que seule l'école peut transmettre.
 
 Ces conclusions indiquent à quel point un effort de formation du corps enseignant est nécessaire dans le domaine de l'intégration des TIC et de son utilisation par les élèves et étudiants, notamment au degré secondaire 2.
+
+<!--more-->

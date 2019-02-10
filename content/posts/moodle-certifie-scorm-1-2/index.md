@@ -15,7 +15,9 @@ tags:
 ---
 Moodle vient de recevoir la certification [SCORM 1.2][1], comme l'indique le logo sur la [page d'accueil][2] du site web.
 
-_<small>Source : <a href="http://moodle.org/blog/index.php?postid=5546">Helen Foster</a></small>_
+_<small>Source : <a href="https://moodle.org/blog/index.php?postid=5546">Helen Foster</a></small>_
 
  [1]: http://www.adlnet.org/Technologies/scorm/default.aspx
- [2]: http://moodle.org/
+ [2]: https://moodle.org/
+
+ <!--more-->

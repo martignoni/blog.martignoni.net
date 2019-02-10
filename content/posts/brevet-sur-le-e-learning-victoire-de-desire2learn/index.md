@@ -18,7 +18,7 @@ tags:
   - Sakai
 
 ---
-[<img class="size-full wp-image-192 alignright" title="Desire2Learn" src="https://blog.martignoni.net/wp-content/uploads/2009/07/Desire2Learn.gif" alt="Logo de Desire2Learn" width="212" height="58" />][1]
+[<img class="size-full wp-image-192 alignright" title="Desire2Learn" src="Desire2Learn.gif" alt="Logo de Desire2Learn" width="212" height="58" />][1]
 
 Le blog de [Desire2Learn][1] a informé hier du [l'invalidation des 38 premières revendications][2] du brevet de Blackboard sur le e-learning. Rappelons que dans un premier temps, les 35 premières revendications avaient été [déjà jugées irrecevables][3]. Restent encore les revendications 39 à 44.
 
@@ -34,11 +34,13 @@ Comme souvent, les seuls bénéficiaires de ce type de conflit sont les cabinets
 
 Voir également à ce sujet <a href="http://mfeldstein.com/">e-Literate</a> et [PatentlyO][8].
 
- [1]: http://www.desire2learn.com/
+ [1]: https://www.desire2learn.com/
  [2]: https://community.desire2learn.com/d2l/lms/blog/view_userentry.d2l?ou=1796&ownerId=6961&entryId=303&ec=1&iu=1&sp=&gb=usr
- [3]: https://blog.martignoni.net/2007/08/le-brevet-e-learning-de-blackboard-a-du-plomb-dans-laile/
- [4]: http://moodle.org/
- [5]: http://sakaiproject.org/
+ [3]: {{< relref "le-brevet-e-learning-de-blackboard-a-du-plomb-dans-laile" >}}
+ [4]: https://moodle.org/
+ [5]: https://sakaiproject.org/
  [6]: http://msnmoney.brand.edgar-online.com/EFX_dll/EDGARpro.dll?FetchFilingHTML1?ID=6713461&SessionID=TP-HWoPVNXZHGG9
  [7]: http://msnmoney.brand.edgar-online.com/EFX_dll/EDGARpro.dll?FetchFilingHTML1?ID=6440333&SessionID=lw9HWZDBP1vBCN9#W72857E10VK_HTM_110
  [8]: http://www.patentlyo.com/patent/2009/07/blackboard-v-desire2learn-fed-cir-2009-blackboards-patent-covers-an-internet-based-educational-support-system-and-metho.html
+
+<!--more-->

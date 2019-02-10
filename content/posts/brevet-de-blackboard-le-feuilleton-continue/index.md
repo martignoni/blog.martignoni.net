@@ -26,3 +26,5 @@ P.S. Oui, c'est vrai, ce blog était inactif depuis longtemps. C'est promis, j'e
 
  [1]: http://www.desire2learn.com/patent/USPTO%20Non-Final%20Action.pdf
  [2]: http://www.desire2learn.com/patent/Bb_v_PTO/Blackboard%20v.%20PTO.pdf
+
+<!--more-->

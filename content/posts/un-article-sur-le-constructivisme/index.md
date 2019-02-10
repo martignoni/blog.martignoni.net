@@ -13,3 +13,5 @@ tags:
 
 ---
 Un <a href="http://dougiamas.com/writing/constructivism.html">intéressant article sur le constructivisme</a>, de <a href="http://dougiamas.com/">Martin Dougiamas</a>, concepteur et développeur de <a href="http://moodle.org/">Moodle</a>, datant de novembre 98 (en anglais).
+
+<!--more-->

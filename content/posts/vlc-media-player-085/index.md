@@ -19,3 +19,5 @@ La flexibilité et l'universalité de cet outil multi plateforme en font un logi
 Le développement de cet étonnant logiciel a commencé par une projet d'étudiant à l'<a href="http://www.ecp.fr/">École Centrale de Paris</a>. C'est maintenant un projet d'envergure mondiale, auquel contribuent des développeurs de 20 pays.
 
 La <a href="http://developers.videolan.org/vlc/NEWS">version 0.8.5</a> propose de nombreuses améliorations. Elle introduit en particulier le support natif des nouveaux ordinateurs Macintosh à processeur Intel.
+
+<!--more-->

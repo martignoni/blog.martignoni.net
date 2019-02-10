@@ -24,4 +24,6 @@ L'auteur commente l'[utilisation systématique][4] du [FUD][5] comme technique d
  [2]: http://mfeldstein.com/
  [3]: http://oscmoodlereport.files.wordpress.com/2009/08/osc_full_report.pdf
  [4]: http://oscmoodlereport.files.wordpress.com/2009/10/ncccs-and-blackboard-report-october-2009.pdf
- [5]: http://fr.wikipedia.org/wiki/FUD
+ [5]: https://fr.wikipedia.org/wiki/FUD
+
+<!--more-->
