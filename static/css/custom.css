@@ -48,6 +48,10 @@ blockquote > p {
   text-indent: -1.5em;
 }
 
+#primary ol {
+  margin-left: 1.5em;
+  padding-left: 0.5em;}
+
 #primary ul li:before {
   content: "–";
   display: block;
