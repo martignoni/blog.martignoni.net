@@ -33,3 +33,22 @@ params:
 
 permalinks:
   posts: /:year/:month/:slug/
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: true
+    disableInlineCSS: true
+  vimeo:
+    disable: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
