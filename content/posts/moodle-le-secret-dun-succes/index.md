@@ -13,13 +13,13 @@ tags:
   - Open Source
 
 ---
-En relisant le célèbre essai d'<a href="http://www.ccil.org/~esr/" target="_blank">Eric Raymond</a> « <a href="http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar.html" target="_blank">La Cathédrale et le Bazar</a> », je n'ai pu m&#8217;empêcher de me demander pourquoi <a title="Moodle" href="http://moodle.org/" target="_blank">Moodle</a> a tant de succès, tant parmi les enseignants que parmi les développeurs.
+En relisant le célèbre essai d'<a href="http://www.ccil.org/~esr/">Eric Raymond</a> « <a href="http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar.html">La Cathédrale et le Bazar</a> », je n'ai pu m'empêcher de me demander pourquoi <a title="Moodle" href="http://moodle.org/">Moodle</a> a tant de succès, tant parmi les enseignants que parmi les développeurs.
 
 Moodle illustre de façon frappante la méthode de développement du style _bazar_. En outre, son développeur principal, Martin Dougiamas, applique quelques-unes des règles citées par Raymond dans son article.
 
 Par exemple, il utilise de façon très judicieuse la communauté des utilisateurs de Moodle, comme l'énonce la règle
 
-> 6. Traiter vos utilisateurs en tant que co-développeurs est le chemin le moins semé d&#8217;embuches vers une amélioration rapide du code et un débogage efficace.
+> 6. Traiter vos utilisateurs en tant que co-développeurs est le chemin le moins semé d'embuches vers une amélioration rapide du code et un débogage efficace.
 
 De même, ce que Raymond appelle _la loi de Linus_ est appliqué dans le développement de Moodle :
 

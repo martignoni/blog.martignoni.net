@@ -22,3 +22,5 @@ Quelques [copies d'écran sont disponibles][2] pour vous donner l'eau à la bouc
 
  [1]: http://www.stellarium.org/
  [2]: http://www.stellarium.org/screenshots.html
+
+<!--more-->

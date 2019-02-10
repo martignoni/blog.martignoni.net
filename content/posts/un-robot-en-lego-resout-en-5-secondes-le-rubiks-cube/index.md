@@ -16,7 +16,11 @@ tags:
   - Vidéo
 
 ---
-<div class="video-container">
-</div>
 
-_<small>Via <a title="DaringFireball" href="http://daringfireball.net/linked/2012/03/02/rubiks-lego">DaringFireball</a></small>_
+{{< youtube "_d0LfkIut2M" >}}
+
+<small>_Via [DaringFireball][1]._</small>
+
+  [1]: https://daringfireball.net/linked/2012/03/02/rubiks-lego
+
+<!--more-->

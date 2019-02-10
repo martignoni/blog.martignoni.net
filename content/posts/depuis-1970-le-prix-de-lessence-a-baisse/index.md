@@ -11,7 +11,7 @@ tags:
   - Énergie
 
 ---
-Le visionnement de la <a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_fr_new/files/index.html" target="_blank">conférence de 2008</a> (<a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_uk_new/files/index.html" target="_blank">english version</a>) sur la « Contrainte carbone » de [Jean-Marc Jancovici][1], ainsi que de son cours « <a href="http://www.ensmp.fr/ingenieurcivil/SitesIC/Balado/Climat_som.html" target="_blank">Énergie et changement climatique</a> » donné à l'École Nationale Supérieure des Mines de Paris en mai et juin 2008 est à la fois ô combien ! éclairante et inquiétante.
+Le visionnement de la <a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_fr_new/files/index.html">conférence de 2008</a> (<a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_uk_new/files/index.html">english version</a>) sur la « Contrainte carbone » de [Jean-Marc Jancovici][1], ainsi que de son cours « <a href="http://www.ensmp.fr/ingenieurcivil/SitesIC/Balado/Climat_som.html">Énergie et changement climatique</a> » donné à l'École Nationale Supérieure des Mines de Paris en mai et juin 2008 est à la fois ô combien ! éclairante et inquiétante.
 
 Ces interventions nous démontrent, chiffres à l'appui, quelques vérités à contre-courant, par exemple :
 

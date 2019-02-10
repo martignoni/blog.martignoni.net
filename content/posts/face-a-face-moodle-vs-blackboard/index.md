@@ -18,8 +18,9 @@ tags:
 ---
 Le logiciel d'environnement d'apprentissage libre [Moodle][1] gagne du terrain aux dépends de [Blackboard][2], système de gestion de cours commercial le plus vendu. Les leaders de ces deux logiciels discutent de l'avenir de leur plateforme, de meilleures interfaces pour les téléphones portables et de l'intégration aux autres systèmes de gestion scolaire.
 
-<div class="video-container">
-</div>
+https://c.brightcove.com/services/viewer/federated_f8/1399136188
 
  [1]: http://moodle.org/
  [2]: http://www.blackboard.com/
+
+<!--more-->

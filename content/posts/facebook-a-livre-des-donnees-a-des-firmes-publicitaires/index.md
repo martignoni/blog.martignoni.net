@@ -25,12 +25,15 @@ Suite aux questions posées par le journal, Facebook et MySpace ont modifié le 
 
 Cette nouvelle démontre une fois de plus les risques encourus par les utilisateurs de réseaux sociaux, notamment Facebook, par rapport à la divulgation de leurs données personnelles, et conforte encore ma [décision de quitter Facebook][7].
 
-<small><em>Via <a href="http://daringfireball.net/">Daring Fireball</a>.</em></small>
+<small>_Via [Daring Fireball][8]._</small>
 
- [1]: http://online.wsj.com/article/SB10001424052748704513104575256701215465596.html
- [2]: http://www.facebook.com/
- [3]: http://www.myspace.com/
- [4]: http://twitter.com/
+ [1]: https://www.wsj.com/articles/SB10001424052748704513104575256701215465596
+ [2]: https://www.facebook.com/
+ [3]: https://myspace.com
+ [4]: https://twitter.com/
  [5]: http://www.doubleclick.com/
  [6]: http://www.rightmedia.com/
- [7]: https://blog.martignoni.net/2010/05/pourquoi-jai-supprime-mon-compte-facebook/
+ [7]: {{< relref "pourquoi-jai-supprime-mon-compte-facebook" >}}
+ [8]: https://daringfireball.net/
+
+<!--more-->

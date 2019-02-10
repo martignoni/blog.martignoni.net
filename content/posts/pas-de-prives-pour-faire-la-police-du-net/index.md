@@ -16,13 +16,16 @@ C'est une victoire importante pour la protection des données personnelles sur I
 
 Il est désormais interdit à toute entreprise privée de récolter des données privées. Au passage, l'adresse IP des internautes est reconnue comme une donnée personnelle et à ce titre protégée par la [loi sur la protection des données][3]. Il est par conséquent illégal de la divulguer à quiconque (à part un juge). L'ère des « cow-boys » du net est donc révolue : la police du net ne peut pas être faite par n'importe qui. Selon les termes du [Temps][4],
 
-> (&#8230;) des sociétés privées ne sont pas en droit de s'ériger en gendarmes des réseaux peer to peer (P2P) en débusquant elles-mêmes les téléchargements illégaux de films ou de musique protégés par le droit d'auteur.
+> (&hellip;) des sociétés privées ne sont pas en droit de s'ériger en gendarmes des réseaux peer to peer (P2P) en débusquant elles-mêmes les téléchargements illégaux de films ou de musique protégés par le droit d'auteur.
 
 L'arrêt du Tribunal fédéral ne légitime en rien le piratage. Il remet simplement l'église au milieu du village : tout comme il ne serait pas acceptable que des privés effectuent des contrôles de vitesse sur les routes et dénoncent les contrevenants, il n'est pas admissible que des sociétés fasse la loi sur le net.
 
-_<small>À lire : le <a href="http://khannibal.wordpress.com/2010/09/08/logistep-resume-de-la-seance-au-tribunal-federal/">compte-rendu de la séance du TF</a>, par le KHannibal</small>_
+<small>_À lire : [le compte-rendu de la séance du TF][5], par François Charlet._</small>
 
- [1]: http://www.bger.ch/fr/index.htm
- [2]: http://www.edoeb.admin.ch/index.html?lang=fr
- [3]: http://www.admin.ch/ch/f/rs/235_1/index.html
- [4]: http://www.letemps.ch/Page/Uuid/3d94da90-bb3a-11df-a87a-29b2c1848607
+ [1]: https://www.bger.ch/fr/index.htm
+ [2]: https://www.edoeb.admin.ch/edoeb/fr/home.html
+ [3]: https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html
+ [4]: https://www.letemps.ch/suisse/coup-darret-chasse-aux-pirates
+ [5]: https://francoischarlet.ch/2010/logistep-resume-de-la-seance-au-tribunal-federal/
+
+ <!--more-->

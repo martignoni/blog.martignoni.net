@@ -17,7 +17,7 @@ tags:
 ---
 <span style="font-size: 1rem;">En 2015, suite à un contrat d'externalisation de prestations conclu avec IBM, le ministère des transports de Suède et après </span>avoir téléchargé la totalité de ses bases<span style="font-size: 1rem;"> de données sur des serveurs dans le <em>cloud</em>, le Ministère des transports de Suède a donné accès à ses propres infrastructures à du </span>personnel d'IBM situé en dehors du pays, sans effectuer de contrôle de sécurité approprié.
 
-> IBM administrators in the Czech Republic were also given full access to all data and logs, according to Swedish newspaper <a href="http://www.dn.se/nyheter/sverige/statliga-hemligheter-kunde-nas-av-frammande-makt/" target="_blank" rel="nofollow noopener">Dagens Nyheter</a> (DN), which analysed the Säpo investigation documents.
+> IBM administrators in the Czech Republic were also given full access to all data and logs, according to Swedish newspaper <a href="http://www.dn.se/nyheter/sverige/statliga-hemligheter-kunde-nas-av-frammande-makt/" rel="nofollow noopener">Dagens Nyheter</a> (DN), which analysed the Säpo investigation documents.
 
 Cet incident a exposé publiquement des informations sur tous les véhicules de Suède, y compris ceux de la police et de l'armée. Bien que la fuite a été découverte en 2016, les données ne pourront pas être sécurisées avant l'automne 2017.
 

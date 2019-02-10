@@ -15,7 +15,6 @@ tags:
   - Réseaux sociaux
 
 ---
-<img class="aligncenter wp-image-1447 size-full" src="https://blog.martignoni.net/wp-content/uploads/2017/07/parano.jpg" alt="Paranoïaque ?" width="1024" height="683" srcset="https://blog.martignoni.net/wp-content/uploads/2017/07/parano.jpg 1024w, https://blog.martignoni.net/wp-content/uploads/2017/07/parano-300x200.jpg 300w, https://blog.martignoni.net/wp-content/uploads/2017/07/parano-768x512.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 > *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 2][Partie2], [partie 3][Partie3].*
 

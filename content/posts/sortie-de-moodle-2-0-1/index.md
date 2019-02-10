@@ -18,3 +18,5 @@ tags:
 [Moodle 2.0.1 est sorti aujourd'hui][1], avec quelque 80 corrections de bogues.
 
  [1]: http://moodle.org/mod/forum/discuss.php?d=165153
+
+<!--more-->

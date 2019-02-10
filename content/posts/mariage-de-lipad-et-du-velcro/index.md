@@ -14,7 +14,10 @@ tags:
 ---
 Vidéo amusante du mariage de l'iPad et du Velcro.
 
-<div class="video-container">
-</div>
+{{< vimeo 11886557 >}}
 
-<small><em>Source : <a href="http://jesserosten.com/2010/ipad-velcro">Jesse Rosten</a></em></small>
+<small>_Source : [Jesse Rosten][1]._</small>
+
+  [1]: http://jesserosten.com/2010/ipad-velcro
+
+<!--more-->

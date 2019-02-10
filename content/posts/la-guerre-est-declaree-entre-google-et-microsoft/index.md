@@ -16,7 +16,7 @@ tags:
   - Oracle
 
 ---
-[<img class="alignleft size-full wp-image-787" title="google-dont-be-evil" src="https://blog.martignoni.net/wp-content/uploads/2011/08/google-dont-be-evil.gif" alt="" width="276" height="135" />][1]Ça a commencé ce mercredi 3 août, par la publication d'[un article de David Drummond][2], Senior Vice President and Chief Legal Officer de [Google][3], décrivant ce qui d'après lui est
+Ça a commencé ce mercredi 3 août, par la publication d'[un article de David Drummond][2], Senior Vice President and Chief Legal Officer de [Google][3], décrivant ce qui d'après lui est
 
 > (&#8230;) une campagne hostile contre Android financée à l'aide de brevets douteux et organisée par Microsoft, Oracle, Apple et d'autres entreprises.
 
@@ -28,13 +28,15 @@ Google n'a sur le coup pas l'air très crédible, reprochant à ses concurrents 
 
 Rappelle-toi Google : « Don't be evil !»
 
-<small><em>Source de l'image : <a href="http://googledontbeevil.com/letter/">Protect the free and open Internet</a></em></small>
+<small>_Source de l'image : [Crooks and Liars][9]._</small>
 
- [1]: https://blog.martignoni.net/wp-content/uploads/2011/08/google-dont-be-evil.gif
- [2]: http://googleblog.blogspot.com/2011/08/when-patents-attack-android.html
- [3]: http://google.com/
- [4]: http://www.android.com/
+ [2]: https://googleblog.blogspot.com/2011/08/when-patents-attack-android.html
+ [3]: https://google.com/
+ [4]: https://www.android.com/
  [5]: https://twitter.com/#!/BradSmi/status/98902130412355585
  [6]: https://twitter.com/#!/fxshaw/status/98932077327691776
  [7]: https://p.twimg.com/AV96Mz4CMAIt7xd.jpg
  [8]: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7%2C912%2C915.PN.&OS=PN%2F7%2C912%2C915&RS=PN%2F7%2C912%2C915
+ [9]: http://crooksandliars.com
+
+<!--more-->

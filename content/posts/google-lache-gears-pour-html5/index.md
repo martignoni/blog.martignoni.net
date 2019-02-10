@@ -18,4 +18,6 @@ Ian Fette, de l'équipe Gears de Google, [annonce][1] que Google va abandonner s
 _<small>Source : <a href="http://daringfireball.net/">DaringFireball</a></small>_
 
  [1]: http://gearsblog.blogspot.com/2010/02/hello-html5.html
- [2]: http://www.w3.org/TR/html5/
+ [2]: https://www.w3.org/TR/html5/
+
+<!--more-->

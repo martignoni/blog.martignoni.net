@@ -14,7 +14,10 @@ tags:
 ---
 [Il a été démontré][1] que le nombre maximal de mouvements pour résoudre toute position du [célèbre cube][2] est 20.
 
-_<small>Via <a href="http://daringfireball.net/linked/2010/08/10/rubiks-cube">Daring Fireball</a>.</small>_
+<small>_Via [Daring Fireball][3]._</small>
 
  [1]: http://www.cube20.org/
- [2]: http://www.rubiks.com/
+ [2]: https://www.rubiks.com/
+ [3]: https://daringfireball.net/linked/2010/08/10/rubiks-cube
+
+<!--more-->

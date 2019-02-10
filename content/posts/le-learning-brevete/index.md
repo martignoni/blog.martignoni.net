@@ -16,9 +16,9 @@ tags:
   - Sakai
 
 ---
-L'office des brevets des États-Unis a accordé à la société <a title="Blackboard" href="http://www.blackboard.com/" target="_blank">Blackboard</a> un brevet sur l'enseignement en ligne. Plus exactement, le brevet est intitulé «<span id="txtMainBody">Internet-Based Education Support System And Methods».</span>
+L'office des brevets des États-Unis a accordé à la société <a title="Blackboard" href="http://www.blackboard.com/">Blackboard</a> un brevet sur l'enseignement en ligne. Plus exactement, le brevet est intitulé «<span id="txtMainBody">Internet-Based Education Support System And Methods».</span>
 
-Presque simultanément, Blackboard a porté plainte contre un des ses nombreux concurrents, la société canadienne <a title="Desire2Learn" href="http://www.desire2learn.com/" target="_blank">Desire2Learn</a>:
+Presque simultanément, Blackboard a porté plainte contre un des ses nombreux concurrents, la société canadienne <a title="Desire2Learn" href="http://www.desire2learn.com/">Desire2Learn</a>:
 
 > On Wednesday, July 26, Blackboard Inc. issued a press release about a patent that was issued to them by the U.S. Patent & Trademark Office. That day, Blackboard Inc., a Washington, D.C. corporation, filed suit against Desire2Learn Inc. in the U.S. District Court for the Eastern District of Texas, alleging that Desire2Learn is infringing on the patent Blackboard announced that day.
 
@@ -36,6 +36,6 @@ La stratégie de Blackboard est donc d'assigner en justice un concurrent (d'aill
 
 En effet l'on peut bien imaginer comment pourrait réagir un recteur d'université ou de collège, si les enseignants lui demandent d'utiser Moodle ou un autre LMS libre : «On ne peut pas utiliser Moodle (ou Sakai ou Claroline ou &#8230;) parce que nous nous exposerions à une action en justice de Blackboard, et nous n'avons pas les moyens financiers d'y faire face, même si nous gagnons.»
 
-Pour se défendre, il faut que dès ce premier procès, Blackboard perde, et pour cela que démonstration soit faite de l'antériorité de nombreux systèmes de gestion d'apprentissage en ligne. Rappelons que la demande de brevet date du 30 juin 2000. Pour cette raison, la communauté Moodle, mais aussi la communauté Internet dans son ensemble sont en train de collecter de telles preuves d'antériorité, que l'on peut consulter ici : <a title="Moodle" href="http://docs.moodle.org/en/Online_Learning_History" target="_blank">Online Learning History</a> et <a title="Wikipedia" href="http://en.wikipedia.org/wiki/History_of_virtual_learning_environments" target="_blank">History of virtual Learning environments</a>.
+Pour se défendre, il faut que dès ce premier procès, Blackboard perde, et pour cela que démonstration soit faite de l'antériorité de nombreux systèmes de gestion d'apprentissage en ligne. Rappelons que la demande de brevet date du 30 juin 2000. Pour cette raison, la communauté Moodle, mais aussi la communauté Internet dans son ensemble sont en train de collecter de telles preuves d'antériorité, que l'on peut consulter ici : <a title="Moodle" href="http://docs.moodle.org/en/Online_Learning_History">Online Learning History</a> et <a title="Wikipedia" href="http://en.wikipedia.org/wiki/History_of_virtual_learning_environments">History of virtual Learning environments</a>.
 
 Si la stupidité de la brevetabilité des logiciels était encore à démontrer, c'est maintenant chose faite !

@@ -15,8 +15,6 @@ tags:
   - Réseaux sociaux
 
 ---
-<img class="aligncenter wp-image-1457 size-full" src="https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam.png" alt="" width="1407" height="877" srcset="https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam.png 1407w, https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam-300x187.png 300w, https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam-768x479.png 768w, https://blog.martignoni.net/wp-content/uploads/2017/07/Lightbeam-1024x638.png 1024w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
-
 > *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 1][Partie1], [partie 3][Partie3].*
 
 Les motivations des entreprises privées pour collecter nos données personnelles sont différentes, mais tout aussi claires : en un mot, l’argent.

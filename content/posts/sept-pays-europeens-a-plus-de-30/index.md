@@ -14,6 +14,6 @@ tags:
   - Open Source
 
 ---
-<a target="_blank" href="http://www.xitimonitor.com/">Xiti</a> annonce dans son <a target="_blank" href="http://www.xitimonitor.com/fr-FR/Technique/Firefox_Septembre_2006/index-1-1-3-52.html">étude de septembre 2006</a> sur l'utilisation de <a target="_blank" href="http://www.mozilla.com/firefox/">Firefox</a> que :
+<a href="http://www.xitimonitor.com/">Xiti</a> annonce dans son <a href="http://www.xitimonitor.com/fr-FR/Technique/Firefox_Septembre_2006/index-1-1-3-52.html">étude de septembre 2006</a> sur l'utilisation de <a href="http://www.mozilla.com/firefox/">Firefox</a> que :
 
 > L'Allemagne et la Croatie rejoignent le cercle des pays européens au-dessus des 30% d'utilisation de Firefox.

@@ -20,15 +20,13 @@ Cet outil a été conçu et développé par [Alex Büchner][3] de [Synergy Learn
 
 J'ai traduit la carte et je l'ai adaptée de l'anglais, et elle est dès maintenant [disponible en français][6].
 
-<p style="text-align: center;">
-  <a href="https://blog.martignoni.net/wp-content/uploads/2011/11/MoodleAdminMap_fr.pdf"><img class="size-full wp-image-837 aligncenter" title="Carte d'orientation Moodle 2.1" src="https://blog.martignoni.net/wp-content/uploads/2011/11/MoodleAdminMap_fr.png" alt="" width="540" height="382" srcset="https://blog.martignoni.net/wp-content/uploads/2011/11/MoodleAdminMap_fr.png 540w, https://blog.martignoni.net/wp-content/uploads/2011/11/MoodleAdminMap_fr-300x212.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a>
-</p>
-
 Téléchargement (fichier PDF): [Carte d'orientation Moodle 2.1][6].
 
- [1]: http://www.synergy-learning.com/blog/moodle/the-moodle-2-1-administration-map/ "Moodle 2.1 Admin Map"
- [2]: http://moodle.org/ "Moodle"
- [3]: http://twitter.com/mcbuchner
- [4]: http://www.synergy-learning.com/
- [5]: http://creativecommons.org/international/ "Crative Commons"
- [6]: https://blog.martignoni.net/wp-content/uploads/2011/11/MoodleAdminMap_fr.pdf "Carte d'orientation Moodle 2.1"
+ [1]: https://www.synergy-learning.com/blog/the-moodle-2-1-administration-map "Moodle 2.1 Admin Map"
+ [2]: https://moodle.org/ "Moodle"
+ [3]: https://twitter.com/mcbuchner
+ [4]: https://www.synergy-learning.com/
+ [5]: https://creativecommons.org/international/ "Creative Commons"
+ [6]: MoodleAdminMap_fr.pdf "Carte d'orientation Moodle 2.1"
+
+ <!--more-->

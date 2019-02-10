@@ -15,11 +15,14 @@ tags:
 ---
 Magnifiques prises de vue de la Terre depuis la Station spatiale internationale (ISS), par [Michael König][1]. Pour plus de spectacle, à voir en HD sur Vimeo.
 
-<div class="video-container">
-</div>
+{{< vimeo 32001208 >}}
 
 Avez-vous remarqué la Vallée du Nil, l'Italie et la Méditerranée, le Lac Michigan, les orages et les aurores polaires ?
 
-<small><em>Source: <a href="http://vimeo.com/32001208">Vimeo</a>, via <a title="FlowingData" href="http://flowingdata.com/2011/11/14/time-lapse-of-earth-from-international-space-station/">FlowingData</a>.</em></small>
+<small>_Source: [Vimeo][2], via [FlowingData][3]._</small>
 
- [1]: http://vimeo.com/michaelkoenig
+ [1]: https://vimeo.com/michaelkoenig
+ [2]: https://vimeo.com/32001208
+ [3]: https://flowingdata.com/2011/11/14/time-lapse-of-earth-from-international-space-station/ "FlowingData"
+
+<!--more-->

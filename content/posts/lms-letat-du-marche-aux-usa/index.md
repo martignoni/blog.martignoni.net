@@ -29,7 +29,7 @@ Voici quelques constatations intéressantes tirées de ce graphique.
   * Le coût des LMS a explosé entre 2000 et 2009. Il est passé d'une fourchette de 40'000 à 60'000$ à une plage entre 100'000 et 400'000$ ! L'analyse montre que ce n'est ni le nombre des installations, ni le nombre des utilisateurs qui a influencé ces coûts, mais bien le prix par étudiant facturé par les entreprises qui fournissent les solutions.
   * À noter finalement que les « big players » Microsoft, Oracle, etc. ne sont pas des acteurs de poids de ce marché, mais que l'on doit observer si et quand ils y entreront.
 
-Pour plus d'informations, voir le <a href="https://deltainitiative.webex.com/deltainitiative/ldr.php?AT=pb&SP=MC&rID=31734537&rKey=6472ec7dd2df31e2" target="_blank">webinar enregistré</a> et le <a href="http://www.deltainitiative.com/picts/pdf/deltainitiativelmswebinar09-2.pdf" target="_blank">PDF de la présentation</a>.
+Pour plus d'informations, voir le <a href="https://deltainitiative.webex.com/deltainitiative/ldr.php?AT=pb&SP=MC&rID=31734537&rKey=6472ec7dd2df31e2">webinar enregistré</a> et le <a href="http://www.deltainitiative.com/picts/pdf/deltainitiativelmswebinar09-2.pdf">PDF de la présentation</a>.
 
 _<small>Source : <a href="http://mfeldstein.com/the-state-of-the-lms-an-institutional-perspective/">eLiterate</a> et <a href="http://tatler.typepad.com/nose/2009/09/learning-management-systems-what-are-the-strategic-trends.html">Information Technology in Higher Education</a></small>_
 

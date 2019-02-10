@@ -32,7 +32,7 @@ Blackboard [doit maintenant reverser][6] à Desire2Learn les 3,3 millions de dol
 
 Comme souvent, les seuls bénéficiaires de ce type de conflit sont les cabinets d'avocats, qui y ont certainement gagnés plusieurs millions de dollars.
 
-Voir également à ce sujet <a href="http://mfeldstein.com/" target="_blank">e-Literate</a> et [PatentlyO][8].
+Voir également à ce sujet <a href="http://mfeldstein.com/">e-Literate</a> et [PatentlyO][8].
 
  [1]: http://www.desire2learn.com/
  [2]: https://community.desire2learn.com/d2l/lms/blog/view_userentry.d2l?ou=1796&ownerId=6961&entryId=303&ec=1&iu=1&sp=&gb=usr

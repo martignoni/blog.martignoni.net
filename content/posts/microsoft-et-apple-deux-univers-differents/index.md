@@ -20,10 +20,11 @@ Traduction libre :
 
 > Les produits d'Apple disent : « Vous ne pouvez pas effectuer ceci, parce que nous pensons que c'est nul.» Les produits de Microsoft disent : « Nous vous laissons faire tout ce que vous voulez sur n'importe quel appareil si vous voulez vraiment le faire, même si c'est nul.»
 
-_<small>Via <a href="http://daringfireball.net/linked/2012/10/31/marco-surface">Daring Fireball</a></small>_
+<small>_Via [Daring Fireball][4]._</small>
 
- [1]: http://www.marco.org/2012/10/26/an-alternate-universe
- [2]: http://microsoft.com/
- [3]: http://apple.com/
+ [1]: https://marco.org/2012/10/26/an-alternate-universe
+ [2]: https://microsoft.com/
+ [3]: https://apple.com/
+ [4]: https://daringfireball.net/linked/2012/10/31/marco-surface
 
 <!--more-->

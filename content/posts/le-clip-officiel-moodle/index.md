@@ -12,5 +12,6 @@ tags:
   - Moodle
 
 ---
-<div class="video-container">
-</div>
+{{< youtube "fCQtwZuqChc" >}}
+
+<!--more-->

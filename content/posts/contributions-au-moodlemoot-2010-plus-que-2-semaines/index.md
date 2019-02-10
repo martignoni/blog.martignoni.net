@@ -19,3 +19,5 @@ Le délai pour les [dépôts][3] est fixé au vendredi 19 mars 2010 !
  [1]: http://moodlemoot2010.utt.fr/mod/resource/view.php?id=56
  [2]: http://moodlemoot2010.utt.fr/
  [3]: http://moodlemoot2010.utt.fr/course/view.php?id=4
+
+<!--more-->

@@ -14,7 +14,7 @@ tags:
   - Open Source
 
 ---
-<a href="http://www.xitimonitor.com/" target="_blank">Xitimonitor</a> a mis à jour son étude sur l'utilisation de <a href="http://www.mozilla.com/firefox/" target="_blank">Firefox</a>. Sans réelle surprise, on constate dans l'<a href="http://www.xitimonitor.com/etudes/equipement18.asp" target="_blank">étude de juillet 2006</a> que la part de marché de Firefox continue de progresser, notamment en Europe.
+<a href="http://www.xitimonitor.com/">Xitimonitor</a> a mis à jour son étude sur l'utilisation de <a href="http://www.mozilla.com/firefox/">Firefox</a>. Sans réelle surprise, on constate dans l'<a href="http://www.xitimonitor.com/etudes/equipement18.asp">étude de juillet 2006</a> que la part de marché de Firefox continue de progresser, notamment en Europe.
 
 > Le taux d'utilisation de Firefox passe de 20.4% à 21.1% sur l'ensemble des pays européens du périmètre XiTi entre la semaine du 29 mai au 4 juin 2006 (étude précédente) et la semaine du 3 au 9 juillet 2006. Sur les 29 pays cités ci-dessous, seuls trois voient leur taux diminuer : l'Estonie, la Norvège (qui avait fortement progressé début juin) et le Royaume-Uni. Les plus fortes progressions sont à attribuer à la Roumanie et à la Slovaquie : respectivement +3 et +2 points en taux d'utilisation de Firefox dans ces deux pays.
 

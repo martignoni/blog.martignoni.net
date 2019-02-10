@@ -28,4 +28,4 @@ Voici le texte original en anglais.
 
 > 3)If the BBI applications are granted at the EPO, European Patents (UK) will be granted which will have the same effect as regular UK patents. BBI could seek to enforce its patents against potential infringers of the patents who are providing e-learning facilities in the UK. The patents will only be enforceable if they are valid. Any infringer sued by BBI would be entitled to counterclaim to invalidate the patents. The UK courts will analyse the validity of the BBI patents from first principles ' the patents are afforded no 'presumption of validity' merely because they have survived examination in the EPO.
 
-_<small>Source : <a href="http://www.l4l.org.uk/content/view/104/1/" target="_blank">Learn 4 Life</a>, via <a href="http://mfeldstein.com/index.php/weblog/permalink/becta_to_europe_dont_panic_about_the_blackboard_patent_yet/" target="_blank">e-Literate</a></small>_
+_<small>Source : <a href="http://www.l4l.org.uk/content/view/104/1/">Learn 4 Life</a>, via <a href="http://mfeldstein.com/index.php/weblog/permalink/becta_to_europe_dont_panic_about_the_blackboard_patent_yet/">e-Literate</a></small>_

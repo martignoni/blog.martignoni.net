@@ -12,6 +12,7 @@ tags:
   - Humour
 
 ---
-<img class="alignnone size-full wp-image-362" title="mini-geeks" src="https://blog.martignoni.net/wp-content/uploads/2010/02/mini-geeks.jpg" alt="mini-geeks" height="600" srcset="https://blog.martignoni.net/wp-content/uploads/2010/02/mini-geeks.jpg 670w, https://blog.martignoni.net/wp-content/uploads/2010/02/mini-geeks-201x300.jpg 201w" sizes="(max-width: 670px) 100vw, 670px" />
 
-_<small>Source : <a href="http://geekandpoke.typepad.com/" target="_blank">Geek and Poke</a></small>_
+_<small>Source : <a href="http://geekandpoke.typepad.com/">Geek and Poke</a></small>_
+
+<!--more-->

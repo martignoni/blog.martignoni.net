@@ -11,7 +11,7 @@ tags:
   - Formation
 
 ---
-En juin 2006, une <a href="http://www.clemi.org/international/mediappro/Mediappro_b.pdf" target="_blank">enquête européenne</a> sur l'appropriation des nouveaux médias par les jeunes a été publiée par le <a href="http://www.clemi.org/" target="_blank">CLEMI</a> (Centre de Liaison de l'Enseignement et des Médias d'Information). Le sujet de cette enquête est l'éducation aux médias. Une recherche conjointe a été effectuée par ce biais sur près de 9000 jeunes de 12 à 18 ans et leurs relations aux médias électroniques (Internet, téléphonie mobile, jeux en ligne).
+En juin 2006, une <a href="http://www.clemi.org/international/mediappro/Mediappro_b.pdf">enquête européenne</a> sur l'appropriation des nouveaux médias par les jeunes a été publiée par le <a href="http://www.clemi.org/">CLEMI</a> (Centre de Liaison de l'Enseignement et des Médias d'Information). Le sujet de cette enquête est l'éducation aux médias. Une recherche conjointe a été effectuée par ce biais sur près de 9000 jeunes de 12 à 18 ans et leurs relations aux médias électroniques (Internet, téléphonie mobile, jeux en ligne).
 
 Une des conclusions les plus marquantes de cette étude est la grande disparité d'utilisation des TIC entre l'école et la maison: les jeunes utilisent massivement les TIC dans la vie de tous les jours, alors qu'à l'école, les usages en sont encore très limités.
 
