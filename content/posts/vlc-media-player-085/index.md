@@ -3,9 +3,7 @@ title: VLC Media Player 0.8.5
 author: Nicolas Martignoni
 type: post
 date: 2006-05-07T18:31:39+00:00
-url: /2006/05/vlc-media-player-085/
-yourls_shorturl:
-  - http://tinyurl.com/36zn85r
+slug: vlc-media-player-085
 categories:
   - École, e-learning et ICT
 tags:

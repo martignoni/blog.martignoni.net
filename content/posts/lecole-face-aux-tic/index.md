@@ -3,9 +3,7 @@ title: "L'insuffisance de l'école face aux TIC ?"
 author: Nicolas Martignoni
 type: post
 date: 2007-01-03T16:32:14+00:00
-url: /2007/01/lecole-face-aux-tic/
-yourls_shorturl:
-  - http://tinyurl.com/32h6bb8
+slug: lecole-face-aux-tic
 categories:
   - École, e-learning et ICT
 tags:

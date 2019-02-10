@@ -3,13 +3,9 @@ title: "Pourquoi j'ai supprimé mon compte Facebook"
 author: Nicolas Martignoni
 type: post
 date: 2010-05-11T19:50:41+00:00
-url: /2010/05/pourquoi-jai-supprime-mon-compte-facebook/
-aktt_notify_twitter:
-  - yes
+slug: pourquoi-jai-supprime-mon-compte-facebook
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://tinyurl.com/274mybp
 categories:
   - Sphère privée
   - Technologie

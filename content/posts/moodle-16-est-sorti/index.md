@@ -3,9 +3,7 @@ title: Moodle 1.6 est sorti
 author: Nicolas Martignoni
 type: post
 date: 2006-06-19T21:12:59+00:00
-url: /2006/06/moodle-16-est-sorti/
-yourls_shorturl:
-  - http://tinyurl.com/38j3jdp
+slug: moodle-16-est-sorti
 categories:
   - École, e-learning et ICT
 tags:

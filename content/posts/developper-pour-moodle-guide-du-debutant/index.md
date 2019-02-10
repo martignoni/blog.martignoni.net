@@ -3,7 +3,7 @@ title: "Développer pour Moodle : guide du débutant"
 author: Nicolas Martignoni
 type: post
 date: 2017-07-21T08:13:04+00:00
-url: /2017/07/developper-pour-moodle-guide-du-debutant/
+slug: developper-pour-moodle-guide-du-debutant
 categories:
   - École, e-learning et ICT
   - Logiciel libre

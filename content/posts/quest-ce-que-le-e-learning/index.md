@@ -3,9 +3,7 @@ title: "Qu'est-ce que le e-Learning ?"
 author: Nicolas Martignoni
 type: post
 date: 2006-09-25T13:28:36+00:00
-url: /2006/09/quest-ce-que-le-e-learning/
-yourls_shorturl:
-  - http://tinyurl.com/34lzwhr
+slug: quest-ce-que-le-e-learning
 categories:
   - École, e-learning et ICT
 tags:

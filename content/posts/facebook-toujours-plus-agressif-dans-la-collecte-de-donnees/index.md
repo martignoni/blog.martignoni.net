@@ -3,7 +3,7 @@ title: Facebook toujours plus agressif dans la collecte de données
 author: Nicolas Martignoni
 type: post
 date: 2018-02-15T11:33:23+00:00
-url: /2018/02/facebook-toujours-plus-agressif-dans-la-collecte-de-donnees/
+slug: facebook-toujours-plus-agressif-dans-la-collecte-de-donnees
 featured_image: /wp-content/uploads/2018/02/facebook-homescreen.jpg
 categories:
   - Citoyenneté

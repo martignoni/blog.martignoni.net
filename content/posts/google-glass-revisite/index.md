@@ -3,11 +3,7 @@ title: Google Glass revisité
 author: Nicolas Martignoni
 type: post
 date: 2012-04-06T13:13:37+00:00
-url: /2012/04/google-glass-revisite/
-yourls_shorturl:
-  - http://is.gd/Co9IVG
-yourls_tweeted:
-  - 1
+slug: google-glass-revisite
 categories:
   - Citoyenneté
   - Humour

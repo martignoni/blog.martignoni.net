@@ -3,11 +3,7 @@ title: Bienvenue au club !
 author: Nicolas Martignoni
 type: post
 date: 2006-04-13T18:58:28+00:00
-url: /2006/04/bienvenue-au-club/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://is.gd/efefb
+slug: bienvenue-au-club
 categories:
   - Technologie
 tags:

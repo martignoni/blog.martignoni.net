@@ -3,11 +3,7 @@ title: Comment activer la recopie vidéo sur iPad 1, sans jailbreak
 author: Nicolas Martignoni
 type: post
 date: 2011-10-29T15:12:07+00:00
-url: /2011/10/comment-activer-la-recopie-video-sur-ipad-1-sans-jailbreak/
-yourls_shorturl:
-  - http://is.gd/uU89K7
-yourls_tweeted:
-  - 1
+slug: comment-activer-la-recopie-video-sur-ipad-1-sans-jailbreak
 categories:
   - Technologie
 tags:

@@ -3,11 +3,7 @@ title: "L'INA propose son service de vidéo à la demande"
 author: Nicolas Martignoni
 type: post
 date: 2006-04-27T11:06:58+00:00
-url: /2006/04/lina-propose-son-service-de-video-a-la-demande/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://is.gd/ec0V9
+slug: lina-propose-son-service-de-video-a-la-demande
 categories:
   - École, e-learning et ICT
 tags:

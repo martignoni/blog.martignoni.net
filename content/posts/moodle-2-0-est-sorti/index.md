@@ -3,11 +3,7 @@ title: Moodle 2.0 est sorti
 author: Nicolas Martignoni
 type: post
 date: 2010-11-25T13:09:07+00:00
-url: /2010/11/moodle-2-0-est-sorti/
-yourls_shorturl:
-  - http://is.gd/hLdg5
-yourls_tweeted:
-  - 1
+slug: moodle-2-0-est-sorti
 categories:
   - École, e-learning et ICT
   - Logiciel libre

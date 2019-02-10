@@ -3,11 +3,7 @@ title: Face à face Moodle vs Blackboard
 author: Nicolas Martignoni
 type: post
 date: 2010-10-27T10:56:45+00:00
-url: /2010/10/face-a-face-moodle-vs-blackboard/
-yourls_shorturl:
-  - http://is.gd/gm77P
-yourls_tweeted:
-  - 1
+slug: face-a-face-moodle-vs-blackboard
 categories:
   - École, e-learning et ICT
   - Logiciel libre

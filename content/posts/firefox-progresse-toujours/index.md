@@ -3,9 +3,7 @@ title: Firefox progresse toujours
 author: Nicolas Martignoni
 type: post
 date: 2006-08-24T11:00:18+00:00
-url: /2006/08/firefox-progresse-toujours/
-yourls_shorturl:
-  - http://tinyurl.com/38keboa
+slug: firefox-progresse-toujours
 categories:
   - Logiciel libre
   - Technologie

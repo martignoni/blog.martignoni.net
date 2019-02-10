@@ -3,9 +3,7 @@ title: Hot Potatoes est devenu gratuit
 author: Nicolas Martignoni
 type: post
 date: 2009-09-04T04:30:44+00:00
-url: /2009/09/hot-potatoes-est-devenu-gratuit/
-yourls_shorturl:
-  - http://is.gd/ebTN8
+slug: hot-potatoes-est-devenu-gratuit
 categories:
   - École, e-learning et ICT
 tags:

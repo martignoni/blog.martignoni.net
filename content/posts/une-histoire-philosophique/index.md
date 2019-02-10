@@ -5,7 +5,7 @@ type: post
 date: 2006-05-16T13:10:53+00:00
 draft: true
 private: true
-url: /2006/05/une-histoire-philosophique/
+slug: une-histoire-philosophique
 categories:
   - École, e-learning et ICT
   - Humour

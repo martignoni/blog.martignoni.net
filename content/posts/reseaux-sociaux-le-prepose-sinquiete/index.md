@@ -3,9 +3,7 @@ title: "Réseaux sociaux : le préposé s'inquiète"
 author: Nicolas Martignoni
 type: post
 date: 2009-06-29T19:37:28+00:00
-url: /2009/06/reseaux-sociaux-le-prepose-sinquiete/
-yourls_shorturl:
-  - http://is.gd/ecj4g
+slug: reseaux-sociaux-le-prepose-sinquiete
 categories:
   - Citoyenneté
   - Sphère privée

@@ -3,11 +3,7 @@ title: MoodleMoot 2010 à Troyes
 author: Nicolas Martignoni
 type: post
 date: 2009-09-19T05:55:43+00:00
-url: /2009/09/moodlemoot-2010-a-troyes/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://tinyurl.com/3x9ev4t
+slug: moodlemoot-2010-a-troyes
 categories:
   - École, e-learning et ICT
 tags:

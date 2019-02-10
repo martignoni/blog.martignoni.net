@@ -3,9 +3,7 @@ title: Google lâche Gears pour HTML5
 author: Nicolas Martignoni
 type: post
 date: 2010-02-21T10:33:15+00:00
-url: /2010/02/google-lache-gears-pour-html5/
-yourls_shorturl:
-  - http://tinyurl.com/3xu9lj8
+slug: google-lache-gears-pour-html5
 categories:
   - Web et normes
 tags:

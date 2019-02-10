@@ -3,11 +3,7 @@ title: Les LMS des hautes écoles de Suisse, novembre 2010
 author: Nicolas Martignoni
 type: post
 date: 2010-11-16T17:22:58+00:00
-url: /2010/11/les-lms-des-hautes-ecoles-de-suisse/
-yourls_shorturl:
-  - http://is.gd/he2Il
-yourls_tweeted:
-  - 1
+slug: les-lms-des-hautes-ecoles-de-suisse
 categories:
   - École, e-learning et ICT
 tags:

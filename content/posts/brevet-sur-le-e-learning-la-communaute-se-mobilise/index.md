@@ -3,9 +3,7 @@ title: "Brevet sur le e-Learning : la communauté se mobilise"
 author: Nicolas Martignoni
 type: post
 date: 2006-08-17T19:51:02+00:00
-url: /2006/08/brevet-sur-le-e-learning-la-communaute-se-mobilise/
-yourls_shorturl:
-  - http://tinyurl.com/3adac55
+slug: brevet-sur-le-e-learning-la-communaute-se-mobilise
 categories:
   - École, e-learning et ICT
 tags:

@@ -3,9 +3,7 @@ title: MODx 0.9.2 est sorti
 author: Nicolas Martignoni
 type: post
 date: 2006-04-26T13:21:27+00:00
-url: /2006/04/modx-092-est-sorti/
-yourls_shorturl:
-  - http://tinyurl.com/39yyl3k
+slug: modx-092-est-sorti
 categories:
   - Logiciel libre
 tags:

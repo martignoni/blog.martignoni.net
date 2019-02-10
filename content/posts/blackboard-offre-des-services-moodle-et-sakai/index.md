@@ -3,11 +3,7 @@ title: Blackboard offre des services Moodle et Sakai
 author: Nicolas Martignoni
 type: post
 date: 2012-03-27T18:28:53+00:00
-url: /2012/03/blackboard-offre-des-services-moodle-et-sakai/
-yourls_shorturl:
-  - http://is.gd/QqhJkx
-yourls_tweeted:
-  - 1
+slug: blackboard-offre-des-services-moodle-et-sakai
 categories:
   - École, e-learning et ICT
   - Sphère privée

@@ -3,11 +3,7 @@ title: Firefox dépasse Internet Explorer
 author: Nicolas Martignoni
 type: post
 date: 2011-01-05T17:05:42+00:00
-url: /2011/01/firefox-depasse-internet-explorer/
-yourls_shorturl:
-  - http://is.gd/katXd
-yourls_tweeted:
-  - 1
+slug: firefox-depasse-internet-explorer
 categories:
   - Logiciel libre
   - Technologie

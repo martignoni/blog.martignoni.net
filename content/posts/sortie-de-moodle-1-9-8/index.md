@@ -3,13 +3,9 @@ title: Sortie de Moodle 1.9.8
 author: Nicolas Martignoni
 type: post
 date: 2010-04-02T10:33:55+00:00
-url: /2010/04/sortie-de-moodle-1-9-8/
-aktt_notify_twitter:
-  - yes
+slug: sortie-de-moodle-1-9-8
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://tinyurl.com/yhbnlvv
 categories:
   - École, e-learning et ICT
   - Logiciel libre

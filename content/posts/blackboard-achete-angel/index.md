@@ -3,9 +3,7 @@ title: Blackboard achète ANGEL !
 author: Nicolas Martignoni
 type: post
 date: 2009-06-11T18:00:33+00:00
-url: /2009/06/blackboard-achete-angel/
-yourls_shorturl:
-  - http://tinyurl.com/34c3vlg
+slug: blackboard-achete-angel
 categories:
   - École, e-learning et ICT
 tags:

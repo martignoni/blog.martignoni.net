@@ -3,13 +3,9 @@ title: Horaires des trains en Europe
 author: Nicolas Martignoni
 type: post
 date: 2010-04-09T11:55:13+00:00
-url: /2010/04/horaires-des-trains-en-europe/
-aktt_notify_twitter:
-  - yes
+slug: horaires-des-trains-en-europe
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://tinyurl.com/y9yav4v
 categories:
   - Technologie
 tags:

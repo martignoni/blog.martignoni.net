@@ -3,11 +3,7 @@ title: Le patron de MySQL parle du libre
 author: Nicolas Martignoni
 type: post
 date: 2006-04-27T21:21:20+00:00
-url: /2006/04/le-patron-de-mysql-parle-du-libre/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://is.gd/ec7vM
+slug: le-patron-de-mysql-parle-du-libre
 categories:
   - Logiciel libre
 tags:

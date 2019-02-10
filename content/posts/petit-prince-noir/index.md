@@ -3,11 +3,7 @@ title: Petit Prince noir
 author: Nicolas Martignoni
 type: post
 date: 2009-09-03T19:19:31+00:00
-url: /2009/09/petit-prince-noir/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://is.gd/ebTJY
+slug: petit-prince-noir
 categories:
   - Astronomie
   - Humour

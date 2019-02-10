@@ -3,11 +3,7 @@ title: Google car à Fribourg !
 author: Nicolas Martignoni
 type: post
 date: 2009-08-14T08:58:29+00:00
-url: /2009/08/google-car-a-fribourg/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://tinyurl.com/38kj4nd
+slug: google-car-a-fribourg
 categories:
   - Sphère privée
   - Technologie

@@ -3,9 +3,7 @@ title: "Plus de 23% d'utilisation de Firefox en Europe"
 author: Nicolas Martignoni
 type: post
 date: 2006-12-17T21:00:51+00:00
-url: /2006/12/plus-de-23-dutilisation-de-firefox-en-europe/
-yourls_shorturl:
-  - http://is.gd/ec7xf
+slug: plus-de-23-dutilisation-de-firefox-en-europe
 categories:
   - Logiciel libre
   - Technologie

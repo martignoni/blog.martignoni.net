@@ -3,13 +3,9 @@ title: Moodle 2.0 bêta annoncée pour le 3 mai 2010
 author: Nicolas Martignoni
 type: post
 date: 2010-04-21T07:37:49+00:00
-url: /2010/04/moodle-2-0-beta-annoncee-pour-le-3-mai-2010/
-aktt_notify_twitter:
-  - yes
+slug: moodle-2-0-beta-annoncee-pour-le-3-mai-2010
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://is.gd/ecbuN
 categories:
   - École, e-learning et ICT
   - Logiciel libre

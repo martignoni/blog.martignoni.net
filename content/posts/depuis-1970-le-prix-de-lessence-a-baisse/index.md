@@ -3,9 +3,7 @@ title: "Depuis 1970, le prix de l'essence a baissé !"
 author: Nicolas Martignoni
 type: post
 date: 2009-08-04T16:52:43+00:00
-url: /2009/08/depuis-1970-le-prix-de-lessence-a-baisse/
-yourls_shorturl:
-  - http://is.gd/ecTEk
+slug: depuis-1970-le-prix-de-lessence-a-baisse
 categories:
   - Citoyenneté
   - Énergie

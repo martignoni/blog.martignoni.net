@@ -3,11 +3,7 @@ title: Les LMS des universités françaises
 author: Nicolas Martignoni
 type: post
 date: 2011-10-30T18:43:27+00:00
-url: /2011/10/les-lms-des-universites-francaises/
-yourls_shorturl:
-  - http://is.gd/jb3lKN
-yourls_tweeted:
-  - 1
+slug: les-lms-des-universites-francaises
 categories:
   - École, e-learning et ICT
 tags:

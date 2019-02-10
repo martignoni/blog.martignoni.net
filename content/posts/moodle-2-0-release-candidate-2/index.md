@@ -3,11 +3,7 @@ title: Moodle 2.0 Release Candidate 2
 author: Nicolas Martignoni
 type: post
 date: 2010-11-13T22:46:04+00:00
-url: /2010/11/moodle-2-0-release-candidate-2/
-yourls_shorturl:
-  - http://is.gd/h0L43
-yourls_tweeted:
-  - 1
+slug: moodle-2-0-release-candidate-2
 categories:
   - École, e-learning et ICT
   - Logiciel libre

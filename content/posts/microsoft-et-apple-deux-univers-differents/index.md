@@ -3,11 +3,7 @@ title: "Microsoft et Apple : deux univers différents"
 author: Nicolas Martignoni
 type: post
 date: 2012-10-31T19:59:11+00:00
-url: /2012/10/microsoft-et-apple-deux-univers-differents/
-yourls_shorturl:
-  - http://is.gd/5l7t8L
-yourls_tweeted:
-  - 1
+slug: microsoft-et-apple-deux-univers-differents
 categories:
   - Humour
   - Technologie

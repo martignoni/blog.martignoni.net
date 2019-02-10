@@ -3,11 +3,7 @@ title: "Internet et sphère privée : un diagramme de Venn"
 author: Nicolas Martignoni
 type: post
 date: 2010-10-28T19:44:11+00:00
-url: /2010/10/internet-et-sphere-privee-un-diagramme-de-venn/
-yourls_shorturl:
-  - http://is.gd/gp1Ch
-yourls_tweeted:
-  - 1
+slug: internet-et-sphere-privee-un-diagramme-de-venn
 categories:
   - Citoyenneté
   - Sphère privée

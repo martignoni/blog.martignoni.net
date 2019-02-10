@@ -3,9 +3,7 @@ title: Sauver Internet Explorer 6 ??
 author: Nicolas Martignoni
 type: post
 date: 2009-07-16T16:22:23+00:00
-url: /2009/07/sauver-internet-explorer-6/
-yourls_shorturl:
-  - http://tinyurl.com/34udpb4
+slug: sauver-internet-explorer-6
 categories:
   - École, e-learning et ICT
 

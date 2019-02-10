@@ -3,9 +3,7 @@ title: "L'e-Learning breveté !"
 author: Nicolas Martignoni
 type: post
 date: 2006-08-02T06:32:51+00:00
-url: /2006/08/le-learning-brevete/
-yourls_shorturl:
-  - http://tinyurl.com/3xfwqfv
+slug: le-learning-brevete
 categories:
   - Citoyenneté
   - École, e-learning et ICT

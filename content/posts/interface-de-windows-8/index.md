@@ -3,11 +3,7 @@ title: Interface de Windows 8
 author: Nicolas Martignoni
 type: post
 date: 2011-06-02T09:25:12+00:00
-url: /2011/06/interface-de-windows-8/
-yourls_shorturl:
-  - http://is.gd/zIqcKG
-yourls_tweeted:
-  - 1
+slug: interface-de-windows-8
 categories:
   - Technologie
 tags:

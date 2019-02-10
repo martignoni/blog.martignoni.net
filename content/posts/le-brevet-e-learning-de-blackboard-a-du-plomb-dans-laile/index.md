@@ -3,9 +3,7 @@ title: "Le brevet e-Learning de Blackboard a du plomb dans l'aile"
 author: Nicolas Martignoni
 type: post
 date: 2007-08-16T06:31:42+00:00
-url: /2007/08/le-brevet-e-learning-de-blackboard-a-du-plomb-dans-laile/
-yourls_shorturl:
-  - http://tinyurl.com/36f9qn8
+slug: le-brevet-e-learning-de-blackboard-a-du-plomb-dans-laile
 categories:
   - École, e-learning et ICT
 tags:

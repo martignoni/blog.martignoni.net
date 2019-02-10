@@ -3,9 +3,7 @@ title: Nouvelle version de Stellarium
 author: Nicolas Martignoni
 type: post
 date: 2010-02-23T20:48:45+00:00
-url: /2010/02/nouvelle-version-de-stellarium/
-yourls_shorturl:
-  - http://tinyurl.com/3af22py
+slug: nouvelle-version-de-stellarium
 categories:
   - Astronomie
   - Logiciel libre

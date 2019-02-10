@@ -3,13 +3,9 @@ title: Lorem iPad
 author: Nicolas Martignoni
 type: post
 date: 2010-04-03T08:51:14+00:00
-url: /2010/04/lorem-ipad/
-aktt_notify_twitter:
-  - yes
+slug: lorem-ipad
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://tinyurl.com/ybegkjm
 categories:
   - Humour
   - Technologie

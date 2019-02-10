@@ -3,9 +3,7 @@ title: Est-ce nous qui sommes stupides ?
 author: Nicolas Martignoni
 type: post
 date: 2010-03-01T20:03:19+00:00
-url: /2010/03/est-ce-nous-qui-sommes-stupides/
-yourls_shorturl:
-  - http://is.gd/ec0sN
+slug: est-ce-nous-qui-sommes-stupides
 categories:
   - École, e-learning et ICT
   - Web et normes

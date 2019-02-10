@@ -3,9 +3,7 @@ title: Blackboard maître du FUD
 author: Nicolas Martignoni
 type: post
 date: 2009-10-30T13:22:55+00:00
-url: /2009/10/blackboard-maitre-du-fud/
-yourls_shorturl:
-  - http://tinyurl.com/33pd3gr
+slug: blackboard-maitre-du-fud
 categories:
   - École, e-learning et ICT
 tags:

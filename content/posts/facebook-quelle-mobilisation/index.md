@@ -3,11 +3,7 @@ title: "Facebook : quelle mobilisation ?"
 author: Nicolas Martignoni
 type: post
 date: 2009-06-28T14:20:00+00:00
-url: /2009/06/facebook-quelle-mobilisation/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://tinyurl.com/2wuj2y4
+slug: facebook-quelle-mobilisation
 categories:
   - Sphère privée
 tags:

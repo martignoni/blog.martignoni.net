@@ -3,9 +3,7 @@ title: Moodle participe au « Summer of Code 2006 »
 author: Nicolas Martignoni
 type: post
 date: 2006-04-18T19:36:48+00:00
-url: /2006/04/moodle-participe-au-summer-of-code-2006/
-yourls_shorturl:
-  - http://is.gd/ed6Bf
+slug: moodle-participe-au-summer-of-code-2006
 categories:
   - École, e-learning et ICT
 tags:

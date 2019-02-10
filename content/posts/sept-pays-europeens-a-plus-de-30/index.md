@@ -3,9 +3,7 @@ title: Sept pays européens à plus de 30%
 author: Nicolas Martignoni
 type: post
 date: 2006-10-12T10:47:57+00:00
-url: /2006/10/sept-pays-europeens-a-plus-de-30/
-yourls_shorturl:
-  - http://is.gd/eci8T
+slug: sept-pays-europeens-a-plus-de-30
 categories:
   - Logiciel libre
   - Technologie

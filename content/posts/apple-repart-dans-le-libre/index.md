@@ -3,11 +3,7 @@ title: Apple repart dans le libre
 author: Nicolas Martignoni
 type: post
 date: 2006-08-09T10:13:51+00:00
-url: /2006/08/apple-repart-dans-le-libre/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://tinyurl.com/2w4ssp3
+slug: apple-repart-dans-le-libre
 categories:
   - Logiciel libre
 tags:

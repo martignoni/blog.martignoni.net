@@ -3,9 +3,7 @@ title: Un article sur le constructivisme
 author: Nicolas Martignoni
 type: post
 date: 2006-08-20T09:33:31+00:00
-url: /2006/08/un-article-sur-le-constructivisme/
-yourls_shorturl:
-  - http://tinyurl.com/2w72zgd
+slug: un-article-sur-le-constructivisme
 categories:
   - École, e-learning et ICT
 tags:

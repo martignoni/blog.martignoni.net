@@ -3,9 +3,7 @@ title: Les 10 mythes les plus colportés sur Moodle
 author: Nicolas Martignoni
 type: post
 date: 2006-04-20T20:50:27+00:00
-url: /2006/04/les-10-mythes-les-plus-colportes-sur-moodle/
-yourls_shorturl:
-  - http://is.gd/ecYb2
+slug: les-10-mythes-les-plus-colportes-sur-moodle
 categories:
   - École, e-learning et ICT
 tags:

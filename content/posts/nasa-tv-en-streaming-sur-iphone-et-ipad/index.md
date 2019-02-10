@@ -3,13 +3,9 @@ title: NASA TV en streaming sur iPhone et iPad
 author: Nicolas Martignoni
 type: post
 date: 2010-05-14T18:49:33+00:00
-url: /2010/05/nasa-tv-en-streaming-sur-iphone-et-ipad/
-aktt_notify_twitter:
-  - yes
+slug: nasa-tv-en-streaming-sur-iphone-et-ipad
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://tinyurl.com/33cgnje
 categories:
   - Astronomie
   - Technologie

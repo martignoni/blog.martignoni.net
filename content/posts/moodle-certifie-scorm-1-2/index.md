@@ -3,11 +3,7 @@ title: Moodle 1.9.5 certifié SCORM 1.2
 author: Nicolas Martignoni
 type: post
 date: 2009-10-16T13:21:15+00:00
-url: /2009/10/moodle-certifie-scorm-1-2/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://tinyurl.com/2u8ahxn
+slug: moodle-certifie-scorm-1-2
 categories:
   - École, e-learning et ICT
 tags:

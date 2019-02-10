@@ -3,13 +3,9 @@ title: Moodle 2.0 Preview Release 1
 author: Nicolas Martignoni
 type: post
 date: 2010-05-04T20:09:54+00:00
-url: /2010/05/moodle-2-0-preview-release-1/
-aktt_notify_twitter:
-  - yes
+slug: moodle-2-0-preview-release-1
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://tinyurl.com/2vavvmr
 categories:
   - École, e-learning et ICT
   - Logiciel libre

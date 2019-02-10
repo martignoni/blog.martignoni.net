@@ -3,9 +3,7 @@ title: "De l'humour absurde pour les geeks"
 author: Nicolas Martignoni
 type: post
 date: 2009-02-16T08:32:58+00:00
-url: /2009/02/de-lhumour-absurde-pour-les-geeks/
-yourls_shorturl:
-  - http://is.gd/ecjE4
+slug: de-lhumour-absurde-pour-les-geeks
 categories:
   - Humour
   - Technologie

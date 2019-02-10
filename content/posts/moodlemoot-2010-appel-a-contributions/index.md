@@ -3,11 +3,7 @@ title: "MoodleMoot 2010 : appel à contributions"
 author: Nicolas Martignoni
 type: post
 date: 2010-02-16T21:40:04+00:00
-url: /2010/02/moodlemoot-2010-appel-a-contributions/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://is.gd/ecc8D
+slug: moodlemoot-2010-appel-a-contributions
 categories:
   - École, e-learning et ICT
   - Logiciel libre

@@ -3,13 +3,9 @@ title: "MoodleMoot 2010 : les inscriptions sont ouvertes"
 author: Nicolas Martignoni
 type: post
 date: 2010-05-03T11:00:26+00:00
-url: /2010/05/moodlemoot-2010-les-inscriptions-sont-ouvertes/
-aktt_notify_twitter:
-  - yes
+slug: moodlemoot-2010-les-inscriptions-sont-ouvertes
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://tinyurl.com/3yvd98v
 categories:
   - École, e-learning et ICT
   - Logiciel libre

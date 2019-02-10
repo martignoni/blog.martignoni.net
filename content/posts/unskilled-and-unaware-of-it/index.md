@@ -3,9 +3,7 @@ title: Unskilled and unaware of it !
 author: Nicolas Martignoni
 type: post
 date: 2006-12-15T14:00:40+00:00
-url: /2006/12/unskilled-and-unaware-of-it/
-yourls_shorturl:
-  - http://tinyurl.com/3xmbylw
+slug: unskilled-and-unaware-of-it
 categories:
   - École, e-learning et ICT
 tags:

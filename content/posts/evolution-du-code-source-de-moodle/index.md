@@ -3,9 +3,7 @@ title: Évolution du code source de Moodle
 author: Nicolas Martignoni
 type: post
 date: 2009-06-22T14:42:06+00:00
-url: /2009/06/evolution-du-code-source-de-moodle/
-yourls_shorturl:
-  - http://tinyurl.com/npux7x
+slug: evolution-du-code-source-de-moodle
 categories:
   - Logiciel libre
   - Visualisation

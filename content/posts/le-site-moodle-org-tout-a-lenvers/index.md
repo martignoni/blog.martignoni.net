@@ -3,13 +3,9 @@ title: "Le site moodle.org tout à l'envers ;-)"
 author: Nicolas Martignoni
 type: post
 date: 2010-04-01T10:56:49+00:00
-url: /2010/04/le-site-moodle-org-tout-a-lenvers/
-aktt_notify_twitter:
-  - yes
+slug: le-site-moodle-org-tout-a-lenvers
 aktt_tweeted:
   - 1
-yourls_shorturl:
-  - http://is.gd/ec8YQ
 categories:
   - École, e-learning et ICT
   - Humour

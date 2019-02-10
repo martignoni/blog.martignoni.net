@@ -3,11 +3,7 @@ title: La protection des données selon Google
 author: Nicolas Martignoni
 type: post
 date: 2009-08-12T13:55:40+00:00
-url: /2009/08/la-protection-des-donnees-selon-google/
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://tinyurl.com/3949vao
+slug: la-protection-des-donnees-selon-google
 enclosure:
   - |
     |

@@ -3,11 +3,7 @@ title: La preuve de la stupidité des brevets logiciels
 author: Nicolas Martignoni
 type: post
 date: 2012-11-17T15:45:24+00:00
-url: /2012/11/la-preuve-de-la-stupidite-des-brevets-logiciels/
-yourls_shorturl:
-  - http://is.gd/kpMnLP
-yourls_tweeted:
-  - 1
+slug: la-preuve-de-la-stupidite-des-brevets-logiciels
 categories:
   - Citoyenneté
 tags:

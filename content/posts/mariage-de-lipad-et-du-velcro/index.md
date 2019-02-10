@@ -3,11 +3,7 @@ title: "Mariage de l'iPad et du Velcro"
 author: Nicolas Martignoni
 type: post
 date: 2010-05-29T11:01:43+00:00
-url: /2010/05/mariage-de-lipad-et-du-velcro/
-yourls_tweeted:
-  - 1
-yourls_shorturl:
-  - http://tinyurl.com/38owuov
+slug: mariage-de-lipad-et-du-velcro
 categories:
   - Humour
   - Technologie

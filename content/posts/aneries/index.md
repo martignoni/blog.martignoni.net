@@ -3,11 +3,7 @@ title: Âneries
 author: Nicolas Martignoni
 type: post
 date: 2011-12-30T16:08:24+00:00
-url: /2011/12/aneries/
-yourls_shorturl:
-  - http://is.gd/G1k4sD
-yourls_tweeted:
-  - 1
+slug: aneries
 categories:
   - Humour
   - Technologie

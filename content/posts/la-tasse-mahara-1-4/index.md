@@ -3,11 +3,7 @@ title: La tasse Mahara 1.4
 author: Nicolas Martignoni
 type: post
 date: 2011-08-09T18:59:58+00:00
-url: /2011/08/la-tasse-mahara-1-4/
-yourls_shorturl:
-  - http://is.gd/2eHPb8
-yourls_tweeted:
-  - 1
+slug: la-tasse-mahara-1-4
 categories:
   - Logiciel libre
 tags:

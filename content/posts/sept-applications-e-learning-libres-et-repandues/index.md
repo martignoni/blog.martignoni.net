@@ -3,9 +3,7 @@ title: Sept applications e-learning libres et répandues
 author: Nicolas Martignoni
 type: post
 date: 2009-10-04T20:14:38+00:00
-url: /2009/10/sept-applications-e-learning-libres-et-repandues/
-yourls_shorturl:
-  - http://is.gd/ecc28
+slug: sept-applications-e-learning-libres-et-repandues
 categories:
   - École, e-learning et ICT
   - Logiciel libre

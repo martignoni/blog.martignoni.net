@@ -3,11 +3,7 @@ title: MoodleMoot 2011 à Hammamet, Tunisie
 author: Nicolas Martignoni
 type: post
 date: 2010-12-09T20:09:47+00:00
-url: /2010/12/moodlemoot-2011-a-hammamet-tunisie/
-yourls_shorturl:
-  - http://is.gd/ismKN
-yourls_tweeted:
-  - 1
+slug: moodlemoot-2011-a-hammamet-tunisie
 categories:
   - École, e-learning et ICT
 tags:

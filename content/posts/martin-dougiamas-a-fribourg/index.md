@@ -3,11 +3,7 @@ title: Martin Dougiamas à Fribourg
 author: Nicolas Martignoni
 type: post
 date: 2010-08-10T20:41:27+00:00
-url: /2010/08/martin-dougiamas-a-fribourg/
-yourls_shorturl:
-  - http://is.gd/ebWIU
-yourls_tweeted:
-  - 1
+slug: martin-dougiamas-a-fribourg
 categories:
   - École, e-learning et ICT
   - Logiciel libre

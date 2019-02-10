@@ -3,11 +3,7 @@ title: Stellarium 0.10.5
 author: Nicolas Martignoni
 type: post
 date: 2010-06-06T15:11:35+00:00
-url: /2010/06/stellarium-0-10-5/
-yourls_tweeted:
-  - 1
-yourls_shorturl:
-  - http://tinyurl.com/3xurnrm
+slug: stellarium-0-10-5
 categories:
   - Astronomie
   - Logiciel libre

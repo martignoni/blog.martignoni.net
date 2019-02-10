@@ -3,11 +3,7 @@ title: Le site http://moodle.org/ tourne sur Moodle 2.0
 author: Nicolas Martignoni
 type: post
 date: 2010-10-03T18:37:18+00:00
-url: /2010/10/le-site-moodle-org-tourne-sur-moodle-2-0/
-yourls_shorturl:
-  - http://is.gd/fIMJl
-yourls_tweeted:
-  - 1
+slug: le-site-moodle-org-tourne-sur-moodle-2-0
 categories:
   - École, e-learning et ICT
   - Logiciel libre

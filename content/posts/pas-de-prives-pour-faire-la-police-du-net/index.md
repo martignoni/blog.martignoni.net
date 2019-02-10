@@ -3,11 +3,7 @@ title: Pas de privés pour faire la police du net
 author: Nicolas Martignoni
 type: post
 date: 2010-09-08T19:13:44+00:00
-url: /2010/09/pas-de-prives-pour-faire-la-police-du-net/
-yourls_shorturl:
-  - http://is.gd/f1h5I
-yourls_tweeted:
-  - 1
+slug: pas-de-prives-pour-faire-la-police-du-net
 categories:
   - Citoyenneté
   - Sphère privée

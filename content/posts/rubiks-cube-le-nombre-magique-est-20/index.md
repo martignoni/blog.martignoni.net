@@ -3,11 +3,7 @@ title: "Rubik's Cube, le nombre magique est 20"
 author: Nicolas Martignoni
 type: post
 date: 2010-08-09T21:12:38+00:00
-url: /2010/08/rubiks-cube-le-nombre-magique-est-20/
-yourls_tweeted:
-  - 1
-yourls_shorturl:
-  - http://is.gd/ebWqc
+slug: rubiks-cube-le-nombre-magique-est-20
 categories:
   - Maths
   - Technologie

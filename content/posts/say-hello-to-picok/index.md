@@ -3,9 +3,7 @@ title: Say hello to Picok !
 author: Nicolas Martignoni
 type: post
 date: 2009-06-13T04:00:31+00:00
-url: /2009/06/say-hello-to-picok/
-yourls_shorturl:
-  - http://is.gd/ebTJJ
+slug: say-hello-to-picok
 categories:
   - Logiciel libre
 tags:

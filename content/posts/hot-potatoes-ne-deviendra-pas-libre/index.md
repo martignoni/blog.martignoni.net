@@ -3,9 +3,7 @@ title: Hot Potatoes ne deviendra pas libre
 author: Nicolas Martignoni
 type: post
 date: 2009-09-18T17:45:42+00:00
-url: /2009/09/hot-potatoes-ne-deviendra-pas-libre/
-yourls_shorturl:
-  - http://is.gd/ebSuP
+slug: hot-potatoes-ne-deviendra-pas-libre
 categories:
   - École, e-learning et ICT
 tags:

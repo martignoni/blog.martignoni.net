@@ -3,9 +3,7 @@ title: "Journée mondiale de l'enseignant 2009"
 author: Nicolas Martignoni
 type: post
 date: 2009-10-05T12:13:50+00:00
-url: /2009/10/journee-mondiale-de-lenseignant-2009/
-yourls_shorturl:
-  - http://is.gd/echJ2
+slug: journee-mondiale-de-lenseignant-2009
 categories:
   - École, e-learning et ICT
 tags:

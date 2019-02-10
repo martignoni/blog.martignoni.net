@@ -3,12 +3,8 @@ title: Firefox est de plus en plus utilisé
 author: Nicolas Martignoni
 type: post
 date: 2006-05-11T09:14:25+00:00
-url: /2006/05/firefox-est-de-plus-en-plus-utilise/
+slug: firefox-est-de-plus-en-plus-utilise
 featured_image: /wp-content/uploads/2006/05/xiti-avril-06-1.gif
-aktt_notify_twitter:
-  - yes
-yourls_shorturl:
-  - http://is.gd/ec7ww
 categories:
   - Logiciel libre
 tags:

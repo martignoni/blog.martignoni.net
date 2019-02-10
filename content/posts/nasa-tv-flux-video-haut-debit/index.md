@@ -3,9 +3,7 @@ title: "NASA TV : flux vidéo haut débit"
 author: Nicolas Martignoni
 type: post
 date: 2010-04-04T17:57:07+00:00
-url: /2010/04/nasa-tv-flux-video-haut-debit/
-aktt_notify_twitter:
-  - yes
+slug: nasa-tv-flux-video-haut-debit
 aktt_tweeted:
   - 1
 enclosure:
@@ -15,8 +13,6 @@ enclosure:
         493
         video/x-ms-asf
         
-yourls_shorturl:
-  - http://tinyurl.com/yl2tmza
 categories:
   - Astronomie
   - Logiciel libre

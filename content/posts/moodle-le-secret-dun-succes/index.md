@@ -3,9 +3,7 @@ title: "Moodle, le secret d'un succès"
 author: Nicolas Martignoni
 type: post
 date: 2006-04-15T21:03:13+00:00
-url: /2006/04/moodle-le-secret-dun-succes/
-yourls_shorturl:
-  - http://tinyurl.com/35uayx9
+slug: moodle-le-secret-dun-succes
 categories:
   - École, e-learning et ICT
 tags:

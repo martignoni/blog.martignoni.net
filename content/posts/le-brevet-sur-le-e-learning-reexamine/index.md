@@ -3,9 +3,7 @@ title: Le brevet sur le e-Learning réexaminé
 author: Nicolas Martignoni
 type: post
 date: 2007-01-30T19:36:19+00:00
-url: /2007/01/le-brevet-sur-le-e-learning-reexamine/
-yourls_shorturl:
-  - http://is.gd/ebW12
+slug: le-brevet-sur-le-e-learning-reexamine
 categories:
   - École, e-learning et ICT
 tags:

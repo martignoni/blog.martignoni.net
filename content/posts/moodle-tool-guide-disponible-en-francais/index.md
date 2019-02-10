@@ -3,11 +3,7 @@ title: Moodle Tool Guide disponible en français
 author: Nicolas Martignoni
 type: post
 date: 2010-10-20T16:41:25+00:00
-url: /2010/10/moodle-tool-guide-disponible-en-francais/
-yourls_shorturl:
-  - http://is.gd/g9UuK
-yourls_tweeted:
-  - 1
+slug: moodle-tool-guide-disponible-en-francais
 categories:
   - École, e-learning et ICT
 tags:
