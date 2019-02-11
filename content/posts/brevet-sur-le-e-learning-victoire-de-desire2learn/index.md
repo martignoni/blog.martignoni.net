@@ -18,7 +18,7 @@ tags:
   - Sakai
 
 ---
-[<img class="size-full wp-image-192 alignright" title="Desire2Learn" src="Desire2Learn.gif" alt="Logo de Desire2Learn" width="212" height="58" />][1]
+{{< figure class="alignright" src="Desire2Learn.gif" alt="Logo de Desire2Learn" width="212" height="58" >}}
 
 Le blog de [Desire2Learn][1] a informé hier du [l'invalidation des 38 premières revendications][2] du brevet de Blackboard sur le e-learning. Rappelons que dans un premier temps, les 35 premières revendications avaient été [déjà jugées irrecevables][3]. Restent encore les revendications 39 à 44.
 

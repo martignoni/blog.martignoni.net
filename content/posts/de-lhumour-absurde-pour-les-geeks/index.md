@@ -16,11 +16,11 @@ Le site [XKCD][1] regorge d'authentiques perles d'humour absurde sur la conditio
 
 #### Flowchart
 
-[<img class="alignnone size-full wp-image-79" title="flow_charts" src="flow_charts.png" alt="flow_charts" width="601" height="433" srcset="flow_charts.png 740w, flow_charts-300x216.png 300w" sizes="(max-width: 601px) 100vw, 601px" />][3]
+[{{< figure class="alignnone wp-caption" src="flow_charts.png" alt="flow_charts" width="601" height="433" >}}][3]
 
 #### I'm an idiot
 
-[<img class="alignnone size-full wp-image-81" title="im_an_idiot" src="im_an_idiot.png" alt="im_an_idiot" width="600" height="354" srcset="im_an_idiot.png 654w, im_an_idiot-300x177.png 300w" sizes="(max-width: 600px) 100vw, 600px" />][4]
+[{{< figure class="alignnone wp-caption" src="im_an_idiot.png" alt="im_an_idiot" width="600" height="354" >}}][4]
 
  [1]: https://xkcd.com/
  [2]: https://fr.wikipedia.org/wiki/Geek

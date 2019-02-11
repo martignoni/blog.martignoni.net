@@ -19,7 +19,10 @@ tags:
 ---
 [Blackboard][1] a annoncé hier avoir [racheté deux partenaires][2] [Moodle][3] et [engagé][4] à une position dirigeante un des fondateurs du projet [Sakai][5]. En même temps, Blackboard a communiqué l'ouverture d'une nouvelle branche de son modèle commercial, les _[Blackboard Education Open Source Services][6]_, pour proposer des prestations de support aux utilisateurs de Moodle et de Sakai, par exemple de l'hébergement, du développement, de la formation, etc.
 
-[<img class="alignright size-medium" title="Logo Blackboard" src="Bb_logo-300x226.png" alt="Logo Blackboard" width="300" height="226" srcset="Bb_logo-300x226.png 300w, Bb_logo.png 614w" sizes="(max-width: 300px) 100vw, 300px" />][7]Ces trois annonces simultanées semblent une anticipation sur le 1er avril, au regard de l'histoire récente et des vaines attaques de Blackboard contre les projets de plateformes e-learning libres (voir l'affaire du brevet sur le e-learning).
+{{< figure src="Bb_logo.png" alt="Logo Blackboard" width="300" height="226" class="alignright" >}}
+
+<!-- [<img class="alignright size-medium" title="Logo Blackboard" src="Bb_logo-300x226.png" alt="Logo Blackboard" width="300" height="226" srcset="Bb_logo-300x226.png 300w, Bb_logo.png 614w" sizes="(max-width: 300px) 100vw, 300px" />] -->
+Ces trois annonces simultanées semblent une anticipation sur le 1er avril, au regard de l'histoire récente et des vaines attaques de Blackboard contre les projets de plateformes e-learning libres (voir l'affaire du brevet sur le e-learning).
 
 Qu'est-ce qui se cache derrière ce changement radical de stratégie, qui va plutôt dans le sens d'une diminution de la part de marché de son environnement d'apprentissage maison ? Quelles sont les véritables intentions de Blackboard, ou, pour le dire autrement, quels bénéfices compte y trouver l'entreprise de Washington ?
 
@@ -41,7 +44,6 @@ La protection des données de nos enfants est de ce fait dans l'Œil du cyclone 
  [4]: http://pages.blackboard.com/news-and-events/press-releases.aspx?releaseid=1676736
  [5]: https://sakaiproject.org/
  [6]: https://www.blackboard.com/services/blackboard-education-open-source-services.aspx
- [7]: Bb_logo.png
  [8]: http://pages.blackboard.com/news-and-events/press-releases/2012/blackboard-launches-open-source-services-group.aspx
  [9]: http://www.open-thoughts.com/2012/03/blackboard-to-offer-moodle-and-sakai-services-in-the-race-for-student-data/
  [10]: https://www.economist.com/special-report/2010/02/25/data-data-everywhere

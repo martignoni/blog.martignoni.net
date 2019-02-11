@@ -11,7 +11,11 @@ tags:
   - MoodleMoot
 
 ---
+{{< figure src="Logo-Moodle-Moot-2012.jpg" alt="Logo MoodleMoot 2012" width="300" height="263" class="alignright" >}}
+
+<!--
 [<img class="size-medium alignright" title="Logo MoodleMoot 2012" src="Logo-Moodle-Moot-2012-300x263.jpg" alt="MoodleMoot 2012" width="300" height="263" srcset="Logo-Moodle-Moot-2012-300x263.jpg 300w, Logo-Moodle-Moot-2012.jpg 536w" sizes="(max-width: 300px) 100vw, 300px" />][1]À vos plumes et claviers !
+ -->
 
 Les propositions de communications pour l'[édition 2012 du MoodleMoot][1] sont attendues avant le 19 mars 2012.
 
