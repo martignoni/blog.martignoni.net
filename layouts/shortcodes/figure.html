@@ -1,5 +1,5 @@
 {{ $image_src := .Get "src" }}
-{{ $imgurl := ($.Page.Resources.ByType "image").GetMatch (printf "%s*" $image_src) }}
+{{ $imgurl := index (($.Page.Resources.ByType "image").Match (printf "%s*" $image_src)) 0 }}
 <figure{{ with .Get "class" }} class="{{.}}"{{ end }}>
 {{ if .Get "link"}}<a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>{{ end }}
 <img src="{{ $imgurl.Permalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}" {{ end }}{{ with .Get "width" }}width="{{.}}" {{ end }}{{ with .Get "height" }}height="{{.}}" {{ end }}/>
