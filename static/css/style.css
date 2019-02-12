@@ -136,8 +136,8 @@ dfn {
 }
 
 mark {
-	background-color: #eee;
-	color: #222;
+	background-color: #ffc4c4;
+	/* color: #222; */
 }
 
 small {
@@ -552,7 +552,7 @@ acronym {
 
 mark,
 ins {
-	background: #eee;
+	background: #ffc4c4;
 	text-decoration: none;
 }
 
