@@ -1,0 +1,31 @@
+<aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="site-content">
+        <div class="wrap row">
+          <div class="half">
+            <h1>{{ i18n "searchTitle" }}</h1>
+          </div>
+          <div class="half col-search-close">
+            <a class="js-search" href="#"><i class="fa fa-times-circle text-muted" aria-hidden="true"></i></a>
+          </div>
+        </div>
+        <div id="search-box" class="wrap">
+          <input name="q" id="search-query" placeholder="{{i18n "searchPlaceholder"}}" autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        </div>
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div class="site-content">
+        <div id="search-hits" class="wrap">
+          <!-- Search results will appear here -->
+        </div>
+      </div>
+
+    </section>
+  </div>
+</aside>

@@ -1,8 +1,7 @@
+{{ partial "search" . }}
 <a class="skip-link screen-reader-text" href="#content">{{ i18n "toMainContent" }}</a>
 <header id="masthead" class="site-header" role="banner">
   <div class="custom-header">
-
-    <div class="custom-header-media"></div>
 
     <div class="site-branding">
       <div class="wrap">
@@ -13,6 +12,10 @@
             <p class="site-description">{{ . }}</p>
           {{ end }}
         </div><!-- .site-branding-text -->
+
+        <div class="site-search-button">
+          <a class="js-search" href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+        </div><!-- .site-search-button -->
 
       </div><!-- .wrap -->
     </div><!-- .site-branding -->

@@ -1559,6 +1559,7 @@ body {
 .site-header {
 	background-color: #fafafa;
 	position: relative;
+  z-index: 100;
 }
 
 /* Site branding */
