@@ -71,7 +71,8 @@ a[data-fancybox] {
 }
 
 a[data-fancybox] img {
-  height: 250px;
+  /* height: 250px; */
+  width: 250px;
   max-width: inherit;
   display: inherit;
   margin: 0;
