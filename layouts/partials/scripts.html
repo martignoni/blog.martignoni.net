@@ -6,9 +6,9 @@
   <script>
     const search_index_filename = {{ "/index.json" | relLangURL }};
     const i18n = {
-      'placeholder': {{ i18n "search_placeholder" }},
-      'results': {{ i18n "search_results" }},
-      'no_results': {{ i18n "search_no_results" }}
+      'placeholder': {{ i18n "searchPlaceholder" }},
+      'results': {{ i18n "searchResults" }},
+      'no_results': {{ i18n "searchNoResults" }}
     };
     const content_type = {
       'post': {{ i18n "posts" }},
@@ -24,7 +24,7 @@
     <div class="search-hit-content">
       <div class="search-hit-name">
         {{ printf "<a href=\"%s\">%s</a>" "{{relpermalink}}" "{{title}}" | safeHTML }}
-        <div class="article-metadata search-hit-type">{{"{{type}}"}}</div>
+        <!-- <div class="article-metadata search-hit-type">{{"{{type}}"}}</div> -->
         <p class="search-hit-description">{{"{{snippet}}"}}</p>
       </div>
     </div>

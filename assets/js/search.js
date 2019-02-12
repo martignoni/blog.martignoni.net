@@ -11,21 +11,21 @@ let fuseOptions = {
   shouldSort: true,
   includeMatches: true,
   tokenize: true,
-  threshold: 0.0,
+  threshold: 0.2,
   location: 0,
   distance: 100,
   maxPatternLength: 32,
   minMatchCharLength: 2,
   keys: [
-    {name:'title', weight:0.8},
-    {name:'summary', weight:0.6},
+    {name:'title', weight:0.9},
+    {name:'summary', weight:0.7},
     {name:'content', weight:0.5},
-    {name:'tags', weight:0.3}
+    {name:'tags', weight:0.5}
   ]
 };
 
 // Configure summary.
-let summaryLength = 60;
+let summaryLength = 150;
 
 /* ---------------------------------------------------------------------------
 * Functions.
@@ -69,7 +69,7 @@ function searchBlog(query, fuse) {
   // console.log({"results": results});
 
   if (results.length > 0) {
-    $('#search-hits').append('<h3 class="mt-0">' + results.length + ' ' + i18n.results + '</h3>');
+    $('#search-hits').append('<h2 class="">' + results.length + ' ' + i18n.results + '</h2>');
     parseResults(query, results);
   } else {
     $('#search-hits').append('<div class="search-no-results">' + i18n.no_results + '</div>');

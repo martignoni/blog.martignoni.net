@@ -30,6 +30,16 @@
   translation: "Recherche"
 - id: searchPlaceholder
   translation: Recherche...
+- id: searchDocTitle
+  translation: "Recherche dans la documentation"
+- id: searchDocVerb
+  translation: "Rechercher dans la documentation..."
+- id: searchButton
+  translation: "Rechercher"
+- id: searchResults
+  translation: "articles trouvés"
+- id: searchNoResults
+  translation: "Aucun article trouvé"
 - id: tagsTitle
   translation: "Tags"
 - id: continueReading
@@ -72,12 +82,6 @@
   translation: "Montant personnalisé"
 - id: donateNow
   translation: "Faire un don maintenant"
-- id: searchDocTitle
-  translation: "Recherche dans la documentation"
-- id: searchDocVerb
-  translation: "Rechercher dans la documentation..."
-- id: searchButton
-  translation: "Rechercher"
 - id: collapseArticles
   translation: "Replier les articles"
 - id: showAllArticles
