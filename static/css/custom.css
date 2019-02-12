@@ -18,28 +18,11 @@ blockquote > p {
   display: none;
 }
 
-.widget_aptf_widget a {
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  text-decoration: none;
-  -webkit-transition: none;
-  transition: none;
+.has-sidebar.single.post #secondary {
+  padding-top: 14px;
 }
 
-.qtip-content a {
-  -webkit-box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 1);
-  box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 1);
-  -webkit-transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
-  transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
-  transition: color 80ms ease-in, box-shadow 130ms ease-in-out;
-  transition: color 80ms ease-in, box-shadow 130ms ease-in-out, -webkit-box-shadow 130ms ease-in-out;
-}
-
-.qtip-content a:hover {
-  color: #000;
-  -webkit-box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
-  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
-}
+/* Lists. */
 
 #primary ul {
   list-style: none;
