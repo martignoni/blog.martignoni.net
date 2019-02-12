@@ -19,7 +19,8 @@
 
 {{ define "main" }}
 
-  {{ range .Paginator.Pages }}
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  {{ range $paginator.Pages }}
     {{- partial "page-summary" . -}}
   {{ end }}
 
