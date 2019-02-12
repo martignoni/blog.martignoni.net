@@ -1,3 +1,48 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js" integrity="sha256-x4elcEZhSRoId3IcqTS2aqJqxw+KjquMzEjIbIakFVY=" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  {{/* Configure search engine. */}}
+  <script>
+    const search_index_filename = {{ "/index.json" | relLangURL }};
+    const i18n = {
+      'placeholder': {{ i18n "search_placeholder" }},
+      'results': {{ i18n "search_results" }},
+      'no_results': {{ i18n "search_no_results" }}
+    };
+    const content_type = {
+      'post': {{ i18n "posts" }},
+      'project': {{ i18n "projects" }},
+      'publication' : {{ i18n "publications" }},
+      'talk' : {{ i18n "talks" }}
+      };
+  </script>
+
+  {{/* Fuse search result template. */}}
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{"{{key}}"}}">
+    <div class="search-hit-content">
+      <div class="search-hit-name">
+        {{ printf "<a href=\"%s\">%s</a>" "{{relpermalink}}" "{{title}}" | safeHTML }}
+        <div class="article-metadata search-hit-type">{{"{{type}}"}}</div>
+        <p class="search-hit-description">{{"{{snippet}}"}}</p>
+      </div>
+    </div>
+    </div>
+  </script>
+
+  {{/* Fuse search engine. */}}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.2/fuse.min.js" integrity="sha256-MZrTrdN1BIa3TcPV8ef6frM6x+rD/mBV92qQMqzg1c8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+
+  {{ if .Site.IsServer }}
+    {{ $customJS := resources.Get "js/custom.js" }}
+    {{ $searchJS := resources.Get "js/search.js" }}
+    <script src="{{ $customJS.Permalink }}"></script>
+    <script src="{{ $searchJS.Permalink }}"></script>
+  {{ else }}
+    {{ $customJS := resources.Get "js/custom.js" | minify | fingerprint }}
+    {{ $searchJS := resources.Get "js/search.js" | minify | fingerprint }}
+    <script src="{{ $customJS.Permalink }}" integrity="{{ $customJS.Data.Integrity }}"></script>
+    <script src="{{ $searchJS.Permalink }}" integrity="{{ $searchJS.Data.Integrity }}"></script>
+  {{ end }}

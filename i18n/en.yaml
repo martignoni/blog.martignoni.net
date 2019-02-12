@@ -28,6 +28,8 @@
   translation: "Categories"
 - id: searchTitle
   translation: "Search"
+- id: searchPlaceholder
+  translation: Search...
 - id: tagsTitle
   translation: "Tags"
 - id: continueReading
