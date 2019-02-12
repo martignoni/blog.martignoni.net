@@ -26,7 +26,9 @@
     {{ if .IsHome }} {{ partial "site-verification" . }} {{ end }}
     {{ template "_internal/google_analytics_async.html" . }}
     {{ if .RSSLink }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{ end }}
+    <link rel="alternate" href="{{ .RSSLink | default .Site.RSSLink  }}" type="application/rss+xml" title="{{ .Site.Title }}">
+    <link rel="feed" href="{{ .RSSLink | default .Site.RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
+    {{ end }}
 
     <link rel="canonical" href="{{ .Permalink }}"> {{ if (isset .Params "prev") }}
     <link rel="prev" href="{{ .Params.prev }}"> {{ end }} {{ if (isset .Params "next") }}
@@ -34,6 +36,7 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/blocks.css">
     <link rel="stylesheet" href="/css/custom.css">
