@@ -3,14 +3,15 @@ title: À propos
 author: Nicolas Martignoni
 type: page
 date: 2006-04-16T19:58:28+00:00
+lastmod: 2019-02-13
 
 ---
-Le blog _Perspectives_ offre des informations et points de vue sur la numérisation de la société, l'apprentissage et l'enseignement en ligne, l'intégration des technologies de l'information et de la communication dans l'enseignement et le logiciel libre. D'autres thèmes y sont également abordés occasionnellement.
+Le site _Perspectives_ est écrit et produit par [Nicolas Martignoni](#l-auteur).
 
 ## L'auteur
 
 {{< figure class="alignright" src="nicolas.jpg" alt="Nicolas Martignoni" width="167" height="226" >}}
-Depuis plusieurs décennies, Nicolas Martignoni est actif dans la conception et le développement des ICT, en particulier pour les écoles du canton de Fribourg en Suisse. Dès 2001, il a été collaborateur du [Centre fri-tic](https://www.fri-tic.ch/), puis professeur en intégration des ICT à la [Haute École pédagogique de Fribourg](https://hepfr.ch/), et de 2008 à 2017, directeur du [Centre fri-tic](https://www.fri-tic.ch/). Depuis 2017, il est professeur de mathématiques au [Gymnase intercantonal de la Broye](https://www.gyb.ch/) et conseiller en ICT auprès de la [Direction de l'instruction publique, de la culture et du sport](https://www.fr.ch/dics/) du canton de Fribourg.
+Depuis plusieurs décennies, Nicolas Martignoni est actif dans la conception et le développement des ICT, en particulier pour les écoles du canton de Fribourg en Suisse. Dès 2001, il a été collaborateur du [Centre fri-tic](https://www.fri-tic.ch/), puis professeur en intégration des ICT à la [Haute École pédagogique de Fribourg](https://hepfr.ch/), et de 2008 à 2017, directeur du [Centre fri-tic](https://www.fri-tic.ch/). Depuis 2017, il est professeur de mathématiques au [Gymnase intercantonal de la Broye](https://www.gyb.ch/), conseiller en ICT auprès de la [Direction de l'instruction publique, de la culture et du sport](https://www.fr.ch/dics/) du canton de Fribourg et formateur d'adultes indépendant.
 
 Nicolas Martignoni est le coordinateur de la communauté francophone des utilisateurs de [Moodle](https://moodle.org) depuis 2003. Il est également le traducteur principal de Moodle en français.
 
@@ -38,7 +39,7 @@ Martignoni N., _Données personnelles, faut-il être paranoïaque ?_, in Scuola
 
 Mathez J., Fahrni N., Fischer C., Standtke R., Schwab S., Bouverat M., Martignoni N., Genner S., Süss D., _Compétences MITIC à l'école_, Office fédéral des assurances sociales, Berne, 2e édition, 2017.
 
-## Licence<a id="licence"></a>
+## Licence
 
 [{{< figure class="alignright"  src="cc-by-nc-sa.png" alt="Licence Creative Commons" >}}][3]
 Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International][3]. Si vous avez des questions sur l'utilisation commerciale des textes ou des photographies originales de ce site, veuillez me contacter.
