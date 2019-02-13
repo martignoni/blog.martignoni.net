@@ -219,8 +219,10 @@ body:not(.title-tagline-hidden) .site-search-button {
 }
 
 .form-control:focus {
+/*
   border-color: {{ .Get "primary" }};
   box-shadow: 0 0 0 .2rem {{ .Get "primary_light" }};
+ */
 }
 
 .search-hit h2 {
