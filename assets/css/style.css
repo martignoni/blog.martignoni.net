@@ -2138,7 +2138,8 @@ body:not(.twentyseventeen-front-page) .entry-header {
 }
 
 .entry-footer .cat-links,
-.entry-footer .tags-links {
+.entry-footer .tags-links,
+.entry-footer .permalink {
 	display: block;
 	font-size: 11px;
 	font-size: 0.6875rem;
@@ -2149,17 +2150,20 @@ body:not(.twentyseventeen-front-page) .entry-header {
 	text-transform: uppercase;
 }
 
-.entry-footer .cat-links + .tags-links {
+.entry-footer .cat-links + .tags-links,
+.entry-footer .tags-links + .permalink {
 	margin-top: 1em;
 }
 
 .entry-footer .cat-links a,
-.entry-footer .tags-links a {
+.entry-footer .tags-links a,
+.entry-footer .permalink a {
 	color: #333;
 }
 
 .entry-footer .cat-links .icon,
-.entry-footer .tags-links .icon {
+.entry-footer .tags-links .icon,
+.entry-footer .permalink .icon {
 	color: #767676;
 	left: 0;
 	margin-right: 0.5em;

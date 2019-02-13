@@ -26,6 +26,8 @@
   translation: "Go to homepage"
 - id: navToggle
   translation: "Toggle Navigation"
+- id: permalink
+  translation: "Permalink"
 - id: categoriesTitle
   translation: "Categories"
 - id: searchTitle

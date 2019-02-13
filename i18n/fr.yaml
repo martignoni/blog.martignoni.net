@@ -26,6 +26,8 @@
   translation: "Aller à la page d'accueil"
 - id: navToggle
   translation: "Afficher/masquer la navigation"
+- id: permalink
+  translation: "Permalien"
 - id: categoriesTitle
   translation: "Catégories"
 - id: searchTitle
