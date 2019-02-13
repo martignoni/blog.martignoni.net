@@ -1,7 +1,7 @@
 baseurl: https://blog.martignoni.net/
 title: Perspectives
-#theme:
-#  - hugo-bulma
+theme:
+  - hugo-cloak-email
 languageCode: fr-ch
 # Set site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage: fr
