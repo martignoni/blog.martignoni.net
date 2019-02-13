@@ -12,18 +12,19 @@ footnoteReturnLinkContents: ↩
 # Set number of posts per page.
 paginate: 5
 
-# Enable robots.txt generation
+# Enable robots.txt generation.
 enableRobotsTXT: true
+
+# Open absolute links in a new window or tab.
+#hrefTargetBlank: true
 
 #googleAnalytics:
 #disqusShortname:
 
-# Enable menu system for lazy bloggers
+# Enable menu system for lazy bloggers.
 SectionPagesMenu: main
 
 params:
-  # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
-  theme_variant:
   description: Nicolas Martignoni
   powered_by: love
   hide_author: false

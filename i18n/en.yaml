@@ -1,5 +1,7 @@
 - id: home
   translation: "Home"
+- id: menuTitle
+  translation: "Menu"
 - id: templateBy
   translation: "Template by"
 - id: portedBy
@@ -52,6 +54,8 @@
   translation: "By"
 - id: recentPosts
   translation: "Recent articles"
+- id: archives
+  translation: "Archives"
 - id: aboutUs
   translation: "About"
 - id: newer
@@ -106,6 +110,8 @@
   translation: "Info"
 - id: tip
   translation: "Tip"
+- id: RSSFeed
+  translation: "Flux RSS"
 - id: lastUpdated
   translation: "Last updated:"
 - id: seeAllDoc
