@@ -43,7 +43,7 @@
           <span>{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " }}</span>
         {{ end }}
       </span>
-      <span class="tags-links"><i class="icon fa fa-hashtag" aria-hidden="true"></i>
+      <span class="tags-links"><i class="icon fa fa-tags" aria-hidden="true"></i>
         <span class="screen-reader-text">{{ i18n "tagsTitle" }}</span>
         {{ with .Params.tags }}
           <span>{{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " }}</span>

@@ -2164,7 +2164,8 @@ body:not(.twentyseventeen-front-page) .entry-header {
 	left: 0;
 	margin-right: 0.5em;
 	position: absolute;
-	top: 2px;
+	font-size: 1rem;
+	top: 0px;
 }
 
 .entry-footer .edit-link {
