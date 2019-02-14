@@ -34,7 +34,7 @@ params:
 
   # Enable Matomo analytics by entering your tracking code
   matomoAnalytics:
-    siteid: 2
+    siteid: 4
     matomoroot: "stats.martignoni.net" # Do not add slashes
 
 outputs:
