@@ -2,6 +2,6 @@ User-agent: *
 
 {{- range where .Data.Pages "Params.robotsdisallow" true }}
 Disallow: {{ .RelPermalink }}
-{{ end -}}
+{{ end }}
 
 Sitemap: {{ "sitemap.xml" | absLangURL }}
