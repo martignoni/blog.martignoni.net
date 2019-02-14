@@ -1,0 +1,35 @@
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+{{ define "body-classes" }}archive has-sidebar{{ end }}
+{{ define "page-header" }}
+<header class="page-header"><h2 class="page-title">Précédemment publié sur Perspectives</h2></header>
+{{ end }}
+
+{{ define "widgets-column" }}
+  {{ partial "widgets/recent" . }}
+  {{ partial "widgets/menu" . }}
+{{ end }}
+
+{{ define "main" }}
+
+  {{ range (.Site.Pages.GroupByPublishDate "2006-01") }}
+    {{ $date := time (printf "%s%s" .Key "-01") }}
+    <h4>{{ humanize (i18n $date.Month) }} {{ $date.Format "2006" }}</h4>
+    <ul>
+      {{ range (where .Pages "Type" "post") }}
+      <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <div class="meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
+          <span class="date-day">{{ .Date.Format "2" }}</span>
+          <span class="date-month">{{ default .Date (i18n .Date.Month) }}</span>
+          <span class="date-year">{{ .Date.Format "2006" }}</span>
+        </time>
+      </div>
+      </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}
+
+{{ define "footer" }}{{ partial "footer" . }}{{ end }}

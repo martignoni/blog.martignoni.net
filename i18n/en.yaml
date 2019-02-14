@@ -56,8 +56,8 @@
   translation: "By"
 - id: recentPosts
   translation: "Recent articles"
-- id: archives
-  translation: "Archives"
+- id: archive
+  translation: "Archive"
 - id: aboutUs
   translation: "About"
 - id: newer
