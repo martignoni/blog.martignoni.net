@@ -13,21 +13,23 @@
 
   {{ range (.Site.Pages.GroupByPublishDate "2006-01") }}
     {{ $date := time (printf "%s%s" .Key "-01") }}
+    <section class="archive-group">
     <h4>{{ humanize (i18n $date.Month) }} {{ $date.Format "2006" }}</h4>
     <ul>
       {{ range (where .Pages "Type" "post") }}
       <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      <div class="meta">
+      <span class="link">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </span>
+      <span class="meta">
         <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
-          <span class="date-day">{{ .Date.Format "2" }}</span>
-          <span class="date-month">{{ default .Date (i18n .Date.Month) }}</span>
-          <span class="date-year">{{ .Date.Format "2006" }}</span>
+          <span class="date-day">{{ .Date.Format "2" }}</span> <span class="date-month">{{ default .Date (i18n .Date.Month) }}</span> <span class="date-year">{{ .Date.Format "2006" }}</span>
         </time>
-      </div>
+      </span>
       </li>
       {{ end }}
     </ul>
+    </section>
   {{ end }}
 
 {{ end }}

@@ -47,6 +47,51 @@ blockquote > p {
   width: 1.5em;
 }
 
+/* archive lists */
+
+#primary section.archive-group {
+  font-size: .9375rem;
+  padding: 0 0 1.5em 0;
+}
+
+#primary .archive-group h4 {
+  margin: 0 0 0.25em;
+}
+
+#primary .archive-group ul,
+#primary .archive-group ol {
+  list-style: none;
+  text-indent: 0;
+  margin: 0;
+}
+
+#primary .archive-group ul li,
+#primary .archive-group ol li {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 0 0 .25em 0;
+}
+
+#primary .archive-group ul li .link,
+#primary .archive-group ol li .link {
+  padding-right: 1.5em;
+}
+
+#primary .archive-group ul li:before {
+  content: "";
+}
+
+#primary .archive-group ul li a:hover {
+  color: #000;
+  -webkit-box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+}
+
+#primary .archive-group ul li .meta {
+  font-style: italic;
+  color: #666;
+}
+
 /* Gallery. */
 
 .gallery {
