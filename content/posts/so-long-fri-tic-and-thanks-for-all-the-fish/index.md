@@ -4,8 +4,6 @@ author: Nicolas Martignoni
 type: post
 date: 2017-07-31T16:19:34+00:00
 slug: so-long-fri-tic-and-thanks-for-all-the-fish
-categories:
-  - Non classé
 
 ---
 C'est aujourd'hui 31 juillet 2017 mon dernier jour comme responsable du [Centre fri-tic][1]. Après 7 années comme collaborateur, puis plus de 9 ans à la direction du Centre, il est temps de tirer ma révérence et d'écrire un message d'au revoir.
