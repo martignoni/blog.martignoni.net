@@ -1,4 +1,9 @@
 /* Vous pouvez ajouter du CSS personnalisé ici. */
+.entry-header .entry-summary {
+  margin-top: 0.25em;
+  font-size: .9375rem;
+}
+
 blockquote {
   font-size: inherit;
   line-height: inherit;

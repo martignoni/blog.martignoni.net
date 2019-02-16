@@ -5,8 +5,8 @@
 
     <h3 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" itemprop="headline">{{ .Title }}</a></h3>
 
-    {{ if .Description }}
-    <span itemprop="about"><em>{{ .Description }}</em></span>
+    {{ with .Description }}
+    <div class="entry-summary" itemprop="about"><em>{{ . | markdownify }}</em></div>
     {{ end }}
 
   </header> <!-- .entry-header -->

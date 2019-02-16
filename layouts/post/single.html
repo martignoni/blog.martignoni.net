@@ -24,13 +24,13 @@
   <header class="entry-header">
     <div class="entry-title">
       <h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
-      {{ if .Description }}
-        <span itemprop="description"><em>{{ .Description }}</em></span>
-      {{ end }}
     </div> <!-- .entry-title -->
     <div class="entry-meta">
       <a href="{{ .Permalink }}">{{ partial "post/meta" . }}</a>
     </div> <!-- .entry-meta -->
+    {{ with .Description }}
+      <div class="entry-summary" itemprop="description"><em>{{ . | markdownify }}</em></div>
+    {{ end }}
   </header> <!-- .entry-header -->
   <div class="entry-content">
     {{.Content}}
