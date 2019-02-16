@@ -4,6 +4,7 @@ author: Nicolas Martignoni
 type: post
 date: 2019-02-15
 slug: pourquoi-la-science-informatique-a-lecole
+description: Les bons arguments pour enseigner la science informatique à l'école ne sont peut-être pas ceux auxquels on pense. Texte de la conférence donnée à l'occasion de la journée de formation romande [ForMITIC](http://f3romand.educanet2.ch) du 2 février 2019.
 categories:
   - Citoyenneté
   - informatique
@@ -15,7 +16,6 @@ tags:
   - Algorithme
   - Pédagogie
 ---
-_Texte de la conférence donnée à l'occasion de la journée de formation romande [ForMITIC](http://f3romand.educanet2.ch) du 2 février 2019_
 
 Le thème d'aujourd'hui est d'une brûlante actualité. Il ne se passe pas une journée sans que l'on parle d'intelligence artificielle, de drones de surveillance automatique, de robots, d'exploitation de données massives (_big data_), de failles dans la sécurité informatique, de scandales liés à la vente de données personnelles par des entreprises peu soucieuses de légalité ou encore de fuites de telles données, etc. Tous ces sujets ont bien sûr un lien direct avec le traitement de l'information sous forme numérique.
 
