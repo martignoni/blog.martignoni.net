@@ -25,10 +25,9 @@ enableRobotsTXT: true
 SectionPagesMenu: main
 
 params:
-  description: Nicolas Martignoni
-  powered_by: love
-  hide_author: false
-  images: []
+  description: Enseignant, spécialiste du e-learning, expert en numérisation, fan de Moodle et geek du logiciel libre. Je développe et maintiens la MoodleBox.
+  author: Nicolas Martignoni
+  powered_by:
   github: martignoni
   twitter: nmartignoni
 

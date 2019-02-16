@@ -8,11 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-
-  {{ with .Description }}
-  <meta name="description" content="{{ . | markdownify }}">
-  {{ end }}
-    {{ $default_noindex_kinds := slice "section" "taxonomy" "taxonomyTerm" }}
+  <meta name="description" content="{{ partial "description" . }}">
+  {{ $default_noindex_kinds := slice "section" "taxonomy" "taxonomyTerm" }}
   {{ $noindex_kinds := .Site.Params.noindex_kinds | default $default_noindex_kinds }}
   {{ $is_noindex_true := and (isset .Params "noindex") .Params.noindex }}
   {{ if or (in $noindex_kinds .Kind) ($is_noindex_true) }}
