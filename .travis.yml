@@ -3,8 +3,6 @@ sudo: required
 language: node_js
 node_js:
   - "lts/*"
-go:
-  - master
 
 before_install:
   # This workaround is required to avoid libstdc++ errors while running "extended" hugo with SASS support.
