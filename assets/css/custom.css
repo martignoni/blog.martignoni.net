@@ -28,8 +28,8 @@ blockquote > p {
 }
 
 .widget_menu a .icon {
-  width: 1.25em;
   font-size: 1.1875rem;
+  margin-right: 0.25em;
 }
 
 /* Lists. */
