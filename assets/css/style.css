@@ -527,7 +527,7 @@ pre {
 	background: #eee;
 	font-family: "Courier 10 Pitch", Courier, monospace;
 	font-size: 15px;
-	font-size: 0.9375rem;
+	font-size: 0.875rem;
 	line-height: 1.6;
 	margin-bottom: 1.6em;
 	max-width: 100%;
@@ -541,7 +541,7 @@ tt,
 var {
 	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
 	font-size: 15px;
-	font-size: 0.9375rem;
+	font-size: 0.875rem;
 }
 
 abbr,
