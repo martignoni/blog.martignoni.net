@@ -542,6 +542,8 @@ var {
 	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
 	font-size: 15px;
 	font-size: 0.875rem;
+	color: #555;
+	background-color: #f0f0f0;
 }
 
 abbr,
