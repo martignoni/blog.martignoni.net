@@ -529,10 +529,11 @@ pre {
 	font-size: 15px;
 	font-size: 0.875rem;
 	line-height: 1.6;
-	margin-bottom: 1.6em;
+	margin-top: 0.8em;
+	margin-bottom: 1.2em;
 	max-width: 100%;
 	overflow: auto;
-	padding: 1.6em;
+	padding: 1em 1.4em;
 }
 
 code,
