@@ -127,7 +127,7 @@ L'enseignement de la science informatique dans le écoles va ainsi bien au-delà
 
 - Non, connaître quelques bribes du fonctionnement d'Internet ne fera pas de chaque élève le prochain Jeff Bezos. Mais cela lui permettra de prendre des mesures de sécurité pour lui éviter des problèmes.
 
-- Non, comprendre quelles (méta-)données qui peuvent être récoltées à son insu par l'analyse de son comportement sur Internet ne rendra personne invulnérable. Mais il permettra de comprendre qu'un algorithme n'est pas vraiment neutre, et qu'il peut être utilisé à des fins louables tout comme pour des buts néfastes.
+- Non, comprendre quelles (méta-)données qui peuvent être récoltées à son insu par l'analyse de son comportement sur Internet ne rendra personne invulnérable. Mais cela permettra de comprendre qu'un algorithme n'est pas vraiment neutre, et qu'il peut être utilisé à des fins louables tout comme pour des buts néfastes.
 
 - Non, les méthodes de la science informatique ne donnent pas une recette magique permettant d'aborder, ni de résoudre tous les problèmes. Mais la connaissance des limites de ces méthodes permet aussi de reconnaître l'importance d'autres façons de penser, pour les problèmes complexes en particulier.
 
