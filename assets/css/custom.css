@@ -39,11 +39,20 @@ blockquote > p {
   margin-left: 1.5em;
   padding-left: 0;
   text-indent: -1.5em;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 #primary ol {
   margin-left: 1.5em;
-  padding-left: 0.5em;}
+  padding-left: 0.5em;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
 
 #primary ul li:before {
   content: "–";

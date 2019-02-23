@@ -492,6 +492,10 @@ h6 {
 p {
 	margin: 0 0 1.5em;
 	padding: 0;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 dfn,
