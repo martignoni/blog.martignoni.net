@@ -1,8 +1,8 @@
 {{ $image_src := .Get "src" }}
 {{ $imgurl := index (($.Page.Resources.ByType "image").Match (printf "%s*" $image_src)) 0 }}
-<figure{{ with .Get "class" }} class="{{.}}"{{ end }}>
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }} itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 {{ if .Get "link"}}<a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>{{ end }}
-<img src="{{ $imgurl.Permalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}" {{ end }}{{ with .Get "width" }}width="{{.}}" {{ end }}{{ with .Get "height" }}height="{{.}}" {{ end }}/>
+<img src="{{ $imgurl.Permalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{ . }}{{else}}{{ .Get "caption" }}{{ end }}" {{ end }}{{ with .Get "width" }}width="{{ . }}" {{ end }}{{ with .Get "height" }}height="{{ . }}" {{ end }}/>
 {{ if .Get "link"}}</a>{{ end }}
 {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
 {{ $figure := split (i18n "figure" | default "Figure %d:") "%d" }}
@@ -10,7 +10,7 @@
   {{ if isset .Params "title" }}<p><em>{{ .Get "title" | markdownify | emojify }}</em></p>{{ end }}
   {{ if or (.Get "caption") (.Get "attr")}}<p>
     {{ .Get "caption" | markdownify | emojify }}
-    {{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
+    {{ with .Get "attrlink"}}<a href="{{ . }}"> {{ end }}
     {{ .Get "attr" }}
     {{ if .Get "attrlink"}}</a> {{ end }}
   </p> {{ end }}
