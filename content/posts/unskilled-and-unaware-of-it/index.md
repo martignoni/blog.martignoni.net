@@ -19,6 +19,6 @@ Cette article tend à montrer que l'incompétence n'est pas seulement la cause d
 
 Voir le [PDF de l'article][1].
 
- [1]: https://www.avaresearch.com/files/UnskilledAndUnawareOfIt.pdf
+ [1]: UnskilledAndUnawareOfIt.pdf
 
 <!--more-->
