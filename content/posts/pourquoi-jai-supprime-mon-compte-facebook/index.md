@@ -23,9 +23,7 @@ On me dira qu'il suffit de ne pas publier d'informations personnelles, ou alors 
 
 <!--more-->
 
-Non, c'en est trop. Facebook a déclaré la guerre à la protection des données. En janvier 2010, son fondateur et propriétaire, Mark Zuckerberg,
-
-[a déclaré][9] :
+Non, c'en est trop. Facebook a déclaré la guerre à la protection des données. En janvier 2010, son fondateur et propriétaire, Mark Zuckerberg, [a déclaré][9] :
 
 > Les gens sont devenus vraiment à l'aise non seulement pour partager plus d'informations de différents types, mais également plus ouvertement et avec plus de monde. Cette norme sociale a simplement évolué au fil du temps.
 
