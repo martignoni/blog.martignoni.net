@@ -63,7 +63,7 @@ Sans aucun doute.
 - Travail important nécessaire pour changer
 - Configuration et mise en place pas évidente
 
-Les aspects positifs — rapidité, sécurité, économie — dépassent largement les inconvénients. Ne plus être dépendant d'une technologie (pas de _lock-in_) est égalament de mon point de vue un grand avantage. Tout cela valait bien le temps investi. Et en plus j'ai appris plein de choses intéressantes.
+Les aspects positifs — rapidité, sécurité, économie — dépassent largement les inconvénients. Ne plus être dépendant d'une technologie (pas de _lock-in_) est également de mon point de vue un grand avantage. Tout cela valait bien le temps investi. Et en plus j'ai appris plein de choses intéressantes.
 
 
   [^1]: Si vous venez du monde WordPress et que voulez vous initier à Hugo, lisez cet [excellent article sur le sujet][regis], de [Régis Philibert](https://regisphilibert.com).
