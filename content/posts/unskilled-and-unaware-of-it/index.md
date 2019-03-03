@@ -7,7 +7,7 @@ slug: unskilled-and-unaware-of-it
 categories:
   - École, e-learning et ICT
 tags:
-  - Enseignement
+  - Enseignement et apprentissage
   - Formation
 
 ---

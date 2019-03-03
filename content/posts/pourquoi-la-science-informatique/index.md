@@ -10,7 +10,7 @@ categories:
   - informatique
   - École, e-learning et ICT
 tags:
-  - Enseignement
+  - Enseignement et apprentissage
   - Formation
   - Numérisation
   - Algorithme

@@ -9,7 +9,7 @@ categories:
 tags:
   - Blackboard
   - e-learning
-  - Enseignement
+  - Enseignement et apprentissage
   - LMS
   - Moodle
 

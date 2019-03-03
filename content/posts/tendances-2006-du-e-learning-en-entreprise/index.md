@@ -8,7 +8,7 @@ categories:
   - École, e-learning et ICT
 tags:
   - e-learning
-  - Enseignement
+  - Enseignement et apprentissage
   - Entreprise
 
 ---

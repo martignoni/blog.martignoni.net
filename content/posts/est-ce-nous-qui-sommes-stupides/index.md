@@ -9,7 +9,7 @@ categories:
   - Web et normes
 tags:
   - Apple
-  - Enseignement
+  - Enseignement et apprentissage
   - Facebook
   - Geek
   - Interface graphique

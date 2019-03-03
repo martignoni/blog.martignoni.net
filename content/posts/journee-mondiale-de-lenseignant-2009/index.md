@@ -7,7 +7,7 @@ slug: journee-mondiale-de-lenseignant-2009
 categories:
   - École, e-learning et ICT
 tags:
-  - Enseignement
+  - Enseignement et apprentissage
 
 ---
 [{{< figure class="alignright" src="animated-poster.gif" alt="Poster" width="150" height="210" >}}][1]

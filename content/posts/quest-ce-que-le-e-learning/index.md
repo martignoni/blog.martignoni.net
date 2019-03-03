@@ -8,7 +8,7 @@ categories:
   - École, e-learning et ICT
 tags:
   - e-learning
-  - Enseignement
+  - Enseignement et apprentissage
 
 ---
 J'aime bien la définition suivante de l'e-Learning, trouvée <a href="http://www.agentsolo.com/ca/fr/membre/documedia/capsules/90487.jsp">ici</a> :

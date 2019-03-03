@@ -9,7 +9,7 @@ categories:
 tags:
   - Bloom
   - e-learning
-  - Enseignement
+  - Enseignement et apprentissage
   - Formation
   - LMS
   - Moodle
