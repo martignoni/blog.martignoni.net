@@ -1,7 +1,7 @@
 ---
 title: "Innovation numérique et responsabilité"
 type: post
-date: 2019-03-04
+date: 2019-03-03
 slug: innovation-numerique-et-responsabilite
 draft: false
 categories:
