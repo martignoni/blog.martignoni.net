@@ -63,3 +63,14 @@ privacy:
   youtube:
     disable: false
     privacyEnhanced: true
+
+blackfriday:
+  hrefTargetBlank: true
+  angledQuotes: true
+  fractions: false
+  smartypantsQuotesNBSP: true
+
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+pygmentsUseClasses: true
+#pygmentsStyle: "dracula"
