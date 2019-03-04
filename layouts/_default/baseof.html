@@ -57,7 +57,7 @@
     {{ $blocksCSS := resources.Get "css/blocks.css" | toCSS $cssOpts | minify | fingerprint }}
     {{ $syntaxCSS := resources.Get "css/syntax.css" | toCSS $cssOpts | minify | fingerprint }}
     {{ $customCSS := resources.Get "css/custom.css" | toCSS $cssOpts | minify | fingerprint }}
-    <link href="{{ $fontawesomeCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" rel="stylesheet">
+    <link href="{{ $fontawesomeCSS.Permalink }}" integrity="{{ $fontawesomeCSS.Data.Integrity }}" rel="stylesheet">
     <link href="{{ $styleCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" rel="stylesheet">
     <link href="{{ $blocksCSS.Permalink }}" integrity="{{ $blocksCSS.Data.Integrity }}" rel="stylesheet">
     <link href="{{ $syntaxCSS.Permalink }}" integrity="{{ $syntaxCSS.Data.Integrity }}" rel="stylesheet">
