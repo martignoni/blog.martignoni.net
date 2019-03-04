@@ -490,7 +490,7 @@ h6 {
 }
 
 p {
-	margin: 0 0 1.5em;
+	margin: 0 0 1.2em;
 	padding: 0;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
@@ -532,12 +532,15 @@ pre {
 	font-family: "Courier 10 Pitch", Courier, monospace;
 	font-size: 15px;
 	font-size: 0.875rem;
+	font-size: 70%;
 	line-height: 1.6;
-	margin-top: 0.8em;
-	margin-bottom: 1.2em;
+	margin-top: 0em;
+	margin-bottom: 1em;
 	max-width: 100%;
 	overflow: auto;
-	padding: 1em 1.4em;
+	padding: 3ex 1.4em 4ex;
+	box-shadow: 1px 16px 30px 0 rgba(0,0,0,.1);
+	border-radius: 6px;
 }
 
 code,
@@ -545,9 +548,11 @@ kbd,
 tt,
 var {
 	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
-	font-size: 0.9375rem;
+	font-size: 0.875rem;
+/*
 	color: #555;
 	background-color: #f0f0f0;
+ */
 }
 
 abbr,
