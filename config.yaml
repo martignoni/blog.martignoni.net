@@ -61,7 +61,7 @@ privacy:
     privacyEnhanced: true
 
 blackfriday:
-  hrefTargetBlank: true
+#  hrefTargetBlank: true
 #  nofollowLinks: true
   angledQuotes: true
   fractions: false
