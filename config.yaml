@@ -12,15 +12,11 @@ summaryLength: 250
 footnoteReturnLinkContents: ↩
 # Set number of posts per page.
 paginate: 5
+# Make relative URLs relative to content root.
+relativeURLs: true
 
 # Enable robots.txt generation.
 enableRobotsTXT: true
-
-# Open absolute links in a new window or tab.
-#hrefTargetBlank: true
-
-#googleAnalytics:
-#disqusShortname:
 
 # Enable menu system for lazy bloggers.
 SectionPagesMenu: main
@@ -65,7 +61,8 @@ privacy:
     privacyEnhanced: true
 
 blackfriday:
-#  hrefTargetBlank: true
+  hrefTargetBlank: true
+#  nofollowLinks: true
   angledQuotes: true
   fractions: false
   smartypantsQuotesNBSP: true
