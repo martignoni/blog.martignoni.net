@@ -55,7 +55,7 @@ Sans aucun doute.
 - PHP pas nécessaire
 - Pas de base de données nécessaire
 - Pas de _lock-in_: tout est en fichier texte
-- Déploiement automatique avec GitHub (voir un prochain article)
+- Déploiement automatique avec GitHub ([voir un prochain article][deploy])
 - Backup très simple à effectuer
 
 #### Le négatif:
@@ -82,3 +82,4 @@ Les aspects positifs — rapidité, sécurité, économie — dépassent large
   [moodlebox]: https://moodlebox.net
   [repo]: https://github.com/martignoni/blog.martignoni.net
   [regis]: https://regisphilibert.com/blog/2019/01/from-wordpress-to-hugo-a-mindset-transition/
+  [deploy]: {{< relref "hugo-deployment" >}}
