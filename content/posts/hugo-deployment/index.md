@@ -25,7 +25,7 @@ After having [moved my blog from WordPress to Hugo][move], my next objective was
 - I don't want to be dependent on an external hosting service (no lock-in);
 - I don't want to have to worry about a computer crash or about my own Internet connection.
 
-I use this process since about a year to deploy the [MoodleBox][moodlebox] documentation website (about 200 pages),  and since a few days for deploying this blog (more than 600 pages!). It works great 👍
+I use this process for about a year to deploy the [MoodleBox][moodlebox] documentation website (about 200 pages),  and for a few days for deploying this blog (more than 600 pages!). It works great 👍
 
 <!--more-->
 
