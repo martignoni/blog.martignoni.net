@@ -2307,17 +2307,6 @@ body:not(.twentyseventeen-front-page) .entry-header {
 	padding-bottom: 1.5em;
 }
 
-/* 404 page */
-
-.error404 .page-content {
-	padding-bottom: 4em;
-}
-
-.error404 .page-content .search-form,
-.search .page-content .search-form {
-	margin-bottom: 3em;
-}
-
 /*--------------------------------------------------------------
 13.6 Footer
 --------------------------------------------------------------*/
@@ -3398,19 +3387,16 @@ p > object:only-child {
 		padding-right: 3em;
 	}
 
-	.has-sidebar:not(.error404) #primary {
+	.has-sidebar #primary {
 		float: left;
 		width: 58%;
+		min-height: 25rem;
 	}
 
 	.has-sidebar #secondary {
 		float: right;
 		padding-top: 0;
 		width: 36%;
-	}
-
-	.error404 #primary {
-		float: none;
 	}
 
 	/* Site Branding */
@@ -3863,7 +3849,6 @@ p > object:only-child {
 	}
 
 	body:not(.has-sidebar):not(.page-one-column) .page-header,
-	body.has-sidebar.error404 #primary .page-header,
 	body.page-two-column:not(.archive) #primary .entry-header,
 	body.page-two-column.archive:not(.has-sidebar) #primary .page-header {
 		float: left;
@@ -3873,8 +3858,6 @@ p > object:only-child {
 	.blog:not(.has-sidebar) #primary article,
 	.archive:not(.page-one-column):not(.has-sidebar) #primary article,
 	.search:not(.has-sidebar) #primary article,
-	.error404:not(.has-sidebar) #primary .page-content,
-	.error404.has-sidebar #primary .page-content,
 	body.page-two-column:not(.archive) #primary .entry-content,
 	body.page-two-column #comments {
 		float: right;
@@ -3987,12 +3970,6 @@ p > object:only-child {
 
 	.page:not(.home) #content {
 		padding-bottom: 3.25em;
-	}
-
-	/* 404 page */
-
-	.error404 .page-content {
-		padding-bottom: 9em;
 	}
 
 	/* Comments */

@@ -94,6 +94,8 @@
   translation: "Show all articles"
 - id: error404
   translation: "Error 404 - Page not found"
+- id: error404Title
+  translation: "Page not found"
 - id: error404Message
   translation: "We are sorry - This page is not here anymore"
 - id: noResultsTitle
