@@ -93,11 +93,13 @@
 - id: showAllArticles
   translation: "Afficher tous les articles"
 - id: error404
-  translation: "Erreur 404 - Page non trouvée"
+  translation: "Désolé, impossible de trouver cette page"
 - id: error404Title
   translation: "Page non trouvée"
-- id: error404Message
-  translation: "Toutes nos excuses - Cette page n'existe plus"
+- id: error404Message1
+  translation: "Nous n'avons pas pu trouver la page que vous cherchez"
+- id: error404Message2
+  translation: "La page a peut-être été déplacée ou n'existe plus ! Essayez de faire une recherche ou retournez sur la page d'accueil."
 - id: noResultsTitle
   translation: "Aucun document trouvé"
 - id: noResultsText

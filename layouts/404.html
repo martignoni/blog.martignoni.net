@@ -13,13 +13,14 @@
     <h1 class="entry-title">{{ i18n "error404" }}</h1>
   </header> <!-- .entry-header -->
   <div class="entry-content">
-    <h4>{{ i18n "error404Message" }}</h4>
+    <h4>{{ i18n "error404Message1" }}</h4>
+    <p>{{ i18n "error404Message2" }}</p>
+    <p><a href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}img/404.jpg" alt="{{ i18n "error404Title" }}"></a></p>
     <p>
       <i class="icon fa fa-home" aria-hidden="true"></i>
       <a href="{{ .Site.BaseURL }}">{{ i18n "navHome" }}</a>
     </p>
-  </div>
-<!-- .entry-content -->
+  </div> <!-- .entry-content -->
 </article>
 {{ end }}
 

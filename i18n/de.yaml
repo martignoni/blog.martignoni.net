@@ -77,11 +77,13 @@
 - id: showAllArticles
   translation: "Artikeln ausklappen"
 - id: error404
-  translation: "Fehler 404 - Seite nicht gefunden"
+  translation: "Sorry, wir konnten diese Seite nicht finden."
 - id: error404Title
   translation: "Seite nicht gefunden"
-- id: error404Message
-  translation: "Es tut uns Leid - Diese Seite gibt es nicht mehr"
+- id: error404Message1
+  translation: "Wir konnten die gesuchte Seite nicht finden"
+- id: error404Message2
+  translation: "Die Seite wurde vielleicht bewegt oder gibt es nicht mehr! Versuchen Sie, eine Suche durchzuführen oder zur Startseite zurückzukehren."
 - id: noResultsTitle
   translation: "Kein Dokument gefunden"
 - id: noResultsText

@@ -93,11 +93,13 @@
 - id: showAllArticles
   translation: "Show all articles"
 - id: error404
-  translation: "Error 404 - Page not found"
+  translation: "Sorry, we could not find this page"
 - id: error404Title
   translation: "Page not found"
-- id: error404Message
-  translation: "We are sorry - This page is not here anymore"
+- id: error404Message1
+  translation: "We could not find the page you're looking for"
+- id: error404Message2
+  translation: "The page may have been moved or is not here anymore ! Try to do a search or return to the home page."
 - id: noResultsTitle
   translation: "No document found"
 - id: noResultsText
