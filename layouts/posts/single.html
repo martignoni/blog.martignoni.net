@@ -1,0 +1,104 @@
+{{ define "style"}}{{ end }}
+{{ define "title"}}{{ .Title }}{{ end }}
+{{ define "body-classes" }}single post has-sidebar{{ end }}
+
+{{ define "widgets-column" }}
+  {{ partial "widgets/recent" . }}
+  {{ partial "widgets/menu" . }}
+{{ end }}
+
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+{{ define "featured-image"}}
+  {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ with $img }}
+  <div class="single-featured-image-header">
+    <img src="{{ .Permalink }}" alt="{{ $.Title }}">
+  </div> <!-- .post-thumbnail -->
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+{{ template "_internal/schema.html" . }}
+<section class="section blog" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post type-post status-publish format-standard has-post-thumbnail hentry">
+  <header class="entry-header">
+    <div class="entry-title">
+      <h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
+    </div> <!-- .entry-title -->
+    <div class="entry-meta">
+      <a href="{{ .Permalink }}">{{ partial "post/meta" . }}</a>
+    </div> <!-- .entry-meta -->
+    {{ with .Description }}
+      <div class="entry-summary" itemprop="description"><em>{{ . | markdownify }}</em></div>
+    {{ end }}
+  </header> <!-- .entry-header -->
+  <div class="entry-content">
+    {{.Content}}
+  </div> <!-- .entry-content -->
+  <footer class="entry-footer">
+    <span class="cat-tags-links">
+      {{ if .Params.categories }}
+      <span class="cat-links"><i class="icon fa fa-folder-open" aria-hidden="true"></i>
+        <span class="screen-reader-text">{{ i18n "categoriesTitle" }}</span>
+        {{ with .Params.categories }}
+          <span>{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " }}</span>
+        {{ end }}
+      </span>
+      {{ end }}
+      {{ if .Params.tags }}
+      <span class="tags-links"><i class="icon fa fa-tags" aria-hidden="true"></i>
+        <span class="screen-reader-text">{{ i18n "tagsTitle" }}</span>
+        {{ with .Params.tags }}
+          <span>{{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " }}</span>
+        {{ end }}
+      </span>
+      {{ end }}
+      <span class="permalink"><i class="icon fa fa-link" aria-hidden="true"></i>
+        <span class="screen-reader-text">{{ i18n "permalink" }}</span>
+        <span><a href="{{ .Permalink }}">{{ i18n "permalink" }}</a></span>
+      </span>
+    </span>
+<!--
+    <div class="title is-4">
+      {{/* partial "post/related-content" . */}}
+    </div>
+ -->
+  </footer> <!-- .entry-footer -->
+  {{ if or .PrevInSection .NextInSection }}
+  <nav class="navigation post-navigation" role="navigation">
+    <h2 class="screen-reader-text">Navigation de l’article</h2>
+    <div class="nav-links">
+      {{ if .PrevInSection }}
+      <div class="nav-previous">
+        <a href="{{ .PrevInSection.Permalink }}" rel="prev">
+          <span class="screen-reader-text">Article précédent</span>
+          <span aria-hidden="true" class="nav-subtitle">Précédent</span>
+          <span class="nav-title">
+            <span class="nav-title-icon-wrapper"><i class="fa fa-arrow-left" aria-hidden="true"></i></span>
+            {{ .PrevInSection.Title }}
+          </span>
+        </a>
+      </div>
+      {{ end }}
+      {{ if .NextInSection }}
+      <div class="nav-next">
+        <a href="{{ .NextInSection.Permalink }}" rel="next">
+          <span class="screen-reader-text">Article suivant</span>
+          <span aria-hidden="true" class="nav-subtitle">Suivant</span>
+          <span class="nav-title">
+            <span class="nav-title-icon-wrapper"><i class="fa fa-arrow-right" aria-hidden="true"></i></span>
+            {{ .NextInSection.Title }}
+          </span>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </nav>
+  {{ end }}
+
+</article>
+</section>
+
+{{ end }}
+
+{{ define "footer" }}{{ partial "footer" . }}{{ end }}
