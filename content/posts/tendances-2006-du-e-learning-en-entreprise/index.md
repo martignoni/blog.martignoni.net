@@ -1,7 +1,7 @@
 ---
 title: Tendances 2006 du e-Learning en entreprise
 author: Nicolas Martignoni
-type: post
+
 date: 2006-08-21T11:50:28+00:00
 slug: tendances-2006-du-e-learning-en-entreprise
 categories:

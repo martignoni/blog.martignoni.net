@@ -1,7 +1,7 @@
 ---
 title: Hot Potatoes est devenu gratuit
 author: Nicolas Martignoni
-type: post
+
 date: 2009-09-04T04:30:44+00:00
 slug: hot-potatoes-est-devenu-gratuit
 categories:

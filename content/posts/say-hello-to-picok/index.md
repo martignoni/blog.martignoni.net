@@ -1,7 +1,7 @@
 ---
 title: Say hello to Picok !
 author: Nicolas Martignoni
-type: post
+
 date: 2009-06-13T04:00:31+00:00
 slug: say-hello-to-picok
 categories:

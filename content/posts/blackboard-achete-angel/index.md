@@ -1,7 +1,7 @@
 ---
 title: Blackboard achète ANGEL !
 author: Nicolas Martignoni
-type: post
+
 date: 2009-06-11T18:00:33+00:00
 slug: blackboard-achete-angel
 categories:

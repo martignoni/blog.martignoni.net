@@ -1,7 +1,7 @@
 ---
 title: Désolé, vous pouvez être identifié même si vos données sont anonymisées
 author: Nicolas Martignoni
-type: post
+
 date: 2019-02-05T17:24:54+00:00
 slug: desole-vous-pouvez-etre-identifie-meme-si-vos-donnees-sont-anonymisees
 categories:

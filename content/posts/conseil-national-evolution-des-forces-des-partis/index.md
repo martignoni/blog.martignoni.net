@@ -1,7 +1,7 @@
 ---
 title: "Conseil National : évolution des forces des partis"
 author: Nicolas Martignoni
-type: post
+
 date: 2011-12-11T13:56:55+00:00
 slug: conseil-national-evolution-des-forces-des-partis
 categories:

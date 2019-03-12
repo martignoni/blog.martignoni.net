@@ -1,7 +1,7 @@
 ---
 title: "Conseil des États : évolution des forces des partis"
 author: Nicolas Martignoni
-type: post
+
 date: 2011-12-04T12:57:22+00:00
 slug: conseil-des-etats-evolution-des-forces-des-partis
 categories:

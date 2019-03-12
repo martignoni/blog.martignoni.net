@@ -1,7 +1,7 @@
 ---
 title: "Données personnelles et internet: faut-il être paranoïaque ? (partie 3/3)"
 author: Nicolas Martignoni
-type: post
+
 date: 2017-07-30T16:09:30+00:00
 slug: donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3
 categories:

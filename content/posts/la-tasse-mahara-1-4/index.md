@@ -1,7 +1,7 @@
 ---
 title: La tasse Mahara 1.4
 author: Nicolas Martignoni
-type: post
+
 date: 2011-08-09T18:59:58+00:00
 slug: la-tasse-mahara-1-4
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "L'engagement de Blackboard sur le brevet e-Learning"
 author: Nicolas Martignoni
-type: post
+
 date: 2007-02-07T09:42:36+00:00
 slug: lengagement-de-blackboard-sur-le-brevet-e-learning
 categories:

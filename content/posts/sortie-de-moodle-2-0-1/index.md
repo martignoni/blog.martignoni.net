@@ -1,7 +1,7 @@
 ---
 title: Sortie de Moodle 2.0.1
 author: Nicolas Martignoni
-type: post
+
 date: 2010-12-29T17:08:51+00:00
 slug: sortie-de-moodle-2-0-1
 categories:

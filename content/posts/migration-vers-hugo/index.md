@@ -1,6 +1,6 @@
 ---
 title: "Nouveau moteur pour ce blog : Hugo"
-type: post
+
 date: 2019-03-01
 slug: migration-vers-hugo
 description: Ce blog fonctionne désormais grâce à un générateur de sites statiques, Hugo, qui a remplacé avantageusement WordPress. Un changement pour plus de rapidité, de sécurité et des économies.

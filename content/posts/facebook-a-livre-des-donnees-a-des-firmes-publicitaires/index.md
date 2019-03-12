@@ -1,7 +1,7 @@
 ---
 title: Facebook a livré des données à des firmes publicitaires
 author: Nicolas Martignoni
-type: post
+
 date: 2010-05-21T09:51:06+00:00
 slug: facebook-a-livre-des-donnees-a-des-firmes-publicitaires
 categories:

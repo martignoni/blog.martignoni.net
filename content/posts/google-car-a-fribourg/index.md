@@ -1,7 +1,7 @@
 ---
 title: Google car à Fribourg !
 author: Nicolas Martignoni
-type: post
+
 date: 2009-08-14T08:58:29+00:00
 slug: google-car-a-fribourg
 categories:

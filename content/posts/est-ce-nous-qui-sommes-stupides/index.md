@@ -1,7 +1,7 @@
 ---
 title: Est-ce nous qui sommes stupides ?
 author: Nicolas Martignoni
-type: post
+
 date: 2010-03-01T20:03:19+00:00
 slug: est-ce-nous-qui-sommes-stupides
 categories:

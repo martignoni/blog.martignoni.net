@@ -1,7 +1,7 @@
 ---
 title: "L'e-Learning breveté !"
 author: Nicolas Martignoni
-type: post
+
 date: 2006-08-02T06:32:51+00:00
 slug: le-learning-brevete
 categories:

@@ -1,7 +1,7 @@
 ---
 title: La déclaration des droits numériques
 author: Nicolas Martignoni
-type: post
+
 date: 2009-07-10T14:45:15+00:00
 slug: la-declaration-des-droits-numeriques
 categories:

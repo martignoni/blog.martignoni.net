@@ -1,7 +1,7 @@
 ---
 title: "Le site moodle.org tout à l'envers ;-)"
 author: Nicolas Martignoni
-type: post
+
 date: 2010-04-01T10:56:49+00:00
 slug: le-site-moodle-org-tout-a-lenvers
 categories:

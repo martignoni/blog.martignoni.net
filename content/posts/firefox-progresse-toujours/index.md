@@ -1,7 +1,7 @@
 ---
 title: Firefox progresse toujours
 author: Nicolas Martignoni
-type: post
+
 date: 2006-08-24T11:00:18+00:00
 slug: firefox-progresse-toujours
 categories:

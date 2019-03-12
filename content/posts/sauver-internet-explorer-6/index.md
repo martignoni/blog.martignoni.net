@@ -1,7 +1,7 @@
 ---
 title: Sauver Internet Explorer 6 ??
 author: Nicolas Martignoni
-type: post
+
 date: 2009-07-16T16:22:23+00:00
 slug: sauver-internet-explorer-6
 categories:

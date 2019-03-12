@@ -1,7 +1,7 @@
 ---
 title: "Facebook Messenger Kids : dans la gueule du loup"
 author: Nicolas Martignoni
-type: post
+
 date: 2017-12-05T10:11:42+00:00
 slug: facebook-messenger-kids
 featured_image: /wp-content/uploads/2017/12/loup-e1512473885601.png

@@ -1,7 +1,7 @@
 ---
 title: "Facebook : quelle mobilisation ?"
 author: Nicolas Martignoni
-type: post
+
 date: 2009-06-28T14:20:00+00:00
 slug: facebook-quelle-mobilisation
 categories:

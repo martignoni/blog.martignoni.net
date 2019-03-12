@@ -2,7 +2,7 @@
 title: Informations de contact
 author: Nicolas Martignoni
 slug: contact
-type: page
+
 date: 2019-02-13
 
 ---

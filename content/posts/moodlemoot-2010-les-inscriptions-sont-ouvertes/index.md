@@ -1,7 +1,7 @@
 ---
 title: "MoodleMoot 2010 : les inscriptions sont ouvertes"
 author: Nicolas Martignoni
-type: post
+
 date: 2010-05-03T11:00:26+00:00
 slug: moodlemoot-2010-les-inscriptions-sont-ouvertes
 categories:

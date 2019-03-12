@@ -1,7 +1,7 @@
 ---
 title: "Moodle, le secret d'un succès"
 author: Nicolas Martignoni
-type: post
+
 date: 2006-04-15T21:03:13+00:00
 slug: moodle-le-secret-dun-succes
 categories:

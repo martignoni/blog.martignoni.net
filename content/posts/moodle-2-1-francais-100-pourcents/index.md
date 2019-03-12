@@ -1,7 +1,7 @@
 ---
 title: "Moodle 2.1 en français : 100%"
 author: Nicolas Martignoni
-type: post
+
 date: 2011-07-25T19:06:28+00:00
 slug: moodle-2-1-francais-100-pourcents
 categories:

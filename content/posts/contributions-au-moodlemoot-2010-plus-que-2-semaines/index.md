@@ -1,7 +1,7 @@
 ---
 title: "Contributions au MoodleMoot 2010 : plus que 2 semaines"
 author: Nicolas Martignoni
-type: post
+
 date: 2010-03-03T11:12:26+00:00
 slug: contributions-au-moodlemoot-2010-plus-que-2-semaines
 categories:

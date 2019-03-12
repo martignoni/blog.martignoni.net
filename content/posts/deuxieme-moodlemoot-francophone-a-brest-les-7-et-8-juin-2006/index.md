@@ -1,7 +1,7 @@
 ---
 title: MoodleMoot francophone 2006
 author: Nicolas Martignoni
-type: post
+
 date: 2006-04-14T14:01:11+00:00
 slug: deuxieme-moodlemoot-francophone-a-brest-les-7-et-8-juin-2006
 categories:

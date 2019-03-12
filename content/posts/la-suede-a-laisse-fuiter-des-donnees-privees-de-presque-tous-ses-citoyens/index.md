@@ -1,7 +1,7 @@
 ---
 title: La Suède a laissé fuiter des données privées de presque tous ses citoyens
 author: Nicolas Martignoni
-type: post
+
 date: 2017-07-25T17:33:30+00:00
 slug: la-suede-a-laisse-fuiter-des-donnees-privees-de-presque-tous-ses-citoyens
 categories:

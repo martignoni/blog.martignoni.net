@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi la science informatique à l’école ?"
 author: Nicolas Martignoni
-type: post
+
 date: 2019-02-15
 slug: pourquoi-la-science-informatique-a-lecole
 description: Les bons arguments pour enseigner la science informatique à l'école ne sont peut-être pas ceux auxquels on pense. Texte de la conférence donnée à l'occasion de la journée de formation romande [ForMITIC](http://f3romand.educanet2.ch) du 2 février 2019.

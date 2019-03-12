@@ -1,6 +1,6 @@
 ---
 title: "Deploy your Hugo site through SSH with Travis"
-type: post
+
 date: "2019-03-10"
 slug: deploy-your-hugo-site
 description: Static site generation leverages website content management through version-control systems. With the help of CI tools, we can set up automatic deployment via SSH. This article shows how to do such deployment using Hugo and Travis CI.

@@ -1,7 +1,7 @@
 ---
 title: La protection des données selon Google
 author: Nicolas Martignoni
-type: post
+
 date: 2009-08-12T13:55:40+00:00
 slug: la-protection-des-donnees-selon-google
 categories:

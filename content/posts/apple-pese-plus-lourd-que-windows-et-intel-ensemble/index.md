@@ -1,7 +1,7 @@
 ---
 title: Apple pèse plus lourd que Windows et Intel ensemble
 author: Nicolas Martignoni
-type: post
+
 date: 2011-06-04T11:40:32+00:00
 slug: apple-pese-plus-lourd-que-windows-et-intel-ensemble
 categories:

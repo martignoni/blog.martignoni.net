@@ -2,7 +2,7 @@
 title: "E-voting en Suisse : un risque pour la démocratie"
 description: La récente polémique sur le code source de la solution de vote électronique proposée par La Poste met en lumière les risques pour la démocratie ainsi que le manque de vision des autorités politiques de Suisse.
 author: Nicolas Martignoni
-type: post
+
 date: 2019-02-24
 slug: e-voting-et-democratie
 categories:

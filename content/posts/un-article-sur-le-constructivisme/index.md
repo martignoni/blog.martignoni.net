@@ -1,7 +1,7 @@
 ---
 title: Un article sur le constructivisme
 author: Nicolas Martignoni
-type: post
+
 date: 2006-08-20T09:33:31+00:00
 slug: un-article-sur-le-constructivisme
 categories:

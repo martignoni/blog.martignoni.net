@@ -1,7 +1,7 @@
 ---
 title: Nouvelle version de Stellarium
 author: Nicolas Martignoni
-type: post
+
 date: 2010-02-23T20:48:45+00:00
 slug: nouvelle-version-de-stellarium
 categories:

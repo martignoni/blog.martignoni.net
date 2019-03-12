@@ -1,7 +1,7 @@
 ---
 title: "Journée mondiale de l'enseignant 2009"
 author: Nicolas Martignoni
-type: post
+
 date: 2009-10-05T12:13:50+00:00
 slug: journee-mondiale-de-lenseignant-2009
 categories:

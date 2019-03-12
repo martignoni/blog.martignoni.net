@@ -1,7 +1,7 @@
 ---
 title: La Terre vue de la Station spatiale internationale
 author: Nicolas Martignoni
-type: post
+
 date: 2011-11-15T19:14:30+00:00
 slug: la-terre-vue-de-la-station-spatiale-internationale
 categories:

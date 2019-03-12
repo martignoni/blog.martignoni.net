@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi j'ai supprimé mon compte Facebook"
 author: Nicolas Martignoni
-type: post
+
 date: 2010-05-11T19:50:41+00:00
 slug: pourquoi-jai-supprime-mon-compte-facebook
 categories:

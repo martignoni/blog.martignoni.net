@@ -1,7 +1,7 @@
 ---
 title: "Parts de marché des LMS : Moodle domine presque partout"
 author: Nicolas Martignoni
-type: post
+
 date: 2017-07-22T15:29:40+00:00
 slug: parts-de-marche-des-lms-moodle-domine-presque-partout
 categories:

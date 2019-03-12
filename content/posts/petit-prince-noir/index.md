@@ -1,7 +1,7 @@
 ---
 title: Petit Prince noir
 author: Nicolas Martignoni
-type: post
+
 date: 2009-09-03T19:19:31+00:00
 slug: petit-prince-noir
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Moodle 2.1 est traduit à 99%
 author: Nicolas Martignoni
-type: post
+
 date: 2011-07-23T09:20:12+00:00
 slug: moodle-2-1-est-traduit-a-99
 categories:

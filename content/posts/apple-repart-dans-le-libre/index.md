@@ -1,7 +1,7 @@
 ---
 title: Apple repart dans le libre
 author: Nicolas Martignoni
-type: post
+
 date: 2006-08-09T10:13:51+00:00
 slug: apple-repart-dans-le-libre
 categories:

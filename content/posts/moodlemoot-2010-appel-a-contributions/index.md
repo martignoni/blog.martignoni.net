@@ -1,7 +1,7 @@
 ---
 title: "MoodleMoot 2010 : appel à contributions"
 author: Nicolas Martignoni
-type: post
+
 date: 2010-02-16T21:40:04+00:00
 slug: moodlemoot-2010-appel-a-contributions
 categories:

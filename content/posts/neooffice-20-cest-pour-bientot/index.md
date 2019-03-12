@@ -1,7 +1,7 @@
 ---
 title: "NeoOffice 2.0, c'est pour bientôt"
 author: Nicolas Martignoni
-type: post
+
 date: 2006-04-23T18:57:30+00:00
 slug: neooffice-20-cest-pour-bientot
 categories:

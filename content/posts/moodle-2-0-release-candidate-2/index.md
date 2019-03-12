@@ -1,7 +1,7 @@
 ---
 title: Moodle 2.0 Release Candidate 2
 author: Nicolas Martignoni
-type: post
+
 date: 2010-11-13T22:46:04+00:00
 slug: moodle-2-0-release-candidate-2
 categories:

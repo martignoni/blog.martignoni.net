@@ -1,7 +1,7 @@
 ---
 title: Unskilled and unaware of it !
 author: Nicolas Martignoni
-type: post
+
 date: 2006-12-15T14:00:40+00:00
 slug: unskilled-and-unaware-of-it
 categories:

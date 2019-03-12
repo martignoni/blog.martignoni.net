@@ -1,7 +1,7 @@
 ---
 title: "NASA TV : flux vidéo haut débit"
 author: Nicolas Martignoni
-type: post
+
 date: 2010-04-04T17:57:07+00:00
 slug: nasa-tv-flux-video-haut-debit
 categories:

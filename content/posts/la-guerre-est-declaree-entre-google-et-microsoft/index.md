@@ -1,7 +1,7 @@
 ---
 title: La guerre est déclarée entre Google et Microsoft
 author: Nicolas Martignoni
-type: post
+
 date: 2011-08-05T11:20:39+00:00
 slug: la-guerre-est-declaree-entre-google-et-microsoft
 categories:

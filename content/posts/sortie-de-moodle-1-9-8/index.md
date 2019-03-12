@@ -1,7 +1,7 @@
 ---
 title: Sortie de Moodle 1.9.8
 author: Nicolas Martignoni
-type: post
+
 date: 2010-04-02T10:33:55+00:00
 slug: sortie-de-moodle-1-9-8
 categories:

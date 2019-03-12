@@ -1,7 +1,7 @@
 ---
 title: MoodleMoot 2012 à Nîmes
 author: Nicolas Martignoni
-type: post
+
 date: 2011-10-26T17:20:01+00:00
 slug: moodlemoot-2012-a-nimes
 categories:

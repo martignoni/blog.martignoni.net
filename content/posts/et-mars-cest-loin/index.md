@@ -1,7 +1,7 @@
 ---
 title: "Et Mars, c'est loin ?"
 author: Nicolas Martignoni
-type: post
+
 date: 2013-04-04T18:55:19+00:00
 slug: et-mars-cest-loin
 categories:

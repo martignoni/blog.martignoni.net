@@ -1,7 +1,7 @@
 ---
 title: Évaluer la qualité de votre mot de passe
 author: Nicolas Martignoni
-type: post
+
 date: 2017-09-29T17:36:56+00:00
 slug: evaluer-la-qualite-de-votre-mot-de-passe
 categories:

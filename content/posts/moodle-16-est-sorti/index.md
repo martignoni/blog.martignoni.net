@@ -1,7 +1,7 @@
 ---
 title: Moodle 1.6 est sorti
 author: Nicolas Martignoni
-type: post
+
 date: 2006-06-19T21:12:59+00:00
 slug: moodle-16-est-sorti
 categories:

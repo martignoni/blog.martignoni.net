@@ -1,7 +1,7 @@
 ---
 title: MoodleMoot 2011 à Hammamet, Tunisie
 author: Nicolas Martignoni
-type: post
+
 date: 2010-12-09T20:09:47+00:00
 slug: moodlemoot-2011-a-hammamet-tunisie
 categories:

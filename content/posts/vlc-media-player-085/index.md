@@ -1,7 +1,7 @@
 ---
 title: VLC Media Player 0.8.5
 author: Nicolas Martignoni
-type: post
+
 date: 2006-05-07T18:31:39+00:00
 slug: vlc-media-player-085
 categories:

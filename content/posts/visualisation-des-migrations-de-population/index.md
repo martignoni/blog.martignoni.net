@@ -1,7 +1,7 @@
 ---
 title: Visualisation des migrations de population
 author: Nicolas Martignoni
-type: post
+
 date: 2011-08-10T10:07:59+00:00
 slug: visualisation-des-migrations-de-population
 categories:

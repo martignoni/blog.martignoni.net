@@ -1,7 +1,7 @@
 ---
 title: Bienvenue au club !
 author: Nicolas Martignoni
-type: post
+
 date: 2006-04-13T18:58:28+00:00
 slug: bienvenue-au-club
 categories:

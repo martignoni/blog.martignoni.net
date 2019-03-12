@@ -1,7 +1,7 @@
 ---
 title: "Achat de Sun par Oracle : et l'avenir des logiciels libres ?"
 author: Nicolas Martignoni
-type: post
+
 date: 2009-06-12T08:57:55+00:00
 slug: achat-de-sun-par-oracle-et-lavenir-des-logiciels-libres
 categories:

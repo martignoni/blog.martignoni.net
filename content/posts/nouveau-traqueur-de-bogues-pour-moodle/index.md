@@ -1,7 +1,7 @@
 ---
 title: Nouveau traqueur de bogues pour Moodle
 author: Nicolas Martignoni
-type: post
+
 date: 2006-08-23T17:45:46+00:00
 slug: nouveau-traqueur-de-bogues-pour-moodle
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Le brevet de Blackboard, en français
 author: Nicolas Martignoni
-type: post
+
 date: 2006-08-07T21:22:21+00:00
 slug: le-brevet-de-blackboard-en-francais
 categories:

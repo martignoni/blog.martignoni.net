@@ -1,7 +1,7 @@
 ---
 title: Les LMS des hautes écoles de Suisse, novembre 2010
 author: Nicolas Martignoni
-type: post
+
 date: 2010-11-16T17:22:58+00:00
 slug: les-lms-des-hautes-ecoles-de-suisse
 categories:

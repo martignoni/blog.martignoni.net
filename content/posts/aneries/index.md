@@ -1,7 +1,7 @@
 ---
 title: Âneries
 author: Nicolas Martignoni
-type: post
+
 date: 2011-12-30T16:08:24+00:00
 slug: aneries
 categories:

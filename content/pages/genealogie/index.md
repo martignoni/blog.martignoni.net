@@ -2,7 +2,7 @@
 title: Généalogie
 author: Nicolas Martignoni
 slug: genealogie
-type: page
+
 date: 2012-02-12T18:40:37+00:00
 draft: true
 

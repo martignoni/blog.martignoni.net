@@ -1,7 +1,7 @@
 ---
 title: Blackboard maître du FUD
 author: Nicolas Martignoni
-type: post
+
 date: 2009-10-30T13:22:55+00:00
 slug: blackboard-maitre-du-fud
 categories:

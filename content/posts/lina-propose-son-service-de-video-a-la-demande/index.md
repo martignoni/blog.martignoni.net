@@ -1,7 +1,7 @@
 ---
 title: "L'INA propose son service de vidéo à la demande"
 author: Nicolas Martignoni
-type: post
+
 date: 2006-04-27T11:06:58+00:00
 slug: lina-propose-son-service-de-video-a-la-demande
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Pourquoi vous devriez arrêter de poster des photos de vos enfants sur les réseaux sociaux
 author: Nicolas Martignoni
-type: post
+
 date: 2017-08-13T15:06:04+00:00
 slug: pourquoi-vous-devriez-arreter-de-poster-des-photos-de-vos-enfants-sur-les-reseaux-sociaux
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Horaires des trains en Europe
 author: Nicolas Martignoni
-type: post
+
 date: 2010-04-09T11:55:13+00:00
 slug: horaires-des-trains-en-europe
 categories:

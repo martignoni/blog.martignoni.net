@@ -1,7 +1,7 @@
 ---
 title: "Environnements d'apprentissage : l'état du marché aux USA"
 author: Nicolas Martignoni
-type: post
+
 date: 2009-10-18T11:38:57+00:00
 slug: lms-letat-du-marche-aux-usa
 categories:

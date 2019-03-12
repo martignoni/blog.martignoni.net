@@ -1,7 +1,7 @@
 ---
 title: Moodle Tool Guide disponible en français
 author: Nicolas Martignoni
-type: post
+
 date: 2010-10-20T16:41:25+00:00
 slug: moodle-tool-guide-disponible-en-francais
 categories:

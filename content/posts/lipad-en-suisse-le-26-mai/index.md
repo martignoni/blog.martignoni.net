@@ -1,7 +1,7 @@
 ---
 title: "L'iPad en Suisse le 26 mai"
 author: Nicolas Martignoni
-type: post
+
 date: 2010-05-07T21:10:26+00:00
 slug: lipad-en-suisse-le-26-mai
 categories:

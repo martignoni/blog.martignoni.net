@@ -1,7 +1,7 @@
 ---
 title: "Carte d'orientation Moodle 2.1 disponible en français"
 author: Nicolas Martignoni
-type: post
+
 date: 2011-11-13T22:01:25+00:00
 slug: carte-dorientation-moodle-2-1-disponible-en-francais
 categories:

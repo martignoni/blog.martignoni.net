@@ -1,7 +1,7 @@
 ---
 title: Moodle storylines
 author: Nicolas Martignoni
-type: post
+
 date: 2010-12-04T10:33:40+00:00
 slug: moodle-storylines
 categories:

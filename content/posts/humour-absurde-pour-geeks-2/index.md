@@ -1,7 +1,7 @@
 ---
 title: Humour absurde pour geeks 2
 author: Nicolas Martignoni
-type: post
+
 date: 2010-02-17T21:01:03+00:00
 slug: humour-absurde-pour-geeks-2
 categories:

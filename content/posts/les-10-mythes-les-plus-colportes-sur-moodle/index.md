@@ -1,7 +1,7 @@
 ---
 title: Les 10 mythes les plus colportés sur Moodle
 author: Nicolas Martignoni
-type: post
+
 date: 2006-04-20T20:50:27+00:00
 slug: les-10-mythes-les-plus-colportes-sur-moodle
 categories:

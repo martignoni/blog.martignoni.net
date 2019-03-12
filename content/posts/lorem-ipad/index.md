@@ -1,7 +1,7 @@
 ---
 title: Lorem iPad
 author: Nicolas Martignoni
-type: post
+
 date: 2010-04-03T08:51:14+00:00
 slug: lorem-ipad
 categories:

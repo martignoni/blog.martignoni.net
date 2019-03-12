@@ -1,7 +1,7 @@
 ---
 title: "Températures : une visualisation interactive"
 author: Nicolas Martignoni
-type: post
+
 date: 2013-08-25T17:31:38+00:00
 slug: temperatures-une-visualisation-interactive
 categories:

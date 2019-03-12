@@ -1,7 +1,7 @@
 ---
 title: Les sites Apollo sur la Lune photographiés
 author: Nicolas Martignoni
-type: post
+
 date: 2009-07-18T19:45:37+00:00
 slug: les-sites-apollo-sur-la-lune-photographies
 categories:

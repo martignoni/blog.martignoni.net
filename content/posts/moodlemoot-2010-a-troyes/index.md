@@ -1,7 +1,7 @@
 ---
 title: MoodleMoot 2010 à Troyes
 author: Nicolas Martignoni
-type: post
+
 date: 2009-09-19T05:55:43+00:00
 slug: moodlemoot-2010-a-troyes
 categories:

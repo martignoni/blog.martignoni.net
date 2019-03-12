@@ -1,7 +1,7 @@
 ---
 title: MODx 0.9.2 est sorti
 author: Nicolas Martignoni
-type: post
+
 date: 2006-04-26T13:21:27+00:00
 slug: modx-092-est-sorti
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Étonnante photo de l'ISS et Endeavour"
 author: Nicolas Martignoni
-type: post
+
 date: 2009-07-30T06:57:29+00:00
 slug: etonnante-photo-de-liss-et-endeavour
 categories:

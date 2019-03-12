@@ -1,7 +1,7 @@
 ---
 title: Brevet de Blackboard, le feuilleton continue
 author: Nicolas Martignoni
-type: post
+
 date: 2008-12-26T11:30:45+00:00
 slug: brevet-de-blackboard-le-feuilleton-continue
 categories:
