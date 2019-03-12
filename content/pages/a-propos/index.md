@@ -1,10 +1,10 @@
 ---
 title: À propos
 author: Nicolas Martignoni
+slug: a-propos
 type: page
 date: 2006-04-16T19:58:28+00:00
 lastmod: 2019-02-13
-
 ---
 Le site _Perspectives_ est écrit et produit par [Nicolas Martignoni](#l-auteur).
 

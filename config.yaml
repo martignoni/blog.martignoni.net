@@ -40,6 +40,8 @@ outputs:
 
 permalinks:
   posts: /:year/:month/:slug/
+  pages: /:slug/
+  archive: /:slug/
 
 privacy:
   disqus:
