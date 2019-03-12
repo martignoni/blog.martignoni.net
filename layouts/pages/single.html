@@ -1,0 +1,29 @@
+{{ define "style"}}{{ end }}
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{end }}
+{{ define "body-classes" }}single page page-two-column{{ end }}
+
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+{{ define "featured-image"}}
+  {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ with $img }}
+  <div class="single-featured-image-header">
+    <img src="{{ .Permalink }}" alt="{{ $.Title }}">
+  </div> <!-- .post-thumbnail -->
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+{{ template "_internal/schema.html" . }}
+
+<article class="page type-page hentry">
+  <header class="entry-header">
+    <h1 class="entry-title">{{ .Title }}</h1>
+  </header> <!-- .entry-header -->
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+<!-- .entry-content -->
+</article>
+{{ end }}
+
+{{ define "footer" }}{{ partial "footer" . }}{{ end }}
