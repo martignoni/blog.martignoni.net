@@ -16,7 +16,7 @@
     <section class="archive-group">
     <h4>{{ humanize (i18n $date.Month) }} {{ $date.Format "2006" }}</h4>
     <ul>
-      {{ range (where .Pages "Type" "post") }}
+      {{ range (where .Pages "Type" "posts") }}
       <li>
       <span class="link">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
