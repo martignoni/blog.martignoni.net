@@ -1,7 +1,6 @@
 ---
 title: "Moodle, le secret d'un succès"
 author: Nicolas Martignoni
-
 date: 2006-04-15T21:03:13+00:00
 slug: moodle-le-secret-dun-succes
 categories:
@@ -13,21 +12,21 @@ tags:
   - Open Source
 
 ---
-En relisant le célèbre essai d'<a href="http://www.ccil.org/~esr/">Eric Raymond</a> « <a href="http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar.html">La Cathédrale et le Bazar</a> », je n'ai pu m'empêcher de me demander pourquoi <a title="Moodle" href="http://moodle.org/">Moodle</a> a tant de succès, tant parmi les enseignants que parmi les développeurs.
+En relisant le célèbre essai d'<a href="http://www.catb.org/~esr/">Eric Raymond</a> « <a href="http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar.html">La Cathédrale et le Bazar</a> », je n'ai pu m'empêcher de me demander pourquoi <a title="Moodle" href="https://moodle.org/">Moodle</a> a tant de succès, tant parmi les enseignants que parmi les développeurs.
 
 Moodle illustre de façon frappante la méthode de développement du style _bazar_. En outre, son développeur principal, Martin Dougiamas, applique quelques-unes des règles citées par Raymond dans son article.
 
 Par exemple, il utilise de façon très judicieuse la communauté des utilisateurs de Moodle, comme l'énonce la règle
 
-> 6. Traiter vos utilisateurs en tant que co-développeurs est le chemin le moins semé d'embuches vers une amélioration rapide du code et un débogage efficace.
+> &#54;. Traiter vos utilisateurs en tant que co-développeurs est le chemin le moins semé d'embuches vers une amélioration rapide du code et un débogage efficace.
 
 De même, ce que Raymond appelle _la loi de Linus_ est appliqué dans le développement de Moodle :
 
-> 8. Étant donné un ensemble de bêta-testeurs et de co-développeurs suffisamment grand, chaque problème sera rapidement isolé, et sa solution semblera évidente à quelqu'un.
+> &#56;. Étant donné un ensemble de bêta-testeurs et de co-développeurs suffisamment grand, chaque problème sera rapidement isolé, et sa solution semblera évidente à quelqu'un.
 
 Mais surtout, ce qui est le plus frappant, c'est la manière intelligente avec laquelle Martin Dougiamas encourage et prend en compte les bonnes idées et les bonnes volontés des membres de la communauté. Si vous apportez quelque chose d'intéressant et de cohérent avec la philosophie de Moodle, il y a de fortes chances que l'on vous demande de participer à son développement, suivant la règle
 
-> 11. Il est presque aussi important de savoir reconnaître les bonnes idées de vos utilisateurs que d'avoir de bonnes idées vous-même. C'est même préférable, parfois.
+> &#49;&#49;. Il est presque aussi important de savoir reconnaître les bonnes idées de vos utilisateurs que d'avoir de bonnes idées vous-même. C'est même préférable, parfois.
 
 C'est ainsi que j'ai d'ailleurs été recruté pour contribuer à la traduction de Moodle en français, en septembre 2003.
 
