@@ -28,6 +28,8 @@ params:
   github: martignoni
   twitter: nmartignoni
 
+  noindex_kinds: [  "taxonomy", "taxonomyTerm", "tags" ]
+
   # Enable Matomo analytics by entering your tracking code
   matomoAnalytics:
     siteid: 4
