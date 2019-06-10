@@ -6,7 +6,7 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "del": "^3.0.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-ext-replace": "^0.3.0",
     "gulp-jsbeautifier": "^3.0.0",
     "gulp-replace": "^1.0.0"
