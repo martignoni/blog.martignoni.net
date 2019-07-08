@@ -10,7 +10,7 @@
 
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ partial "description" . }}">
-  {{ $default_noindex_kinds := slice "section" }}
+  {{ $default_noindex_kinds := slice "" }}
   {{ $noindex_kinds := .Site.Params.noindex_kinds | default $default_noindex_kinds }}
   {{ $is_noindex_true := and (isset .Params "noindex") .Params.noindex }}
   {{ if or (in $noindex_kinds .Kind) ($is_noindex_true) }}
