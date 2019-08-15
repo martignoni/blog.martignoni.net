@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {{ range where .Data.Pages "Params.robotsdisallow" "!=" true }}
+  {{ range where .Site.RegularPages "Params.robotsdisallow" "!=" true }}
   {{ $default_noindex_kinds := slice "section" }}
   {{ $noindex_kinds := .Site.Params.noindex_kinds | default $default_noindex_kinds }}
   {{ if not (in $noindex_kinds .Kind) }}
