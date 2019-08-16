@@ -9,7 +9,7 @@
 
 {{ define "main" }}
 
-  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) }}
   {{ range $paginator.Pages }}
     {{- partial "page-summary" . -}}
   {{ end }}
