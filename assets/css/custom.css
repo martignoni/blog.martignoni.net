@@ -117,7 +117,7 @@ a[data-fancybox] {
   text-decoration: none;
 }
 
-a[data-fancybox] img {
+.gallery a[data-fancybox] img {
   /* height: 250px; */
   width: 250px;
   max-width: inherit;
@@ -128,8 +128,13 @@ a[data-fancybox] img {
   vertical-align: inherit;
 }
 
+figcaption {
+  font-style: italic;
+}
+
+figcaption,
 .fancybox-caption {
-  font-size: 1rem;
+  font-size: .9375rem;
   line-height: 1.5rem;
   text-align: center;
 }
