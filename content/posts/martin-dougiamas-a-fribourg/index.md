@@ -27,12 +27,6 @@ Pour la dernière étape de son tour du monde, et après une conférence donnée
 
 J'ai eu la chance de passer une excellente soirée avec lui, en compagnie de [Penny Leach][9], développeuse active de Moodle et de [Mahara][10].
 
-<!--
-{{< figure src="Martin_Nicolas.jpg" width="220" alt="Nicolas Martignoni et Martin Dougiamas" title="Nicolas Martignoni et Martin Dougiamas" >}}
-
-{{< figure src="Martin_Penny.jpg" width="220" alt="Martin Dougiamas et Penny Leach sur la terrasse du Belvédère" title="Martin Dougiamas et Penny Leach sur la terrasse du Belvédère" >}}
- -->
-
 {{< gallery >}}
 
  [1]: https://home.cern
