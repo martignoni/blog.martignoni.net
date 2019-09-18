@@ -13,7 +13,7 @@ tags:
   - Humour
 
 ---
-<img class="alignnone" title="Astéroïde" src="https://imgs.xkcd.com/comics/asteroid.png" alt="Astéroïde" width="644" height="179" />
+{{< figure src="asteroid.png" alt="Astéroïde" >}}
 
 _<small>Source : <a href="https://xkcd.com/618/">XKCD</a></small>_
 

@@ -13,6 +13,8 @@ tags:
 
 ---
 
-_<small>Source : <a href="http://geekandpoke.typepad.com/">Geek and Poke</a></small>_
+{{< figure class="alignnone" src="mini-geeks.jpg" alt="Mini geeks" >}}
+
+_<small>Source : <a href="http://geek-and-poke.com/">Geek and Poke</a></small>_
 
 <!--more-->

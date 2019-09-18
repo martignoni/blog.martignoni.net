@@ -1,8 +1,7 @@
 ---
 title: "MoodleMoot 2010 : appel à contributions"
 author: Nicolas Martignoni
-
-date: 2010-02-16T21:40:04+00:00
+date: 2010-02-16
 slug: moodlemoot-2010-appel-a-contributions
 categories:
   - École, e-learning et ICT
@@ -15,6 +14,8 @@ tags:
 
 ---
 Le [MoodleMoot][2] est la conférence annuelle des utilisateurs francophones de la plateforme Moodle d'apprentissage en ligne.
+
+{{< figure src="mootfr2010.jpg" alt="Prix carburant" >}}
 
 Cette année, le congrès aura lieu à l'[Université de Technologie de Troyes][3].
 

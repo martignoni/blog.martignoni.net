@@ -23,6 +23,8 @@ Ces interventions nous démontrent, chiffres à l'appui, quelques vérités à c
 
 Sceptique, j'ai voulu vérifier cette dernière information pour la Suisse. Le graphique ci-dessous montre que ce constat est également vrai. Le prix de l'essence a bel et bien chuté entre 1970 (les [statistiques disponibles][5] ne remontent pas plus loin) et 2008, si l'on tient compte du renchérissement et des salaires réels (pouvoir d'achat). Pour ce qui est du fioul domestique, c'est également le cas, malgré la forte augmentation en 2008 du prix de litre à la pompe.
 
+{{< figure src="ComparaisonPrixEssence.png" alt="Prix carburant" title="Prix du carburant entre 1970 et 2009" >}}
+
 Voilà de quoi tordre le cou aux idées reçues !
 
  [1]: https://jancovici.com

@@ -1,8 +1,7 @@
 ---
 title: "Environnements d'apprentissage : l'état du marché aux USA"
 author: Nicolas Martignoni
-
-date: 2009-10-18T11:38:57+00:00
+date: 2009-10-18
 slug: lms-letat-du-marche-aux-usa
 categories:
   - École, e-learning et ICT
@@ -18,6 +17,8 @@ tags:
 La [California State University][1], en partenariat avec l'entreprise [Delta Initiative][2], a publié en août dernier lors d'un [webinar][3] de très intéressantes informations sur l'état du marché des environnements d'apprentissage aux USA, dans l'enseignement supérieur. Le [visionnement de cette conférence en ligne][4] (en anglais) est à conseiller.
 
 Ces informations, qui ne tiennent compte que des USA, sont résumées dans l'illustration ci-dessous.
+
+{{< figure src="LMS-market.png" alt="LMS: marché US" title="LMS: marché US" >}}
 
 Voici quelques constatations intéressantes tirées de ce graphique.
 
