@@ -16,6 +16,8 @@ tags:
 ---
 La [_carte d'orientation de Moodle 2.1_][1] est un outil permettant aux administrateurs de s'y retrouver un peu mieux dans les éléments nécessaires à l'administration de [Moodle][2] 2.1. Elle met en lien les fonctionnalités en rapport avec un aspect de Moodle 2 et les diverses options d'administration qui s'y rattachent. La carte donne ainsi une point de vue différent pour aborder l'administration de Moodle.
 
+{{< figure src="MoodleAdminMap_fr.png" alt="carte d'orientation de Moodle" >}}
+
 Cet outil a été conçu et développé par [Alex Büchner][3] de [Synergy Learning][4] et publié sous licence [Creative Commons][5].
 
 J'ai traduit la carte et je l'ai adaptée de l'anglais, et elle est dès maintenant [disponible en français][6].

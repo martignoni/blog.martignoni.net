@@ -1,8 +1,7 @@
 ---
 title: MoodleMoot 2012 à Nîmes
 author: Nicolas Martignoni
-
-date: 2011-10-26T17:20:01+00:00
+date: 2011-10-26
 slug: moodlemoot-2012-a-nimes
 categories:
   - École, e-learning et ICT
@@ -14,6 +13,8 @@ tags:
   - MoodleMoot
 
 ---
+{{< figure src="moodlemoot.png" alt="Logo MoodleMoot" >}}
+
 Le congrès annuel 2012 de la [communauté francophone][2] des utilisateurs de [Moodle][3] aura lieu à Nîmes. L'organisation est assurée par l'[Université de Nîmes][4].
 
 L'événement aura lieu du mercredi 20 au vendredi 22 juin 2012.

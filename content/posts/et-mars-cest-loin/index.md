@@ -17,6 +17,8 @@ tags:
 ---
 À ne pas manquer, ce [magnifique site][1] illustrant la distance jusqu'à la planète [Mars][2].
 
+{{< figure src="mars.png" alt="Mars" >}}
+
 Très bonne réalisation graphique et technique en [HTML][3] et [JavaScript][4].
 
 <small>_Via <a href="http://daringfireball.net/linked/2013/04/03/how-far-to-mars">[Daring Fireball][5]._</small>

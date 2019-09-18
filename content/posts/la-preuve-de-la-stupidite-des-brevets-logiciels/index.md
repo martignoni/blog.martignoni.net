@@ -1,8 +1,7 @@
 ---
 title: La preuve de la stupidité des brevets logiciels
 author: Nicolas Martignoni
-
-date: 2012-11-17T15:45:24+00:00
+date: 2012-11-17
 slug: la-preuve-de-la-stupidite-des-brevets-logiciels
 categories:
   - Citoyenneté
@@ -14,6 +13,8 @@ tags:
 Si vous n'étiez pas encore convaincu de la stupidité des brevets logiciels, voici de quoi vous faire changer d'avis. Le [bureau des brevets des États-Unis][1] a accordé à [Apple][2] le brevet [D670713][3], qui donne donc à l'entreprise de Cupertino le droit exclusif sur le « tourner de page.»
 
 Non, ce n'est pas une blague, vous avez bien lu : une entreprise possède le droit exclusif sur le tourner de page. Et le brevet est illustré de 3 figures qui démontrent de façon évidente la nouveauté cette invention !
+
+{{< figure src="tourner-page.jpg" alt="Tournez la page" >}}
 
 <small>_Source : [Nick Bilton][4], via [DaringFireball][5]._</small>
 
