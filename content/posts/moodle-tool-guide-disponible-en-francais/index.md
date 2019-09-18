@@ -1,8 +1,7 @@
 ---
 title: Moodle Tool Guide disponible en français
 author: Nicolas Martignoni
-
-date: 2010-10-20T16:41:25+00:00
+date: 2010-10-20
 slug: moodle-tool-guide-disponible-en-francais
 categories:
   - École, e-learning et ICT
@@ -17,6 +16,8 @@ tags:
 
 ---
 Le [_Moodle Tool Guide for Teachers_][2], conçu et publié par [Joyce Seitzinger][4], néerlandaise émigrée en Nouvelle-Zélande, est un aide-mémoire pour l'utilisation de [Moodle][5], destiné aux enseignants et enseignantes. Il détaille dans un tableau à double entrée les outils principaux de Moodle et leur utilisation pédagogique. Il mentionne également les [niveaux taxonomiques de Bloom][6] atteints en utilisant les différents outils. Il a été publié sous licence [Creative Commons][7].
+
+{{< figure src="MoodleToolGuide_fr.png" alt="Moodle Tool Guide" >}}
 
 Dès maintenant, cet [aide-mémoire est disponible en français][1]. Je l'ai traduit et adapté, et ajouté quelques liens vers des ressources utiles pour les utilisateurs et utilisatrices de Moodle en français.
 

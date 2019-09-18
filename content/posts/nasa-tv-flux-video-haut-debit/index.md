@@ -1,8 +1,7 @@
 ---
 title: "NASA TV : flux vidéo haut débit"
 author: Nicolas Martignoni
-
-date: 2010-04-04T17:57:07+00:00
+date: 2010-04-04
 slug: nasa-tv-flux-video-haut-debit
 categories:
   - Astronomie
@@ -16,6 +15,8 @@ tags:
 
 ---
 Pour ceux qui aiment suivre les missions de la [navette spatiale][2] et le travail sur la [station spatiale internationale][3] (ISS), le flux vidéo de la [NASA TV][4] est bien pratique. Malheureusement, la résolution offerte est assez faible.
+
+{{< figure src="nasa_logo.gif" alt="Logo NASA" >}}
 
 En cherchant un peu, on trouve un [flux vidéo Yahoo de la NASA TV][5] à 1200 kbit/s. Le plus simple pour en profiter est d'utiliser le logiciel libre [VLC][6] (Fichier > Ouvrir un flux réseau&hellip; et coller le lien).
 

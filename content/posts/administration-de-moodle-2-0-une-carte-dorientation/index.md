@@ -1,8 +1,7 @@
 ---
 title: "Administration de Moodle 2.0 : une carte d'orientation"
 author: Nicolas Martignoni
-
-date: 2010-11-02T19:38:32+00:00
+date: 2010-11-02
 slug: administration-de-moodle-2-0-une-carte-dorientation
 categories:
   - École, e-learning et ICT
@@ -15,6 +14,8 @@ tags:
 
 ---
 [Alex Büchner][1] de [Synergy Learning][2] vient de publier cette [carte d'orientation][3] de l'administration de [Moodle][4] 2.0. Un magnifique travail pour se retrouver dans les très nombreuses options disponibles.
+
+{{< figure src="Moodle-Admin-Map.jpg" alt="Carte d'administration de Moodle" >}}
 
 <small>_Via [Tomaz Lasic][6]._</small>
 

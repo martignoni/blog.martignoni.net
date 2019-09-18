@@ -1,8 +1,7 @@
 ---
 title: "Pourquoi j'ai supprimé mon compte Facebook"
 author: Nicolas Martignoni
-
-date: 2010-05-11T19:50:41+00:00
+date: 2010-05-11
 slug: pourquoi-jai-supprime-mon-compte-facebook
 categories:
   - Sphère privée
@@ -16,6 +15,8 @@ tags:
 
 ---
 À l'instar de [nombreux][1] [internautes][2], je viens de demander la [suppression de mon compte Facebook][3]. Les questions de protection de la sphère privée m'interpellent et, depuis plusieurs semaines, mes sérieux doutes sur la politique de gestion des données privées par Facebook se sont confirmés.
+
+{{< figure src="ban_facebook.png" alt="Ban Facebook" >}}
 
 Je n'ai pas d'illusions sur les sites web sociaux que sont [Flickr][4], [Youtube][5] ou [Twitter][6]. Cependant, la politique de ces sites est toute différente de celle de Facebook. Avec Facebook, les données que vous avez déposées étaient sensées être privées. Or, sans aucun préavis, [Facebook a changé les règles][7] : vos photos, vos vidéos, vos liens, vos contributions, bref presque toutes vos données sont [devenues publiques][8].
 

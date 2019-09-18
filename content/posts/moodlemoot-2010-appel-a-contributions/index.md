@@ -15,7 +15,7 @@ tags:
 ---
 Le [MoodleMoot][2] est la conférence annuelle des utilisateurs francophones de la plateforme Moodle d'apprentissage en ligne.
 
-{{< figure src="mootfr2010.jpg" alt="Prix carburant" >}}
+{{< figure src="mootfr2010.jpg" alt="Logo MoodleMoot 2010" >}}
 
 Cette année, le congrès aura lieu à l'[Université de Technologie de Troyes][3].
 

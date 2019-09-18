@@ -1,8 +1,7 @@
 ---
 title: "Internet et sphère privée : un diagramme de Venn"
 author: Nicolas Martignoni
-
-date: 2010-10-28T19:44:11+00:00
+date: 2010-10-28
 slug: internet-et-sphere-privee-un-diagramme-de-venn
 categories:
   - Citoyenneté
@@ -15,6 +14,8 @@ tags:
 
 ---
 Une façon intéressante de voir la relation entre Internet et la sphère privée : intersection vide.
+
+{{< figure src="Privacy-and-the-Internet.png" alt="Internet et la sphère privée" caption="Internet et la sphère privée : intersection vide" >}}
 
 <small>_Source : [Dave Makes][1], via [FlowingData][2]._</small>
 

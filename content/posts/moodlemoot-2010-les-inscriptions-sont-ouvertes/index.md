@@ -1,8 +1,7 @@
 ---
 title: "MoodleMoot 2010 : les inscriptions sont ouvertes"
 author: Nicolas Martignoni
-
-date: 2010-05-03T11:00:26+00:00
+date: 2010-05-03
 slug: moodlemoot-2010-les-inscriptions-sont-ouvertes
 categories:
   - École, e-learning et ICT
@@ -14,6 +13,8 @@ tags:
   - MoodleMoot
 
 ---
+{{< figure src="mootfr2010.jpg" alt="Logo MoodleMoot 2010" >}}
+
 Le [site web du MoodleMoot 2010][1] vous permet dès maintenant de [vous inscrire][2] au congrès international annuel des utilisateurs francophones de [Moodle][3].
 
 Le programme prévisionnel est [disponible ici][4].

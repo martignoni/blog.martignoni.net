@@ -1,8 +1,7 @@
 ---
 title: Moodle 2.0 est sorti
 author: Nicolas Martignoni
-
-date: 2010-11-25T13:09:07+00:00
+date: 2010-11-25
 slug: moodle-2-0-est-sorti
 categories:
   - École, e-learning et ICT
@@ -16,6 +15,8 @@ tags:
 
 ---
 Après environ 2 années et demi de travail, Moodle 2.0 est sorti et est [disponible pour téléchargement][1]. L'[annonce][2] en a été faite officiellement hier 24 novembre 2010 par [Martin Dougiamas][3], créateur de Moodle.
+
+{{< figure src="moodle2-logo.png" alt="Logo Moodle 2.0" >}}
 
 Tous les [tests fonctionnels][4] sont passés, les 3873 <span class="nolink">tests</span> unitaires passent également. Pour les courageux, de copieuses [notes de version][5] sont publiées (la [traduction en français][6] de ces <span class="nolink">notes</span> est en <span class="nolink">cours</span>).
 

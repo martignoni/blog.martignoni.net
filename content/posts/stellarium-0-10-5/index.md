@@ -16,6 +16,8 @@ tags:
 ---
 [Stellarium][1], le logiciel libre multiplateforme de simulation astronomique, vient de sortir en version 0.10.5. Pas de révolution dans cette version. Seulement quelques améliorations, notamment en terme de performance et quelque 30 bogues corrigés.
 
+{{< figure src="stellarium.jpg" alt="Logo Stellarium" >}}
+
 Des modifications de l'interface graphique ont également été apportées en vue d'améliorer l'utilisation.
 
 Quelques [copies d'écran sont disponibles][2] pour vous donner l'eau à la bouche.
