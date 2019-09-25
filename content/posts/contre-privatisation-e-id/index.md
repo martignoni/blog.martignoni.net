@@ -24,5 +24,7 @@ Il s'agit d'une décision inquiétante : des entreprises privées délivreront 
 
 L'identité électronique jouera bientôt un rôle central, en particulier dans des domaines sensibles tels que les données relatives à la santé, la votation et les élections en ligne, les impôts en ligne et la banque en ligne. Depuis toujours, la sécurisation de l'identité était une tâche régalienne de l'État, placée sous le contrôle démocratique. Avec cette nouvelle loi, les fournisseurs privés d'e-ID deviennent ainsi responsables du stockage et de l'utilisation de nos données. Quant à la Confédération, elle ne dispose plus que d'une faible fonction de contrôle.
 
+<small>_Source : [WeCollect][1]_</small>
+
 [1]: https://passeport-numerique.wecollect.ch/
 [2]: https://www.rts.ch/info/suisse/10463402-les-suisses-favorables-a-une-identite-numerique-geree-par-l-etat.html
