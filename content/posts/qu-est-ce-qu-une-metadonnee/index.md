@@ -60,13 +60,6 @@ Pour un livre, les métadonnées typiques sont :
 - les numéros de page,
 - etc.
 
-  [Cavoukian]: https://www.thestar.com/opinion/commentary/2013/07/17/metadata_separating_fact_from_fiction.html
-  [pic2map]: https://www.pic2map.com
-  [SJL2]: https://twitter.com/SarahJamieLewis/status/1105381090288517120
-  [SJL3]: https://twitter.com/SarahJamieLewis/status/1105381199483006976
-  [^SJL4]: https://twitter.com/SarahJamieLewis/status/1105381800585584640
-  [moratoire]: https://evoting-moratorium.wecollect.ch/fr
-
 ### Un courriel
 
 Tous les courriels comportent, comme les photos, de nombreuses métadonnées, pour la plupart cachées ou non visibles dans le logiciel de courriel. En voici quelques-unes :
@@ -90,3 +83,9 @@ Pour un dossier contenant des documents sur papier, les métadonnées sont les i
 - la classification.
 
 {{< figure src="paper-metadata.png" alt="Métadonnées d'un dossier (papier)" caption="Métadonnées d'un dossier (papier" >}}
+
+<small>_Article librement inspiré de [What is Metadata][3]_</small>
+
+  [Cavoukian]: https://www.thestar.com/opinion/commentary/2013/07/17/metadata_separating_fact_from_fiction.html
+  [pic2map]: https://www.pic2map.com
+  [3]: https://dataedo.com/kb/data-glossary/what-is-metadata
