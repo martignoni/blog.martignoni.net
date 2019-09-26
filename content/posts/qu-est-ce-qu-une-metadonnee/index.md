@@ -11,6 +11,7 @@ tags:
   - Numérisation
   - Protection des données
   - Métadonnées
+  - Formation
 ---
 
 Les métadonnées sont des __données à propos de données__, des données qui fournissent de l'information sur d'autres données. Elles décrivent les données auxquelles elles se rapportent, ainsi que leur contexte. Elles permettent ainsi de faciliter l'organisation, la recherche et la compréhension de ces données.

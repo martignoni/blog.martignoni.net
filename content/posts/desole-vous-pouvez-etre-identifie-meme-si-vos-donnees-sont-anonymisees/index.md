@@ -13,6 +13,7 @@ categories:
 tags:
   - Identité numérique
   - Privacy by design
+  - Métadonnées
   - Protection des données
   - Sécurité
 

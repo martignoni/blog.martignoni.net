@@ -1,8 +1,7 @@
 ---
 title: "Réseaux sociaux : le préposé s'inquiète"
 author: Nicolas Martignoni
-
-date: 2009-06-29T19:37:28+00:00
+date: 2009-06-29
 slug: reseaux-sociaux-le-prepose-sinquiete
 categories:
   - Citoyenneté
@@ -10,6 +9,7 @@ categories:
 tags:
   - Facebook
   - Protection des données
+  - Métadonnées
   - Réseaux sociaux
 
 ---
