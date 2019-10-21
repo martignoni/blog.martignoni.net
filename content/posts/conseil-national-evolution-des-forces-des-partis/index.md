@@ -1,8 +1,7 @@
 ---
-title: "Conseil National : évolution des forces des partis"
+title: "Conseil National : évolution des forces des partis 1971–2011"
 author: Nicolas Martignoni
-
-date: 2011-12-11T13:56:55+00:00
+date: 2011-12-11
 slug: conseil-national-evolution-des-forces-des-partis
 categories:
   - Politique
