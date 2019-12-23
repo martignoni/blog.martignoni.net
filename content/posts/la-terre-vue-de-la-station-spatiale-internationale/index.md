@@ -19,7 +19,7 @@ Magnifiques prises de vue de la Terre depuis la Station spatiale internationale 
 
 Avez-vous remarqué la Vallée du Nil, l'Italie et la Méditerranée, le Lac Michigan, les orages et les aurores polaires ?
 
-<small>_Source: [Vimeo][2], via [FlowingData][3]._</small>
+_<small>Source: [Vimeo][2], via [FlowingData][3].</small>_
 
  [1]: https://vimeo.com/michaelkoenig
  [2]: https://vimeo.com/32001208

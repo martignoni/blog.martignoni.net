@@ -20,7 +20,7 @@ Il est désormais interdit à toute entreprise privée de récolter des données
 
 L'arrêt du Tribunal fédéral ne légitime en rien le piratage. Il remet simplement l'église au milieu du village : tout comme il ne serait pas acceptable que des privés effectuent des contrôles de vitesse sur les routes et dénoncent les contrevenants, il n'est pas admissible que des sociétés fasse la loi sur le net.
 
-<small>_À lire : [le compte-rendu de la séance du TF][5], par François Charlet._</small>
+_<small>À lire : [le compte-rendu de la séance du TF][5], par François Charlet.</small>_
 
  [1]: https://www.bger.ch/fr/index.htm
  [2]: https://www.edoeb.admin.ch/edoeb/fr/home.html

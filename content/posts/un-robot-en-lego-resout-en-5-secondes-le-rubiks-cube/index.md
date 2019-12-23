@@ -19,7 +19,7 @@ tags:
 
 {{< youtube "_d0LfkIut2M" >}}
 
-<small>_Via [DaringFireball][1]._</small>
+_<small>Via [DaringFireball][1].</small>_
 
   [1]: https://daringfireball.net/linked/2012/03/02/rubiks-lego
 

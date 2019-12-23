@@ -17,7 +17,7 @@ tags:
 
 {{< figure src="Moodle-Admin-Map.jpg" alt="Carte d'administration de Moodle" >}}
 
-<small>_Via [Tomaz Lasic][6]._</small>
+_<small>Via [Tomaz Lasic][6].</small>_
 
  [1]: https://twitter.com/mcbuchner
  [2]: https://www.synergy-learning.com/

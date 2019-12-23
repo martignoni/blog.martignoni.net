@@ -35,7 +35,7 @@ Facebook :
 
 Chacun d'entre eux dit des âneries. À vous de décider lesquelles vous voulez tolérer.
 
-<small>_Cet article est une adaptation de l'article en anglais [Bullshit][1] de [Marco Arment][2]._</small>
+_<small>Cet article est une adaptation de l'article en anglais [Bullshit][1] de [Marco Arment][2].</small>_
 
  [1]: https://marco.org/2011/12/29/bullshit "Bullshit"
  [2]: https://marco.org/about "Marco Arment"

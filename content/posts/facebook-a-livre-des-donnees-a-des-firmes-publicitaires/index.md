@@ -25,7 +25,7 @@ Suite aux questions posées par le journal, Facebook et MySpace ont modifié le 
 
 Cette nouvelle démontre une fois de plus les risques encourus par les utilisateurs de réseaux sociaux, notamment Facebook, par rapport à la divulgation de leurs données personnelles, et conforte encore ma [décision de quitter Facebook][7].
 
-<small>_Via [Daring Fireball][8]._</small>
+_<small>Via [Daring Fireball][8].</small>_
 
  [1]: https://www.wsj.com/articles/SB10001424052748704513104575256701215465596
  [2]: https://www.facebook.com/

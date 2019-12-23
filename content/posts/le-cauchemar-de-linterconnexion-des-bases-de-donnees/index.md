@@ -90,7 +90,7 @@ tags:
 
 **Le téléphoniste** : Je suis désolé, Monsieur, mais notre contrat publicitaire exclusif nous interdit d'offrir gratuitement du Coca aux diabétiques ! Je vous remercie de votre appel.
 
-<small>_Cet article est librement inspiré de [Ordering Pizza][1], de l'[ACLU][2]._</small>
+_<small>Cet article est librement inspiré de [Ordering Pizza][1], de l'[ACLU][2].</small>_
 
   [1]: https://www.aclu.org/news/aclu-links-pizza-delivery-privacy-erosion-new-online-video "Ordering Pizza"
   [2]: https://www.aclu.org/ "American Civil Liberties Union"

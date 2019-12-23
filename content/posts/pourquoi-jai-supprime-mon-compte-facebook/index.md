@@ -38,7 +38,7 @@ Et ce n'est pas tout : une fois le lien cliqué, vous devrez confirmer votre vo
 
 Allez, pour vous éviter les cinq premiers clics, je vous donne gracieusement le lien qui vous permettra, à vous aussi, de [supprimer votre compte Facebook][3].
 
-<small>_Illustration tirée de [rocket.ly][1]._</small>
+_<small>Illustration tirée de [rocket.ly][1].</small>_
 
  [1]: http://www.rocket.ly/home/2010/4/26/top-ten-reasons-you-should-quit-facebook.html
  [2]: http://bloggy.com/2010/05/i_deleted_my_faceboo.html

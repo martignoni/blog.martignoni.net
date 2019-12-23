@@ -20,7 +20,7 @@ Traduction libre :
 
 > Les produits d'Apple disent : « Vous ne pouvez pas effectuer ceci, parce que nous pensons que c'est nul.» Les produits de Microsoft disent : « Nous vous laissons faire tout ce que vous voulez sur n'importe quel appareil si vous voulez vraiment le faire, même si c'est nul.»
 
-<small>_Via [Daring Fireball][4]._</small>
+_<small>Via [Daring Fireball][4].</small>_
 
  [1]: https://marco.org/2012/10/26/an-alternate-universe
  [2]: https://microsoft.com/

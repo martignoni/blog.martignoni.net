@@ -22,7 +22,7 @@ En français :
 
 > Ce que je n'arrive pas à comprendre, c'est pourquoi [Steve Jobs] essaie même [d'être le PDG de Apple] ? Il sait qu'il ne peut pas gagner.
 
-<small>_Via [MacDailyNews][10]._</small>
+_<small>Via [MacDailyNews][10].</small>_
 
  [1]: https://microsoft.com/
  [2]: https://fr.finance.yahoo.com/q?s=MSFT

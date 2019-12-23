@@ -29,7 +29,7 @@ Pour illustrer, la section "Controls" propose (c'est moi qui souligne) :
 
 Bien entendu, la "basic operation" des vendeurs de données personnelles incluent la récolte et la vente de vos données personnelles, __sans votre consentement__. Le reste du texte est de ce même tonneau. La section "Access" dit que le droit des utilisateurs à accéder à leurs données ne doit pas « interférer de manière déraisonnable avec les activités commerciales d'une entreprise ». En clair, si le business d'une entreprise dépend de la collecte des données sans que les utilisateurs ne le sachent, autant dire que vous n'y aurez jamais accès.
 
-_Source: [Electronic Frontier Foundation][2]_
+_<small>Source: [Electronic Frontier Foundation][2]</small>_
 
 [1]: https://internetassociation.org/our-members/
 [2]: https://www.eff.org/deeplinks/2019/09/big-techs-disingenuous-push-federal-privacy-law

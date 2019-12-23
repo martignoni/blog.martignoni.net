@@ -16,7 +16,7 @@ Microsoft a présenté hier, à la conférence D9, une vidéo démontrant [quelq
 
 Pour une entreprise technologique, la mauvaise qualité de la bande son de la vidéo est cependant étonnante.
 
-<small>_Via [DaringFireball][2]._</small>
+_<small>Via [DaringFireball][2].</small>_
 
  [1]: http://www.microsoft.com/presspass/features/2011/jun11/06-01corporatenews.aspx
  [2]: https://daringfireball.net/linked/2011/06/01/previewing-windows-8

@@ -21,6 +21,6 @@ C'est en Europe que l'on trouve le plus grand nombre de LMS à petites parts de 
 
 La part de Canvas est en forte hausse, surtout en Amérique du Nord.
 
-_<small>Source : <a href="http://mfeldstein.com/academic-lms-market-share-view-across-four-global-regions/"'>e-Literate</a></small>_
+_<small>Source : <a href="http://mfeldstein.com/academic-lms-market-share-view-across-four-global-regions/">e-Literate</a></small>_
 
 <!--more-->

@@ -21,7 +21,7 @@ tags:
 
 Très bonne réalisation graphique et technique en [HTML][3] et [JavaScript][4].
 
-<small>_Via <a href="http://daringfireball.net/linked/2013/04/03/how-far-to-mars">[Daring Fireball][5]._</small>
+_<small>Via <a href="http://daringfireball.net/linked/2013/04/03/how-far-to-mars">[Daring Fireball][5].</small>_
 
  [1]: http://www.distancetomars.com/
  [2]: https://fr.wikipedia.org/wiki/Mars_%28plan%C3%A8te%29

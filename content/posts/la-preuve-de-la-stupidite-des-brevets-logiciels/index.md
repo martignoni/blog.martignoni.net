@@ -16,7 +16,7 @@ Non, ce n'est pas une blague, vous avez bien lu : une entreprise possède le dro
 
 {{< figure src="tourner-page.jpg" alt="Tournez la page" >}}
 
-<small>_Source : [Nick Bilton][4], via [DaringFireball][5]._</small>
+_<small>Source : [Nick Bilton][4], via [DaringFireball][5].</small>_
 
  [1]: https://www.uspto.gov/ "United States Patent and Trademark Office"
  [2]: https://apple.com/ "Apple"

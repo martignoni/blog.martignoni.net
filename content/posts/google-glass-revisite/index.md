@@ -21,7 +21,7 @@ Google a présenté récemment son projet de lunettes à réalité augmentée [G
 
 {{< youtube "_mRF0rBXIeg" >}}
 
-<small>_Via [DaringFireball][6]._</small>
+_<small>Via [DaringFireball][6].</small>_
 
  [1]: https://g.co/projectglass "Project Glass"
  [2]: https://www.youtube.com/watch?v=9c6W4CCU9M4

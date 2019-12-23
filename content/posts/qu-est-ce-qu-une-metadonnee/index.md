@@ -85,7 +85,7 @@ Pour un dossier contenant des documents sur papier, les métadonnées sont les i
 
 {{< figure src="paper-metadata.png" alt="Métadonnées d'un dossier (papier)" caption="Métadonnées d'un dossier (papier" >}}
 
-<small>_Article librement inspiré de [What is Metadata][3]_</small>
+_<small>Article librement inspiré de [What is Metadata][3]</small>_
 
   [Cavoukian]: https://www.thestar.com/opinion/commentary/2013/07/17/metadata_separating_fact_from_fiction.html
   [pic2map]: https://www.pic2map.com

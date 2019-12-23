@@ -29,7 +29,7 @@ Google n'a sur le coup pas l'air très crédible, reprochant à ses concurrents 
 
 Rappelle-toi Google : « Don't be evil !»
 
-<small>_Source de l'image : [Crooks and Liars][9]._</small>
+_<small>Source de l'image : [Crooks and Liars][9].</small>_
 
  [2]: https://googleblog.blogspot.com/2011/08/when-patents-attack-android.html
  [3]: https://google.com/

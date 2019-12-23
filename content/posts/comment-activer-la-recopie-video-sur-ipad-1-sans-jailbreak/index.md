@@ -25,7 +25,7 @@ Il est toutefois possible d'activer la recopie vidéo sans jailbreaker son iPad.
 
 C'est tout !
 
-<small>_Source : [Lifehacker][9]._</small>
+_<small>Source : [Lifehacker][9].</small>_
 
  [1]: https://www.apple.com/chfr/ipad/
  [2]: https://www.apple.com/ch-fr/shop/ipad/ipad-accessories

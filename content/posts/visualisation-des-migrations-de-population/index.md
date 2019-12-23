@@ -31,7 +31,7 @@ Et ci-dessous l'émigration depuis la Suisse.
 
 Les données datent de 2010. La visualisation est publiée en HTML5 au moyen d'un outil appelé datamovin, qui sera publié prochainement.
 
-<small>_Via [Flowingdata][5]._</small>
+_<small>Via [Flowingdata][5].</small>_
 
  [1]: http://peoplemov.in/
  [2]: https://twitter.com/littleark
