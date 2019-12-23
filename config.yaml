@@ -64,14 +64,32 @@ privacy:
     disable: false
     privacyEnhanced: true
 
-blackfriday:
+markup:
+# footnoteReturnLinkContents: ↑
+  blackFriday:
+    hrefTargetBlank: true
+    nofollowLinks: true
+    footnoteReturnLinkContents: ↩
+    angledQuotes: true
+    fractions: false
+    smartypantsQuotesNBSP: true
+#     footnoteReturnLinkContents: ↑
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: emacs
+    lineNumbersInTable: true
+    noClasses: true
+
+# blackfriday:
 #  hrefTargetBlank: true
 #  nofollowLinks: true
-  angledQuotes: true
-  fractions: false
-  smartypantsQuotesNBSP: true
+#   angledQuotes: true
+#   fractions: false
+#   smartypantsQuotesNBSP: true
 
-pygmentsCodeFences: true
-pygmentsCodeFencesGuessSyntax: true
-pygmentsUseClasses: true
-#pygmentsStyle: "dracula"
+# pygmentsCodeFences: true
+# pygmentsCodeFencesGuessSyntax: true
+# pygmentsUseClasses: true
+# pygmentsStyle: "dracula"
