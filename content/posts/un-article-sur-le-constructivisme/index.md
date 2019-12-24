@@ -1,8 +1,7 @@
 ---
 title: Un article sur le constructivisme
 author: Nicolas Martignoni
-
-date: 2006-08-20T09:33:31+00:00
+date: 2006-08-20
 slug: un-article-sur-le-constructivisme
 categories:
   - École, e-learning et ICT
@@ -12,6 +11,6 @@ tags:
   - Moodle
 
 ---
-Un <a href="http://dougiamas.com/writing/constructivism.html">intéressant article sur le constructivisme</a>, de <a href="http://dougiamas.com/">Martin Dougiamas</a>, concepteur et développeur de <a href="http://moodle.org/">Moodle</a>, datant de novembre 98 (en anglais).
+Un [intéressant article sur le constructivisme](https://dougiamas.com/writing/constructivism.html), de [Martin Dougiamas](https://dougiamas.com/), concepteur et développeur de [Moodle](https://moodle.org/), datant de novembre 98 (en anglais).
 
 <!--more-->

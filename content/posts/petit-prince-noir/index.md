@@ -1,8 +1,7 @@
 ---
 title: Petit Prince noir
 author: Nicolas Martignoni
-
-date: 2009-09-03T19:19:31+00:00
+date: 2009-09-03
 slug: petit-prince-noir
 categories:
   - Astronomie
@@ -15,6 +14,6 @@ tags:
 ---
 {{< figure src="asteroid.png" alt="Astéroïde" >}}
 
-_<small>Source : <a href="https://xkcd.com/618/">XKCD</a></small>_
+_<small>Source : [XKCD](https://xkcd.com/618/)</small>_
 
 <!--more-->

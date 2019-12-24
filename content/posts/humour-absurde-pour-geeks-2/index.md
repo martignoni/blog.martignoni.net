@@ -1,8 +1,7 @@
 ---
 title: Humour absurde pour geeks 2
 author: Nicolas Martignoni
-
-date: 2010-02-17T21:01:03+00:00
+date: 2010-02-17
 slug: humour-absurde-pour-geeks-2
 categories:
   - Humour
@@ -15,6 +14,6 @@ tags:
 
 {{< figure class="alignnone" src="mini-geeks.jpg" alt="Mini geeks" >}}
 
-_<small>Source : <a href="http://geek-and-poke.com/">Geek and Poke</a></small>_
+_<small>Source : [Geek and Poke](http://geek-and-poke.com/)</small>_
 
 <!--more-->

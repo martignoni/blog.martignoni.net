@@ -1,8 +1,7 @@
 ---
 title: Google lâche Gears pour HTML5
 author: Nicolas Martignoni
-
-date: 2010-02-21T10:33:15+00:00
+date: 2010-02-21
 slug: google-lache-gears-pour-html5
 categories:
   - Web et normes
@@ -15,7 +14,7 @@ Ian Fette, de l'équipe Gears de Google, [annonce][1] que Google va abandonner s
 
 > If you've wondered why there haven't been many Gears releases or posts on the Gears blog lately, it's because we've shifted our effort towards bringing all of the Gears capabilities into web standards like HTML5.
 
-_<small>Source : <a href="http://daringfireball.net/">DaringFireball</a></small>_
+_<small>Source : [DaringFireball](http://daringfireball.net/)</small>_
 
  [1]: http://gearsblog.blogspot.com/2010/02/hello-html5.html
  [2]: https://www.w3.org/TR/html5/

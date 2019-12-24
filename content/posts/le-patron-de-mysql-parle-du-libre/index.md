@@ -1,8 +1,7 @@
 ---
 title: Le patron de MySQL parle du libre
 author: Nicolas Martignoni
-
-date: 2006-04-27T21:21:20+00:00
+date: 2006-04-27
 slug: le-patron-de-mysql-parle-du-libre
 categories:
   - Logiciel libre
@@ -12,7 +11,7 @@ tags:
   - Open Source
 
 ---
-<a href="http://www.liberation.fr/">Libération</a> du 21 avril publie une <a href="http://www.liberation.fr/page.php?Article=376412">interview du patron de MySQL</a> au sujet du logiciel libre. Certains de ses propos sont très intéressants, notamment sa comparaison entre logiciel libre et propriétaire:
+[Libération](http://www.liberation.fr/) du 21 avril publie une [interview du patron de MySQL](http://www.liberation.fr/page.php?Article=376412) au sujet du logiciel libre. Certains de ses propos sont très intéressants, notamment sa comparaison entre logiciel libre et propriétaire:
 
 > Si l'on veut faire une analogie, même si elle est un peu excessive, on pourrait dire que l'_open source_, c'est la démocratie libérale dans laquelle tout le monde peut voter et mettre son grain de sel tandis que le logiciel fermé, c'est la dictature : on ne peut pas le critiquer, ni le modifier, il faut juste croire la propagande du marketing quand elle affirme _« notre produit est le meilleur »_.
 

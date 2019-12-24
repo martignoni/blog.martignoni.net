@@ -1,8 +1,7 @@
 ---
 title: "Et Mars, c'est loin ?"
 author: Nicolas Martignoni
-
-date: 2013-04-04T18:55:19+00:00
+date: 2013-04-04
 slug: et-mars-cest-loin
 categories:
   - Astronomie
@@ -21,7 +20,7 @@ tags:
 
 Très bonne réalisation graphique et technique en [HTML][3] et [JavaScript][4].
 
-_<small>Via <a href="http://daringfireball.net/linked/2013/04/03/how-far-to-mars">[Daring Fireball][5].</small>_
+_<small>Via [Daring Fireball][5].</small>_
 
  [1]: http://www.distancetomars.com/
  [2]: https://fr.wikipedia.org/wiki/Mars_%28plan%C3%A8te%29

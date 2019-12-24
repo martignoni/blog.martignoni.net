@@ -21,7 +21,7 @@ Les Google cars sont des véhicules équipés de caméras à 360° permettant de
 
 {{< figure src="Google_Street_View_car.jpg" alt="Google car" title="Google car" >}}
 
-*<small>Source de la photo : <a href="https://en.wikipedia.org/wiki/File:Google_Street_View_car_Switzerland.jpg">Wikimedia Commons</a></small>*
+_<small>Source de la photo : [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Google_Street_View_car_Switzerland.jpg)</small>_
 
  [1]: https://www.laliberte.ch/
  [2]: https://duckduckgo.com/?q=Google+maps+car&iax=images&ia=images#

@@ -1,8 +1,7 @@
 ---
-title: "Données personnelles et internet: faut-il être paranoïaque ? (partie 1/3)"
+title: "Données personnelles et internet : faut-il être paranoïaque ? (partie 1/3)"
 author: Nicolas Martignoni
-
-date: 2017-07-29T19:08:21+00:00
+date: 2017-07-29
 slug: donnees-personnelles-et-internet-faut-il-etre-paranoiaque-1
 categories:
   - Citoyenneté
@@ -20,7 +19,7 @@ tags:
 
 En 2012, un client de Minneapolis du grand distributeur américain Target (le pendant de la Migros ou de la Coop) a souhaité rencontrer le gérant du magasin local. Il lui a demandé des explications concernant sa fille, étudiante au lycée, qui recevait du magasin des publicités et des bons d’achat pour des vêtements de grossesse, des berceaux, des habits de bébé, articles donnant à penser qu’elle était enceinte. Le père de la jeune fille demanda au gérant si le magasin voulait encourager sa fille à tomber enceinte. Stupéfait, le gérant s’excusa en déclarant n’avoir aucune idée de la raison de ces promotions.
 
-<!--more-->Rentré à la maison, le papa en discuta avec sa fille et découvrit qu’elle attendait effectivement un enfant. Target avait utilisé des techniques complexes d’analyse prédictive, basées sur le comportement et les habitudes d’achat de la jeune fille, pour déterminer qu’il y avait une probabilité élevée qu’elle attende un bébé, et lui fournissait donc des publicités ciblées.[^1]
+Rentré à la maison, le papa en discuta avec sa fille et découvrit qu’elle attendait effectivement un enfant. Target avait utilisé des techniques complexes d’analyse prédictive, basées sur le comportement et les habitudes d’achat de la jeune fille, pour déterminer qu’il y avait une probabilité élevée qu’elle attende un bébé, et lui fournissait donc des publicités ciblées.[^1]
 
 Cette anecdote réelle nous montre l’actualité de ce thème, et nous incite à réfléchir sur la nécessité pour notre société et notre école d’agir face à cette situation, et à développer quelques pistes de réflexion.
 <!--more-->
@@ -72,14 +71,14 @@ _[[Vers la 2e partie de l'article][Partie2]]_
   [article]: https://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf
   [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 
-  [^1]: Samuel Greengard, <a href="https://cacm.acm.org/magazines/2012/8/153815-advertising-gets-personal/abstract">Advertising Gets Personal, Communications of the ACM, August 2012, Vol. 55, No. 8</a>.
-  [^2]: <a href="https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html#a3">Loi fédérale sur la protection des données (LPD), art. 3</a>.
-  [^3]: <a href="https://www.amtsdruckschriften.bar.admin.ch/viewOrigDoc/10105439.pdf?id=10105439">Message du 23 mars 1998 concernant la loi fédérale sur la protection des données</a>.
-  [^4]: Gary Kovacs, <a href="http://www.ted.com/talks/gary_kovacs_tracking_the_trackers">Tracking our online trackers</a>.
+  [^1]: Samuel Greengard, [Advertising Gets Personal, Communications of the ACM, August 2012, Vol. 55, No. 8](https://cacm.acm.org/magazines/2012/8/153815-advertising-gets-personal/abstract).
+  [^2]: [Loi fédérale sur la protection des données (LPD), art. 3](https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html#a3).
+  [^3]: [Message du 23 mars 1998 concernant la loi fédérale sur la protection des données](https://www.amtsdruckschriften.bar.admin.ch/viewOrigDoc/10105439.pdf?id=10105439).
+  [^4]: Gary Kovacs, [Tracking our online trackers](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers).
   [^5]: Duc de Saint-Simon, Mémoires, volume 24, Imprimerie Schneider et Langrand, Paris, 1840.
   [^6]: Karl Maria Michael de Leeuw, Jan Bergstra (ed.), The History of Information Security: A Comprehensive Handbook, Elsevier, Amsterdam, 2007.
-  [^7]: <a href="http://www.gpo.gov/fdsys/pkg/PLAW-107publ56/html/PLAW-107publ56.htm">Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001</a>.
-  [^8]: <a href="https://www.newamerica.org/international-security/do-nsas-bulk-surveillance-programs-stop-terrorists/">Do NSA's Bulk Surveillance Programs Stop Terrorists?</a>.
+  [^7]: [Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001](http://www.gpo.gov/fdsys/pkg/PLAW-107publ56/html/PLAW-107publ56.htm).
+  [^8]: [Do NSA's Bulk Surveillance Programs Stop Terrorists?](https://www.newamerica.org/international-security/do-nsas-bulk-surveillance-programs-stop-terrorists/).
   [^9]: D’autres exemples sont plus anciens, par exemple dans l’Antiquité grecque avec Solon et surtout Alcibiade.
-  [^10]: <a href="http://www.washingtonpost.com/business/technology/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html">« Apple will become the phone of choice for the pedophile.»</a>
-  [^11]: « Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.», <a href="http://franklinpapers.org/framedVolumes.jsp?vol=6&amp;page=238a">Lettre au gouverneur de la Pennsylvanie (11 novembre 1755), Benjamin Franklin</a>.
+  [^10]: [« Apple will become the phone of choice for the pedophile.»](http://www.washingtonpost.com/business/technology/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html)
+  [^11]: « Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.», [Lettre au gouverneur de la Pennsylvanie (11 novembre 1755), Benjamin Franklin](http://franklinpapers.org/framedVolumes.jsp?vol=6&amp;page=238a).

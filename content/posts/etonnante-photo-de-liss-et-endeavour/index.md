@@ -22,9 +22,9 @@ On distingue facilement sur le détail de l'image les 16 panneaux solaire de l'I
 
 {{< figure src="iss_endeavour_2009july26_det.jpg" alt="ISS et Endeavour (détail)" title="ISS et Endeavour (détail)" >}}
 
-La photographie est l'oeuvre de <a href="http://legault.club.fr/info_fr.html">Thierry Legault</a>, un ingénieur français spécialiste du genre qui a déjà eu droit à plusieurs publications sur le célèbre site web <a href="http://apod.nasa.gov/apod/">Astronomy Picture Of the Day</a>. Le <a href="http://www.astrophoto.fr/">site web de Thierry Legault</a> fait la preuve de son énorme talent pour l'astrophotographie. Découvrez-y de nombreuses autres photographies stupéfiantes, notamment prises à l'occasion d'<a href="http://legault.club.fr/eclipse031109.html">éclipses de Lune</a> ou <a href="http://legault.club.fr/eclipse.html">de Soleil</a>.
+La photographie est l'oeuvre de [Thierry Legault](http://legault.club.fr/info_fr.html), un ingénieur français spécialiste du genre qui a déjà eu droit à plusieurs publications sur le célèbre site web [Astronomy Picture Of the Day](http://apod.nasa.gov/apod/). Le [site web de Thierry Legault](http://www.astrophoto.fr/) fait la preuve de son énorme talent pour l'astrophotographie. Découvrez-y de nombreuses autres photographies stupéfiantes, notamment prises à l'occasion d'[éclipses de Lune](http://legault.club.fr/eclipse031109.html) ou [de Soleil](http://legault.club.fr/eclipse.html).
 
-_<small>Source : <a href="http://www.onorbit.com/node/1288">OnOrbit</a></small>_
+_<small>Source : [OnOrbit](http://www.onorbit.com/node/1288)</small>_
 
  [1]: https://fr.wikipedia.org/wiki/Station_spatiale_internationale
  [2]: https://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/orbitersend.html

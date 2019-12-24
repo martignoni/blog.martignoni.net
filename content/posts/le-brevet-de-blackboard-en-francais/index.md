@@ -1,8 +1,7 @@
 ---
 title: Le brevet de Blackboard, en français
 author: Nicolas Martignoni
-
-date: 2006-08-07T21:22:21+00:00
+date: 2006-08-07
 slug: le-brevet-de-blackboard-en-francais
 categories:
   - École, e-learning et ICT
@@ -15,7 +14,7 @@ tags:
 ---
 Les brevets sont délivrés pour des inventions. La question qui se pose est donc : qu'a donc inventé Blackboard dans le domaine de l'apprentissage en ligne ? Rappel : pour être brevetable, une invention doit être à la fois **nouvelle** et **non évidente**.
 
-Voici, empruntée à <a href="http://mfeldstein.com/index.php/weblog/permalink/the_blackboard_patent_claims_in_plain_english/">Michael Feldstein</a> et à  <a href="http://tatler.typepad.com/nose/2006/08/how_to_think_ab_3.html">Alfred Essa</a>, une traduction en termes non juridiques du brevet de Blackboard. Est-ce vraiment une invention ? À vous de juger !
+Voici, empruntée à [Michael Feldstein](http://mfeldstein.com/index.php/weblog/permalink/the_blackboard_patent_claims_in_plain_english/) et à  [Alfred Essa](http://tatler.typepad.com/nose/2006/08/how_to_think_ab_3.html), une traduction en termes non juridiques du brevet de Blackboard. Est-ce vraiment une invention ? À vous de juger !
 
 #### Description du brevet de Blackboard
 

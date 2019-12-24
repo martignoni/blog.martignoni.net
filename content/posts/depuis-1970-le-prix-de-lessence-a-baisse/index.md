@@ -1,8 +1,7 @@
 ---
-title: "Depuis 1970, le prix de l'essence a baissé !"
+title: Depuis 1970, le prix de l'essence a baissé !
 author: Nicolas Martignoni
-
-date: 2009-08-04T16:52:43+00:00
+date: 2009-08-04
 slug: depuis-1970-le-prix-de-lessence-a-baisse
 categories:
   - Citoyenneté
@@ -11,7 +10,7 @@ tags:
   - Énergie
 
 ---
-Le visionnement de la <a href="https://jancovici.com/videos/16h-du-big-bang-ou-presque-a-nos-jours/">conférence de 2008</a> (<a href="http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_uk_new/files/index.html">english version</a>) sur la « Contrainte carbone » de [Jean-Marc Jancovici][1], ainsi que de son cours « <a href="http://www.ensmp.fr/ingenieurcivil/SitesIC/Balado/Climat_som.html">Énergie et changement climatique</a> » donné à l'École Nationale Supérieure des Mines de Paris en mai et juin 2008 est à la fois ô combien ! éclairante et inquiétante.
+Le visionnement de la [conférence de 2008](https://jancovici.com/videos/16h-du-big-bang-ou-presque-a-nos-jours/) ([english version](http://storage02.brainsonic.com/customers2/entrecom/20080227_Spie/session_1_uk_new/files/index.html)) sur la « Contrainte carbone » de [Jean-Marc Jancovici][1], ainsi que de son cours « [Énergie et changement climatique](http://www.ensmp.fr/ingenieurcivil/SitesIC/Balado/Climat_som.html) » donné à l'École Nationale Supérieure des Mines de Paris en mai et juin 2008 est à la fois ô combien ! éclairante et inquiétante.
 
 Ces interventions nous démontrent, chiffres à l'appui, quelques vérités à contre-courant, par exemple :
 

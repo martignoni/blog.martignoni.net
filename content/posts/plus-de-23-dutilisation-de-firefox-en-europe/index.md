@@ -1,8 +1,7 @@
 ---
 title: "Plus de 23% d'utilisation de Firefox en Europe"
 author: Nicolas Martignoni
-
-date: 2006-12-17T21:00:51+00:00
+date: 2006-12-17
 slug: plus-de-23-dutilisation-de-firefox-en-europe
 categories:
   - Logiciel libre
@@ -14,7 +13,7 @@ tags:
   - Open Source
 
 ---
-L'<a href="http://www.xitimonitor.com/fr-FR/Technique/Firefox_Novembre_2006/index-1-1-3-68.html">étude de novembre 2006</a> de <a href="http://www.xitimonitor.com/">Xitimonitor</a> sur l'utilisation de <a href="http://www.mozilla.com/firefox/">Firefox</a> montre que la part de marché de Firefox continue de progresser. En Europe, dans 8 pays, Firefox possède une part de marché de plus de 30%. La part de marché de Firefox dépasse même 40% en Slovénie.
+L'[étude de novembre 2006](http://www.xitimonitor.com/fr-FR/Technique/Firefox_Novembre_2006/index-1-1-3-68.html) de [Xitimonitor](http://www.xitimonitor.com/) sur l'utilisation de [Firefox](http://www.mozilla.com/firefox/) montre que la part de marché de Firefox continue de progresser. En Europe, dans 8 pays, Firefox possède une part de marché de plus de 30%. La part de marché de Firefox dépasse même 40% en Slovénie.
 
 En Suisse, de septembre à novembre 2006, la part de marché de Firefox est passée de 18% à 19.7%. Une progression du même ordre de grandeur a eu lieu dans les autres partie du monde, à part l'Amérique du Sud.
 

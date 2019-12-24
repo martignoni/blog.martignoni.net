@@ -13,7 +13,7 @@ tags:
   - Sakai
 
 ---
-Dans le paysage des hautes écoles, <a href="https://moodle.org/"'>Moodle</a> domine le marché des LMS en Europe, avec 57 %, en Amérique latine, avec 67 % et en Océanie, avec 57 %. En Amérique du Nord, Moodle est deuxième avec 25 %, derrière <a href="http://www.blackboard.com"'>Blackboard</a>, dont la part de marché est de 33 %.
+Dans le paysage des hautes écoles, [Moodle](https://moodle.org/) domine le marché des LMS en Europe, avec 57 %, en Amérique latine, avec 67 % et en Océanie, avec 57 %. En Amérique du Nord, Moodle est deuxième avec 25 %, derrière [Blackboard](http://www.blackboard.com), dont la part de marché est de 33 %.
 
 {{< figure src="global-regions.png" alt="Parts de marché de Moodle" caption="Parts de marché de Moodle" >}}
 
@@ -21,6 +21,6 @@ C'est en Europe que l'on trouve le plus grand nombre de LMS à petites parts de 
 
 La part de Canvas est en forte hausse, surtout en Amérique du Nord.
 
-_<small>Source : <a href="http://mfeldstein.com/academic-lms-market-share-view-across-four-global-regions/">e-Literate</a></small>_
+_<small>Source : [e-Literate](http://mfeldstein.com/academic-lms-market-share-view-across-four-global-regions/)</small>_
 
 <!--more-->

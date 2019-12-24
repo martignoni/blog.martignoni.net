@@ -1,8 +1,7 @@
 ---
 title: "Données personnelles et internet: faut-il être paranoïaque ? (partie 3/3)"
 author: Nicolas Martignoni
-
-date: 2017-07-30T16:09:30+00:00
+date: 2017-07-30
 slug: donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3
 categories:
   - Citoyenneté
@@ -75,13 +74,13 @@ _[[Vers la 2e partie de l'article][Partie2]]_
   [article]: https://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf
   [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 
-  [^1]: <a href="https://www.google.org/flutrends/about/"">Google Flu Trends</a>
-  [^2]: <a href="http://www.lemonde.fr/technologies/article/2012/05/11/mobiles-facebook-gps-vos-donnees-valent-de-l-or_1699424_651865.html">Facebook, GPS, smartphone : comment concilier collecte de données et vie privée</a>
-  [^3]: Voir les <a href="http://www.abilitynet.org.uk/robinchristopherson">travaux de Robin Christopherson</a>
-  [^4]: Par exemple au moyen de <a href="https://research.facebook.com/publications/480567225376225/deepface-closing-the-gap-to-human-level-performance-in-face-verification/">DeepFace</a>
-  [^5]: « Imagine if we didn't have to worry about privacy, if we had strong guarantees that our inventions wouldn't immediately be used against us », <a href="http://idlewords.com/bt14.htm">Maciej Cegłowski</a>
-  [^6]: <a href="https://www.techn0polis.net/2015/01/03/crypto-on-est-fichus-oupas/">Crypto : on est fichus… #oupas</a>
-  [^7]: <a href="https://www.ghostery.com">Télécharger Ghostery</a>
-  [^8]: <a href="https://www.ghostery.com/fr/faqs/how-does-ghostery-work/">How does Ghostery work?</a>
-  [^9]: <a href="http://monica-at-mozilla.blogspot.ch/2015/05/tracking-protection-for-firefox-at-web.html">« (…) leadership needs to recognize that current advertising practices that enable « free » content are in direct conflict with security, privacy, stability, and performance concerns.»</a>
-  [^9]: Daniel Süss, Gregor Waller. <a href="https://www.zhaw.ch/de/psychologie/forschung/medienpsychologie/mediennutzung/james/#c51416">Étude James 2014</a>
+  [^1]: [Google Flu Trends](https://www.google.org/flutrends/about/)
+  [^2]: [Facebook, GPS, smartphone : comment concilier collecte de données et vie privée](http://www.lemonde.fr/technologies/article/2012/05/11/mobiles-facebook-gps-vos-donnees-valent-de-l-or_1699424_651865.html)
+  [^3]: Voir les [travaux de Robin Christopherson](http://www.abilitynet.org.uk/robinchristopherson)
+  [^4]: Par exemple au moyen de [DeepFace](https://research.facebook.com/publications/480567225376225/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)
+  [^5]: « Imagine if we didn't have to worry about privacy, if we had strong guarantees that our inventions wouldn't immediately be used against us », [Maciej Cegłowski](http://idlewords.com/bt14.htm)
+  [^6]: [Crypto : on est fichus… #oupas](https://www.techn0polis.net/2015/01/03/crypto-on-est-fichus-oupas/)
+  [^7]: [Télécharger Ghostery](https://www.ghostery.com)
+  [^8]: [How does Ghostery work?](https://www.ghostery.com/fr/faqs/how-does-ghostery-work/)
+  [^9]: [« (…) leadership needs to recognize that current advertising practices that enable « free » content are in direct conflict with security, privacy, stability, and performance concerns.»](http://monica-at-mozilla.blogspot.ch/2015/05/tracking-protection-for-firefox-at-web.html)
+  [^9]: Daniel Süss, Gregor Waller. [Étude James 2014](https://www.zhaw.ch/de/psychologie/forschung/medienpsychologie/mediennutzung/james/#c51416)

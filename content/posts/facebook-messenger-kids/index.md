@@ -1,10 +1,9 @@
 ---
 title: "Facebook Messenger Kids : dans la gueule du loup"
 author: Nicolas Martignoni
-
-date: 2017-12-05T10:11:42+00:00
+date: 2017-12-05
 slug: facebook-messenger-kids
-featured_image: /wp-content/uploads/2017/12/loup-e1512473885601.png
+featured_image: loup-e1512473885601.png
 categories:
   - Citoyenneté
   - Sécurité
@@ -16,7 +15,7 @@ tags:
   - Réseaux sociaux
 
 ---
-<a href="https://techcrunch.com/2017/12/04/facebook-messenger-kids/">TechCrunch</a> :
+[TechCrunch](https://techcrunch.com/2017/12/04/facebook-messenger-kids/) :
 
 > For the first time, Facebook is opening up to children under age 13 with a privacy-focused app designed to neutralize child predator threats that plague youth-focused competitors like Snapchat.
 

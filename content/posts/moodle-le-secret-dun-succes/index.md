@@ -1,7 +1,7 @@
 ---
 title: "Moodle, le secret d'un succès"
 author: Nicolas Martignoni
-date: 2006-04-15T21:03:13+00:00
+date: 2006-04-15
 slug: moodle-le-secret-dun-succes
 categories:
   - École, e-learning et ICT
@@ -12,7 +12,7 @@ tags:
   - Open Source
 
 ---
-En relisant le célèbre essai d'<a href="http://www.catb.org/~esr/">Eric Raymond</a> « <a href="http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar.html">La Cathédrale et le Bazar</a> », je n'ai pu m'empêcher de me demander pourquoi <a title="Moodle" href="https://moodle.org/">Moodle</a> a tant de succès, tant parmi les enseignants que parmi les développeurs.
+En relisant le célèbre essai d'[Eric Raymond](http://www.catb.org/~esr/) « [La Cathédrale et le Bazar](http://www.linux-france.org/article/these/cathedrale-bazar/cathedrale-bazar.html) », je n'ai pu m'empêcher de me demander pourquoi [Moodle](https://moodle.org/) a tant de succès, tant parmi les enseignants que parmi les développeurs.
 
 Moodle illustre de façon frappante la méthode de développement du style _bazar_. En outre, son développeur principal, Martin Dougiamas, applique quelques-unes des règles citées par Raymond dans son article.
 

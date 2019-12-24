@@ -1,8 +1,7 @@
 ---
 title: Le brevet sur le e-Learning réexaminé
 author: Nicolas Martignoni
-
-date: 2007-01-30T19:36:19+00:00
+date: 2007-01-30
 slug: le-brevet-sur-le-e-learning-reexamine
 categories:
   - École, e-learning et ICT
@@ -14,11 +13,11 @@ tags:
   - Open Source
 
 ---
-L'office des brevets des États-Unis a décidé de réexaminer la [demande de brevet][brevet] de la société <a title="Blackboard" href="http://www.blackboard.com/">Blackboard</a>, en réponse à une demande d'un groupe de soutien des logiciels libres, le <a href="http://www.softwarefreedom.org/">Software Freedom Law Center</a>. Cette demande a été faite au nom de trois systèmes d'enseignement en ligne libres et gratuits, <a href="https://moodle.org/">Moodle</a>, <a href="http://sakaiproject.org/">Sakai</a> et <a href="http://www.atutor.ca/">ATutor</a>.
+L'office des brevets des États-Unis a décidé de réexaminer la [demande de brevet][brevet] de la société [Blackboard](https://www.blackboard.com/), en réponse à une demande d'un groupe de soutien des logiciels libres, le [Software Freedom Law Center](https://www.softwarefreedom.org/). Cette demande a été faite au nom de trois systèmes d'enseignement en ligne libres et gratuits, [Moodle](https://moodle.org/), [Sakai](https://sakaiproject.org/) et [ATutor](https://www.atutor.ca/).
 
-Dans sa <a href="http://www.softwarefreedom.org/publications/blackboard_reexam_order.pdf">décision de réexamen (PDF)</a>, l'office des brevets indique que
+Dans sa [décision de réexamen (PDF)](http://www.softwarefreedom.org/publications/blackboard_reexam_order.pdf), l'office des brevets indique que
 
-> A substantial new question of patentability [&hellip;] is raised by the request,
+> A substantial new question of patentability […] is raised by the request,
 
 c'est-à-dire que l'existence d'une antériorité dans le domaine remet en question la brevetabilité de l'enseignement en ligne.
 

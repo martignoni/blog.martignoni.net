@@ -1,8 +1,7 @@
 ---
 title: "Données personnelles et internet: faut-il être paranoïaque ? (partie 2/3)"
 author: Nicolas Martignoni
-
-date: 2017-07-30T09:30:21+00:00
+date: 2017-07-30
 slug: donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2
 categories:
   - Citoyenneté
@@ -56,15 +55,15 @@ _[[Vers la 1ère partie de l'article][Partie1] – [Vers la 3e partie de l'arti
   [article]: https://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf
   [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 
-  [^1]: « This industry [of information management] is estimated to be worth more than $100 billion and growing at almost 10% a year, roughly twice as fast as the software business as a whole.», <a href="http://www.economist.com/node/15557443">Data, data everywhere, The Economist, 27 février 2010</a>.
-  [^2]: James Chu, responsable de la gouvernance internationale chez Alibaba (Chine), <a href="http://download-audio.rts.ch/la-1ere/programmes/le-journal-du-matin/2015/le-journal-du-matin_20150622_standard_1er-developpement_9c5f35b5-c8f7-4359-afe4-3be2ec956155-128k.mp3">Interview diffusée sur la RTS, 22 juin 2015</a>.
-  [^3]: <a href="http://www.sec.gov/Archives/edgar/data/1288776/000128877615000008/goog2014123110-k.htm#sA63A6AA08C0C233E7C90A6358CB77158">Rapport financier de Google 2014, p. 23, 6 février 2015</a>.
-  [^4]: <a href="http://www.sec.gov/Archives/edgar/data/1326801/000132680115000006/fb-12312014x10k.htm#sCB17083EFDC66A4C66A9AA564DC1F226">Rapport financier de Facebook 2014, p. 43, 29 janvier 2015</a>.
-  [^5]: <a href="https://www.mozilla.org/fr/lightbeam/">Lightbeam, un coup de projecteur sur ceux qui vous surveillent</a>. Lightbeam est un module complémentaire à installer dans le navigateur Firefox.
-  [^6]: <a href="https://www.theguardian.com/technology/2015/mar/31/facebook-tracks-all-visitors-breaching-eu-law-report">Facebook 'tracks all visitors, breaching EU law'</a>.
+  [^1]: « This industry [of information management] is estimated to be worth more than $100 billion and growing at almost 10% a year, roughly twice as fast as the software business as a whole.», [Data, data everywhere, The Economist, 27 février 2010](http://www.economist.com/node/15557443).
+  [^2]: James Chu, responsable de la gouvernance internationale chez Alibaba (Chine), [Interview diffusée sur la RTS, 22 juin 2015](http://download-audio.rts.ch/la-1ere/programmes/le-journal-du-matin/2015/le-journal-du-matin_20150622_standard_1er-developpement_9c5f35b5-c8f7-4359-afe4-3be2ec956155-128k.mp3).
+  [^3]: [Rapport financier de Google 2014, p. 23, 6 février 2015](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000008/goog2014123110-k.htm#sA63A6AA08C0C233E7C90A6358CB77158).
+  [^4]: [Rapport financier de Facebook 2014, p. 43, 29 janvier 2015](http://www.sec.gov/Archives/edgar/data/1326801/000132680115000006/fb-12312014x10k.htm#sCB17083EFDC66A4C66A9AA564DC1F226).
+  [^5]: [Lightbeam, un coup de projecteur sur ceux qui vous surveillent](https://www.mozilla.org/fr/lightbeam/). Lightbeam est un module complémentaire à installer dans le navigateur Firefox.
+  [^6]: [Facebook 'tracks all visitors, breaching EU law'](https://www.theguardian.com/technology/2015/mar/31/facebook-tracks-all-visitors-breaching-eu-law-report).
   [^7]: Sites visités le 13 juillet 2015 (4 journaux quotidiens, 2 gros distributeurs, 1 magasin en ligne) : gdp.ch, cdt.ch, repubblica.it, corriere.it, migros.ch, coop.ch, leshop.ch.
-  [^8]: Samuel Greengard, <a href="https://cacm.acm.org/magazines/2012/8/153815-advertising-gets-personal/abstract">Advertising Gets Personal, Communications of the ACM, August 2012, Vol. 55, No. 8</a>.
-  [^9]: <a href="https://www.theguardian.com/world/2014/may/11/anonymous-web-nsa-trail-janet-vertesi">Attempts to stay anonymous on the web will only put the NSA on your trail</a>.
-  [^10]: <a href="http://www.blackboard.com/news-and-events/press-releases.aspx?releaseid=1676738">Blackboard Acquires Moodlerooms, NetSpot</a>.
-  [^11]: <a href="https://www.theguardian.com/world/2014/may/11/anonymous-web-nsa-trail-janet-vertesi">Attempts to stay anonymous on the web will only put the NSA on your trail</a>.
-  [^12]: <a href="http://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/aktuell/medienmitteilungen/2015_07/1507071c.html">Einsatz von Software im Rahmen der Strafverfolgung</a>.
+  [^8]: Samuel Greengard, [Advertising Gets Personal, Communications of the ACM, August 2012, Vol. 55, No. 8](https://cacm.acm.org/magazines/2012/8/153815-advertising-gets-personal/abstract).
+  [^9]: [Attempts to stay anonymous on the web will only put the NSA on your trail](https://www.theguardian.com/world/2014/may/11/anonymous-web-nsa-trail-janet-vertesi).
+  [^10]: [Blackboard Acquires Moodlerooms, NetSpot](http://www.blackboard.com/news-and-events/press-releases.aspx?releaseid=1676738).
+  [^11]: [Attempts to stay anonymous on the web will only put the NSA on your trail](https://www.theguardian.com/world/2014/may/11/anonymous-web-nsa-trail-janet-vertesi).
+  [^12]: [Einsatz von Software im Rahmen der Strafverfolgung](http://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/aktuell/medienmitteilungen/2015_07/1507071c.html).

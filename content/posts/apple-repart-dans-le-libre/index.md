@@ -1,8 +1,7 @@
 ---
 title: Apple repart dans le libre
 author: Nicolas Martignoni
-
-date: 2006-08-09T10:13:51+00:00
+date: 2006-08-09
 slug: apple-repart-dans-le-libre
 categories:
   - Logiciel libre
@@ -16,6 +15,6 @@ tags:
 
 Parmi les projets hébergés, on trouve le noyau de Mac OS X, _Bonjour_ (anciennement appelé _Rendez-vous_), le démon _launchd_ et bien sûr le moteur de rendu du navigateur Safari, _Webkit_.
 
-_<small>Source : <a href="https://www.macosforge.org/">http://www.macosforge.org/</a></small>_
+_<small>Source : https://www.macosforge.org/ </small>_
 
 <!--more-->
