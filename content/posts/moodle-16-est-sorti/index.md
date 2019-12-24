@@ -25,6 +25,6 @@ Voici une liste non exhaustive de nouveautés de cette version :
   * **Groupes multiples** – les utilisateurs peuvent faire partie de plusieurs groupes dans un même cours.
   * **Nouveau thème _Chameleon_** – un thème Moodle modifiable interactivement !
   * **Sauvegardes partielles** – possibilité d'effectuer des sauvegardes activité par activité.
-  * **<span class="extiw">Inscriptions multiples</span>** – les plug-ins d'inscription Moodle peuvent être utilisés simultanément sur le même site.
+  * **Inscriptions multiples** – les plug-ins d'inscription Moodle peuvent être utilisés simultanément sur le même site.
 
 <!--more-->

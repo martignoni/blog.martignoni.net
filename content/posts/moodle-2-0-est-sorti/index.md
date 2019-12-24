@@ -18,7 +18,7 @@ Après environ 2 années et demi de travail, Moodle 2.0 est sorti et est [dispon
 
 {{< figure src="moodle2-logo.png" alt="Logo Moodle 2.0" >}}
 
-Tous les [tests fonctionnels][4] sont passés, les 3873 <span class="nolink">tests</span> unitaires passent également. Pour les courageux, de copieuses [notes de version][5] sont publiées (la [traduction en français][6] de ces <span class="nolink">notes</span> est en <span class="nolink">cours</span>).
+Tous les [tests fonctionnels][4] sont passés, les 3873 tests unitaires passent également. Pour les courageux, de copieuses [notes de version][5] sont publiées (la [traduction en français][6] de ces notes est en cours).
 
  [1]: https://download.moodle.org/
  [2]: https://moodle.org/mod/forum/discuss.php?d=162906

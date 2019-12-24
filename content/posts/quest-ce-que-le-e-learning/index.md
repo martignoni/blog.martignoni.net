@@ -12,7 +12,7 @@ tags:
 ---
 J'aime bien la définition suivante de l'e-Learning, trouvée [ici](http://www.agentsolo.com/ca/fr/membre/documedia/capsules/90487.jsp) :
 
-> <span class="detailform">Le eLearning comprend toute initiative qui emploie une technologie électronique dans le but d'améliorer l'efficacité humaine.</span>
+> Le eLearning comprend toute initiative qui emploie une technologie électronique dans le but d'améliorer l'efficacité humaine.
 >
 > Par exemple, consulter la définition d'un mot dans un dictionnaire en ligne est une forme de eLearning. En effet, l'apprentissage a lieu à l'aide d'une technologie et a pour résultat d'améliorer la performance. Bien qu'informel et fortuit, cet exemple d'apprentissage entre bel et bien dans la définition du eLearning.
 
