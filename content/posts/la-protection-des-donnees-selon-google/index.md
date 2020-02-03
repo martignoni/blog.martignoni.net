@@ -18,7 +18,7 @@ Inquiet de la protection de vos données quand vous utilisez Google ? Ce n'est 
 
 Voyez plutôt ! (Vidéo en anglo-américain)
 
-<video class="wp-video-shortcode" id="video-238-1" width="480" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="GOOGLE_VILLAGE.mp4?_=1" /></video>
+{{< video src="google_village" width="480" >}}
 
 _<small>Source : [Onion News Network](http://www.theonion.com/content/video/google_opt_out_feature_lets_users)</small>_
 
