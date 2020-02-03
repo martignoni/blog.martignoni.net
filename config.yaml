@@ -3,6 +3,7 @@ title: Perspectives
 theme:
   - hugo-cloak-email
   - hugo-notice
+  - hugo-video
 languageCode: fr-ch
 # Set site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage: fr
