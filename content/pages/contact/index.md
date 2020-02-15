@@ -11,6 +11,6 @@ Si vous désirez me contacter, je serai heureux de recevoir vos commentaires sur
 
 Veuillez adresser vos messages à
 
-{{< cloakemail "nicolas@martignoni.net" >}}
+{{< cloakemail address="nicolas@martignoni.net" query="subject=Contact via blog.martignoni.net" >}}
 
 <!--more-->
