@@ -1,5 +1,6 @@
+---
+os: linux
 dist: bionic
-sudo: required
 
 addons:
   ssh_known_hosts: ${DEPLOY_HOST}
@@ -26,7 +27,7 @@ before_deploy:
 
 deploy:
   provider: script
-  skip-cleanup: true
+  skip_cleanup: true
   script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
   on:
     branch: master
