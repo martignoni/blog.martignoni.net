@@ -24,7 +24,7 @@ Depuis quelques jours, on peut [la suivre en streaming direct][5] sur iPhone et 
 
  [1]: http://www.nasa.gov/multimedia/nasatv/index.html
  [2]: https://fr.wikipedia.org/wiki/Navette_spatiale
- [3]: {{< relref "etonnante-photo-de-liss-et-endeavour" >}}
+ [3]: {{< relref "posts/etonnante-photo-de-liss-et-endeavour" >}}
  [4]: https://www.nasa.gov/ntv
  [5]: https://www.nasa.gov/multimedia/nasatv/nasatv_live_iphone.html
 

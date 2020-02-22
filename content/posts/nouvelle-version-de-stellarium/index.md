@@ -1,8 +1,7 @@
 ---
 title: Nouvelle version de Stellarium
 author: Nicolas Martignoni
-
-date: 2010-02-23T20:48:45+00:00
+date: 2010-02-23
 slug: nouvelle-version-de-stellarium
 categories:
   - Astronomie
@@ -25,6 +24,6 @@ Stellarium est un vrai bijou, qui offre une visualisation complète et réaliste
 Parmi les nouveautés de la version 0.10.4 figurent des plugins qui permettent par exemple d'afficher en temps réel les satellites artificiels visibles, y compris l'[ISS][2], ou encore d'afficher les objets comme dans votre oculaire préféré ! Un autre plugin vous permet même de piloter votre télescope.
 
  [1]: https://www.stellarium.org/
- [2]: {{< relref "etonnante-photo-de-liss-et-endeavour" >}}
+ [2]: {{< relref "posts/etonnante-photo-de-liss-et-endeavour" >}}
 
 <!--more-->

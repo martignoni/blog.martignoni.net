@@ -195,7 +195,7 @@ That's all folks! Push now a commit to the master branch of your git repo, and y
   [^1]: One of these few articles is authored by János Rusiczki, and describes [how to deploy a Jekyll blog through SSH][source].
   [^2]: Travis CI Client is written in Ruby, so you'll have to install Ruby on your computer to do the encryption process. At the end of the whole procedure, Travis CI Client can be deleted from your computer, as well as the Ruby installation.
 
-  [move]: {{< relref "migration-vers-hugo" >}}
+  [move]: {{< relref "posts/migration-vers-hugo" >}}
   [moodlebox]: https://moodlebox.net/
   [source]: https://www.rusiczki.net/2018/01/25/use-travis-to-build-and-deploy-your-jekyll-site-through-ssh/
   [hugo]: https://gohugo.io

@@ -26,7 +26,7 @@ _<small>Source : [Michael Kratz][7].</small>_
 
  [1]: https://www.nasa.gov/
  [2]: https://www.nasa.gov/mission_pages/shuttle/main/index.html
- [3]: {{< relref "etonnante-photo-de-liss-et-endeavour" >}}
+ [3]: {{< relref "posts/etonnante-photo-de-liss-et-endeavour" >}}
  [4]: https://www.nasa.gov/ntv
  [5]: https://playlist.yahoo.com/makeplaylist.dll?id=1368163
  [6]: https://www.videolan.org/vlc/

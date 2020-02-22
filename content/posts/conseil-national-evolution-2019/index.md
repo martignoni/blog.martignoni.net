@@ -26,9 +26,9 @@ Voir également :
 - [Évolution des sièges au Conseil National 1971-2011][2]
 - [Évolution des sièges au Conseil des États 1971-2011][3]
 
- [1]: {{< relref "parlement-2015" >}}
- [2]: {{< relref "conseil-national-evolution-des-forces-des-partis" >}}
- [3]: {{< relref "conseil-des-etats-evolution-des-forces-des-partis" >}}
+ [1]: {{< relref "posts/parlement-2015" >}}
+ [2]: {{< relref "posts/conseil-national-evolution-des-forces-des-partis" >}}
+ [3]: {{< relref "posts/conseil-des-etats-evolution-des-forces-des-partis" >}}
  [4]: https://www.parlament.ch/fr/organe/conseil-national "Conseil National"
 
 <!--more-->

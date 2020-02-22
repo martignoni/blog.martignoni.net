@@ -33,7 +33,7 @@ _<small>Via [Daring Fireball][8].</small>_
  [4]: https://twitter.com/
  [5]: http://www.doubleclick.com/
  [6]: http://www.rightmedia.com/
- [7]: {{< relref "pourquoi-jai-supprime-mon-compte-facebook" >}}
+ [7]: {{< relref "posts/pourquoi-jai-supprime-mon-compte-facebook" >}}
  [8]: https://daringfireball.net/
 
 <!--more-->

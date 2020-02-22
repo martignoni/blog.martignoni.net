@@ -1,8 +1,7 @@
 ---
 title: "Brevet sur le e-Learning : la communauté se mobilise"
 author: Nicolas Martignoni
-
-date: 2006-08-17T19:51:02+00:00
+date: 2006-08-17
 slug: brevet-sur-le-e-learning-la-communaute-se-mobilise
 categories:
   - École, e-learning et ICT
@@ -22,6 +21,6 @@ D'abord, et très rapidement, les utilisateurs de Moodle ont lancé un [recensem
 
 Le brevet [menace tous les logiciels][1] (libres ou non) permettant la mise en oeuvre du l'apprentissage en ligne et pas seulement l'entreprise Desire2Learn. Pour cette raison, les internautes ont bien compris à quel point il est essentiel de donner un coup de main à cette entreprise pour se défendre, sachant que dans les procès en violation de brevet, [c'est toujours le titulaire du brevet qui en retire du bénéfice](http://mfeldstein.com/index.php/weblog/permalink/why_desire2learn_ceo_john_baker_is_our_hero/), même s'il perd le procès.
 
- [1]: {{< relref "le-learning-brevete" >}}
+ [1]: {{< relref "posts/le-learning-brevete" >}}
 
 <!--more-->

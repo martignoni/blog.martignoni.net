@@ -35,7 +35,7 @@ L'illustration ci-dessus sert de lien vers un fichier SVG interactif. La plupart
  [3]: http://www.michaelogawa.com/
  [4]: https://github.com/martignoni/evolines
  [5]: http://www.michaelogawa.com/code_swarm/
- [6]: {{< relref "evolution-du-code-source-de-moodle" >}}
+ [6]: {{< relref "posts/evolution-du-code-source-de-moodle" >}}
  [7]: https://github.com/acaudwell/Gource
  [8]: http://blog.mudrak.name/
  [9]: https://www.youtube.com/watch?v=Ut5JoqIaUHs

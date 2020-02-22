@@ -36,7 +36,7 @@ Voir également à ce sujet [e-Literate](http://mfeldstein.com/) et [PatentlyO][
 
  [1]: https://www.desire2learn.com/
  [2]: https://community.desire2learn.com/d2l/lms/blog/view_userentry.d2l?ou=1796&ownerId=6961&entryId=303&ec=1&iu=1&sp=&gb=usr
- [3]: {{< relref "le-brevet-e-learning-de-blackboard-a-du-plomb-dans-laile" >}}
+ [3]: {{< relref "posts/le-brevet-e-learning-de-blackboard-a-du-plomb-dans-laile" >}}
  [4]: https://moodle.org/
  [5]: https://sakaiproject.org/
  [6]: http://msnmoney.brand.edgar-online.com/EFX_dll/EDGARpro.dll?FetchFilingHTML1?ID=6713461&SessionID=TP-HWoPVNXZHGG9

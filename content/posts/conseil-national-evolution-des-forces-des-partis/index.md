@@ -19,7 +19,7 @@ Pour faire pendant à l'[article de la semaine dernière][1] sur l'évolution de
 
 On constate que les partis de la droite traditionnelle (PDC, PLR) perdent quelques plumes au détriment du PDB et des Verts libéraux. Le parti socialiste reste à peu près stable durant les 40 dernières années. La droite dure (UDC) a énormément progressé à partir des années 1990, mais enregistre une perte importante cette année. L'UDC reste cependant le parti le mieux représenté au Conseil National. La progression des Verts, assez régulière depuis les années 1970, semble maintenant stoppée.
 
- [1]: {{< relref "conseil-des-etats-evolution-des-forces-des-partis" >}} "Conseil des États : évolution des forces des partis"
+ [1]: {{< relref "posts/conseil-des-etats-evolution-des-forces-des-partis" >}} "Conseil des États : évolution des forces des partis"
  [2]: https://www.parlament.ch/fr/organe/conseil-national "Conseil National"
  [3]: CN_71-11.png
 

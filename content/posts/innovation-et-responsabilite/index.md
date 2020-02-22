@@ -31,6 +31,6 @@ Un peu plus loin, Mme Sandoz insiste sur l'importance d'enseigner combien les pr
 
   [^1]: [Émission "Les beaux parleurs" du 3 mars 2019](https://www.rts.ch/play/radio/les-beaux-parleurs/audio/levez-le-voile?id=10225117&startTime=1501).
 
-  [formitic]: {{< relref "pourquoi-la-science-informatique" >}}
+  [formitic]: {{< relref "posts/pourquoi-la-science-informatique" >}}
 
 <!--more-->

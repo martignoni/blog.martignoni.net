@@ -66,8 +66,8 @@ Bien entendu, les gouvernements doivent avoir accès aux données personnelles d
 
 _[[Vers la 2e partie de l'article][Partie2]]_
 
-  [Partie2]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2" >}}
-  [Partie3]: {{< relref "donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3" >}}
+  [Partie2]: {{< relref "posts/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-2" >}}
+  [Partie3]: {{< relref "posts/donnees-personnelles-et-internet-faut-il-etre-paranoiaque-3" >}}
   [article]: https://www4.ti.ch/fileadmin/DECS/DS/Rivista_scuola_ticinese/ST_n.323/ST_323_martignoni_donnees_personnelles_et_internet.pdf
   [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 

@@ -68,7 +68,7 @@ Les aspects positifs — rapidité, sécurité, économie — dépassent large
 
   [^1]: Si vous venez du monde WordPress et que voulez vous initier à Hugo, lisez cet [excellent article sur le sujet][regis], de [Régis Philibert](https://regisphilibert.com).
 
-  [first]: {{< relref "bienvenue-au-club" >}}
+  [first]: {{< relref "posts/bienvenue-au-club" >}}
   [hugo]: https://gohugo.io
   [quaternum]: https://www.quaternum.net/2012/12/23/pourquoi-quitter-wordpress/
   [jekyll]: https://jekyllrb.com
@@ -82,4 +82,4 @@ Les aspects positifs — rapidité, sécurité, économie — dépassent large
   [moodlebox]: https://moodlebox.net
   [repo]: https://github.com/martignoni/blog.martignoni.net
   [regis]: https://regisphilibert.com/blog/2019/01/from-wordpress-to-hugo-a-mindset-transition/
-  [deploy]: {{< relref "hugo-deployment" >}}
+  [deploy]: {{< relref "posts/hugo-deployment" >}}

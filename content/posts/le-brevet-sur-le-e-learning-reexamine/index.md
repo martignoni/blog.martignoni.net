@@ -25,6 +25,6 @@ Une telle demande ne signifie pas encore l'annulation du brevet, mais c'est un p
 
 La procédure occasionnée par des demandes analogues prend d'habitude 2 ans, et se termine dans la grande majorité des cas par une annulation du brevet ou une restriction de ses revendications.
 
- [brevet]: {{< relref "le-brevet-de-blackboard-en-francais" >}} "Brevet de Blackboard"
+ [brevet]: {{< relref "posts/le-brevet-de-blackboard-en-francais" >}} "Brevet de Blackboard"
 
 <!--more-->
