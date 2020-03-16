@@ -21,7 +21,7 @@ Dans l'enseignement obligatoire et dans le secondaire du deuxième degré[^isced
 
 Pour des raisons d'organisation, le scénario le plus vraisemblable est celui dans lequel on cherche à conserver la planification des cours déjà en place, ne serait-ce que pour s'assurer que des cours n'ont pas lieu en même temps pour le même public.
 
-Si l'on veut que le dispositif ait une chance d'avoir de bons résultats en terme d'apprentissages, il faut qu'il combine deux éléments, l'un __synchrone__, l'autre __asychrone__.
+Si l'on veut que le dispositif ait une chance d'avoir de bons résultats en terme d'apprentissages, il faut qu'il combine deux éléments, l'un __synchrone__, l'autre __asynchrone__.
 
 <!--more-->
 
