@@ -56,7 +56,7 @@ Les activités doivent offrir et encourager l'interaction entre élèves, pour s
 
 Parmi les activités asynchrones possibles, on peut proposer des __quiz__ formatifs avec auto-correction et feed-backs renvoyant vers la matière vue en classe, des __devoirs__, ceux-là même que l'on donne dans un enseignement normal, qui pourront être rendus par voie numérique. La mise à disposition d'un __forum de discussion modéré__ dont le sujet est exclusivement la matière du cours est un élément essentiel, permettant de donner des explications personnalisées, mais surtout de stimuler les explications entre pairs. D'autres activités, selon la créativité de l'enseignant ou de l'enseignante, peuvent évidemment être proposées : glossaires, flash-cards, etc.
 
-Pour soutenir les activités asynchrones, l'enseignante ou l'enseignante mettra à disposition des ressources nécessaires à l'élève pour y travailler. Par exemple, les enregistrement des sessions synchrones, le polycopié du cours, des liens web pour approfondir la matière, des vidéos, des sons, etc.
+Pour soutenir les activités asynchrones, l'enseignante ou l'enseignant mettra à disposition des ressources nécessaires à l'élève pour y travailler. Par exemple, les enregistrement des sessions synchrones, le polycopié du cours, des liens web pour approfondir la matière, des vidéos, des sons, etc.
 
 On constate facilement que pour cette partie asynchrone, l'utilisation d'une plateforme d'apprentissage comme [Moodle](https://moodle.org/) est indispensable, car elle permet de regrouper en un seul endroit toutes les activités et ressources, ce qui facilite grandement l'accès des élèves. Parfois, elle offre même le service de visio-conférence pour la partie synchrone.
 
