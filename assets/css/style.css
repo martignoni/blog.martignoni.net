@@ -448,7 +448,7 @@ h6:first-child {
 h1 {
 	font-size: 24px;
 	font-size: 1.5rem;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 h2,
@@ -456,14 +456,14 @@ h2,
 	color: #666;
 	font-size: 20px;
 	font-size: 1.25rem;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 h3 {
 	color: #333;
 	font-size: 18px;
 	font-size: 1.125rem;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 h4 {
@@ -1866,7 +1866,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .page .panel-content .recent-posts .entry-title {
 	font-size: 20px;
 	font-size: 1.25rem;
-	font-weight: 300;
+	font-weight: 400;
 	letter-spacing: 0;
 	text-transform: none;
 }
@@ -2223,7 +2223,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 	color: #333;
 	font-size: 20px;
 	font-size: 1.25rem;
-	font-weight: 300;
+	font-weight: 400;
 	overflow: visible;
 	position: relative;
 }
@@ -2688,7 +2688,7 @@ h2.widget-title {
 .widget_rss li .rsswidget {
 	font-size: 22px;
 	font-size: 1.375rem;
-	font-weight: 300;
+	font-weight: 400;
 	line-height: 1.4;
 }
 
