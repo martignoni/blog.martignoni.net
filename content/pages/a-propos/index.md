@@ -27,9 +27,9 @@ Ouvrage collectif de la CRM, _Formulaires et tables_, Éditions du Tricorne, Gen
 
 Martignoni N., _Cryptographie, un aperçu historique_, in Gymnasium Helveticum Nr. 1/02, 2002.
 
-Martignoni N., _ Cryptographie_, Cahiers de la CRM, Fribourg, 2004.
+Martignoni N., _Cryptographie_, Cahiers de la CRM, Fribourg, 2004.
 
-Ouvrage collectif de la CRM, _ Probabilités_, Édition du Tricorne, Genève, 2005.
+Ouvrage collectif de la CRM, _Probabilités_, Édition du Tricorne, Genève, 2005.
 
 Humbert M., Martignoni N., Rennard J. Ph., _Moodle : analyse d’un succès_, Colloque AIM, HEC Montréal, Lausanne, Suisse, 2007.
 
@@ -39,7 +39,7 @@ Mathez J., Fahrni N., Fischer C., Standtke R., Schwab S., Bouverat M., Martignon
 
 ## Licence
 
-[{{< figure class="alignright"  src="cc-by-nc-sa.png" alt="Licence Creative Commons" >}}][3]
+[{{< figure class="alignright" src="cc-by-nc-sa.png" alt="Licence Creative Commons" >}}][3]
 Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International][3]. Si vous avez des questions sur l'utilisation commerciale des textes ou des photographies originales de ce site, veuillez me contacter.
 
 Les opinions développées sur ce blog ne sont que celles de leur auteur. Elles n'impliquent en rien le Gymnase intercantonal de la Broye, ni la Direction de l'instruction publique, de la culture et du Sport du canton de Fribourg.
