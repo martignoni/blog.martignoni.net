@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | humanize }}"
 date: {{ dateFormat "2006-01-02" .Date }}
 author: Nicolas Martignoni
 slug: {{ .Name | urlize }}
