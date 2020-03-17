@@ -5,18 +5,20 @@
     <span class="date-month">{{ default .Date (i18n .Date.Month) }}</span>
     <span class="date-year">{{ .Date.Format "2006" }}</span>
   </time>
-{{ else if lt .PublishDate .Lastmod }}
-  <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
-    <span class="date-day">{{ .Lastmod.Format "2" }}</span>
-    <span class="date-month">{{ default .Lastmod (i18n .Lastmod.Month) }}</span>
-    <span class="date-year">{{ .Lastmod.Format "2006" }}</span>
-  </time>
 {{ else }}
   <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">
     <span class="date-day">{{ .PublishDate.Format "2" }}</span>
     <span class="date-month">{{ default .PublishDate (i18n .PublishDate.Month) }}</span>
     <span class="date-year">{{ .PublishDate.Format "2006" }}</span>
   </time>
-{{ end }}&nbsp;&nbsp;&nbsp;
+{{ end }}&nbsp;&nbsp;
+{{ if lt .PublishDate .Lastmod }}
+<span class="icon"><i class="fa fa-repeat" aria-hidden="true"></i></span>
+  <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
+    <span class="date-day">{{ .Lastmod.Format "2" }}</span>
+    <span class="date-month">{{ default .Lastmod (i18n .Lastmod.Month) }}</span>
+    <span class="date-year">{{ .Lastmod.Format "2006" }}</span>
+  </time>
+{{ end }}&nbsp;&nbsp;
 <span class="icon"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
 <span>{{ .ReadingTime }} {{ partial "minutes" . }} {{ i18n "readingTime" }}</span>
