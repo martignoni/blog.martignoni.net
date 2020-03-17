@@ -1,6 +1,7 @@
 ---
 title: "COVID-19 : Un scénario pour un enseignement totalement à distance"
 date: 2020-03-16
+lastmod: 2020-03-17
 author: Nicolas Martignoni
 slug: scenario-pour-enseigner-a-distance
 description: La fermeture de toutes les écoles pour passer à l'enseignement à distance met les enseignantes et les enseignants devant la nécessité d'adopter de nouvelles façon de travailler, sans aucune préparation et souvent sans plan de continuité. Cet article décrit un scénario pour un enseignement totalement à distance, puisqu'il n'est plus question actuellement d'enseignement hybride.
@@ -48,6 +49,8 @@ Les services suivants sont très bons et peuvent être utilisés gratuitement à
 
 On peut aussi utiliser à cet effet [Skype](https://www.skype.com/) (propriétaire, gratuit).
 
+L'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}}) propose quelques recommandations pour bien réaliser cette phase synchrone.
+
 ### L'élément asynchrone : activités et ressources en ligne
 
 En dehors des phases synchrones, le cours doit être accompagné par des activités __asynchrones__ et des ressources en ligne. Ces activités et ressources permettent aux élèves d'apprendre à leur rythme, au moment où cela leur est le plus profitable, en consultant les documents fournis par l'enseignante ou l'enseignant.
@@ -72,5 +75,7 @@ Une formation et une mise en pratique auraient été bénéfiques tant pour la v
 Même s'il est maintenant trop tard pour ça, il vaut malgré tout la peine de construire avec soin son enseignement à distance : c'est ce que nous devons à nos élèves !
 
 Chaque enseignant devra prendre du temps pour mettre en place un tel dispositif ; mais en contrepartie, nous allons apprendre plein de choses.
+
+_Version mise à jour le 17 mars 2020 : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}})._
 
 [^isced]: Classification [ISCED 3](http://uis.unesco.org/en/topic/international-standard-classification-education-isced) ; en France : lycées ; en Suisse, suivant le canton : gymnases, collèges ou lycées ; en Belgique : secondaire supérieur.
