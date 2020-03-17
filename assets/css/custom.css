@@ -307,3 +307,21 @@ body:not(.title-tagline-hidden) .site-search-button {
 #error-page .icon {
   font-size: 1.1875rem;
 }
+
+/* Sources. */
+
+div.sources {
+  margin-top: 2em;
+}
+
+.sources h6 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-style: italic;
+  margin-bottom: .5ex;
+}
+
+.sources ul li {
+  font-size: 0.8125rem;
+  font-style: italic;
+}

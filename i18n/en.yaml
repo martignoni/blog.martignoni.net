@@ -130,6 +130,8 @@
   translation: "Donate"
 - id: cookiesTitle
   translation: "Cookies"
+- id: sources
+  translation: "Sources"
 
 - id: January
   translation: "January"

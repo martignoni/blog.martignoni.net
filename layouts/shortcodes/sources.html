@@ -1,0 +1,8 @@
+<div class="sources">
+<h6>{{ i18n "sources" }}</h6>
+<ul>
+{{ range $.Page.Params.sources }}
+  <li>{{ . | markdownify }}</li>
+{{ end }}
+</ul>
+</div>
