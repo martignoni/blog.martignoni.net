@@ -4,7 +4,6 @@ date: 2020-03-17
 author: Nicolas Martignoni
 slug: conseils-visio-conference
 description: La partie synchrone d'un scénario d'enseignement à distance peut être mise en œuvre à l'aide de la visio-conférence. Cet article donne quelques conseils à suivre pour une visio-conférence réussie.
-draft: true
 categories:
   - École, e-learning et ICT
   - Technologie
