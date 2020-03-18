@@ -24,7 +24,7 @@ La version 3 du Guide des outils Moodle en français est publié sous licence [C
 
 Téléchargement (fichier PDF) : [Guide des outils Moodle version 3 en français][download].
 
- [download]: MoodleToolGuide-3x-fr.pdf
+ [download]: /2020/03/guide-des-outils-moodle-v3/MoodleToolGuide-3x-fr.pdf
  [moodle]: https://moodle.org/
  [bloom]: https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom
  [cc]: https://creativecommons.org/
