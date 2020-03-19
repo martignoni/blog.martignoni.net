@@ -76,6 +76,6 @@ Même s'il est maintenant trop tard pour ça, il vaut malgré tout la peine de c
 
 Chaque enseignant devra prendre du temps pour mettre en place un tel dispositif ; mais en contrepartie, nous allons apprendre plein de choses.
 
-_Version mise à jour le 17 mars 2020 : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}})._
+_Mise à jour du 17 mars 2020 : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}})._
 
 [^isced]: Classification [ISCED 3](http://uis.unesco.org/en/topic/international-standard-classification-education-isced) ; en France : lycées ; en Suisse, suivant le canton : gymnases, collèges ou lycées ; en Belgique : secondaire supérieur.
