@@ -238,7 +238,7 @@ body:not(.title-tagline-hidden) .site-search-button {
 
 #search-box {
   position: relative; /* Required for search icon positioning. */
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.5em;
 }
 
 #search-box::before {
@@ -295,7 +295,7 @@ body:not(.title-tagline-hidden) .site-search-button {
 }
 
 .search-hit h2 {
-  margin-bottom: .5ex;
+  margin-bottom: .25em;
 }
 
 .search-hit h2 a:hover {
@@ -318,10 +318,20 @@ div.sources {
   font-size: 0.875rem;
   font-weight: 600;
   font-style: italic;
-  margin-bottom: .5ex;
+  margin-bottom: .25em;
 }
 
 .sources ul li {
   font-size: 0.8125rem;
   font-style: italic;
+}
+
+/* Footnotes. */
+
+.footnotes {
+  font-size: 0.875rem;
+}
+
+.footnotes p {
+  margin: 0 0 .25em;
 }
