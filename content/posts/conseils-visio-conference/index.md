@@ -1,5 +1,5 @@
 ---
-title: "COVID-19: Conseils pour une visio-conférence réussie"
+title: "COVID-19 : Conseils pour une visio-conférence réussie"
 date: 2020-03-17
 author: Nicolas Martignoni
 slug: conseils-visio-conference
