@@ -23,7 +23,7 @@ sources:
 ---
 Nous avons vu dans l'[article sur l'enseignement à distance][distance] que pour sa partie synchrone, la _visio-conférence_, appelée également _conférence web_ ou _webinar_, peut être utilisée à profit.
 
-Voici quelques conseils à l'attention des enseignantes et enseignants, et plus particulièrement de celles et ceux qui ne sont pas encore rompus à cette modalité d'enseignement. <!-- Il ne s'agit pas d'un traité exhaustif sur la visio-conférence, mais d'une liste de bonnes pratiques à utiliser et de mauvaises à éviter pour s'économiser des soucis. -->
+Voici quelques conseils à l'attention des enseignantes et enseignants, et plus particulièrement de celles et ceux qui ne sont pas encore rompus à cette modalité d'enseignement.
 
 <!--more-->
 
