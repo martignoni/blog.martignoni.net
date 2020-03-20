@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 : Un scénario pour un enseignement totalement à distance"
 date: 2020-03-16
-lastmod: 2020-03-17
+lastmod: 2020-03-20
 author: Nicolas Martignoni
 slug: scenario-pour-enseigner-a-distance
 description: La fermeture de toutes les écoles pour passer à l'enseignement à distance met les enseignantes et les enseignants devant la nécessité d'adopter de nouvelles façon de travailler, sans aucune préparation et souvent sans plan de continuité. Cet article décrit un scénario pour un enseignement totalement à distance, puisqu'il n'est plus question actuellement d'enseignement hybride.
@@ -68,6 +68,8 @@ Si votre établissement ne propose pas une telle plateforme, il existe actuellem
 - si vous avez plus de 50 élèves, [SOS Moodle](https://sos.moodlemoot.fr/) offre gratuitement des cours en ligne pour ceux dont l'établissement ne fournit pas de plateforme d'apprentissage ;
 - le [Gymnase de Nyon](https://moodle.gymnyon.vd.ch/) ouvre gratuitement des cours Moodle sur sa plateforme pour tout enseignant romand qui en fait la demande ; contact : {{< cloakemail display="Dominique-Alain Jan" address="dominiquealain.jan@vd.educanet2.ch" query="subject=COVID-19: demande de cours Moodle" >}}.
 
+L'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}}) propose des pistes pour organiser cette phase asynchrone.
+
 ### Nous devons à nos élèves de nous investir
 
 Une formation et une mise en pratique auraient été bénéfiques tant pour la visio-conférence que pour l'utilisation d'une plateforme d'apprentissage.
@@ -77,5 +79,7 @@ Même s'il est maintenant trop tard pour ça, il vaut malgré tout la peine de c
 Chaque enseignant devra prendre du temps pour mettre en place un tel dispositif ; mais en contrepartie, nous allons apprendre plein de choses.
 
 _Mise à jour du 17 mars 2020 : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}})._
+
+_Mise à jour du 20 mars 2020 : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}})._
 
 [^isced]: Classification [ISCED 3](http://uis.unesco.org/en/topic/international-standard-classification-education-isced) ; en France : lycées ; en Suisse, suivant le canton : gymnases, collèges ou lycées ; en Belgique : secondaire supérieur.
