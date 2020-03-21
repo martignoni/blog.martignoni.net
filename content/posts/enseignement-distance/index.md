@@ -17,6 +17,7 @@ tags:
   - Moodle
   - Pédagogie
   - COVID-19
+  - Continuité pédagogique
 ---
 Dans l'enseignement obligatoire et dans le secondaire du deuxième degré[^isced], l'enseignement et l'apprentissage totalement à distance est très rare, et il n'existe presque aucune expérience. Le scénario suivant permet de se faire une idée de la façon d'organiser un cours à distance. Il aborde aussi les implications en terme d'outils et d'infrastructure nécessaires.
 

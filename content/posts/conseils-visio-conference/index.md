@@ -18,6 +18,7 @@ tags:
   - Pédagogie
   - COVID-19
   - Visio-conférence
+  - Continuité pédagogique
 sources:
   - "[Appui à la Pédagogie Universitaire et Innovante, Avignon](https://apui.univ-avignon.fr/enseigner-a-distance/)"
   - https://www.glowbl.com/fr/classe-virtuelle/
