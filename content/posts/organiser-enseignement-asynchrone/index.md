@@ -47,7 +47,7 @@ Vous avez créé tous ces contenus et vous y avez mis votre talent et votre moti
 
 Les ressources sont nécessaires, mais pas suffisantes. Un espace de cours doit être vivant, comme une classe. Au-delà des contenus, l'aspect humain y est essentiel, et il doit contribuer à maintenir et à conforter la relation pédagogique.
 
-L'espace de cours est le lieu où les élèves peuvent travailler sur des activités individuelles ou en groupe pour progresser dans leurs apprentissages, où ils peuvent s'entraider, où ils peuvent progresser chacun à leur rythme. C'est le lieu où l'enseignante ou l'enseignant peut guider les élèves dans leurs progressions. C'est aussi le lieu des discussions sur le thème du cours et sur l'apprentissage.
+L'espace de cours est le lieu où les élèves peuvent travailler sur des activités individuelles ou en groupe pour développer leurs apprentissages, où ils peuvent s'entraider, où ils peuvent progresser chacun à leur rythme. C'est le lieu où l'enseignante ou l'enseignant peut guider les élèves dans leurs progressions. C'est aussi le lieu des discussions sur le thème du cours et sur l'apprentissage.
 
 ### Organiser son espace de cours
 
@@ -75,11 +75,11 @@ Lorsque vous serez à l'aise, introduisez des quiz, puis [d'autres activités][a
 
 #### Quelques bonnes pratiques
 
-##### Fixer des règles
+##### Fixez des règles
 
 La plateforme de cours, c'est aussi l'école. On y remplit son profil, de manière responsable. On n'y fait pas n'importe quoi, on ne s'y exprime pas n'importe comment. Bref, on y applique les mêmes règles qu'à l'école.
 
-##### Utiliser un forum pour toutes les interactions asynchrones
+##### Utilisez un forum pour toutes les interactions asynchrones
 
 Utilisez un forum (ou des forums) pour toutes les interactions non présentielles. Refusez de répondre aux questions envoyées individuellement par courriel ou par d'autres canaux bilatéraux : les questions posées sur le forum profiteront à toute la classe et surtout donneront l'occasion aux autres élèves de tenter de proposer des réponses. Le forum pourra aussi servir de référence pour des révisions.
 
