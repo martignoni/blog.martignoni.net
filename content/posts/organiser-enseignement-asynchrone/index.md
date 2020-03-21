@@ -24,7 +24,7 @@ sources:
 ---
 Nous avons mentionné [dans un article précédent][distance] que les deux temporalités de l'enseignement à distance, l'enseignement __synchrone__ et l'enseignement __asynchrone__, sont nécessaires si l'on veut avoir une chance d'obtenir de bons résultats en terme d'apprentissages.
 
-Compléter la [visio-conférence][visio] par des activités __asynchrones__ et des ressources en ligne permet aux élèves d'apprendre à leur rythme, au moment où cela leur est le plus profitable, en consultant les contenus mis à disposition par l'enseignante.
+Compléter la [visio-conférence][visio] par des activités __asynchrones__ et des ressources en ligne permet aux élèves d'apprendre à leur rythme, au moment où cela leur est le plus profitable, en consultant les contenus mis à disposition par l'enseignante ou l'enseignant.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ Pour cette partie asynchrone, l'utilisation d'une plateforme d'apprentissage ou 
 
 > La plateforme me semble indispensable. C'est le moment de l'exploiter au maximum. La plateforme est la métaphore du centre de formation.[^vaufrey]
 
-En tant que métaphore de l'école, une bonne plateforme d'apprentissage donne à l'enseignant une grande souplesse et s'adapte à son style d'enseignement. Elle offre aux élèves un espace sécurisé et rassurant pour soutenir leurs apprentissages. Elle soutient la médiation du travail à distance entre l'enseignante et les élèves. [Moodle][moodle] est une telle plateforme.
+En tant que métaphore de l'école, une bonne plateforme d'apprentissage donne à l'enseignant ou l'enseignante une grande souplesse et s'adapte à son style d'enseignement. Elle offre aux élèves un espace sécurisé et rassurant pour soutenir leurs apprentissages. Elle soutient la médiation du travail à distance entre l'enseignante ou l'enseignant et les élèves. [Moodle][moodle] est une telle plateforme.
 
 Une plateforme d'apprentissage permet également la __différenciation pédagogique__ : des activités différentes peuvent être proposées aux élèves selon leurs difficultés d'apprentissage. Elle permet si cela est nécessaire d'__individualiser__ la formation, en prenant en compte leurs compétences déjà acquises, leur rythme, etc.
 
@@ -40,13 +40,13 @@ Une plateforme d'apprentissage permet également la __différenciation pédagogi
 
 C'est un stéréotype de voir l'espace de cours d'une plateforme d'apprentissage comme un dépôt plus ou moins statique de ressources prétendument interactives[^decideurs] : des capsules vidéo, des séquences audio, des documents à lire, des illustrations à consulter, etc.
 
-Cassons tout de suite cette vision des choses : pour ça, on n'a pas besoin d'une plateforme ; un disque dur ou de la place sur un serveur partagé suffit amplement et ne nécessite ni formation, ni assistance pour les enseignants, et presque pas de maintenance technique. D'ailleurs les élèves ne s'y trompent pas : il n'y a rien d'interactif là-dedans, et si on en reste là, l'espace de cours, déserté, n'est qu'un _cimetière à documents_ ; il y règne la même tranquillité.
+Cassons tout de suite cette vision des choses : pour ça, on n'a pas besoin d'une plateforme ; un disque dur ou de la place sur un serveur partagé suffit amplement et ne nécessite ni formation, ni assistance pour les enseignants et enseignantes, et presque pas de maintenance technique. D'ailleurs les élèves ne s'y trompent pas : il n'y a rien d'interactif là-dedans, et si on en reste là, l'espace de cours, déserté, n'est qu'un _cimetière à documents_ ; il y règne la même tranquillité.
 
 Vous avez créé tous ces contenus et vous y avez mis votre talent et votre motivation ; il serait dommage que ce gros travail ne soit pas utilisé à sa juste valeur. Et si vous n'avez que peu de documents à mettre à disposition, ce n'est pas un véritable obstacle : vous en ajouterez d'autres au fur et à mesure.
 
 Les ressources sont nécessaires, mais pas suffisantes. Un espace de cours doit être vivant, comme une classe. Au-delà des contenus, l'aspect humain y est essentiel, et il doit contribuer à maintenir et à conforter la relation pédagogique.
 
-L'espace de cours est le lieu où les élèves peuvent travailler sur des activités individuelles ou en groupe pour progresser dans leurs apprentissages, où ils peuvent s'entraider, où ils peuvent progresser chacun à leur rythme. C'est le lieu où l'enseignante peut guider les élèves dans leurs progressions. C'est aussi le lieu des discussions sur le thème du cours et sur l'apprentissage.
+L'espace de cours est le lieu où les élèves peuvent travailler sur des activités individuelles ou en groupe pour progresser dans leurs apprentissages, où ils peuvent s'entraider, où ils peuvent progresser chacun à leur rythme. C'est le lieu où l'enseignante ou l'enseignant peut guider les élèves dans leurs progressions. C'est aussi le lieu des discussions sur le thème du cours et sur l'apprentissage.
 
 ### Organiser son espace de cours
 
@@ -62,7 +62,7 @@ Au risque de me répéter : la simple mise à disposition de contenus ne suffit
 
 Il s'agit donc que les élèves soient actifs. Une [bonne plateforme d'apprentissage][moodle] offre une [vaste panoplie d'activités][activites], permettant de diversifier les interactions afin d'obtenir et de conserver l'engagement et l'attention des élèves.
 
-Le __forum de discussion__ modéré n'est à cet égard pas à négliger. Il permet à l'enseignant d'interagir avec les élèves et à ceux-ci d'interagir entre eux, en dehors du volet synchrone. Le forum est la brique centrale du dispositif asynchrone, permettant de le réguler, de fournir des explications personnalisées et surtout de stimuler les discussions entre élèves sur toutes les activités. Un forum devrait faire partie de tout espace d'apprentissage en ligne.
+Le __forum de discussion__ modéré n'est à cet égard pas à négliger. Il permet à l'enseignant ou l'enseignante d'interagir avec les élèves et à ceux-ci d'interagir entre eux, en dehors du volet synchrone. Le forum est la brique centrale du dispositif asynchrone, permettant de le réguler, de fournir des explications personnalisées et surtout de stimuler les discussions entre élèves sur toutes les activités. Un forum devrait faire partie de tout espace d'apprentissage en ligne.
 
 Dans l'ample éventail des autres activités possibles, citons notamment
 - les __devoirs__, permettant de donner aux élèves une tâche à effectuer, en ligne ou hors ligne, avec une date de remise,
@@ -84,7 +84,7 @@ Utilisez un forum (ou des forums) pour toutes les interactions non présentielle
 
 ##### Ne répondez pas tout de suite dans le forum
 
-Résistez à la tentation de répondre tout de suite aux questions posées dans le forum : votre autorité d'enseignante _tuerait_ la discussion. Relancez la question après quelques heures, puis, seulement après un nouveau délai, répondez à la question. Expliquez ce fonctionnement aux élèves.
+Résistez à la tentation de répondre tout de suite aux questions posées dans le forum : votre autorité d'enseignante ou d'enseignant _tuerait_ la discussion. Relancez la question après quelques heures, puis, seulement après un nouveau délai, répondez à la question. Expliquez ce fonctionnement aux élèves.
 
 ### En guise de conclusion : un mot sur l'_enseignement hybride_
 
