@@ -34,7 +34,7 @@ Pour cette partie asynchrone, l'utilisation d'une plateforme d'apprentissage ou 
 
 En tant que métaphore de l'école, une bonne plateforme d'apprentissage donne à l'enseignant une grande souplesse et s'adapte à son style d'enseignement. Elle offre aux élèves un espace sécurisé et rassurant pour soutenir leurs apprentissages. Elle soutient la médiation du travail à distance entre l'enseignante et les élèves. [Moodle][moodle] est une telle plateforme.
 
-Une plateforme d'apprentissage permet également la __différenciation pédagogique__ : des activités différentes peuvent être proposées aux élèves selon leurs difficultés d'apprentissage. Elle permet si cela est nécessaire d'__individualiser__ la formation, en prenant en compte de leurs compétences déjà acquises, leur rythme, etc.
+Une plateforme d'apprentissage permet également la __différenciation pédagogique__ : des activités différentes peuvent être proposées aux élèves selon leurs difficultés d'apprentissage. Elle permet si cela est nécessaire d'__individualiser__ la formation, en prenant en compte leurs compétences déjà acquises, leur rythme, etc.
 
 ### Un espace vivant, pas un _cimetière à documents_
 
