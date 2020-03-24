@@ -83,6 +83,24 @@ markup:
     lineNumbersInTable: true
     noClasses: true
 
+related:
+  threshold: 50
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: "keywords"
+      weight: 200
+
+    - name: "categories"
+      weight: 100
+
+    - name: "tags"
+      weight: 50
+
+    - name: "date"
+      weight: 10
+      pattern: "2006"
+
 # blackfriday:
 #  hrefTargetBlank: true
 #  nofollowLinks: true

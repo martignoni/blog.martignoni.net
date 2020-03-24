@@ -72,8 +72,8 @@
   translation: "on"
 - id: testimonials
   translation: "Testimonials"
-- id: relatedTitle
-  translation: "Related content"
+- id: relatedPosts
+  translation: "Related posts"
 - id: toMainContent
   translation: "To main content"
 - id: whatsYourName

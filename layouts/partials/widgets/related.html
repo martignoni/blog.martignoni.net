@@ -1,0 +1,13 @@
+<aside id="secondary" class="widget-area" role="complementary" aria-label="side column">
+  <section id="related-posts" class="widget widget_related_entries">
+  <h2 class="widget-title">{{ i18n "relatedPosts" }}</h2>
+    <ul>
+    {{ $related := .Site.RegularPages.Related . | first 5 }}
+    {{ with $related }}
+      {{ range . }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </section>
+</aside>

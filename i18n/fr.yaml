@@ -74,8 +74,8 @@
   translation: "Témoignages"
 - id: toMainContent
   translation: "Aller au contenu principal"
-- id: relatedTitle
-  translation: "Pages similaires"
+- id: relatedPosts
+  translation: "Articles similaires"
 - id: whatsYourName
   translation: "Quel est votre nom ?"
 - id: whatsYourEmail
