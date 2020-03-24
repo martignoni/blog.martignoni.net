@@ -5,8 +5,8 @@ author: Nicolas Martignoni
 slug: guide-des-outils-moodle-v3
 description: L'excellent aide-mémoire imaginé par Joyce Seitzinger pour aider les enseignantes et enseignants à déployer adéquatement les outils Moodle a été mis à jour pour correspondre à la version actuelle de Moodle, afin d'aider les nombreuses personnes qui utilisent Moodle au cours de la crise du COVID-19. Le Guide des outils Moodle version 3 en français est mis gratuitement à disposition sur cette page.
 categories:
-  - École
-  - E-learning et ICT
+  - École, e-learning et ICT
+  - Technologie
 tags:
   - Moodle
   - COVID-19
