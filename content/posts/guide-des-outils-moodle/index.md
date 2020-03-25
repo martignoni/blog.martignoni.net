@@ -16,6 +16,8 @@ tags:
   - E-learning
   - Formation
   - Pédagogie
+aliases:
+  - "/wp-content/uploads/2010/10/MoodleToolGuide_fr.pdf"
 ---
 {{< figure link="/2020/03/guide-des-outils-moodle-v3/MoodleToolGuide-3x-fr.pdf" class="alignright" src="moodletoolguide-small" alt="Moodle Tool Guide version 3" width="250" >}}
 Le [_Guide des outils Moodle_][download] est un aide-mémoire pour l'utilisation de [Moodle][moodle] version 3 et ultérieures, destiné aux enseignantes et enseignants. Il détaille dans un tableau à double entrée les principaux outils de Moodle et leur utilisation pédagogique. Il mentionne également les [niveaux taxonomiques de Bloom][bloom] pouvant être atteints lors de l'utilisation des différents outils.
