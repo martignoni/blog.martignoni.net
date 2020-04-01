@@ -11,9 +11,7 @@ tags:
   - Formation
   - Hugo
   - Test
-
 ---
-
 Cette page est destinée à faire quelques tests avec Hugo. Cette page est destinée à faire quelques tests avec Hugo. Cette page est destinée à faire quelques tests avec Hugo. Cette page est destinée à faire quelques tests avec Hugo.
 
 Cette page est destinée à faire quelques tests avec Hugo. Une adresse sans arobe dans l'adresse. {{< cloakemail address="+1 212 664-7665" protocol="tel" >}}

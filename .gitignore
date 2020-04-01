@@ -1,6 +1,7 @@
 # Hugo
 public/
 resources/
+content/posts/test/
 
 # Node
 node_modules/
