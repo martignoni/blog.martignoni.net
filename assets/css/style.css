@@ -539,7 +539,6 @@ pre {
 	max-width: 100%;
 	overflow: auto;
 	padding: 3ex 1.4em 4ex;
-	box-shadow: 1px 16px 30px 0 rgba(0,0,0,.1);
 	border-radius: 6px;
 }
 
