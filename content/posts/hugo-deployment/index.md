@@ -132,9 +132,9 @@ env:
   global:
     - PRODUCTION=true
     - HUGO_RELEASE=0.54.0
-    - secure: <long string of random looking ASCII chars>
-    - secure: <another long ASCII string>
-    - secure: <and another long ASCII string>
+    - secure: "<long string of random looking ASCII chars>"
+    - secure: "<another long ASCII string>"
+    - secure: "<and another long ASCII string>"
 ```
 
 We're now ready to add at the end of _.travis.yml_ the commands to transfer the website data to the web hosting server:
@@ -185,9 +185,9 @@ env:
   global:
     - PRODUCTION=true
     - HUGO_RELEASE=0.54.0
-    - secure: <a long string of random looking ASCII chars ending with an equal sign>
-    - secure: <another long ASCII string ending with an equal sign>
-    - secure: <and another long ASCII string ending with an equal sign>
+    - secure: "<a long string of random looking ASCII chars ending with an equal sign>"
+    - secure: "<another long ASCII string ending with an equal sign>"
+    - secure: "<and another long ASCII string ending with an equal sign>"
 ```
 
 That's all folks! Push now a commit to the master branch of your git repo, and your website is automatically deployed to your host by Travis.
