@@ -147,7 +147,7 @@ deploy:
   on:
     branch: master
 ```
-The option `skip-cleanup` keeps the result of the build before the transfer. The `--delete-after` part cleans the directory before we copy the new version of the site we just built.
+The option `skip_cleanup` keeps the result of the build before the transfer. The `--delete-after` part cleans the directory before we copy the new version of the site we just built.
 
 If you followed these instructions, you should have a _.travis.yml_ looking like that:
 
@@ -176,7 +176,7 @@ before_deploy:
 
 deploy:
   provider: script
-  skip-cleanup: true
+  skip_cleanup: true
   script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
   on:
     branch: master
