@@ -132,9 +132,9 @@ env:
   global:
     - PRODUCTION=true
     - HUGO_RELEASE=0.54.0
-    - secure: <long string of random looking ASCII chars>
-    - secure: <another long ASCII string>
-    - secure: <and another long ASCII string>
+    - secure: <long string of random looking ASCII chars/>
+    - secure: <another long ASCII string/>
+    - secure: <and another long ASCII string/>
 ```
 
 We're now ready to add at the end of _.travis.yml_ the commands to transfer the website data to the web hosting server:
