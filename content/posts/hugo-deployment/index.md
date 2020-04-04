@@ -132,9 +132,9 @@ env:
   global:
     - PRODUCTION=true
     - HUGO_RELEASE=0.54.0
-    - secure: <long string of random looking ASCII chars/>
-    - secure: <another long ASCII string/>
-    - secure: <and another long ASCII string/>
+    - secure: <long string of random looking ASCII chars>
+    - secure: <another long ASCII string>
+    - secure: <and another long ASCII string>
 ```
 
 We're now ready to add at the end of _.travis.yml_ the commands to transfer the website data to the web hosting server:
@@ -142,7 +142,7 @@ We're now ready to add at the end of _.travis.yml_ the commands to transfer the 
 ```yaml
 deploy:
   provider: script
-  skip-cleanup: true
+  skip_cleanup: true
   script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
   on:
     branch: master
