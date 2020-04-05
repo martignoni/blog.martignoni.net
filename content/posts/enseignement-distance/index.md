@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 : Un scénario pour un enseignement totalement à distance"
 date: 2020-03-16
-lastmod: 2020-03-20
+lastmod: 2020-04-05
 author: Nicolas Martignoni
 slug: scenario-pour-enseigner-a-distance
 description: La fermeture de toutes les écoles pour passer à l'enseignement à distance met les enseignantes et les enseignants devant la nécessité d'adopter de nouvelles façon de travailler, sans aucune préparation et souvent sans plan de continuité. Cet article décrit un scénario pour un enseignement totalement à distance, puisqu'il n'est plus question actuellement d'enseignement hybride.
