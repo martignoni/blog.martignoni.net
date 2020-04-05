@@ -1,6 +1,7 @@
 ---
 title: "Deploy your Hugo site through SSH with Travis"
 date: "2019-03-10"
+lastmod: "2020-04-05"
 slug: deploy-your-hugo-site
 description: Static site generation leverages website content management through version-control systems. With the help of CI tools, we can set up automatic deployment via SSH. This article shows how to do such deployment using Hugo and Travis CI.
 draft: false
@@ -143,11 +144,11 @@ We're now ready to add at the end of _.travis.yml_ the commands to transfer the 
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
+  script: rsync -r --quiet --delete ${TRAVIS_BUILD_DIR}/public/ ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
   on:
     branch: master
 ```
-The option `skip_cleanup` keeps the result of the build before the transfer. The `--delete-after` part cleans the directory before we copy the new version of the site we just built.
+The option `skip_cleanup` keeps the result of the build before the transfer. The `--delete` part cleans the directory before we copy the new version of the site we just built.
 
 If you followed these instructions, you should have a _.travis.yml_ looking like that:
 
@@ -177,7 +178,7 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
+  script: rsync -r --quiet --delete ${TRAVIS_BUILD_DIR}/public/ ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
   on:
     branch: master
 
@@ -191,6 +192,9 @@ env:
 ```
 
 That's all folks! Push now a commit to the master branch of your git repo, and your website is automatically deployed to your host by Travis.
+
+__Update April 5, 2020__: Fix `rsync` deployment command.
+
 
   [^1]: One of these few articles is authored by János Rusiczki, and describes [how to deploy a Jekyll blog through SSH][source].
   [^2]: Travis CI Client is written in Ruby, so you'll have to install Ruby on your computer to do the encryption process. At the end of the whole procedure, Travis CI Client can be deleted from your computer, as well as the Ruby installation.
