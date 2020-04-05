@@ -45,10 +45,10 @@ Des exemples de tels services sont :
 
 Les services suivants sont très bons et peuvent être utilisés gratuitement à petite échelle, mais ils sont propriétaires et leur politique en matière de protection des données n'est pas particulièrement transparente.
 
-- [Zoom](https://zoom.us/) (propriétaire, plan gratuit durant la crise du COVID-19)
 - [WebEx](https://www.webex.com/) (propriétaire, plan gratuit durant la crise du COVID-19)
+- [Skype](https://www.skype.com/) (propriétaire, gratuit)
 
-On peut aussi utiliser à cet effet [Skype](https://www.skype.com/) (propriétaire, gratuit).
+Il est __déconseillé d'utiliser Zoom__, en raison de [procédés déloyaux en matière de liberté individuelle](https://www.rts.ch/info/sciences-tech/11216543-zoom-dans-le-tourbillon-de-la-protection-des-donnees.html).
 
 L'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}}) propose quelques recommandations pour bien réaliser cette phase synchrone.
 
@@ -79,8 +79,10 @@ Même s'il est maintenant trop tard pour ça, il vaut malgré tout la peine de c
 
 Chaque enseignant devra prendre du temps pour mettre en place un tel dispositif ; mais en contrepartie, nous allons apprendre plein de choses.
 
-_Mise à jour du 17 mars 2020 : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}})._
+__Mise à jour du 17 mars 2020__ : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}}).
 
-_Mise à jour du 20 mars 2020 : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}})._
+__Mise à jour du 20 mars 2020__ : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}}).
+
+__Mise à jour du 5 avril 2020__ : modification concernant l'utilisation de Zoom.
 
 [^isced]: Classification [ISCED 3](http://uis.unesco.org/en/topic/international-standard-classification-education-isced) ; en France : lycées ; en Suisse, suivant le canton : gymnases, collèges ou lycées ; en Belgique : secondaire supérieur.
