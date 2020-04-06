@@ -44,7 +44,7 @@ Martignoni N., _Guide des outils Moodle_ version 3, [en ligne]({{< relref "guide
 ## Licence
 
 [{{< figure class="alignright" src="cc-by-nc-sa.png" alt="Licence Creative Commons" >}}][3]
-Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International][3]. Si vous avez des questions sur l'utilisation commerciale des textes ou des photographies originales de ce site, veuillez me contacter.
+Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International][3]. Si vous avez des questions sur l'utilisation commerciale des textes, illustrations ou autres contenus originaux de ce site, veuillez me contacter.
 
 Les opinions développées sur ce blog ne sont que celles de leur auteur. Elles n'impliquent en rien le Gymnase intercantonal de la Broye, ni la Direction de l'instruction publique, de la culture et du Sport du canton de Fribourg.
 
