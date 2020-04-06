@@ -2,7 +2,7 @@
 <figure {{ with .Get "class" }}class="{{ . }}"{{ end }} itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 {{ $imgurl := index (($.Page.Resources.ByType "image").Match (printf "%s*" $image_src)) 0 }}
 {{ if .Get "link" }}
-<a data-fancybox="photo-{{ $image_src }}" href="{{ .Get "link" }}" {{ with or (or (.Get "title") (.Get "caption")) (.Get "attr") }}data-caption="{{ . }}"{{ end }}>
+<a href="{{ .Get "link" }}" {{ with or (or (.Get "title") (.Get "caption")) (.Get "attr") }}data-caption="{{ . }}"{{ end }}>
 {{ else }}
 <a data-fancybox="photo-{{ $image_src }}" href="{{ $imgurl.RelPermalink }}" {{ with or (or (.Get "title") (.Get "caption")) (.Get "attr") }}data-caption="{{ . }}"{{ end }}>
 {{ end }}
