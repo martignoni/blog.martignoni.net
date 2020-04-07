@@ -38,4 +38,4 @@ gulp.task('html', function () {
     .pipe(gulp.dest('public'))
 })
 
-gulp.task('default', gulp.series('hugo', 'css', 'html'))
+gulp.task('default', gulp.series('hugo', 'html'))
