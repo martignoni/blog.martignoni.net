@@ -2,11 +2,11 @@
 {{ $css_options := (dict ) }}
 {{ if .Site.IsServer }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
-  {{ $fontawesomeCSS := resources.Get "css/font-awesome.css" | toCSS $cssOpts | postCSS }}
-  {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts | postCSS }}
-  {{ $blocksCSS := resources.Get "css/blocks.css" | toCSS $cssOpts | postCSS }}
-  {{ $syntaxCSS := resources.Get "css/syntax.css" | toCSS $cssOpts | postCSS }}
-  {{ $customCSS := resources.Get "css/custom.css" | toCSS $cssOpts | postCSS }}
+  {{ $fontawesomeCSS := resources.Get "css/font-awesome.css" | toCSS $cssOpts }}
+  {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts }}
+  {{ $blocksCSS := resources.Get "css/blocks.css" | toCSS $cssOpts }}
+  {{ $syntaxCSS := resources.Get "css/syntax.css" | toCSS $cssOpts }}
+  {{ $customCSS := resources.Get "css/custom.css" | toCSS $cssOpts }}
   <link href="{{ $fontawesomeCSS.Permalink }}" rel="stylesheet">
   <link href="{{ $styleCSS.Permalink }}" rel="stylesheet">
   <link href="{{ $blocksCSS.Permalink }}" rel="stylesheet">
@@ -14,7 +14,7 @@
   <link href="{{ $customCSS.Permalink }}" rel="stylesheet">
 {{ else }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" false "outputStyle" "compressed") }}
-  {{ $fontawesomeCSS := resources.Get "css/font-awesome.css" | toCSS $cssOpts | minify | fingerprint "md5" }}
+  {{ $fontawesomeCSS := resources.Get "css/font-awesome.css" | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
   {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
   {{ $blocksCSS := resources.Get "css/blocks.css" | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
   {{ $syntaxCSS := resources.Get "css/syntax.css" | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
