@@ -12,7 +12,7 @@ blockquote {
 
 blockquote > p {
   padding-left: 1em;
-  border-left: 3px solid #bbb
+  border-left: 3px solid #999
 }
 
 .site-content {
