@@ -11,6 +11,7 @@
     "gulp-ext-replace": "^0.3.0",
     "gulp-jsbeautifier": "^3.0.1",
     "gulp-replace": "^1.0.0",
+    "postcss-cli": "^7.1.0",
     "purgecss": "^2.1.0",
     "tailwindcss": "^1.2.0"
   },
