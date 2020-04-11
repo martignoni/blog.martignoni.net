@@ -1,0 +1,114 @@
+baseurl: https://blog.martignoni.net/
+title: Perspectives
+theme:
+  - hugo-cloak-email
+  - hugo-notice
+  - hugo-video
+languageCode: fr-ch
+# Set site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage: fr
+# Set summary length.
+summaryLength: 250
+# Customize footnote return links.
+footnoteReturnLinkContents: ↩
+# Set number of posts per page.
+paginate: 5
+# Make relative URLs relative to content root.
+relativeURLs: true
+
+# Enable robots.txt generation.
+enableRobotsTXT: true
+
+# Enable menu system for lazy bloggers.
+SectionPagesMenu: main
+
+params:
+  description: Enseignant, spécialiste du e-learning, expert en numérisation, fan de Moodle et geek du logiciel libre. Je développe et maintiens la MoodleBox.
+  author: Nicolas Martignoni
+  powered_by:
+  github: martignoni
+  twitter: nmartignoni
+
+  noindex_kinds: [  "taxonomy", "taxonomyTerm", "tags" ]
+
+  # Enable Matomo analytics by entering your tracking code
+  matomoAnalytics:
+    siteid: 4
+    matomoroot: "stats.martignoni.net" # Do not add slashes
+
+outputs:
+  home: ["HTML", "JSON", "RSS"]
+  section: [ "HTML", "RSS" ]
+  page: ["HTML"]
+
+permalinks:
+  posts: /:year/:month/:slug/
+  pages: /:slug/
+  archive: /:slug/
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: true
+    disableInlineCSS: true
+  vimeo:
+    disable: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+markup:
+# footnoteReturnLinkContents: ↑
+  blackFriday:
+    hrefTargetBlank: true
+    nofollowLinks: true
+    footnoteReturnLinkContents: ↩
+    angledQuotes: true
+    fractions: false
+    smartypantsQuotesNBSP: true
+#     footnoteReturnLinkContents: ↑
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: emacs
+    lineNumbersInTable: true
+    noClasses: true
+
+related:
+  threshold: 50
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: "keywords"
+      weight: 200
+
+    - name: "categories"
+      weight: 100
+
+    - name: "tags"
+      weight: 50
+
+    - name: "date"
+      weight: 10
+      pattern: "2006"
+
+# blackfriday:
+#  hrefTargetBlank: true
+#  nofollowLinks: true
+#   angledQuotes: true
+#   fractions: false
+#   smartypantsQuotesNBSP: true
+
+# pygmentsCodeFences: true
+# pygmentsCodeFencesGuessSyntax: true
+# pygmentsUseClasses: true
+# pygmentsStyle: "dracula"
