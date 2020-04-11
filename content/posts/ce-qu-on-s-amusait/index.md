@@ -15,7 +15,6 @@ tags:
   - Pédagogie
   - COVID-19
   - Visio-conférence
-  - Continuité pédagogique
 ---
 En ces temps de distanciation sociale et d'[enseignement totalement à distance][distance], il est sans doute bon de prendre du recul pour réfléchir à l'essence de la relation pédagogique: le __contact humain__ entre les élèves, et entre l'enseignante ou l'enseignant et les élèves.
 
