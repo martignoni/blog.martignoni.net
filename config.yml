@@ -23,7 +23,7 @@ enableRobotsTXT: true
 SectionPagesMenu: main
 
 build:
-  writeStats: true
+  writeStats: false
 
 params:
   description: Enseignant, spécialiste du e-learning, expert en numérisation, fan de Moodle et geek du logiciel libre. Je développe et maintiens la MoodleBox.
