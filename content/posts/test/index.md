@@ -14,6 +14,20 @@ tags:
 ---
 Cette page est destinée à faire quelques tests avec Hugo. Cette page est destinée à faire quelques tests avec Hugo. Cette page est destinée à faire quelques tests avec Hugo. Cette page est destinée à faire quelques tests avec Hugo.
 
+{{< video src="google_village" width="480" >}}
+
+Autre vidéo
+
+{{< video src="macos-ca-cert-screencast" width="90%" >}}
+
+Autre vidéo
+
+{{< video src="windows-ca-cert-screencast" width="90%" >}}
+
+<!--more-->
+
+<br /><hr />
+
 Cette page est destinée à faire quelques tests avec Hugo. Une adresse sans arobe dans l'adresse. {{< cloakemail address="+1 212 664-7665" protocol="tel" >}}
 
 {{< notice note >}}
@@ -29,8 +43,6 @@ Une autre adresse: {{< cloakemail address="john.doe@example.com?subject=blabla" 
 {{< notice warning >}}
 This is a notice of type `warning`. Note the different icon.
 {{< /notice >}}
-
-<!--more-->
 
 Une adresse avec une classe: {{< cloakemail address="john.doe@example.com" display="Contactez-nous !" class="blu" >}}
 
