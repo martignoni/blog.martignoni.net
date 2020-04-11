@@ -22,6 +22,9 @@ enableRobotsTXT: true
 # Enable menu system for lazy bloggers.
 SectionPagesMenu: main
 
+build:
+  writeStats: true
+
 params:
   description: Enseignant, spécialiste du e-learning, expert en numérisation, fan de Moodle et geek du logiciel libre. Je développe et maintiens la MoodleBox.
   author: Nicolas Martignoni

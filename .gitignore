@@ -2,6 +2,7 @@
 public/
 resources/
 content/posts/test/
+hugo_stats.json
 
 # Node
 node_modules/
