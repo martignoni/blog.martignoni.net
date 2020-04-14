@@ -4,7 +4,6 @@ date: 2020-04-14
 author: Nicolas Martignoni
 slug: comment-soutenir-l-apprentissage-a-distance
 description: Pour faire complément au récent article décrivant un scénario pour un enseignement totalement à distance, lisez l'article du Louvain Learning Lab sur le soutien de l'apprentissage à distance.
-draft: true
 categories:
   - École, e-learning et ICT
   - Technologie
