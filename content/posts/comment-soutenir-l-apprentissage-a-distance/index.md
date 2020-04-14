@@ -19,7 +19,7 @@ tags:
   - Visio-conférence
   - Continuité pédagogique
 ---
-{{< figure class="alignright" src="puzzle-synchrone" alt="Puzzle" width="200" >}}
+{{< figure class="alignright" src="puzzle-synchrone" alt="Puzzle" width="180" >}}
 En complément à l'article « [Un scénario pour un enseignement totalement à distance][enseignement-distance] », lisez l'excellent article de [Françoise Docq][fd] du [Louvain Learning Lab][lll] « [Comment soutenir l'apprentissage à distance ? Combiner différentes interactions sociales][article] ».
 
 > (...) On peut se sentir proche à distance, paradoxe que Blandin (entre autres…) décrivait déjà en 2004 (pour celles et ceux qui ignoreraient que l'enseignement à distance n'est pas une nouveauté induite par la crise du Covid-19 😉).
