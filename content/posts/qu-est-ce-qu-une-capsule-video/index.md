@@ -18,9 +18,8 @@ tags:
   - Visio-conférence
   - Continuité pédagogique
 ---
-Cette _sketchnote_ de [Kristel Akouri](https://twitter.com/KristelAkouri) explique de façon concise ce qu'est une capsule vidéo, et quelques conseils intelligents sur comment en réaliser.
+Cette _sketchnote_ de [Kristel Akouri](https://twitter.com/KristelAkouri) explique de façon concise ce qu'est une capsule vidéo, et donne quelques conseils intelligents sur comment en réaliser.
 
 {{< figure src="capsule-video-sketchnote" alt="Qu'est ce qu'une capsule vidéo" width="500" class="aligncenter" >}}
-
 
 <!--more-->
