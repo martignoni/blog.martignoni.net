@@ -162,3 +162,9 @@
   translation: "minute"
 - id: minutePlural
   translation: "minutes"
+- id: publicationDate
+  translation: "Publication date"
+- id: modificationDate
+  translation: "Modification date"
+- id: readingTimeDuration
+  translation: "Reading time"
