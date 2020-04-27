@@ -16,7 +16,7 @@ install:
 
 script:
   - hugo version
-  - gulp
+  - hugo --minify
 
 before_deploy:
   - openssl aes-256-cbc -K $encrypted_3761674ceecc_key -iv $encrypted_3761674ceecc_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
