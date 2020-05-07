@@ -26,7 +26,7 @@ build:
   writeStats: false
 
 params:
-  description: Enseignant, spécialiste du e-learning, expert en numérisation, fan de Moodle et geek du logiciel libre. Je développe et maintiens la MoodleBox.
+  description: Enseignant, spécialiste e-learning et enseignement à distance, expert en enseignement hybride blended learning, fan de Moodle et geek du logiciel libre. Je développe et maintiens la MoodleBox.
   author: Nicolas Martignoni
   powered_by:
   github: martignoni
