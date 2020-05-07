@@ -339,12 +339,16 @@ div.sources {
 
 /* Post metadata. */
 
-.date-published,
-.date-modified {
-  margin-right: 1.5em;
-}
 
 .entry-meta {
   cursor: default;
 }
 
+.entry-meta .date-published,
+.entry-meta .date-modified {
+  margin-right: 1.5em;
+}
+
+.entry-meta .icon {
+  margin-right: 1ex;
+}

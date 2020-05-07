@@ -1,20 +1,20 @@
 <span class="date-published" title="{{ i18n "publicationDate" . }}">
   <span class="icon"><i class="fa fa-pencil" aria-hidden="true"></i></span>
-  {{ if .PublishDate.IsZero }}
+  {{- if .PublishDate.IsZero }}
     <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
       <span class="date-day">{{ .Date.Format "2" }}</span>
       <span class="date-month">{{ default .Date (i18n .Date.Month) }}</span>
       <span class="date-year">{{ .Date.Format "2006" }}</span>
     </time>
-  {{ else }}
+  {{- else -}}
     <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">
       <span class="date-day">{{ .PublishDate.Format "2" }}</span>
       <span class="date-month">{{ default .PublishDate (i18n .PublishDate.Month) }}</span>
       <span class="date-year">{{ .PublishDate.Format "2006" }}</span>
     </time>
-  {{ end }}
+  {{ end -}}
 </span>
-{{ if lt .PublishDate .Lastmod }}
+{{- if lt .PublishDate .Lastmod }}
 <span class="date-modified" title="{{ i18n "modificationDate" . }}">
   <span class="icon"><i class="fa fa-repeat" aria-hidden="true"></i></span>
   <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
@@ -23,8 +23,8 @@
     <span class="date-year">{{ .Lastmod.Format "2006" }}</span>
   </time>
 </span>
-{{ end }}
+{{ end -}}
 <span class="reading-time" title="{{ i18n "readingTimeDuration" . }}">
   <span class="icon"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
-  {{ .ReadingTime }} {{ partial "minutes" . }} {{ i18n "readingTime" }}
+  {{- .ReadingTime }} {{ partial "minutes" . }} {{ i18n "readingTime" }}
 </span>
