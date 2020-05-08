@@ -1,5 +1,5 @@
 ---
-title: "Guide des outils Moodle, édition COVID-19"
+title: "Guide des outils Moodle, version 3"
 date: 2020-03-18
 lastmod: 2020-05-03
 author: Nicolas Martignoni
@@ -17,6 +17,7 @@ tags:
   - E-learning
   - Formation
   - Pédagogie
+  - Enseignement à distance
 aliases:
   - "/wp-content/uploads/2010/10/MoodleToolGuide_fr.pdf"
 ---

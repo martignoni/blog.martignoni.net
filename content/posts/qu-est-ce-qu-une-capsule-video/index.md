@@ -18,6 +18,7 @@ tags:
   - COVID-19
   - Visio-conférence
   - Continuité pédagogique
+  - Enseignement à distance
 ---
 Cette _sketchnote_ de [Kristel Akouri](https://twitter.com/KristelAkouri) explique de façon concise ce qu'est une capsule vidéo pédagogique, et donne quelques conseils intelligents sur comment en réaliser.
 

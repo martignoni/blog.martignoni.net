@@ -18,6 +18,7 @@ tags:
   - COVID-19
   - Visio-conférence
   - Continuité pédagogique
+  - Enseignement à distance
 sources:
   - "[Thot cursus : Porter une formation à distance en quelques jours… mais comment ?](https://cursus.edu/articles/43642/porter-une-formation-a-distance-en-quelques-jours-mais-comment)"
   - "[Anna Laghigna : An experience of distance learning at the times of Corona ](https://youtu.be/s6INg0vg9hY)"

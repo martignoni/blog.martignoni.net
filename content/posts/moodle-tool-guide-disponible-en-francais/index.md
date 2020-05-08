@@ -14,7 +14,7 @@ tags:
   - LMS
   - Moodle
   - Pédagogie
-
+  - Enseignement à distance
 ---
 {{< notice note >}}
 __Modification du 24 mars 2020__ : la version du guide ci-dessous est obsolète. Une [version à jour]({{< relref "guide-des-outils-moodle" >}}) pour Moodle 3.0 et versions ultérieures est disponible.

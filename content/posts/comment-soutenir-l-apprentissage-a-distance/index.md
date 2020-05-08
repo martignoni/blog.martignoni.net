@@ -18,6 +18,7 @@ tags:
   - COVID-19
   - Visio-conférence
   - Continuité pédagogique
+  - Enseignement à distance
 ---
 {{< figure class="alignright" src="puzzle-synchrone" alt="Puzzle" width="180" >}}
 En complément à l'article « [Un scénario pour un enseignement totalement à distance][enseignement-distance] », lisez l'excellent article de [Françoise Docq][fd] du [Louvain Learning Lab][lll] « [Comment soutenir l'apprentissage à distance ? Combiner différentes interactions sociales][article] ».
