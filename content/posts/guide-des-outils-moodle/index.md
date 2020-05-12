@@ -18,7 +18,7 @@ tags:
   - Formation
   - Pédagogie
   - Enseignement à distance
-  - Guides des outils Moodle
+  - Guide des outils Moodle
 aliases:
   - "/wp-content/uploads/2010/10/MoodleToolGuide_fr.pdf"
 ---

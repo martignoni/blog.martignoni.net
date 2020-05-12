@@ -17,7 +17,7 @@ tags:
   - Formation
   - Pédagogie
   - Enseignement à distance
-  - Guides des outils Moodle
+  - Guide des outils Moodle
 ---
 Le guide des outils Moodle vient d'être [publié en italien][it], grâce la traduction fournie par [Luca Confortola](https://twitter.com/ConfortolaLuca).
 
