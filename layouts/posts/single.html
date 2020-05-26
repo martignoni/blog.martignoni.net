@@ -3,8 +3,8 @@
 {{ define "body-classes" }}single post has-sidebar{{ end }}
 
 {{ define "widgets-column" }}
-  {{ partial "widgets/recent" . }}
   {{ partial "widgets/related" . }}
+  {{ partial "widgets/recent" . }}
   {{ partial "widgets/menu" . }}
 {{ end }}
 
