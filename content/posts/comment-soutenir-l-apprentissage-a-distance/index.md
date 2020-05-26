@@ -28,5 +28,5 @@ En complément à l'article « [Un scénario pour un enseignement totalement à
   [fd]: https://www.louvainlearninglab.blog/author/fdocq/
   [lll]: https://www.louvainlearninglab.blog/
   [article]: https://www.louvainlearninglab.blog/comment-soutenir-lapprentissage-a-distance-combiner-differentes-interactions-sociales/
-  [enseignement-distance]: [{{< relref "enseignement-distance" >}}]
+  [enseignement-distance]: {{< relref "enseignement-distance" >}}
 <!--more-->
