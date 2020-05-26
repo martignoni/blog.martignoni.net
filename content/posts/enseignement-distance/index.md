@@ -1,7 +1,7 @@
 ---
-title: "COVID-19 : Un scénario pour un enseignement totalement à distance"
+title: "Scénario pour un enseignement totalement à distance"
 date: 2020-03-16
-lastmod: 2020-04-05
+lastmod: 2020-05-26
 author: Nicolas Martignoni
 slug: scenario-pour-enseigner-a-distance
 description: La fermeture de toutes les écoles pour passer à l'enseignement à distance met les enseignantes et les enseignants devant la nécessité d'adopter de nouvelles façon de travailler, sans aucune préparation et souvent sans plan de continuité. Cet article décrit un scénario pour un enseignement totalement à distance, puisqu'il n'est plus question actuellement d'enseignement hybride.
@@ -80,10 +80,14 @@ Même s'il est maintenant trop tard pour ça, il vaut malgré tout la peine de c
 
 Chaque enseignant devra prendre du temps pour mettre en place un tel dispositif ; mais en contrepartie, nous allons apprendre plein de choses.
 
-__Mise à jour du 17 mars 2020__ : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}}).
+----
 
-__Mise à jour du 20 mars 2020__ : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}}).
+_Mise à jour du 17 mars 2020_ : ajout d'un lien vers l'article [Conseils pour une visio-conférence réussie]({{< relref "conseils-visio-conference" >}}).
 
-__Mise à jour du 5 avril 2020__ : modification concernant l'utilisation de Zoom.
+_Mise à jour du 20 mars 2020_ : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}}).
+
+_Mise à jour du 5 avril 2020_ : modification concernant l'utilisation de Zoom.
+
+_Mise à jour du 26 mai 2020_ : titre modifié.
 
 [^isced]: Classification [ISCED 3](http://uis.unesco.org/en/topic/international-standard-classification-education-isced) ; en France : lycées ; en Suisse, suivant le canton : gymnases, collèges ou lycées ; en Belgique : secondaire supérieur.

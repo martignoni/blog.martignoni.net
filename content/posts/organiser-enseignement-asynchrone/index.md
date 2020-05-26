@@ -1,6 +1,7 @@
 ---
-title: "COVID-19 : Organiser son enseignement asynchrone"
+title: "Organiser son enseignement asynchrone"
 date: 2020-03-20
+lastmod: 2020-05-26
 author: Nicolas Martignoni
 slug: organiser-enseignement-asynchrone
 description: La partie asynchrone d'un scénario d'enseignement à distance est essentielle pour qu'il soit efficace. Cet article vous propose des pistes pour organiser ce volet de votre enseignement à distance.
@@ -94,6 +95,12 @@ Un aspect intéressant du volet asynchrone est qu'il peut judicieusement complé
 
 Lorsque la crise du COVID-19 sera passée, souvenez-vous-en et continuez à utiliser votre espace de cours sur votre plateforme d'apprentissage. J'ai essayé, ça marche !
 
+{{< sources >}}
+
+----
+
+_Mise à jour du 26 mai 2020_ : titre modifié.
+
   [^lms]: _Learning Management System_, terme anglais consacré pour _plateformes d'apprentissage_.
   [^vaufrey]: Christine Vaufrey, https://cursus.edu/articles/43642/porter-une-formation-a-distance-en-quelques-jours-mais-comment.
   [^decideurs]: C'est malheureusement sous cette forme étriquée que certains décideurs peu éclairés voient l'enseignement en ligne.
@@ -106,4 +113,3 @@ Lorsque la crise du COVID-19 sera passée, souvenez-vous-en et continuez à util
   [forum]: https://moodle.org/course/view.php?id=20
   [activites]: https://docs.moodle.org/fr/Activités
 
-{{< sources >}}

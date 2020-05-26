@@ -1,7 +1,7 @@
 ---
-title: "COVID-19 : Conseils pour une visio-conférence réussie"
+title: "Conseils pour une visio-conférence réussie"
 date: 2020-03-17
-lastmod: 2020-03-20
+lastmod: 2020-05-26
 author: Nicolas Martignoni
 slug: conseils-visio-conference
 description: La partie synchrone d'un scénario d'enseignement à distance peut être mise en œuvre à l'aide de la visio-conférence. Cet article donne quelques conseils à suivre pour une visio-conférence réussie.
@@ -111,7 +111,11 @@ Ouf, la phase synchrone est terminée. Mais ce n'est pas fini. Il est essentiel 
 
 {{< sources >}}
 
-_Mise à jour du 20 mars 2020 : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}})._
+----
+
+_Mise à jour du 20 mars 2020_ : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}}).
+
+_Mise à jour du 26 mai 2020_ : titre modifié.
 
   [^1]: Cela ne veut pas dire que les divers logiciels ou services sont équivalents : certains sont très bons, d'autres moins. Ce thème est néanmoins ici hors sujet.
 
