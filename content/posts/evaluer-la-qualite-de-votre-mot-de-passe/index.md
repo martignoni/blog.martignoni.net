@@ -2,6 +2,7 @@
 title: Évaluer la qualité de votre mot de passe
 author: Nicolas Martignoni
 date: 2017-09-29
+lastmod: 2017-09-30
 slug: evaluer-la-qualite-de-votre-mot-de-passe
 categories:
   - Maths
@@ -19,7 +20,9 @@ Lors d'une récente discussion, on m'a demandé comment évaluer la bonne qualit
 
 Cet article propose en outre un algorithme permettant de tester vos mots de passe, que je mets à disposition ici : https://password.martignoni.net/.
 
-_<small>Mise à jour du 30 septembre 2017 : démonstration de l'algorithme sécurisée par https.</small>_
+----
+
+_Mise à jour du 30 septembre 2017_ : la démonstration de l'algorithme est maintenant sécurisée par https.
 
  [1]: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler/
 
