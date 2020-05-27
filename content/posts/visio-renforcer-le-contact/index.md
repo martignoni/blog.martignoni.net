@@ -23,7 +23,7 @@ sources:
 ---
 Les écoles rouvrent peu à peu, mais l'[enseignement à distance][distance] va se poursuivre au moins jusqu'à la fin de cette année scolaire pour certains d'entre nous. L'[enseignement synchrone à l'aide de visio-conférences][visio-reussie] reste donc d'actualité.
 
-L'[enseignement à distance][distance] peut être aride, et les aspects sociaux et humains essentiels aux apprentissages risquent de passer à la trappe si l'on n'y prête pas suffisamment attention. Nous avons déjà abordé [quelques conseils de base][visio-reussie] pour faire en sorte que ces phases __favorisent au mieux les apprentissages des élèves et apprenants__ et ne soient pas un calvaire pour eux, et bien entendu pour nous. Voici quelques conseils pour améliorer la relation d'apprentissage en visio-conférence, afin d'atteindre cet objectif.
+L'[enseignement à distance][distance] peut être aride, et les aspects sociaux et humains essentiels aux apprentissages risquent de passer à la trappe si l'on n'y prête pas suffisamment attention. Nous avons déjà abordé [quelques conseils de base][visio-reussie] pour faire en sorte que ces phases __favorisent au mieux les apprentissages des élèves et apprenants__ et ne soient pas un calvaire pour eux, et bien sûr pour nous. Voici quelques conseils pour améliorer la relation d'apprentissage en visio-conférence, afin d'atteindre cet objectif.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ L'[enseignement à distance][distance] peut être aride, et les aspects sociaux 
 
 Les services de visio-conférence offrent la possibilité aux participants de choisir le nom qui accompagne leur image ou leur écran. Demandez-leur d'y indiquer leurs __véritables prénom et nom__ : c'est beaucoup plus personnel qu'un pseudo lambda. Bien entendu vous utiliserez un service de visio-conférence respectueux de la législation en matière de protection des données.
 
-Si possible, demandez-leur également d'afficher comme _avatar_ une __photographie de leur visage__, afin de donner à la relation un caractère moins distant. Bien entendu, certains élèves tenteront de glisser une illustration inappropriée. Profitez-en pour rappeler qu'il s'agit ici de l'école et que le cadre adéquat s'y applique.
+Si possible, demandez-leur également d'afficher comme _avatar_ une __photographie de leur visage__, afin de donner à la relation un caractère moins distant. Certains élèves tenteront sans doute de glisser une illustration inappropriée. Profitez-en pour rappeler qu'il s'agit ici de l'école et que le cadre adéquat s'y applique.
 
 #### Construire la relation
 
