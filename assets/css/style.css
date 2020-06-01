@@ -340,13 +340,13 @@ template {
 .alignleft {
 	display: inline;
 	float: left;
-	margin: 0 1.5em 0 0;
+	margin: 1ex 1.5em 0 0;
 }
 
 .alignright {
 	display: inline;
 	float: right;
-	margin: 0 0 0 1.5em;
+	margin: 1ex 0 0 1.5em;
 }
 
 .aligncenter {
