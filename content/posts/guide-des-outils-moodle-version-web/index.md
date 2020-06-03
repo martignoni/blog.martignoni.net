@@ -1,5 +1,5 @@
 ---
-title: "Guide des outils moodle version web"
+title: "Guide des outils Moodle version web"
 date: 2020-05-08
 author: Nicolas Martignoni
 slug: guide-des-outils-moodle-version-web
