@@ -1,5 +1,5 @@
 ---
-title: "Guide des outils moodle en italien"
+title: "Guide des outils Moodle en italien"
 date: 2020-05-12
 author: Nicolas Martignoni
 slug: guide-des-outils-moodle-en-italien
@@ -21,8 +21,8 @@ tags:
 ---
 Le guide des outils Moodle vient d'être [publié en italien][it], grâce la traduction fournie par [Luca Confortola](https://twitter.com/ConfortolaLuca).
 
-&gt; Le [guide des outils moodle][it] en version italienne<br />
-&gt; Le site du [guide des outils moodle](https://moodletoolguide.net/)
+&gt; Le [guide des outils Moodle][it] en version italienne<br />
+&gt; Le site du [guide des outils Moodle](https://moodletoolguide.net/)
 
   [it]: https://moodletoolguide.net/it/
 
