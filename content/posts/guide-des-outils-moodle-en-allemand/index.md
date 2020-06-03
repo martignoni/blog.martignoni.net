@@ -19,9 +19,9 @@ tags:
   - Enseignement à distance
   - Guide des outils Moodle
 ---
-Le guide des outils Moodle vient d'être [publié en allemand][de]. Avec le français, l'anglais et l'italien, l'allemand est la quatrième langue dans laquelle le guide est publié.
+Le guide des outils Moodle vient d'être [publié en allemand][de]. Après le français, l'anglais et l'italien, l'allemand est la quatrième langue dans laquelle le guide version web est publié.
 
-&gt; Le [guide des outils Moodle][de] en version allemand<br />
+&gt; Le [guide des outils Moodle][de] en version allemande<br />
 &gt; Le site du [guide des outils Moodle](https://moodletoolguide.net/)
 
   [de]: https://moodletoolguide.net/de/
