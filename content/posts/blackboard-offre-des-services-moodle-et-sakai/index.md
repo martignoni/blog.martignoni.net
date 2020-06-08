@@ -1,8 +1,7 @@
 ---
 title: Blackboard offre des services Moodle et Sakai
 author: Nicolas Martignoni
-
-date: 2012-03-27T18:28:53+00:00
+date: 2012-03-27
 slug: blackboard-offre-des-services-moodle-et-sakai
 categories:
   - École, e-learning et ICT
@@ -21,7 +20,6 @@ tags:
 
 {{< figure src="Bb_logo.png" alt="Logo Blackboard" width="300" height="226" class="alignright" >}}
 
-<!-- [<img class="alignright size-medium" title="Logo Blackboard" src="Bb_logo-300x226.png" alt="Logo Blackboard" width="300" height="226" srcset="Bb_logo-300x226.png 300w, Bb_logo.png 614w" sizes="(max-width: 300px) 100vw, 300px" />] -->
 Ces trois annonces simultanées semblent une anticipation sur le 1er avril, au regard de l'histoire récente et des vaines attaques de Blackboard contre les projets de plateformes e-learning libres (voir l'affaire du brevet sur le e-learning).
 
 Qu'est-ce qui se cache derrière ce changement radical de stratégie, qui va plutôt dans le sens d'une diminution de la part de marché de son environnement d'apprentissage maison ? Quelles sont les véritables intentions de Blackboard, ou, pour le dire autrement, quels bénéfices compte y trouver l'entreprise de Washington ?
