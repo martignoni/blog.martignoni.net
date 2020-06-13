@@ -6,6 +6,12 @@
     <div class="site-branding">
       <div class="wrap">
 
+        <div class="site-logo">
+          <a href="{{ .Site.LanguagePrefix | absURL | replaceRE "[^/]$" "${0}/" }}">
+            <img src="{{ "/img/logo.png" | absURL }}" />
+          </a>
+        </div><!-- .site-branding-logo -->
+
         <div class="site-branding-text">
           <h1 class="site-title"><a href="{{ .Site.LanguagePrefix | absURL | replaceRE "[^/]$" "${0}/" }}" rel="home">{{ .Site.Title }}</a></h1>
           {{ with .Site.Params.Author }}
