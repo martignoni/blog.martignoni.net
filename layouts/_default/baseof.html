@@ -33,7 +33,7 @@
     {{ if .PrevInSection }}<link rel="prev" href="{{ .PrevInSection.Permalink }}">{{ end }}
     {{ if .NextInSection }}<link rel="next" href="{{ .NextInSection.Permalink }}">{{ end }}
   {{ end }}
-  <link rel="shortcut icon" href="{{ "favicon.png" | absURL }}" type="image/png" />
+  {{ partial "favicon" . }}
   <link rel="me" href="https://framapiaf.org/@nmartignoni" />
   <link rel="me" href="https://twitter.com/nmartignoni" />
 
