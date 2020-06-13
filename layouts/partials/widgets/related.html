@@ -2,7 +2,7 @@
   <section id="related-posts" class="widget widget_related_entries">
   <h2 class="widget-title">{{ i18n "relatedPosts" }}</h2>
     <ul>
-    {{ $related := .Site.RegularPages.Related . | first 5 }}
+    {{ $related := .Site.RegularPages.Related . | first 4 }}
     {{ with $related }}
       {{ range . }}
       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>

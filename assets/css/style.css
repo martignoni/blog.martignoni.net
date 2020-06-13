@@ -3389,7 +3389,7 @@ p > object:only-child {
 	.has-sidebar #primary {
 		float: left;
 		width: 58%;
-		min-height: 25rem;
+		min-height: 35rem;
 	}
 
 	.has-sidebar #secondary {
