@@ -18,7 +18,7 @@ tags:
 sources:
   - https://ciel.unige.ch/2020/05/2eme-etape-de-la-migration-chamilounige-vers-moodleunige/
 ---
-{{< figure link="https://moodle.org/" class="alignright" src="phast.jpg" alt="Moodle" width="200" >}}
+{{< figure link="https://moodle.org/" class="alignright" src="phast.png" alt="Moodle" width="200" >}}
 L'[Université de Genève](https://unige.ch) a choisi [Moodle](moodle) pour sa flexibilité et sa facilité de prise en main:
 
 > Moodle a été choisie pour sa flexibilité, la grande diversité et personnalisation de ses outils et sa compatibilité avec une pédagogie socio-constructiviste. Quatre heures suffisent en général pour en comprendre les bases et pour créer un espace en ligne afin d'accompagner vos enseignements.
