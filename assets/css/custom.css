@@ -51,9 +51,9 @@ blockquote > p {
 
 #primary ul {
   list-style: none;
-  margin-left: 1.5em;
+  margin-left: 1.5rem;
   padding-left: 0;
-  text-indent: -1.5em;
+  text-indent: -1.5rem;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   -ms-hyphens: auto;
@@ -61,8 +61,8 @@ blockquote > p {
 }
 
 #primary ol {
-  margin-left: 1.5em;
-  padding-left: 0.5em;
+  margin-left: 1.5rem;
+  padding-left: 0.5rem;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   -ms-hyphens: auto;
@@ -73,7 +73,7 @@ blockquote > p {
   content: "–";
   display: block;
   float: left;
-  width: 1.5em;
+  width: 1.5rem;
 }
 
 /* archive lists */
@@ -325,20 +325,30 @@ body:not(.title-tagline-hidden) .site-search-button {
 
 /* Sources. */
 
-div.sources {
+#sources {
   margin-top: 2em;
 }
 
-.sources h6 {
+#sources h6 {
   font-size: 0.875rem;
   font-weight: 600;
   font-style: italic;
   margin-bottom: .25em;
 }
 
-.sources ul li {
+#sources ul {
+  margin-left: 1.25rem;
+  padding-left: 0;
+  text-indent: -1.25rem;
+}
+
+#sources ul li {
   font-size: 0.8125rem;
   font-style: italic;
+}
+
+#sources ul li:before {
+  width: 1.25rem;
 }
 
 /* Footnotes. */
