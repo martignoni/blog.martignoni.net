@@ -4,7 +4,7 @@ theme:
   - hugo-cloak-email
   - hugo-notice
   - hugo-video
-languageCode: fr-ch
+languageCode: fr
 # Set site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage: fr
 # Set summary length.
