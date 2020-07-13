@@ -1967,11 +1967,10 @@ body.page:not(.twentyseventeen-front-page) .entry-title {
 
 .pagination,
 .comments-pagination {
-	border-top: 1px solid #eee;
 	font-size: 14px;
 	font-size: 0.875rem;
 	font-weight: 800;
-	padding: 2em 0 3em;
+	padding: 0 0 1em 0;
 	text-align: center;
 }
 
