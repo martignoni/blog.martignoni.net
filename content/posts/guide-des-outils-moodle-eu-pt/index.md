@@ -1,6 +1,6 @@
 ---
 title: "Guide des outils Moodle en basque et en portugais"
-date: 2020-07-13T02:00:00
+date: 2020-07-13
 author: Nicolas Martignoni
 slug: guide-des-outils-moodle-eu-pt
 description: "Deux traductions supplémentaires du Guide des outils Moodle viennent d'être publiées : une version en __basque__ et en __portugais__ ont été offertes par la communauté des utilisateurs de Moodle. Il est ainsi désormais disponible en __six langues__."
@@ -21,7 +21,7 @@ tags:
   - Multilingue
 ---
 {{< figure link="https://moodletoolguide.net/" class="alignright" src="moodletoolguide.png" alt="Moodle Tool Guide sur le web" width="230" >}}
-Suite à la présentation de la version _responsive_ du [Guide des outils Moodle][guide] au [MoodleMoot Global Online 2020](https://moodle.com/events/global-online/), deux traductions supplémentaires du guide ont été offertes par la communauté des utilisateurs et utilisatrices de Moodle : en [basque][eu] et en [portugais][pt].
+Suite à la présentation de la version _responsive_ du [Guide des outils Moodle][guide] au [MoodleMoot Global Online 2020](https://youtu.be/7jnPSpYIzfc?t=35299), deux traductions supplémentaires du guide ont été offertes par la communauté des utilisateurs et utilisatrices de Moodle : en [basque][eu] et en [portugais][pt].
 
 Le Guide est désormais disponible dans __six langues__.
 
