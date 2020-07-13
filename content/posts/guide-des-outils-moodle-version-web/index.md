@@ -18,6 +18,7 @@ tags:
   - Pédagogie
   - Enseignement à distance
   - Guide des outils Moodle
+  - Multilingue
 ---
 J'ai récemment [mis à jour][article] le « Guide des outils Moodle » pour Moodle 3.x, en format imprimable, afin d'aider les enseignantes et enseignants à mettre en œuvre judicieusement les divers outils de Moodle en cette période d'enseignement à distance.
 
