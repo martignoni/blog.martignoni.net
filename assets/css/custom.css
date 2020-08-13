@@ -329,7 +329,7 @@ body:not(.title-tagline-hidden) .site-search-button {
   margin-top: 2em;
 }
 
-#sources h6 {
+#sources .sources-title {
   font-size: 0.875rem;
   font-weight: 600;
   font-style: italic;
