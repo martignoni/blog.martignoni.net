@@ -22,7 +22,7 @@ before_deploy:
 script:
   - hugo version
   - hugo --minify
-  - htmlproofer ${TRAVIS_BUILD_DIR}/public/ --allow-hash-href --url-ignore "/stats.martignoni.net/" || true
+  - htmlproofer ${TRAVIS_BUILD_DIR}/public/ --allow-hash-href --url-ignore "/stats.martignoni.net/" --http-status-ignore "404" || true
 
 deploy:
   provider: script
