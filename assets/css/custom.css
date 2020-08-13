@@ -363,7 +363,6 @@ body:not(.title-tagline-hidden) .site-search-button {
 
 /* Post metadata. */
 
-
 .entry-meta {
   cursor: default;
 }
@@ -375,4 +374,38 @@ body:not(.title-tagline-hidden) .site-search-button {
 
 .entry-meta .icon {
   margin-right: 1ex;
+}
+
+/* Anchor heading links. */
+
+.anchor-heading {
+  color: transparent;
+  display: none;
+  font-weight: 500;
+  margin-left: 4px
+}
+
+@media (min-width: 481px) {
+  .anchor-heading {
+    display:inline
+  }
+}
+
+:hover > .anchor-heading,
+.anchor-heading:focus {
+  color: #5f6368;
+  display: inline
+}
+
+a.anchor-heading {
+  -webkit-box-shadow: initial;
+  box-shadow: initial;
+  -webkit-transition: color 80ms ease-in;
+  transition: color 240ms ease-in;
+}
+
+a.anchor-heading:hover,
+a.anchor-heading:focus {
+  -webkit-box-shadow: initial;
+  box-shadow: initial;
 }
