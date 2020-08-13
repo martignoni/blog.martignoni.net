@@ -41,5 +41,6 @@ Il est temps de prendre le temps de la réflexion, par exemple en [demandant un 
   [SJL1]: https://twitter.com/SarahJamieLewis/status/1105380843873218560
   [SJL2]: https://twitter.com/SarahJamieLewis/status/1105381090288517120
   [SJL3]: https://twitter.com/SarahJamieLewis/status/1105381199483006976
-  [^SJL4]: https://twitter.com/SarahJamieLewis/status/1105381800585584640
   [moratoire]: https://evoting-moratorium.wecollect.ch/fr
+
+  [^SJL4]: https://twitter.com/SarahJamieLewis/status/1105381800585584640
