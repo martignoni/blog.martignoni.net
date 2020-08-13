@@ -69,16 +69,9 @@ privacy:
     privacyEnhanced: true
 
 markup:
-# footnoteReturnLinkContents: ↑
-  blackFriday:
-    hrefTargetBlank: true
-    nofollowLinks: true
-    footnoteReturnLinkContents: ↩
-    angledQuotes: true
-    fractions: false
-    smartypantsQuotesNBSP: true
-#     footnoteReturnLinkContents: ↑
   goldmark:
+    parser:
+      autoHeadingIDType: blackfriday
     renderer:
       unsafe: true
   highlight:
@@ -103,13 +96,6 @@ related:
     - name: "date"
       weight: 10
       pattern: "2006"
-
-# blackfriday:
-#  hrefTargetBlank: true
-#  nofollowLinks: true
-#   angledQuotes: true
-#   fractions: false
-#   smartypantsQuotesNBSP: true
 
 # pygmentsCodeFences: true
 # pygmentsCodeFencesGuessSyntax: true
