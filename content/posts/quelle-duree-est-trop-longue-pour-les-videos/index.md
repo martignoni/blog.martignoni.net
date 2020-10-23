@@ -1,6 +1,7 @@
 ---
 title: "Quelle durée est trop longue pour les vidéos de classes virtuelles ?"
 date: 2020-10-17
+lastmod: 2020-10-23
 author: Nicolas Martignoni
 slug: quelle-duree-est-trop-longue-pour-les-videos
 description: La vidéo est devenue un élément central des mesures destinées à assurer la continuité pédagogique, et de nombreuses écoles de tous niveaux misent sur l'apprentissage vidéo en ligne. Mais quelle est la durée optimale d'une vidéo en ligne ?
@@ -18,8 +19,9 @@ tags:
   - COVID-19
   - Enseignement à distance
 sources:
-  - "[How Video Production Affects Student Engagement:
+  - "Philip J. Guo, Juho Kim, Rob Rubin, [How Video Production Affects Student Engagement:
 An Empirical Study of MOOC Videos](http://up.csail.mit.edu/other-pubs/las2014-pguo-engagement.pdf)"
+  - "Illustration : [unDraw](https://undraw.co/)"
 ---
 Pour assurer la continuité pédagogique, il est devenu commun de miser sur la vidéo. Beaucoup d'écoles, du degré primaire au niveau universitaire, enregistrent les cours et les diffusent en ligne, en espérant que les élèves et étudiant·e·s en tirent bénéfice pour leurs apprentissages.
 
