@@ -132,6 +132,17 @@
   translation: "Cookies"
 - id: sources
   translation: "Sources"
+- id: figure
+  translation: "Figure"
+
+- id: posts
+  translation: "Posts"
+- id: projects
+  translation: "Projects"
+- id: publications
+  translation: "Publications"
+- id: talks
+  translation: "Talks"
 
 - id: January
   translation: "January"
