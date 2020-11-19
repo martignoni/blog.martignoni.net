@@ -1,9 +1,10 @@
 ---
-title: "Quelle durée est trop longue pour les vidéos de classes virtuelles ?"
+title: "La durée maximale pour une vidéo est de 6 minutes"
 date: 2020-10-17
-lastmod: 2020-10-23
+lastmod: 2020-11-19
 author: Nicolas Martignoni
-slug: quelle-duree-est-trop-longue-pour-les-videos
+slug: la-duree-maximale-pour-une-video-est-de-6-minutes
+aliases: quelle-duree-est-trop-longue-pour-les-videos
 description: La vidéo est devenue un élément central des mesures destinées à assurer la continuité pédagogique, et de nombreuses écoles de tous niveaux misent sur l'apprentissage vidéo en ligne. Mais quelle est la durée optimale d'une vidéo en ligne ?
 categories:
   - École, e-learning et ICT
