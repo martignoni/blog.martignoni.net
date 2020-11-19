@@ -58,8 +58,8 @@
   translation: "Articles récents"
 - id: aboutUs
   translation: "À propos"
-- id: archive
-  translation: "Archive"
+- id: archives
+  translation: "Archives"
 - id: newer
   translation: "Plus récent"
 - id: older
