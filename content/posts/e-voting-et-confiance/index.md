@@ -14,7 +14,7 @@ tags:
   - Numérisation
   - Suisse
   - Élection
-  - Privacy-by-design
+  - Privacy by design
   - Protection des données
 ---
 

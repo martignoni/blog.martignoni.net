@@ -12,7 +12,7 @@ tags:
   - démocratie
   - identité numérique
   - numérisation
-  - privacy-by-design
+  - privacy by design
   - protection des données
   - Suisse
 ---
