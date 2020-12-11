@@ -2,9 +2,8 @@
 title: À propos
 author: Nicolas Martignoni
 slug: a-propos
-
-date: 2006-04-16T19:58:28+00:00
-lastmod: 2019-02-13
+date: 2006-04-16
+lastmod: 2020-12-11
 ---
 Le site _Perspectives_ est écrit et produit par [Nicolas Martignoni](#l-auteur).
 
@@ -19,29 +18,11 @@ Nicolas Martignoni est le coordinateur de la communauté francophone des utilisa
 
 Nicolas Martignoni est le créateur de la [MoodleBox][moodlebox]. La [MoodleBox][moodlebox] est un dispositif mobile bon marché fournissant un environnement d’apprentissage [Moodle][moodle] complet, sur la base d'un ordinateur [Raspberry Pi](https://www.raspberrypi.org). Elle permet la mise à disposition d'un serveur Moodle dans des régions éloignées de toute infrastructure réseau ou dans lesquelles les infrastructures réseaux ont été détruites suite à une catastrophe naturelle ou un épisode de guerre. La MoodleBox est notamment utilisée au Liban, en Syrie, au Maghreb, en Afrique sub-saharienne, en Amazonie, en Inde, en Indonésie, ainsi qu'en France, en Allemagne, en Suisse, aux États-Unis, au Canada, en Chine et aux Philippines.
 
-## Publications
+## Commentaires
 
-Strebel R., Martignoni N., Stotzer M.-O., Wolf L., _Algèbre, Géométrie, Trigonométrie_, Éditions universitaires, Fribourg, 1997.
+Ce blog n'offre pas la possibilité de laisser un commentaire à la fin des articles. Je préfère en effet que les réactions prennent la forme d’une autre publication, car je pense que les gens écrivent mieux lorsqu'ils doivent défendre leurs idées sur le propre terrain : cela nécessite une véritable considération pour les lecteurs et par conséquent des échanges de meilleure qualité.
 
-Ouvrage collectif de la CRM, _Formulaires et tables_, Éditions du Tricorne, Genève, 2000.
-
-Martignoni N., _Cryptographie, un aperçu historique_, in Gymnasium Helveticum Nr. 1/02, 2002.
-
-Martignoni N., _Cryptographie_, Cahiers de la CRM, Fribourg, 2004.
-
-Ouvrage collectif de la CRM, _Probabilités_, Édition du Tricorne, Genève, 2005.
-
-Humbert M., Martignoni N., Rennard J. Ph., _Moodle : analyse d’un succès_, Colloque AIM, HEC Montréal, Lausanne, Suisse, 2007.
-
-Martignoni N., _Guide des outils Moodle_ pour Moodle 1.9, PDF, [en ligne]({{< relref "../../posts/moodle-tool-guide-disponible-en-francais" >}}), 2010.
-
-Martignoni N., _Données personnelles, faut-il être paranoïaque ?_, in Scuola Ticinese, 323: Anno XLIV, Serie IV, Settembre 2015, Dipartimento dell'educazione, della cultura e dello sport, Bellinzona, 2015.
-
-Mathez J., Fahrni N., Fischer C., Standtke R., Schwab S., Bouverat M., Martignoni N., Genner S., Süss D., _Compétences MITIC à l'école_, Office fédéral des assurances sociales, Berne, 2e édition, 2017.
-
-Martignoni N., _Guide des outils Moodle_ version 3, PDF, [en ligne]({{< relref "../../posts/guide-des-outils-moodle" >}}), 2020.
-
-Martignoni N., _Guide des outils Moodle_, [site web _responsive_ et multi-lingue](https://moodletoolguide.net/), 2020.
+Si vous souhaitez réagir à un article de ce blog, créez un blog avec [Wordpress][wp], ouvrez un blog sur [GitLab Pages][gitlab] ou [Github Pages][github], échangez sur [Twitter][twitter] ou publiez votre propre site web avec votre propre nom de domaine !
 
 ## Licence
 
@@ -54,5 +35,10 @@ Les opinions développées sur ce blog ne sont que celles de leur auteur. Elles 
  [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
  [stx]: http://www.cscfr.ch/j33/
  [fritic]: https://www.fritic.ch/
+
+ [wp]: https://wordpress.com/
+ [gitlab]: https://about.gitlab.com/stages-devops-lifecycle/pages/
+ [github]: https://pages.github.com/
+ [twitter]: https://twitter.com/nmartignoni
 
 <!--more-->

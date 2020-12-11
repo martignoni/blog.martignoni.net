@@ -60,6 +60,8 @@
   translation: "Archives"
 - id: aboutUs
   translation: "About"
+- id: publicationsTitle
+  translation: "Publications"
 - id: newer
   translation: "Newer"
 - id: older
