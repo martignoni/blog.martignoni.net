@@ -385,8 +385,8 @@ body:not(.title-tagline-hidden) .site-search-button {
 .anchor-heading {
   color: transparent;
   display: none;
-  font-weight: 500;
-  margin-left: 4px
+  font-size: smaller;
+  margin-left: 1ex
 }
 
 @media (min-width: 481px) {
@@ -397,7 +397,7 @@ body:not(.title-tagline-hidden) .site-search-button {
 
 :hover > .anchor-heading,
 .anchor-heading:focus {
-  color: #5f6368;
+  color: #666;
   display: inline
 }
 
@@ -412,4 +412,5 @@ a.anchor-heading:hover,
 a.anchor-heading:focus {
   -webkit-box-shadow: initial;
   box-shadow: initial;
+  color: #666;
 }
