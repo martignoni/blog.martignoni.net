@@ -3,9 +3,9 @@ title: Publications
 author: Nicolas Martignoni
 slug: publications
 date: 2020-12-11
-lastmod: 2020-12-11
+lastmod: 2020-12-12
 ---
-Liste des publications et communications [Nicolas Martignoni][auteur].
+Liste des publications et communications de [Nicolas Martignoni][auteur].
 
 ## Publications
 
