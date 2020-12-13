@@ -31,5 +31,3 @@ Les usagers ne peuvent en effet toujours pas profiter de plusieurs services sans
 En plus d'améliorer la lisibilité des déclarations de protection des données, et avant tout, les entreprises __ne doivent plus fonder leur modèle d'affaires sur le traitement et l'exploitation des données personnelles__, et apprendre à récolter le minimum de données de la part de leur clients-usagers, dans une approche de _privacy by design_.
 
 Le vrai progrès dans ce domaine n'aura lieu qu'à ce prix.
-
-{{< sources >}}

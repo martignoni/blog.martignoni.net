@@ -78,8 +78,6 @@ et que
 
 > La véritable difficulté de l'utilisation des outils éducatifs numériques ne consiste pas à déterminer « comment lancer ce logiciel », mais à répondre à la question « que puis-je faire avec mes élèves grâce à cet outil ? »
 
-{{<sources>}}
-
 [^toulon]: DSIUN, Université de Toulon
 [^dillenbourg]: [Rendre l'école plus robuste](https://www.epfl.ch/education/educational-initiatives/lecole-apres-covid-19/)
 

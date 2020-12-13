@@ -76,8 +76,6 @@ Expliquez à vos élèves comment vous voulez utiliser ces outils : pour stimul
 
 Comme dans un cours en présentiel, votre personnalité est votre atout maître pour développer la relation pédagogique avec vos élèves ou apprenants. Restez vous-même, et adaptez vos pratiques à la situation particulière. Ainsi vos interventions synchrones à distance offriront à vos élèves et apprenants de meilleures opportunités d'apprentissage.
 
-{{< sources >}}
-
   [distance]: {{<relref "enseignement-distance">}}
   [visio-reussie]: {{<relref "conseils-visio-conference">}}
   [background]: {{<relref "conseils-visio-conference#préparez-votre-place-de-travail">}}

@@ -329,29 +329,29 @@ body:not(.title-tagline-hidden) .site-search-button {
 
 /* Sources. */
 
-#sources {
+.sources {
   margin-top: 2em;
 }
 
-#sources .sources-title {
+.sources .sources-title {
   font-size: 0.875rem;
   font-weight: 600;
   font-style: italic;
   margin-bottom: .25em;
 }
 
-#sources ul {
+.sources ul {
   margin-left: 1.25rem;
   padding-left: 0;
   text-indent: -1.25rem;
 }
 
-#sources ul li {
+.sources ul li {
   font-size: 0.8125rem;
   font-style: italic;
 }
 
-#sources ul li:before {
+.sources ul li:before {
   width: 1.25rem;
 }
 

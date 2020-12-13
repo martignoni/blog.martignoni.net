@@ -109,8 +109,6 @@ Pour renforcer l'engagement de vos élèves, donnez-leur la possibilité d'inter
 
 Ouf, la phase synchrone est terminée. Mais ce n'est pas fini. Il est essentiel d'assurer un suivi entre chaque session. La phase asynchrone est là pour ça, de préférence soutenue par [une plateforme d'apprentissage](https://moodle.org/). Ce sera le sujet d'[un prochain article]({{< relref "organiser-enseignement-asynchrone" >}}).
 
-{{< sources >}}
-
 ----
 
 _Mise à jour du 20 mars 2020_ : ajout d'un lien vers l'article [Organiser son enseignement asynchrone]({{< relref "organiser-enseignement-asynchrone" >}}).

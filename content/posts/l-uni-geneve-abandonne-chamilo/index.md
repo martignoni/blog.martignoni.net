@@ -25,8 +25,6 @@ L'[Université de Genève](https://unige.ch) a choisi [Moodle](moodle) pour sa f
 
 Le [service _e-assessment_ de l'Université](https://elearning.unige.ch/ressources/eassessment/) est également basé sur la plateforme [Moodle](moodle).
 
-{{< sources >}}
-
   [moodle]: https://moodle.org/
 
 <!--more-->

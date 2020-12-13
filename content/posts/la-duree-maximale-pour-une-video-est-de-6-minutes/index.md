@@ -33,5 +33,3 @@ Cette stratégie semble vouée à l'échec, comme l'a montré une [étude de l'U
 > Our main findings are that shorter videos are much more engaging, that informal talking-head videos are more engaging, that Khan-style tablet drawings are more engaging, that even high-quality pre-recorded classroom lectures might not make for engaging online videos, and that students engage differently with lecture and tutorial videos.
 
  [mit]: http://up.csail.mit.edu/other-pubs/las2014-pguo-engagement.pdf
-
-{{<sources>}}

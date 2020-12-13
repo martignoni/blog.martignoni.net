@@ -95,8 +95,6 @@ Un aspect intéressant du volet asynchrone est qu'il peut judicieusement complé
 
 Lorsque la crise du COVID-19 sera passée, souvenez-vous-en et continuez à utiliser votre espace de cours sur votre plateforme d'apprentissage. J'ai essayé, ça marche !
 
-{{< sources >}}
-
 ----
 
 _Mise à jour du 26 mai 2020_ : titre modifié.

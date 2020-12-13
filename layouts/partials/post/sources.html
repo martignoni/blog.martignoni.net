@@ -1,8 +1,6 @@
-<div id="sources">
 <p class="sources-title">{{ i18n "sources" }}</p>
 <ul>
 {{ range $.Page.Params.sources }}
-  <li>{{ . | markdownify }}</li>
+  <li role="doc-biblioref">{{ . | markdownify }}</li>
 {{ end }}
 </ul>
-</div>

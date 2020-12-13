@@ -40,5 +40,3 @@ Le constat est malgré tout inquiétant. Voici d'après l'étude les plus grande
 De plus, la situation en matière de régulation est absurde, puisque le _e-voting_ est fortement réglementé, le décompte électronique des votes est un peu réglementé, au moyen d'une circulaire aux cantons, et la transmission des résultats n'est pas du tout réglementée.
 
 Et malgré des avis et des rapports d'experts unanimes, presque rien ne se passe au niveau politique.
-
-{{< sources >}}
