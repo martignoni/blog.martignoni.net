@@ -3881,29 +3881,6 @@ p > object:only-child {
 		width: 100%;
 	}
 
-	.entry-footer {
-		display: table;
-		width: 100%;
-	}
-
-	.entry-footer .cat-tags-links {
-		display: table-cell;
-		vertical-align: middle;
-		width: 100%;
-		float: right;
-	}
-
-	.entry-footer .edit-link {
-		display: table-cell;
-		text-align: right;
-		vertical-align: middle;
-	}
-
-	.entry-footer .edit-link a.post-edit-link {
-		margin-top: 0;
-		margin-left: 1em;
-	}
-
 	/* Entry content */
 
 	/* without sidebar */
