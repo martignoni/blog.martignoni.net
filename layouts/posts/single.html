@@ -36,9 +36,7 @@
   <div class="entry-content">
     {{.Content}}
     {{ if .Params.sources }}
-      <section class="sources" role="doc-bibliography">
       {{ partial "post/sources" . }}
-      </section> <!-- .entry-sources -->
     {{ end }}
   </div> <!-- .entry-content -->
   <footer class="entry-footer">

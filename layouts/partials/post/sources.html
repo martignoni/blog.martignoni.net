@@ -1,6 +1,8 @@
-<p class="sources-title">{{ i18n "sources" }}</p>
-<ul>
-{{ range $.Page.Params.sources }}
-  <li role="doc-biblioref">{{ . | markdownify }}</li>
-{{ end }}
-</ul>
+<section class="sources" role="doc-bibliography">
+  <p class="sources-title">{{ i18n "sources" }}</p>
+  <ul>
+  {{ range $.Page.Params.sources }}
+    <li role="doc-biblioref">{{ . | markdownify }}</li>
+  {{ end }}
+  </ul>
+</section> <!-- .sources -->
