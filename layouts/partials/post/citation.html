@@ -1,0 +1,12 @@
+{{ $lastname := index (split (.Param "author") " ") 1 }}
+{{ $firstname := index (split (.Param "author") " ") 0 }}
+{{ $firstnameinitial := substr $firstname 0 1 }}
+{{ $sitetitle := .Site.Title }}
+{{ $title := .Page.Title }}
+{{ $formattedmonth := default .PublishDate (i18n .PublishDate.Month) }}
+{{ $formatteddate := printf "%s, %s %s" (.PublishDate.Format "2006") (.PublishDate.Format "2") $formattedmonth }}
+{{ $permalink := .Page.Permalink }}
+{{/* <!-- https://www.scribbr.fr/normes-apa/exemple-site-internet/ --> */}}
+<section class="citation">
+<p class="citation-title"><strong>{{ i18n "citationTitle" }}</strong> : {{ printf "%s,  %s. (%s). %s.  <em>%s</em>. %s." $lastname $firstnameinitial $formatteddate $title $sitetitle $permalink | safeHTML }}</p>
+</section> <!-- .citation -->

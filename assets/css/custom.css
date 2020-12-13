@@ -414,3 +414,17 @@ a.anchor-heading:focus {
   box-shadow: initial;
   color: #666;
 }
+
+/* Citation. */
+
+section .citation {
+  border-top: 1px solid #eee;
+  margin-top: 2em;
+  padding: 2em 0 0;
+  font-size: 0.9375rem;
+}
+
+section .citation > p {
+  margin: 0;
+  padding: 0;
+}

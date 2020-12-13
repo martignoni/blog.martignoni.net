@@ -62,6 +62,9 @@
         <span><a href="{{ .Permalink }}">{{ i18n "permalink" }}</a></span>
       </div>
     </div>
+    {{ if .Params.citation }}
+      {{ partial "post/citation" . }}
+    {{ end }}
   </footer> <!-- .entry-footer -->
   {{ if or .PrevInSection .NextInSection }}
   <nav class="navigation post-navigation" role="navigation">

@@ -60,6 +60,8 @@
   translation: "À propos"
 - id: publicationsTitle
   translation: "Publications"
+- id: citationTitle
+  translation: "Citation recommandée"
 - id: archives
   translation: "Archives"
 - id: newer

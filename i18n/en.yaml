@@ -62,6 +62,8 @@
   translation: "About"
 - id: publicationsTitle
   translation: "Publications"
+- id: citationTitle
+  translation: "Recommended citation"
 - id: newer
   translation: "Newer"
 - id: older
