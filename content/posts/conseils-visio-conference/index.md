@@ -1,7 +1,7 @@
 ---
 title: "Conseils pour une visio-conférence réussie"
 date: 2020-03-17
-lastmod: 2020-05-26
+lastmod: 2020-12-17
 author: Nicolas Martignoni
 slug: conseils-visio-conference
 description: La partie synchrone d'un scénario d'enseignement à distance peut être mise en œuvre à l'aide de la visio-conférence. Cet article donne quelques conseils à suivre pour une visio-conférence réussie.
@@ -21,8 +21,8 @@ tags:
   - Continuité pédagogique
   - Enseignement à distance
 sources:
-  - "[Appui à la Pédagogie Universitaire et Innovante, Avignon](https://apui.univ-avignon.fr/enseigner-a-distance/)"
-  - https://www.glowbl.com/fr/classe-virtuelle/
+  - "[Appui à la Pédagogie Universitaire et Innovante](https://apui.univ-avignon.fr/enseigner-a-distance/), Université d'Avignon"
+  - "[La classe virtuelle : un format pédagogique engageant](https://www.glowbl.com/fr/modalite-classe-virtuelle/), Glowbl, Lyon"
 ---
 Nous avons vu dans l'[article sur l'enseignement à distance][distance] que pour sa partie synchrone, la _visio-conférence_, appelée également _conférence web_ ou _webinar_, peut être utilisée à profit.
 
