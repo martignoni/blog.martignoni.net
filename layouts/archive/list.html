@@ -11,7 +11,7 @@
 
 {{ define "main" }}
 
-  {{ range (.Site.Pages.GroupByPublishDate "2006-01") }}
+  {{ range (.Site.RegularPages.GroupByPublishDate "2006-01") }}
     {{ $date := time (printf "%s%s" .Key "-01") }}
     <section class="archive-group">
     <h4>{{ humanize (i18n $date.Month) }} {{ $date.Format "2006" }}</h4>
