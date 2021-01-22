@@ -26,7 +26,14 @@ Si vous souhaitez réagir à un article de ce blog, créez un blog avec [Wordpre
 
 ## Licence
 
-{{< figure link="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" class="alignright" src="cc-by-nc-sa" alt="Licence Creative Commons" >}}Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International][cc]. Si vous avez des questions sur l'utilisation commerciale des textes, illustrations ou autres contenus originaux de ce site, veuillez me contacter.
+Les textes et photos originales de ce site web sont mis à disposition selon les termes de la [Licence Creative Commons Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International][cc], sauf mention particulière.
+
+{{< image src="cc.svg" alt="cc-logo" width="30px" class="logo" >}}
+{{< image src="by.svg" alt="by-logo" width="30px" class="logo" >}}
+{{< image src="nc.svg" alt="nc-logo" width="30px" class="logo" >}}
+{{< image src="sa.svg" alt="sa-logo" width="30px" class="logo" >}}
+
+Si vous avez des questions sur l'utilisation commerciale des textes, illustrations ou autres contenus originaux de ce site, veuillez me contacter.
 
 Les opinions développées sur ce blog ne sont que celles de leur auteur. Elles n'impliquent en rien le Collège Sainte-Croix, ni la Direction de l'instruction publique, de la culture et du Sport du canton de Fribourg.
 
