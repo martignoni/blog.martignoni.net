@@ -8,14 +8,14 @@
   {{ with $img }}
   <div class="single-featured-image-header">
     <img src="{{ .Permalink }}" alt="{{ $.Title }}">
-  </div> <!-- .post-thumbnail -->
+  </div> <!-- .single-featured-image-header -->
   {{ end }}
 {{ end }}
 
 {{ define "main" }}
 {{ template "_internal/schema.html" . }}
 
-<article class="page type-page hentry">
+<article class="page">
   <header class="entry-header">
     <h1 class="entry-title">{{ .Title }}</h1>
   </header> <!-- .entry-header -->
