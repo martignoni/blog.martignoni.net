@@ -1082,24 +1082,11 @@ body {
 	opacity: 1; /* Prevent opacity from changing during selective refreshes in the customize preview */
 }
 
-body.has-header-image .site-title,
-body.has-header-video .site-title,
-body.has-header-image .site-title a,
-body.has-header-video .site-title a {
-	color: #ed0000;
-}
-
 .site-description {
 	color: #ed0000;
 	font-size: 13px;
 	font-size: 0.8125rem;
 	margin-bottom: 0;
-}
-
-body.has-header-image .site-description,
-body.has-header-video .site-description {
-	color: #ed0000;
-	opacity: 0.8;
 }
 
 .custom-logo-link {
@@ -1115,12 +1102,6 @@ body.has-header-video .site-description {
 	width: auto;
 }
 
-body.home.title-tagline-hidden.has-header-image .custom-logo-link img,
-body.home.title-tagline-hidden.has-header-video .custom-logo-link img {
-	max-height: 200px;
-	max-width: 100%;
-}
-
 .custom-logo-link a:hover,
 .custom-logo-link a:focus {
 	opacity: 0.9;
@@ -1133,14 +1114,6 @@ body:not(.title-tagline-hidden) .site-branding-text {
 
 .custom-header {
 	position: relative;
-}
-
-.has-header-image.home.blog .custom-header,
-.has-header-video.home.blog .custom-header {
-	display: table;
-	height: 300px;
-	height: 75vh;
-	width: 100%;
 }
 
 .custom-header-media {
@@ -1169,25 +1142,6 @@ body:not(.title-tagline-hidden) .site-branding-text {
 	z-index: 2;
 }
 
-.has-header-image .custom-header-media img,
-.has-header-video .custom-header-media video,
-.has-header-video .custom-header-media iframe {
-	position: fixed;
-	height: auto;
-	left: 50%;
-	max-width: 1000%;
-	min-height: 100%;
-	min-width: 100%;
-	min-width: 100vw; /* vw prevents 1px gap on left that 100% has */
-	width: auto;
-	top: 50%;
-	padding-bottom: 1px; /* Prevent header from extending beyond the footer */
-	-ms-transform: translateX(-50%) translateY(-50%);
-	-moz-transform: translateX(-50%) translateY(-50%);
-	-webkit-transform: translateX(-50%) translateY(-50%);
-	transform: translateX(-50%) translateY(-50%);
-}
-
 .wp-custom-header .wp-custom-header-video-button { /* Specificity prevents .color-dark button overrides */
 	background-color: rgba(34, 34, 34, 0.5);
 	border: 1px solid rgba(255, 255, 255, 0.6);
@@ -1214,46 +1168,10 @@ body:not(.title-tagline-hidden) .site-branding-text {
 	top: 62px;
 }
 
-.has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media img {
-	bottom: 0;
-	position: absolute;
-	top: auto;
-	-ms-transform: translateX(-50%) translateY(0);
-	-moz-transform: translateX(-50%) translateY(0);
-	-webkit-transform: translateX(-50%) translateY(0);
-	transform: translateX(-50%) translateY(0);
-}
-
-/* For browsers that support 'object-fit' */
-@supports ( object-fit: cover ) {
-	.has-header-image .custom-header-media img,
-	.has-header-video .custom-header-media video,
-	.has-header-video .custom-header-media iframe,
-	.has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media img {
-		height: 100%;
-		left: 0;
-		-o-object-fit: cover;
-		object-fit: cover;
-		top: 0;
-		-ms-transform: none;
-		-moz-transform: none;
-		-webkit-transform: none;
-		transform: none;
-		width: 100%;
-	}
-}
-
 /* Hides div in Customizer preview when header images or videos change. */
 
-body:not(.has-header-image):not(.has-header-video) .custom-header-media {
+body .custom-header-media {
 	display: none;
-}
-
-.has-header-image.home.blog .site-branding,
-.has-header-video.home.blog .site-branding {
-	display: table-cell;
-	height: 100%;
-	vertical-align: bottom;
 }
 
 /*--------------------------------------------------------------
@@ -1303,7 +1221,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 }
 
 .page-title,
-body.page:not(.twentyseventeen-front-page) .entry-title {
+body.page .entry-title {
 	color: #222;
 	font-size: 14px;
 	font-size: 0.875rem;
@@ -1439,19 +1357,15 @@ body.page:not(.twentyseventeen-front-page) .entry-title {
 	padding-bottom: 2em;
 }
 
-body:not(.twentyseventeen-front-page) .entry-header {
-	padding: 1em 0;
+.entry-header {
+	padding: 0 0 1em 0;
 }
 
-body:not(.twentyseventeen-front-page) .entry-header,
-body:not(.twentyseventeen-front-page) .entry-content,
-body:not(.twentyseventeen-front-page) #comments {
+.entry-header,
+.entry-content,
+#comments {
 	margin-left: auto;
 	margin-right: auto;
-}
-
-body:not(.twentyseventeen-front-page) .entry-header {
-	padding-top: 0;
 }
 
 .taxonomy-description {
@@ -1470,10 +1384,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 /* Single Post */
 
-.single-post:not(.has-sidebar) #primary,
-.page.page-one-column:not(.twentyseventeen-front-page) #primary,
-.archive.page-one-column:not(.has-sidebar) .page-header,
-.archive.page-one-column:not(.has-sidebar) #primary {
+.single-post:not(.has-sidebar) #primary {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 740px;
@@ -2356,57 +2267,17 @@ p > object:only-child {
 		margin-bottom: 0;
 	}
 
-	.has-header-image.home.blog .site-branding,
-	.has-header-video.home.blog .site-branding {
-		bottom: 0;
-		display: block;
-		left: 0;
-		height: auto;
-		padding-top: 0;
-		position: absolute;
-		width: 100%;
-	}
-
-	.has-header-image.home.blog .custom-header,
-	.has-header-video.home.blog .custom-header {
-		display: block;
-		height: auto;
-	}
-
 	.custom-header-media {
 		height: 165px;
 		position: relative;
-	}
-
-	.home.blog.has-header-image .custom-header-media,
-	.home.blog.has-header-video .custom-header-media {
-		height: 0;
-		position: relative;
-	}
-
-	.has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media,
-	.has-header-video:not(.twentyseventeen-front-page):not(.home) .custom-header-media {
-		bottom: 0;
-		height: auto;
-		left: 0;
-		position: absolute;
-		right: 0;
-		top: 0;
 	}
 
 	.custom-logo-link {
 		padding-right: 2em;
 	}
 
-	.custom-logo-link img,
-	body.home.title-tagline-hidden.has-header-image .custom-logo-link img,
-	body.home.title-tagline-hidden.has-header-video .custom-logo-link img {
+	.custom-logo-link img {
 		max-width: 350px;
-	}
-
-	.title-tagline-hidden.home.has-header-image .custom-logo-link img,
-	.title-tagline-hidden.home.has-header-video .custom-logo-link img {
-		max-height: 200px;
 	}
 
 	.site-title {
@@ -2417,31 +2288,6 @@ p > object:only-child {
 	.site-description {
 		font-size: 19px;
 		font-size: 1.2rem;
-	}
-
-	/* Front Page */
-
-	.home.blog.has-header-image .site-branding,
-	.home.blog.has-header-video .site-branding {
-		margin-bottom: 70px;
-	}
-
-	.home.blog.has-header-image .custom-header-media,
-	.home.blog.has-header-video .custom-header-media {
-		height: 1200px;
-		height: 100vh;
-		max-height: 100%;
-		overflow: hidden;
-	}
-
-	.home.blog.has-header-image .custom-header-media:before,
-	.home.blog.has-header-video .custom-header-media:before {
-		height: 33%;
-	}
-
-	.admin-bar.home.blog.has-header-image .custom-header-media,
-	.admin-bar.home.blog.has-header-video .custom-header-media {
-		height: calc(100vh - 32px);
 	}
 
 	/* Posts */
@@ -2486,17 +2332,15 @@ p > object:only-child {
 		width: 32px;
 	}
 
-	body:not(.has-sidebar):not(.page-one-column) .page-header,
-	body.page-two-column:not(.archive) #primary .entry-header,
-	body.page-two-column.archive:not(.has-sidebar) #primary .page-header {
+	body:not(.has-sidebar) .page-header {
 		float: left;
 		width: 36%;
 	}
 
 	.blog:not(.has-sidebar) #primary article,
-	.archive:not(.page-one-column):not(.has-sidebar) #primary article,
+	.archive:not(.has-sidebar) #primary article,
 	.search:not(.has-sidebar) #primary article,
-	body.page-two-column:not(.archive) #primary .entry-content,
+	body.page-two-column #primary .entry-content,
 	body.page-two-column #comments {
 		float: right;
 		width: 58%;
@@ -2514,8 +2358,7 @@ p > object:only-child {
 		width: 58%;
 	}
 
-	.has-sidebar .navigation.pagination,
-	.archive.page-one-column:not(.has-sidebar) .navigation.pagination {
+	.has-sidebar .navigation.pagination {
 		float: none;
 		width: 100%;
 	}
@@ -2574,11 +2417,6 @@ p > object:only-child {
 	}
 
 	/* Pages */
-
-	.page.page-one-column .entry-header,
-	.archive.page-one-column:not(.has-sidebar) .page-header {
-		margin-bottom: 4em;
-	}
 
 	.page:not(.home) #content {
 		padding-bottom: 3.25em;
@@ -2808,7 +2646,7 @@ p > object:only-child {
 	}
 
 	.page-title,
-	body.page:not(.twentyseventeen-front-page) .entry-title {
+	.entry-title {
 		font-size: 10pt;
 	}
 
@@ -2829,11 +2667,6 @@ p > object:only-child {
 
 	.custom-header-media {
 		padding: 0;
-	}
-
-	.home.blog.has-header-image .site-branding,
-	.home.blog.has-header-video .site-branding {
-		position: relative;
 	}
 
 	.site-branding {
