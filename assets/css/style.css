@@ -1473,27 +1473,10 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 	top: 100px;
 }
 
-.panel-content {
-	position: relative;
-}
-
-.panel-content .wrap {
-	padding-bottom: 0.5em;
-	padding-top: 1.75em;
-}
-
 /* Front Page - Recent Posts */
 
 .recent-posts .entry-header {
 	margin-bottom: 1.2em;
-}
-
-.page .panel-content .recent-posts .entry-title {
-	font-size: 20px;
-	font-size: 1.25rem;
-	font-weight: 400;
-	letter-spacing: 0;
-	text-transform: none;
 }
 
 /*--------------------------------------------------------------
@@ -1532,7 +1515,6 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 	width: 20px;
 }
 
-.page .panel-content .entry-title,
 .page-title,
 body.page:not(.twentyseventeen-front-page) .entry-title {
 	color: #222;
@@ -2493,8 +2475,7 @@ p > object:only-child {
 	}
 
 	h2,
-	.home.blog .entry-title,
-	.page .panel-content .recent-posts .entry-title {
+	.home.blog .entry-title {
 		font-size: 26px;
 		font-size: 1.625rem;
 	}
@@ -2540,25 +2521,6 @@ p > object:only-child {
 
 	.site-branding {
 		padding: 3em 0;
-	}
-
-	/* Front Page */
-
-	.panel-content .wrap {
-		padding-bottom: 2em;
-		padding-top: 3.5em;
-	}
-
-	.page-one-column .panel-content .wrap {
-		max-width: 740px;
-	}
-
-	.panel-content .entry-header {
-		margin-bottom: 4.5em;
-	}
-
-	.panel-content .recent-posts .entry-header {
-		margin-bottom: 0;
 	}
 
 	/* Blog Index, Archive, Search */
@@ -2982,11 +2944,6 @@ p > object:only-child {
 		height: calc(100vh - 32px);
 	}
 
-	.panel-content .wrap {
-		padding-bottom: 4.5em;
-		padding-top: 6em;
-	}
-
 	.panel-image {
 		height: 100vh;
 		max-height: 1200px;
@@ -2995,45 +2952,6 @@ p > object:only-child {
 	/* With panel images 100% of the screen height, we're going to fix the background image where supported to create a parallax-like effect. */
 	.background-fixed .panel-image {
 		background-attachment: fixed;
-	}
-
-	.page-two-column .panel-content .entry-header {
-		float: left;
-		width: 36%;
-	}
-
-	.page-two-column .panel-content .entry-content {
-		float: right;
-		width: 58%;
-	}
-
-	/* Front Page - Recent Posts */
-
-	.page-two-column .panel-content .recent-posts {
-		clear: right;
-		float: right;
-		width: 58%;
-	}
-
-	.panel-content .recent-posts article {
-		margin-bottom: 4em;
-	}
-
-	.panel-content .recent-posts .entry-header,
-	.page-two-column #primary .panel-content .recent-posts .entry-header,
-	.panel-content .recent-posts .entry-content,
-	.page-two-column #primary .panel-content .recent-posts .entry-content {
-		float: none;
-		width: 100%;
-	}
-
-	.panel-content .recent-posts .entry-header {
-		margin-bottom: 1.5em;
-	}
-
-	.page .panel-content .recent-posts .entry-title {
-		font-size: 26px;
-		font-size: 1.625rem;
 	}
 
 	/* Posts */
@@ -3432,7 +3350,6 @@ p > object:only-child {
 		font-size: 12pt;
 	}
 
-	.page .panel-content .entry-title,
 	.page-title,
 	body.page:not(.twentyseventeen-front-page) .entry-title {
 		font-size: 10pt;
