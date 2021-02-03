@@ -18,6 +18,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
 1.0 Normalize
+  1.1 Colors
 2.0 Accessibility
 3.0 Alignments
 4.0 Clearings
@@ -229,6 +230,32 @@ template {
 
 [hidden] {
   display: none;
+}
+
+/*--------------------------------------------------------------
+1.1 Colors
+--------------------------------------------------------------*/
+
+$text-color: #333;
+$bg-color: #fff;
+$link-color: #222;
+$link-active-color: #000;
+$quote-color: #555;
+$placeholder-color: #999;
+$hr-color: #bbb;
+$site-header-color: #ed0000;
+$site-header-bg-color: #fafafa;
+$entry-meta-color: #767676;
+$entry-page-number-bg-color: #ddd;
+
+bla {
+  color: $text-color;
+  background-color: $bg-color;
+}
+
+blu {
+  color: $link-color;
+  background-color: $bg-color;
 }
 
 /*--------------------------------------------------------------
@@ -794,7 +821,6 @@ a:active {
 .logged-in-as a,
 a .nav-title,
 .pagination a,
-.site-info a,
 .widget .widget-title a,
 .widget ul li a,
 .site-footer .widget-area ul li a,
@@ -832,8 +858,6 @@ a .nav-title,
 .logged-in-as a:hover,
 a:focus .nav-title,
 a:hover .nav-title,
-.site-info a:focus,
-.site-info a:hover,
 .widget .widget-title a:focus,
 .widget .widget-title a:hover,
 .widget ul li a:focus,
@@ -1141,12 +1165,6 @@ body.page .entry-title {
   margin-right: auto;
 }
 
-.taxonomy-description {
-  color: #666;
-  font-size: 13px;
-  font-size: 0.8125rem;
-}
-
 /* More tag */
 
 .entry-content .more-link:before {
@@ -1223,7 +1241,7 @@ body.page .entry-title {
 .entry-footer .cat-links a,
 .entry-footer .tags-links a,
 .entry-footer .permalink a {
-  color: #333;
+  color: #222;
 }
 
 .entry-footer .cat-links .icon,
@@ -1312,34 +1330,6 @@ body.page .entry-title {
 .site-footer .widget-area {
   padding-bottom: 2em;
   padding-top: 2em;
-}
-
-/* Site info */
-
-.site-info {
-  font-size: 14px;
-  font-size: 0.875rem;
-  margin-bottom: 1em;
-}
-
-.site-info a {
-  color: #666;
-}
-
-.site-info .sep {
-  margin: 0;
-  display: block;
-  visibility: hidden;
-  height: 0;
-  width: 100%;
-}
-
-.site-info span[role=separator] {
-  padding: 0 0.2em 0 0.4em;
-}
-
-.site-info span[role=separator]::before {
-  content: '\002f';
 }
 
 /*--------------------------------------------------------------
@@ -1836,20 +1826,6 @@ p > object:only-child {
     width: 58%;
   }
 
-  .site-info {
-    float: left;
-    padding: 0.7em 0 0;
-    width: 58%;
-  }
-
-  .site-info .sep {
-    margin: 0 0.5em;
-    display: inline;
-    visibility: visible;
-    height: auto;
-    width: auto;
-  }
-
 }
 
 @media screen and ( min-width: 67em ) {
@@ -1905,8 +1881,7 @@ p > object:only-child {
   .page-links,
   .post-navigation,
   .pagination.navigation,
-  .site-footer aside.widget-area,
-  .site-info {
+  .site-footer aside.widget-area {
     display: none !important;
   }
 
