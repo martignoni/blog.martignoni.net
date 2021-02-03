@@ -14,14 +14,14 @@
   {{ with $img }}
   <div class="single-featured-image-header">
     <img src="{{ .Permalink }}" alt="{{ $.Title }}">
-  </div> <!-- .post-thumbnail -->
+  </div> <!-- .single-featured-image-header -->
   {{ end }}
 {{ end }}
 
 {{ define "main" }}
 {{ template "_internal/schema.html" . }}
 <section class="section blog" itemscope itemtype="http://schema.org/BlogPosting">
-<article class="post type-post status-publish format-standard has-post-thumbnail hentry">
+<article class="post">
   <header class="entry-header">
     <div class="entry-title">
       <h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
