@@ -1,8 +1,9 @@
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
+0.0 Colors definitions
+
 1.0 Normalize
-  1.1 Colors
 2.0 Accessibility
 3.0 Alignments
 4.0 Clearings
@@ -31,6 +32,64 @@
 19.0 Media Queries
 20.0 Print
 --------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+0.0 Colors
+--------------------------------------------------------------*/
+
+$white: #fff;
+$gray-100: #fafafa;
+$gray-200: #eee;
+$gray-300: #ddd;
+$gray-400: #bbb;
+$gray-500: #999;
+$gray-600: #767676;
+$gray-700: #555;
+$gray-800: #333;
+$gray-900: #222;
+$black: #000;
+
+$red: #ed0000;
+$pink: #ffc4c4;
+
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #ddd !default;
+$gray-400: #ced4da !default;
+$gray-500: #8f959e !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+$blue:    #0f6fc5 !default;
+$indigo:  #6610f2 !default;
+$purple:  #613d7c !default;
+$pink:    #e83e8c !default;
+$red:     #ca3120 !default;
+$orange:  #f0ad4e !default;
+$yellow:  #ff7518 !default;
+$green:   #357a32 !default;
+$teal:    #20c997 !default;
+$cyan:    #008196 !default;
+
+$primary:       $blue !default;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $orange !default;
+$danger:        $red !default;
+$secondary:     $gray-400 !default;
+
+$info-outline:    #1f7e9a;
+$warning-outline: #a6670e;
+
+$body-color: $gray-800 !default;
+
+$navbar-dark-hover-color:           rgba($white, 1) !default;
+$navbar-light-color:                rgba($black, 0.6) !default;
+$navbar-light-hover-color:          rgba($black, .9) !default;
 
 /*--------------------------------------------------------------
 1.0 Normalize
@@ -218,62 +277,6 @@ template {
 }
 
 /*--------------------------------------------------------------
-1.1 Colors
---------------------------------------------------------------*/
-
-$text-color: #333;
-$white: #fff;
-$bg-color: #fff;
-$link-color: #222;
-$link-active-color: #000;
-$quote-color: #555;
-$placeholder-color: #999;
-$hr-color: #bbb;
-$site-header-color: #ed0000;
-$site-header-bg-color: #fafafa;
-$entry-meta-color: #767676;
-$entry-page-number-bg-color: #ddd;
-
-$white:    #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #8f959e !default;
-$gray-600: #6c757d !default;
-$gray-700: #495057 !default;
-$gray-800: #343a40 !default;
-$gray-900: #212529 !default;
-$black:    #000 !default;
-
-$blue:    #0f6fc5 !default;
-$indigo:  #6610f2 !default;
-$purple:  #613d7c !default;
-$pink:    #e83e8c !default;
-$red:     #ca3120 !default;
-$orange:  #f0ad4e !default;
-$yellow:  #ff7518 !default;
-$green:   #357a32 !default;
-$teal:    #20c997 !default;
-$cyan:    #008196 !default;
-
-$primary:       $blue !default;
-$success:       $green !default;
-$info:          $cyan !default;
-$warning:       $orange !default;
-$danger:        $red !default;
-$secondary:     $gray-400 !default;
-
-$info-outline:    #1f7e9a;
-$warning-outline: #a6670e;
-
-$body-color:    $gray-900 !default;
-
-$navbar-dark-hover-color:           rgba($white, 1) !default;
-$navbar-light-color:                rgba($black, 0.6) !default;
-$navbar-light-hover-color:          rgba($black, .9) !default;
-
-/*--------------------------------------------------------------
 2.0 Accessibility
 --------------------------------------------------------------*/
 
@@ -382,7 +385,7 @@ button,
 input,
 select,
 textarea {
-  color: $text-color;
+  color: $body-color;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
   font-size: 15px;
   font-size: 0.9375rem;
@@ -419,28 +422,28 @@ h1 {
 
 h2,
 .home.blog .entry-title {
-  color: $text-color;
+  color: $body-color;
   font-size: 20px;
   font-size: 1.25rem;
   font-weight: 400;
 }
 
 h3 {
-  color: $text-color;
+  color: $body-color;
   font-size: 18px;
   font-size: 1.125rem;
   font-weight: 400;
 }
 
 h4 {
-  color: $text-color;
+  color: $body-color;
   font-size: 16px;
   font-size: 1rem;
   font-weight: 800;
 }
 
 h5 {
-  color: $entry-meta-color;
+  color: $gray-600;
   font-size: 13px;
   font-size: 0.8125rem;
   font-weight: 800;
@@ -449,7 +452,7 @@ h5 {
 }
 
 h6 {
-  color: $text-color;
+  color: $body-color;
   font-size: 15px;
   font-size: 0.9375rem;
   font-weight: 800;
@@ -472,11 +475,11 @@ i {
 }
 
 blockquote {
-  color: $quote-color;
+  color: $gray-700;
   font-size: inherit;
   font-style: italic;
   line-height: inherit;
-  border-left: 5px solid $placeholder-color;
+  border-left: 5px solid $gray-500;
   margin: 0 0 1.2em .5em;
   overflow: hidden;
   padding: 0;
@@ -503,7 +506,7 @@ address {
 }
 
 pre {
-  background: $site-header-bg-color;
+  background: $gray-100;
   font-family: "Courier 10 Pitch", Courier, monospace;
   font-size: 15px;
   font-size: 0.875rem;
@@ -524,20 +527,20 @@ var {
   font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
   font-size: 0.875rem;
 /*
-  color: $quote-color;
-  background-color: $site-header-bg-color;
+  color: $gray-700;
+  background-color: $gray-100;
  */
 }
 
 abbr,
 acronym {
-  border-bottom: 1px dotted $quote-color;
+  border-bottom: 1px dotted $gray-700;
   cursor: help;
 }
 
 mark,
 ins {
-  background: #ffc4c4;
+  background: $pink;
   text-decoration: none;
 }
 
@@ -563,7 +566,7 @@ blockquote:after {
 --------------------------------------------------------------*/
 
 label {
-  color: $text-color;
+  color: $body-color;
   display: block;
   font-weight: 800;
   margin-bottom: 0.5em;
@@ -589,10 +592,10 @@ input[type="datetime"],
 input[type="datetime-local"],
 input[type="color"],
 textarea {
-  color: $quote-color;
-  background: $bg-color;
+  color: $gray-700;
+  background: $white;
   background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
-  border: 1px solid $hr-color;
+  border: 1px solid $gray-400;
   border-radius: 3px;
   display: block;
   padding: 0.7em;
@@ -615,12 +618,12 @@ input[type="datetime"]:focus,
 input[type="datetime-local"]:focus,
 input[type="color"]:focus,
 textarea:focus {
-  color: $link-color;
-  border-color: $text-color;
+  color: $gray-900;
+  border-color: $gray-800;
 }
 
 select {
-  border: 1px solid $hr-color;
+  border: 1px solid $gray-400;
   border-radius: 3px;
   height: 3em;
   max-width: 100%;
@@ -628,7 +631,7 @@ select {
 
 input[type="radio"]:focus,
 input[type="checkbox"]:focus {
-  outline: thin dotted $text-color;
+  outline: thin dotted $gray-800;
 }
 
 input[type="radio"],
@@ -644,11 +647,11 @@ input[type="checkbox"] + label {
 button,
 input[type="button"],
 input[type="submit"] {
-  background-color: $link-color;
+  background-color: $gray-900;
   border: 0;
   border-radius: 2px;
   box-shadow: none;
-  color: $bg-color;
+  color: $white;
   cursor: pointer;
   display: inline-block;
   font-size: 14px;
@@ -671,8 +674,8 @@ input[type="reset"],
 input[type="button"].secondary,
 input[type="reset"].secondary,
 input[type="submit"].secondary {
-  background-color: $entry-page-number-bg-color;
-  color: $link-color;
+  background-color: $gray-300;
+  color: $gray-900;
 }
 
 button:hover,
@@ -681,7 +684,7 @@ input[type="button"]:hover,
 input[type="button"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-  background: $entry-meta-color;
+  background: $gray-600;
 }
 
 button.secondary:hover,
@@ -694,29 +697,29 @@ input[type="reset"].secondary:hover,
 input[type="reset"].secondary:focus,
 input[type="submit"].secondary:hover,
 input[type="submit"].secondary:focus {
-  background: $hr-color;
+  background: $gray-400;
 }
 
 /* Placeholder text color -- selectors need to be separate to work. */
 ::-webkit-input-placeholder {
-  color: $placeholder-color;
+  color: $gray-500;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
 :-moz-placeholder {
-  color: $placeholder-color;
+  color: $gray-500;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
 ::-moz-placeholder {
-  color: $placeholder-color;
+  color: $gray-500;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
   opacity: 1;
   /* Since FF19 lowers the opacity of the placeholder by default */
 }
 
 :-ms-input-placeholder {
-  color: $placeholder-color;
+  color: $gray-500;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
@@ -725,7 +728,7 @@ input[type="submit"].secondary:focus {
 --------------------------------------------------------------*/
 
 hr {
-  background-color: $hr-color;
+  background-color: $gray-400;
   border: 0;
   height: 1px;
   margin-bottom: 1.5em;
@@ -801,7 +804,7 @@ table {
 }
 
 thead th {
-  border-bottom: 2px solid $hr-color;
+  border-bottom: 2px solid $gray-400;
   padding-bottom: 0.5em;
 }
 
@@ -811,7 +814,7 @@ th {
 }
 
 tr {
-  border-bottom: 1px solid $entry-page-number-bg-color;
+  border-bottom: 1px solid $gray-300;
 }
 
 td {
@@ -833,7 +836,7 @@ td:last-child {
 --------------------------------------------------------------*/
 
 a {
-  color: $link-color;
+  color: $gray-900;
   text-decoration: none;
 }
 
@@ -843,7 +846,7 @@ a:focus {
 
 a:hover,
 a:active {
-  color: $link-active-color;
+  color: $black;
   outline: 0;
 }
 
@@ -941,19 +944,19 @@ a:hover .nav-title,
 .widget .widget-title a:hover,
 .widget ul li a:focus,
 .widget ul li a:hover {
-  color: $link-active-color;
+  color: $black;
   box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
 }
 
 /* Fixes linked images */
 .entry-content a img,
 .widget a img {
-  box-shadow: 0 0 0 8px $bg-color;
+  box-shadow: 0 0 0 8px $white;
 }
 
 .post-navigation a:focus .icon,
 .post-navigation a:hover .icon {
-  color: $link-color;
+  color: $gray-900;
 }
 
 /*--------------------------------------------------------------
@@ -994,7 +997,7 @@ html {
 }
 
 body {
-  background: $bg-color;
+  background: $white;
   /* Fallback for when there is no custom background color defined. */
 }
 
@@ -1028,7 +1031,7 @@ body {
 }
 
 .site-header {
-  background-color: $site-header-bg-color;
+  background-color: $gray-100;
   position: relative;
   z-index: 100;
 }
@@ -1080,12 +1083,12 @@ body {
 
 .site-title,
 .site-title a {
-  color: $site-header-color;
+  color: $red;
   opacity: 1; /* Prevent opacity from changing during selective refreshes in the customize preview */
 }
 
 .site-description {
-  color: $site-header-color;
+  color: $red;
   font-size: 13px;
   font-size: 0.8125rem;
   margin-bottom: 0;
@@ -1115,7 +1118,7 @@ body .site-branding-text {
 --------------------------------------------------------------*/
 
 .site-content-contain {
-  background-color: $bg-color;
+  background-color: $white;
   position: relative;
 }
 
@@ -1131,7 +1134,7 @@ body .site-branding-text {
 
 .page-title,
 body.page .entry-title {
-  color: $link-color;
+  color: $gray-900;
   font-size: 14px;
   font-size: 0.875rem;
   font-weight: 800;
@@ -1149,7 +1152,7 @@ body.page .entry-title {
 }
 
 .entry-title a {
-  color: $text-color;
+  color: $body-color;
   text-decoration: none;
   margin-left: -2px;
 }
@@ -1159,7 +1162,7 @@ body.page .entry-title {
 }
 
 .entry-meta {
-  color: $entry-meta-color;
+  color: $gray-600;
   font-size: 12px;
   font-size: 0.75rem;
   font-weight: 700;
@@ -1179,7 +1182,7 @@ body.page .entry-title {
 }
 
 .entry-meta a {
-  color: $entry-meta-color;
+  color: $gray-600;
 }
 
 .pagination {
@@ -1201,7 +1204,7 @@ body.page .entry-title {
 }
 
 .page-numbers.current {
-  color: $entry-meta-color;
+  color: $gray-600;
   display: inline-block;
 }
 
@@ -1215,7 +1218,7 @@ body.page .entry-title {
 
 .prev.page-numbers,
 .next.page-numbers {
-  background-color: $entry-page-number-bg-color;
+  background-color: $gray-300;
   border-radius: 2px;
   display: inline-block;
   font-size: 24px;
@@ -1233,8 +1236,8 @@ body.page .entry-title {
 .prev.page-numbers:hover,
 .next.page-numbers:focus,
 .next.page-numbers:hover {
-  background-color: $entry-meta-color;
-  color: $bg-color;
+  background-color: $gray-600;
+  color: $white;
 }
 
 .prev.page-numbers {
@@ -1249,7 +1252,7 @@ body.page .entry-title {
 
 .entry-content blockquote.alignleft,
 .entry-content blockquote.alignright {
-  color: $quote-color;
+  color: $gray-700;
   font-size: 13px;
   font-size: 0.8125rem;
   width: 48%;
@@ -1288,8 +1291,8 @@ body.page .entry-title {
 }
 
 .single-featured-image-header {
-  background-color: $site-header-bg-color;
-  border-bottom: 1px solid $entry-page-number-bg-color;
+  background-color: $gray-100;
+  border-bottom: 1px solid $gray-300;
 }
 
 .single-featured-image-header img {
@@ -1305,7 +1308,7 @@ body.page .entry-title {
 }
 
 .page-links .page-number {
-  color: $entry-meta-color;
+  color: $gray-600;
   display: inline-block;
   padding: 0.5em 1em;
 }
@@ -1315,13 +1318,13 @@ body.page .entry-title {
 }
 
 .page-links a .page-number {
-  color: $link-color;
+  color: $gray-900;
 }
 
 /* Citation. */
 
 section .citation {
-  border-top: 1px solid #eee;
+  border-top: 1px solid $gray-200;
   margin-top: 2em;
   padding: 2em 0 0;
   font-size: 0.9375rem;
@@ -1335,8 +1338,8 @@ section .citation > p {
 /* Entry footer */
 
 .entry-footer {
-  border-bottom: 1px solid $entry-page-number-bg-color;
-  border-top: 1px solid $entry-page-number-bg-color;
+  border-bottom: 1px solid $gray-300;
+  border-top: 1px solid $gray-300;
   padding: 2em 0;
 }
 
@@ -1361,13 +1364,13 @@ section .citation > p {
 .entry-footer .cat-links a,
 .entry-footer .tags-links a,
 .entry-footer .permalink a {
-  color: $link-color;
+  color: $gray-900;
 }
 
 .entry-footer .cat-links .icon,
 .entry-footer .tags-links .icon,
 .entry-footer .permalink .icon {
-  color: $entry-meta-color;
+  color: $gray-600;
   left: 0;
   margin-right: 0.5em;
   position: absolute;
@@ -1388,7 +1391,7 @@ section .citation > p {
 
 .nav-subtitle {
   background: transparent;
-  color: $entry-meta-color;
+  color: $gray-600;
   display: block;
   font-size: 11px;
   font-size: 0.6875rem;
@@ -1398,7 +1401,7 @@ section .citation > p {
 }
 
 .nav-title {
-  color: $text-color;
+  color: $body-color;
   font-size: 15px;
   font-size: 0.9375rem;
 }
@@ -1467,7 +1470,7 @@ section .citation > p {
 }
 
 #primary .archive-group ul li a:hover {
-  color: $link-active-color;
+  color: $black;
   box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
 }
 
@@ -1485,7 +1488,7 @@ section .citation > p {
 --------------------------------------------------------------*/
 
 .site-footer {
-  border-top: 1px solid $entry-page-number-bg-color;
+  border-top: 1px solid $gray-300;
 }
 
 .site-footer .wrap {
@@ -1521,7 +1524,7 @@ section .citation > p {
 }
 
 h2.widget-title {
-  color: $link-color;
+  color: $gray-900;
   font-size: 14px;
   font-size: 0.875rem;
   font-weight: 800;
@@ -1549,8 +1552,8 @@ h2.widget-title {
 
 .widget ul li,
 .widget ol li {
-  border-bottom: 1px solid $entry-page-number-bg-color;
-  border-top: 1px solid $entry-page-number-bg-color;
+  border-bottom: 1px solid $gray-300;
+  border-top: 1px solid $gray-300;
   padding: 0.5em 0;
 }
 
@@ -1775,7 +1778,7 @@ body .site-search-button {
 
 .js-search {
   font-size: 2rem;
-  color: $placeholder-color;
+  color: $gray-500;
 }
 
 .search-results {
@@ -1873,7 +1876,7 @@ body .site-search-button {
 
 .search-hit em {
   font-style: normal;
-  background-color: #ffc4c4;
+  background-color: $pink;
 /*
   color: #E65100;
   border-bottom: 1px solid #E65100;
@@ -1907,7 +1910,7 @@ body .site-search-button {
 }
 
 .search-hit h2 a:hover {
-  color: $link-active-color;
+  color: $black;
   box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
 }
 
@@ -2380,7 +2383,7 @@ body .site-search-button {
   body,
   a,
   .site-title a {
-    color: $link-color !important; /* Make sure color schemes don't affect to print */
+    color: $gray-900 !important; /* Make sure color schemes don't affect to print */
   }
 
   h2,
