@@ -31,6 +31,7 @@
 18.0 SVGs Fallbacks
 19.0 Media Queries
 20.0 Print
+21.0 Dark mode
 --------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
@@ -52,33 +53,10 @@ $black: #000;
 $red: #ed0000;
 $pink: #ffc4c4;
 
-$body-color: $gray-800;
-$link-hover-color: rgba(15, 15, 15, 1);
-
-$blue:    #0f6fc5 !default;
-$indigo:  #6610f2 !default;
-$purple:  #613d7c !default;
-$pink:    #e83e8c !default;
-$red:     #ca3120 !default;
-$orange:  #f0ad4e !default;
-$yellow:  #ff7518 !default;
-$green:   #357a32 !default;
-$teal:    #20c997 !default;
-$cyan:    #008196 !default;
-
-$primary:       $blue !default;
-$success:       $green !default;
-$info:          $cyan !default;
-$warning:       $orange !default;
-$danger:        $red !default;
-$secondary:     $gray-400 !default;
-
-$info-outline:    #1f7e9a;
-$warning-outline: #a6670e;
-
-$navbar-dark-hover-color:           rgba($white, 1) !default;
-$navbar-light-color:                rgba($black, 0.6) !default;
-$navbar-light-hover-color:          rgba($black, .9) !default;
+$body-color-light: $gray-800;
+$body-color-dark: $gray-200;
+$link-hover-color-light: rgba(15, 15, 15, 1);
+$link-hover-color-dark: rgba(240, 240, 240, 1);
 
 /*--------------------------------------------------------------
 1.0 Normalize
@@ -374,7 +352,7 @@ button,
 input,
 select,
 textarea {
-  color: $body-color;
+  color: $body-color-light;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
   font-size: 15px;
   font-size: 0.9375rem;
@@ -411,21 +389,21 @@ h1 {
 
 h2,
 .home.blog .entry-title {
-  color: $body-color;
+  color: $body-color-light;
   font-size: 20px;
   font-size: 1.25rem;
   font-weight: 400;
 }
 
 h3 {
-  color: $body-color;
+  color: $body-color-light;
   font-size: 18px;
   font-size: 1.125rem;
   font-weight: 400;
 }
 
 h4 {
-  color: $body-color;
+  color: $body-color-light;
   font-size: 16px;
   font-size: 1rem;
   font-weight: 800;
@@ -441,7 +419,7 @@ h5 {
 }
 
 h6 {
-  color: $body-color;
+  color: $body-color-light;
   font-size: 15px;
   font-size: 0.9375rem;
   font-weight: 800;
@@ -555,7 +533,7 @@ blockquote:after {
 --------------------------------------------------------------*/
 
 label {
-  color: $body-color;
+  color: $body-color-light;
   display: block;
   font-weight: 800;
   margin-bottom: 0.5em;
@@ -876,7 +854,7 @@ a:active {
 .entry-summary a,
 .widget a,
 .site-footer .widget-area a {
-  box-shadow: inset 0 -1px 0 $link-hover-color;
+  box-shadow: inset 0 -1px 0 $link-hover-color-light;
   transition: color 80ms ease-in, box-shadow 130ms ease-in-out;
 }
 
@@ -1071,7 +1049,6 @@ body {
 .site-title,
 .site-title a {
   color: $red;
-  opacity: 1; /* Prevent opacity from changing during selective refreshes in the customize preview */
 }
 
 .site-description {
@@ -1139,7 +1116,7 @@ body.page .entry-title {
 }
 
 .entry-title a {
-  color: $body-color;
+  color: $body-color-light;
   text-decoration: none;
   margin-left: -2px;
 }
@@ -1388,7 +1365,7 @@ section .citation > p {
 }
 
 .nav-title {
-  color: $body-color;
+  color: $body-color-light;
   font-size: 15px;
   font-size: 0.9375rem;
 }
@@ -1905,8 +1882,6 @@ body .site-search-button {
 19.0 Media Queries
 --------------------------------------------------------------*/
 
-/* Adjust positioning of edit shortcuts, override style in customize-preview.css */
-
 @media screen and (min-width: 30em) {
 
   /* Typography */
@@ -2388,3 +2363,241 @@ body .site-search-button {
     padding: 0;
   }
 }
+
+/*--------------------------------------------------------------
+21.0 Dark mode
+--------------------------------------------------------------*/
+
+@media screen and (prefers-color-scheme: dark) {
+  pre {
+    background: $gray-900;
+  }
+  textarea {
+    color: $gray-300;
+    background: $black;
+    border: 1px solid $gray-600;
+  }
+  textarea:focus {
+    color: $gray-100;
+    border-color: $gray-200;
+  }
+  select {
+    border: 1px solid $gray-600;
+  }
+  input[type="radio"]:focus,
+  input[type="checkbox"]:focus {
+    outline: thin dotted $gray-200;
+  }
+  button,
+  input[type="button"],
+  input[type="submit"] {
+    background-color: $gray-100;
+    color: $black;
+  }
+  button.secondary,
+  input[type="reset"],
+  input[type="button"].secondary,
+  input[type="reset"].secondary,
+  input[type="submit"].secondary {
+    background-color: $gray-700;
+    color: $gray-100;
+  }
+  button:hover,
+  button:focus,
+  input[type="button"]:hover,
+  input[type="button"]:focus,
+  input[type="submit"]:hover,
+  input[type="submit"]:focus {
+    background: $gray-400;
+  }
+  button.secondary:hover,
+  button.secondary:focus,
+  input[type="reset"]:hover,
+  input[type="reset"]:focus,
+  input[type="button"].secondary:hover,
+  input[type="button"].secondary:focus,
+  input[type="reset"].secondary:hover,
+  input[type="reset"].secondary:focus,
+  input[type="submit"].secondary:hover,
+  input[type="submit"].secondary:focus {
+    background: $gray-600;
+  }
+  hr {
+    background-color: $gray-600;
+  }
+  thead th {
+    border-bottom: 2px solid $gray-600;
+  }
+  tr {
+    border-bottom: 1px solid $gray-700;
+  }
+  a {
+    color: $gray-100;
+  }
+  a:hover,
+  a:active {
+    color: $white;
+  }
+  :hover > .anchor-heading,
+  .anchor-heading:focus {
+    color: $gray-300;
+  }
+  .entry-content a.anchor-heading:hover,
+  .entry-content a.anchor-heading:focus {
+    box-shadow: initial;
+    color: $gray-300;
+  }
+  .site-footer .widget-area a {
+    box-shadow: inset 0 -1px 0 $link-hover-color-dark;
+  }
+  .site-footer .widget-area ul li a {
+    box-shadow: inset 0 -1px 0 $black;
+  }
+  .entry-content a:focus,
+  .entry-content a:hover,
+  .entry-summary a:focus,
+  .entry-summary a:hover,
+  .widget a:focus,
+  .widget a:hover,
+  .site-footer .widget-area a:focus,
+  .site-footer .widget-area a:hover,
+  .entry-title a:focus,
+  .entry-title a:hover,
+  .entry-meta a:focus,
+  .entry-meta a:hover,
+  .page-links a:focus .page-number,
+  .page-links a:hover .page-number,
+  .entry-footer a:focus,
+  .entry-footer a:hover,
+  .entry-footer .cat-links a:focus,
+  .entry-footer .cat-links a:hover,
+  .entry-footer .tags-links a:focus,
+  .entry-footer .tags-links a:hover,
+  .post-navigation a:focus,
+  .post-navigation a:hover,
+  .pagination a:not(.prev):not(.next):focus,
+  .pagination a:not(.prev):not(.next):hover,
+  .logged-in-as a:focus,
+  .logged-in-as a:hover,
+  a:focus .nav-title,
+  a:hover .nav-title,
+  .widget .widget-title a:focus,
+  .widget .widget-title a:hover,
+  .widget ul li a:focus,
+  .widget ul li a:hover {
+    color: $white;
+    box-shadow: inset 0 0 0 $black, 0 3px 0 $white;
+  }
+  .entry-content a img,
+  .widget a img {
+    box-shadow: 0 0 0 8px $black;
+  }
+  .post-navigation a:focus .icon,
+  .post-navigation a:hover .icon {
+    color: $gray-100;
+  }
+  body {
+    color: $body-color-dark;
+    background: $black;
+  }
+  .site-header {
+    background-color: $gray-900;
+  }
+  .site-title,
+  .site-title a {
+    color: $red;
+  }
+  .site-description {
+    color: $red;
+  }
+  .site-content-contain {
+    background-color: $black;
+  }
+  .page-title,
+  body.page .entry-title {
+    color: $gray-100;
+  }
+  .entry-title a {
+    color: $body-color-dark;
+  }
+  .entry-meta,
+  .entry-meta a,
+  .page-numbers.current {
+    color: $gray-400;
+  }
+  .prev.page-numbers,
+  .next.page-numbers {
+    background-color: $gray-700;
+  }
+  .prev.page-numbers:focus,
+  .prev.page-numbers:hover,
+  .next.page-numbers:focus,
+  .next.page-numbers:hover {
+    background-color: $gray-400;
+    color: $black;
+  }
+  .entry-content blockquote.alignleft,
+  .entry-content blockquote.alignright {
+    color: $gray-300;
+  }
+  .single-featured-image-header {
+    background-color: $gray-900;
+    border-bottom: 1px solid $gray-700;
+  }
+  .page-links .page-number {
+    color: $gray-400;
+  }
+  .page-links a .page-number {
+    color: $gray-100;
+  }
+  section .citation {
+    border-top: 1px solid $gray-800;
+  }
+  .entry-footer {
+    border-bottom: 1px solid $gray-700;
+    border-top: 1px solid $gray-700;
+  }
+  .entry-footer .cat-links a,
+  .entry-footer .tags-links a,
+  .entry-footer .permalink a {
+    color: $gray-100;
+  }
+  .entry-footer .cat-links .icon,
+  .entry-footer .tags-links .icon,
+  .entry-footer .permalink .icon {
+    color: $gray-400;
+  }
+  .nav-subtitle {
+    color: $gray-400;
+  }
+  .nav-title {
+    color: $body-color-dark;
+  }
+  #primary .archive-group ul li a:hover {
+    color: $white;
+    box-shadow: inset 0 0 0 $black, 0 3px 0 $white;
+  }
+  #primary .archive-group ul li .meta {
+    color: $gray-400;
+  }
+  .site-footer {
+    border-top: 1px solid $gray-700;
+  }
+  h2.widget-title {
+    color: $gray-100;
+  }
+  .widget ul li,
+  .widget ol li {
+    border-bottom: 1px solid $gray-700;
+    border-top: 1px solid $gray-700;
+  }
+  #search-box #search-query {
+    border: 1px solid $gray-700;
+  }
+  .search-hit h2 a:hover {
+    color: $white;
+    box-shadow: inset 0 0 0 $black, 0 3px 0 $white;
+  }
+
+}
+
