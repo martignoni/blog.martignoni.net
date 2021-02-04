@@ -52,17 +52,8 @@ $black: #000;
 $red: #ed0000;
 $pink: #ffc4c4;
 
-$white:    #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #ddd !default;
-$gray-400: #ced4da !default;
-$gray-500: #8f959e !default;
-$gray-600: #6c757d !default;
-$gray-700: #495057 !default;
-$gray-800: #343a40 !default;
-$gray-900: #212529 !default;
-$black:    #000 !default;
+$body-color: $gray-800;
+$link-hover-color: rgba(15, 15, 15, 1);
 
 $blue:    #0f6fc5 !default;
 $indigo:  #6610f2 !default;
@@ -84,8 +75,6 @@ $secondary:     $gray-400 !default;
 
 $info-outline:    #1f7e9a;
 $warning-outline: #a6670e;
-
-$body-color: $gray-800 !default;
 
 $navbar-dark-hover-color:           rgba($white, 1) !default;
 $navbar-light-color:                rgba($black, 0.6) !default;
@@ -594,7 +583,6 @@ input[type="color"],
 textarea {
   color: $gray-700;
   background: $white;
-  background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
   border: 1px solid $gray-400;
   border-radius: 3px;
   display: block;
@@ -861,7 +849,7 @@ a:active {
 
 :hover > .anchor-heading,
 .anchor-heading:focus {
-  color: #555;
+  color: $gray-700;
   display: inline
 }
 
@@ -873,7 +861,7 @@ a:active {
 .entry-content a.anchor-heading:hover,
 .entry-content a.anchor-heading:focus {
   box-shadow: initial;
-  color: #555;
+  color: $gray-700;
 }
 
 @media (min-width: 481px) {
@@ -888,7 +876,7 @@ a:active {
 .entry-summary a,
 .widget a,
 .site-footer .widget-area a {
-  box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 1);
+  box-shadow: inset 0 -1px 0 $link-hover-color;
   transition: color 80ms ease-in, box-shadow 130ms ease-in-out;
 }
 
@@ -905,9 +893,8 @@ a .nav-title,
 .pagination a,
 .widget .widget-title a,
 .widget ul li a,
-.site-footer .widget-area ul li a,
 .site-footer .widget-area ul li a {
-  box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 1);
+  box-shadow: inset 0 -1px 0 $white;
   text-decoration: none;
   transition: color 80ms ease-in, box-shadow 130ms ease-in-out;
 }
@@ -945,7 +932,7 @@ a:hover .nav-title,
 .widget ul li a:focus,
 .widget ul li a:hover {
   color: $black;
-  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+  box-shadow: inset 0 0 0 $white, 0 3px 0 $black;
 }
 
 /* Fixes linked images */
@@ -1471,12 +1458,12 @@ section .citation > p {
 
 #primary .archive-group ul li a:hover {
   color: $black;
-  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+  box-shadow: inset 0 0 0 $white, 0 3px 0 $black;
 }
 
 #primary .archive-group ul li .meta {
   font-style: italic;
-  color: #666;
+  color: $gray-600;
 }
 
 #error-page .icon {
@@ -1865,7 +1852,7 @@ body .site-search-button {
 }
 
 #search-box #search-query {
-  border: 1px solid #ddd;
+  border: 1px solid $gray-300;
   border-radius: 2.5rem;
   padding: 1rem 1rem 1rem 2.5rem; /* Wider left padding for search icon to fit in. */
   width: 250px;
@@ -1877,10 +1864,6 @@ body .site-search-button {
 .search-hit em {
   font-style: normal;
   background-color: $pink;
-/*
-  color: #E65100;
-  border-bottom: 1px solid #E65100;
- */
 }
 
 .search-hit-type {
@@ -1911,7 +1894,7 @@ body .site-search-button {
 
 .search-hit h2 a:hover {
   color: $black;
-  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+  box-shadow: inset 0 0 0 $white, 0 3px 0 $black;
 }
 
 /*--------------------------------------------------------------
@@ -2392,7 +2375,7 @@ body .site-search-button {
   .site-description,
   .entry-meta,
   .entry-meta a {
-    color: #777 !important; /* Make sure color schemes don't affect to print */
+    color: $gray-600 !important; /* Make sure color schemes don't affect to print */
   }
 
   .entry-content blockquote.alignleft,
