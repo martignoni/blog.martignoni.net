@@ -1,19 +1,3 @@
-/*
-Theme Name: Twenty Seventeen
-Theme URI: https://wordpress.org/themes/twentyseventeen/
-Author: the WordPress team
-Author URI: https://wordpress.org/
-Description: Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.
-Version: 2.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: twentyseventeen
-Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
-
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
-*/
-
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
@@ -41,7 +25,8 @@ Use it to make something cool, have fun, and share what you've learned with othe
 15.0 Widgets
 16.0 Media
    16.1 Galleries
-17.0 Customizer
+   16.2 Bibliography and footnotes
+17.0 Search
 18.0 SVGs Fallbacks
 19.0 Media Queries
 20.0 Print
@@ -237,6 +222,7 @@ template {
 --------------------------------------------------------------*/
 
 $text-color: #333;
+$white: #fff;
 $bg-color: #fff;
 $link-color: #222;
 $link-active-color: #000;
@@ -248,15 +234,50 @@ $site-header-bg-color: #fafafa;
 $entry-meta-color: #767676;
 $entry-page-number-bg-color: #ddd;
 
-bla {
-  color: $text-color;
-  background-color: $bg-color;
-}
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #8f959e !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
 
-blu {
-  color: $link-color;
-  background-color: $bg-color;
-}
+$blue:    #0f6fc5 !default;
+$indigo:  #6610f2 !default;
+$purple:  #613d7c !default;
+$pink:    #e83e8c !default;
+$red:     #ca3120 !default;
+$orange:  #f0ad4e !default;
+$yellow:  #ff7518 !default;
+$green:   #357a32 !default;
+$teal:    #20c997 !default;
+$cyan:    #008196 !default;
+
+$primary:       $blue !default;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $orange !default;
+$danger:        $red !default;
+$secondary:     $gray-400 !default;
+
+$info-outline:    #1f7e9a;
+$warning-outline: #a6670e;
+
+// Options
+$enable-rounded: false !default;
+$enable-responsive-font-sizes: true !default;
+
+// Body
+$body-color:    $gray-900 !default;
+
+// Navbar
+$navbar-dark-hover-color:           rgba($white, 1) !default;
+$navbar-light-color:                rgba($black, 0.6) !default;
+$navbar-light-hover-color:          rgba($black, .9) !default;
 
 /*--------------------------------------------------------------
 2.0 Accessibility
@@ -367,7 +388,7 @@ button,
 input,
 select,
 textarea {
-  color: #333;
+  color: $text-color;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
   font-size: 15px;
   font-size: 0.9375rem;
@@ -404,28 +425,28 @@ h1 {
 
 h2,
 .home.blog .entry-title {
-  color: #333;
+  color: $text-color;
   font-size: 20px;
   font-size: 1.25rem;
   font-weight: 400;
 }
 
 h3 {
-  color: #333;
+  color: $text-color;
   font-size: 18px;
   font-size: 1.125rem;
   font-weight: 400;
 }
 
 h4 {
-  color: #333;
+  color: $text-color;
   font-size: 16px;
   font-size: 1rem;
   font-weight: 800;
 }
 
 h5 {
-  color: #767676;
+  color: $entry-meta-color;
   font-size: 13px;
   font-size: 0.8125rem;
   font-weight: 800;
@@ -434,7 +455,7 @@ h5 {
 }
 
 h6 {
-  color: #333;
+  color: $text-color;
   font-size: 15px;
   font-size: 0.9375rem;
   font-weight: 800;
@@ -457,14 +478,23 @@ i {
 }
 
 blockquote {
-  color: #555;
-  font-size: 18px;
-  font-size: 1.125rem;
+  color: $quote-color;
+  font-size: inherit;
   font-style: italic;
-  line-height: 1.7;
-  margin: 0;
+  line-height: inherit;
+  border-left: 5px solid $placeholder-color;
+  margin: 0 0 1.2em .5em;
   overflow: hidden;
   padding: 0;
+  quotes: "" "";
+}
+
+blockquote > p {
+  padding-left: 1em;
+}
+
+blockquote > p:last-child {
+  margin-bottom: 3px;
 }
 
 blockquote cite {
@@ -479,7 +509,7 @@ address {
 }
 
 pre {
-  background: #eee;
+  background: $site-header-bg-color;
   font-family: "Courier 10 Pitch", Courier, monospace;
   font-size: 15px;
   font-size: 0.875rem;
@@ -500,14 +530,14 @@ var {
   font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
   font-size: 0.875rem;
 /*
-  color: #555;
-  background-color: #f0f0f0;
+  color: $quote-color;
+  background-color: $site-header-bg-color;
  */
 }
 
 abbr,
 acronym {
-  border-bottom: 1px dotted #666;
+  border-bottom: 1px dotted $quote-color;
   cursor: help;
 }
 
@@ -519,10 +549,6 @@ ins {
 
 big {
   font-size: 125%;
-}
-
-blockquote {
-  quotes: "" "";
 }
 
 q {
@@ -543,7 +569,7 @@ blockquote:after {
 --------------------------------------------------------------*/
 
 label {
-  color: #333;
+  color: $text-color;
   display: block;
   font-weight: 800;
   margin-bottom: 0.5em;
@@ -569,10 +595,10 @@ input[type="datetime"],
 input[type="datetime-local"],
 input[type="color"],
 textarea {
-  color: #666;
-  background: #fff;
+  color: $quote-color;
+  background: $bg-color;
   background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
-  border: 1px solid #bbb;
+  border: 1px solid $hr-color;
   border-radius: 3px;
   display: block;
   padding: 0.7em;
@@ -595,12 +621,12 @@ input[type="datetime"]:focus,
 input[type="datetime-local"]:focus,
 input[type="color"]:focus,
 textarea:focus {
-  color: #222;
-  border-color: #333;
+  color: $link-color;
+  border-color: $text-color;
 }
 
 select {
-  border: 1px solid #bbb;
+  border: 1px solid $hr-color;
   border-radius: 3px;
   height: 3em;
   max-width: 100%;
@@ -608,7 +634,7 @@ select {
 
 input[type="radio"]:focus,
 input[type="checkbox"]:focus {
-  outline: thin dotted #333;
+  outline: thin dotted $text-color;
 }
 
 input[type="radio"],
@@ -624,11 +650,11 @@ input[type="checkbox"] + label {
 button,
 input[type="button"],
 input[type="submit"] {
-  background-color: #222;
+  background-color: $link-color;
   border: 0;
   border-radius: 2px;
   box-shadow: none;
-  color: #fff;
+  color: $bg-color;
   cursor: pointer;
   display: inline-block;
   font-size: 14px;
@@ -651,8 +677,8 @@ input[type="reset"],
 input[type="button"].secondary,
 input[type="reset"].secondary,
 input[type="submit"].secondary {
-  background-color: #ddd;
-  color: #222;
+  background-color: $entry-page-number-bg-color;
+  color: $link-color;
 }
 
 button:hover,
@@ -661,7 +687,7 @@ input[type="button"]:hover,
 input[type="button"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-  background: #767676;
+  background: $entry-meta-color;
 }
 
 button.secondary:hover,
@@ -674,29 +700,29 @@ input[type="reset"].secondary:hover,
 input[type="reset"].secondary:focus,
 input[type="submit"].secondary:hover,
 input[type="submit"].secondary:focus {
-  background: #bbb;
+  background: $hr-color;
 }
 
 /* Placeholder text color -- selectors need to be separate to work. */
 ::-webkit-input-placeholder {
-  color: #999;
+  color: $placeholder-color;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
 :-moz-placeholder {
-  color: #999;
+  color: $placeholder-color;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
 ::-moz-placeholder {
-  color: #999;
+  color: $placeholder-color;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
   opacity: 1;
   /* Since FF19 lowers the opacity of the placeholder by default */
 }
 
 :-ms-input-placeholder {
-  color: #999;
+  color: $placeholder-color;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Ubuntu,Cantarell,Oxygen,Roboto,Helvetica,Arial,sans-serif;
 }
 
@@ -705,7 +731,7 @@ input[type="submit"].secondary:focus {
 --------------------------------------------------------------*/
 
 hr {
-  background-color: #bbb;
+  background-color: $hr-color;
   border: 0;
   height: 1px;
   margin-bottom: 1.5em;
@@ -743,6 +769,33 @@ dd {
   margin: 0 1.5em 1.5em;
 }
 
+#primary ul {
+  list-style: none;
+  margin-left: 1.5rem;
+  padding-left: 0;
+  text-indent: -1.5rem;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+#primary ol {
+  margin-left: 1.5rem;
+  padding-left: 0.5rem;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+#primary ul li:before {
+  content: "–";
+  display: block;
+  float: left;
+  width: 1.5rem;
+}
+
 /*--------------------------------------------------------------
 9.0 Tables
 --------------------------------------------------------------*/
@@ -754,7 +807,7 @@ table {
 }
 
 thead th {
-  border-bottom: 2px solid #bbb;
+  border-bottom: 2px solid $hr-color;
   padding-bottom: 0.5em;
 }
 
@@ -764,7 +817,7 @@ th {
 }
 
 tr {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid $entry-page-number-bg-color;
 }
 
 td {
@@ -786,7 +839,7 @@ td:last-child {
 --------------------------------------------------------------*/
 
 a {
-  color: #222;
+  color: $link-color;
   text-decoration: none;
 }
 
@@ -796,8 +849,40 @@ a:focus {
 
 a:hover,
 a:active {
-  color: #000;
+  color: $link-active-color;
   outline: 0;
+}
+
+/* Anchor heading links. */
+
+.anchor-heading {
+  color: transparent;
+  display: none;
+  font-size: smaller;
+  margin-left: 1ex
+}
+
+:hover > .anchor-heading,
+.anchor-heading:focus {
+  color: #555;
+  display: inline
+}
+
+.entry-content a.anchor-heading {
+  box-shadow: initial;
+  transition: color 240ms ease-in;
+}
+
+.entry-content a.anchor-heading:hover,
+.entry-content a.anchor-heading:focus {
+  box-shadow: initial;
+  color: #555;
+}
+
+@media (min-width: 481px) {
+  .anchor-heading {
+    display:inline
+  }
 }
 
 /* Hover effects */
@@ -862,19 +947,19 @@ a:hover .nav-title,
 .widget .widget-title a:hover,
 .widget ul li a:focus,
 .widget ul li a:hover {
-  color: #000;
+  color: $link-active-color;
   box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
 }
 
 /* Fixes linked images */
 .entry-content a img,
 .widget a img {
-  box-shadow: 0 0 0 8px #fff;
+  box-shadow: 0 0 0 8px $bg-color;
 }
 
 .post-navigation a:focus .icon,
 .post-navigation a:hover .icon {
-  color: #222;
+  color: $link-color;
 }
 
 /*--------------------------------------------------------------
@@ -915,7 +1000,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: $bg-color;
   /* Fallback for when there is no custom background color defined. */
 }
 
@@ -949,7 +1034,7 @@ body {
 }
 
 .site-header {
-  background-color: #fafafa;
+  background-color: $site-header-bg-color;
   position: relative;
   z-index: 100;
 }
@@ -973,6 +1058,20 @@ body {
   opacity: 1;
 }
 
+.site-logo {
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.site-logo img {
+  height: 140%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-right: 0.3em;
+}
+
 .site-title {
   clear: none;
   font-size: 24px;
@@ -987,12 +1086,12 @@ body {
 
 .site-title,
 .site-title a {
-  color: #ed0000;
+  color: $site-header-color;
   opacity: 1; /* Prevent opacity from changing during selective refreshes in the customize preview */
 }
 
 .site-description {
-  color: #ed0000;
+  color: $site-header-color;
   font-size: 13px;
   font-size: 0.8125rem;
   margin-bottom: 0;
@@ -1022,12 +1121,12 @@ body .site-branding-text {
 --------------------------------------------------------------*/
 
 .site-content-contain {
-  background-color: #fff;
+  background-color: $bg-color;
   position: relative;
 }
 
 .site-content {
-  padding: 2.5em 0 0;
+  padding: 1.5em 0 0 0;
 }
 
 /*--------------------------------------------------------------
@@ -1038,7 +1137,7 @@ body .site-branding-text {
 
 .page-title,
 body.page .entry-title {
-  color: #222;
+  color: $link-color;
   font-size: 14px;
   font-size: 0.875rem;
   font-weight: 800;
@@ -1050,8 +1149,13 @@ body.page .entry-title {
   margin-bottom: 0.25em;
 }
 
+.entry-header .entry-summary {
+  margin-top: 0.25em;
+  font-size: .9375rem;
+}
+
 .entry-title a {
-  color: #333;
+  color: $text-color;
   text-decoration: none;
   margin-left: -2px;
 }
@@ -1061,17 +1165,27 @@ body.page .entry-title {
 }
 
 .entry-meta {
-  color: #767676;
+  color: $entry-meta-color;
   font-size: 12px;
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   padding-bottom: 0.25em;
   text-transform: uppercase;
+  cursor: default;
+}
+
+.entry-meta .date-published,
+.entry-meta .date-modified {
+  margin-right: 1.5em;
+}
+
+.entry-meta .icon {
+  margin-right: 1ex;
 }
 
 .entry-meta a {
-  color: #767676;
+  color: $entry-meta-color;
 }
 
 .pagination {
@@ -1093,7 +1207,7 @@ body.page .entry-title {
 }
 
 .page-numbers.current {
-  color: #767676;
+  color: $entry-meta-color;
   display: inline-block;
 }
 
@@ -1107,7 +1221,7 @@ body.page .entry-title {
 
 .prev.page-numbers,
 .next.page-numbers {
-  background-color: #ddd;
+  background-color: $entry-page-number-bg-color;
   border-radius: 2px;
   display: inline-block;
   font-size: 24px;
@@ -1125,8 +1239,8 @@ body.page .entry-title {
 .prev.page-numbers:hover,
 .next.page-numbers:focus,
 .next.page-numbers:hover {
-  background-color: #767676;
-  color: #fff;
+  background-color: $entry-meta-color;
+  color: $bg-color;
 }
 
 .prev.page-numbers {
@@ -1141,13 +1255,13 @@ body.page .entry-title {
 
 .entry-content blockquote.alignleft,
 .entry-content blockquote.alignright {
-  color: #555;
+  color: $quote-color;
   font-size: 13px;
   font-size: 0.8125rem;
   width: 48%;
 }
 
-/* Blog landing, search, archives */
+/* Blog landing, search */
 
 .blog .site-main > article,
 .archive .site-main > article,
@@ -1175,15 +1289,13 @@ body.page .entry-title {
 
 /* Single Post */
 
-.single-post:not(.has-sidebar) #primary {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 740px;
+.has-sidebar.single.post #secondary {
+  padding-top: 14px;
 }
 
 .single-featured-image-header {
-  background-color: #fafafa;
-  border-bottom: 1px solid #eee;
+  background-color: $site-header-bg-color;
+  border-bottom: 1px solid $entry-page-number-bg-color;
 }
 
 .single-featured-image-header img {
@@ -1199,7 +1311,7 @@ body.page .entry-title {
 }
 
 .page-links .page-number {
-  color: #767676;
+  color: $entry-meta-color;
   display: inline-block;
   padding: 0.5em 1em;
 }
@@ -1209,14 +1321,28 @@ body.page .entry-title {
 }
 
 .page-links a .page-number {
-  color: #222;
+  color: $link-color;
+}
+
+/* Citation. */
+
+section .citation {
+  border-top: 1px solid #eee;
+  margin-top: 2em;
+  padding: 2em 0 0;
+  font-size: 0.9375rem;
+}
+
+section .citation > p {
+  margin: 0;
+  padding: 0;
 }
 
 /* Entry footer */
 
 .entry-footer {
-  border-bottom: 1px solid #eee;
-  border-top: 1px solid #eee;
+  border-bottom: 1px solid $entry-page-number-bg-color;
+  border-top: 1px solid $entry-page-number-bg-color;
   padding: 2em 0;
 }
 
@@ -1241,13 +1367,13 @@ body.page .entry-title {
 .entry-footer .cat-links a,
 .entry-footer .tags-links a,
 .entry-footer .permalink a {
-  color: #222;
+  color: $link-color;
 }
 
 .entry-footer .cat-links .icon,
 .entry-footer .tags-links .icon,
 .entry-footer .permalink .icon {
-  color: #767676;
+  color: $entry-meta-color;
   left: 0;
   margin-right: 0.5em;
   position: absolute;
@@ -1268,7 +1394,7 @@ body.page .entry-title {
 
 .nav-subtitle {
   background: transparent;
-  color: #767676;
+  color: $entry-meta-color;
   display: block;
   font-size: 11px;
   font-size: 0.6875rem;
@@ -1278,7 +1404,7 @@ body.page .entry-title {
 }
 
 .nav-title {
-  color: #333;
+  color: $text-color;
   font-size: 15px;
   font-size: 0.9375rem;
 }
@@ -1312,12 +1438,60 @@ body.page .entry-title {
   padding-bottom: 1.5em;
 }
 
+/* Archive page */
+
+#primary section.archive-group {
+  font-size: .9375rem;
+  padding: 0 0 1.5em 0;
+}
+
+#primary .archive-group h4 {
+  margin: 0 0 0.25em;
+}
+
+#primary .archive-group ul,
+#primary .archive-group ol {
+  list-style: none;
+  text-indent: 0;
+  margin: 0;
+}
+
+#primary .archive-group ul li,
+#primary .archive-group ol li {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 0 0 .25em 0;
+}
+
+#primary .archive-group ul li .link,
+#primary .archive-group ol li .link {
+  padding-right: 1.5em;
+}
+
+#primary .archive-group ul li:before {
+  content: "";
+}
+
+#primary .archive-group ul li a:hover {
+  color: $link-active-color;
+  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+}
+
+#primary .archive-group ul li .meta {
+  font-style: italic;
+  color: #666;
+}
+
+#error-page .icon {
+  font-size: 1.1875rem;
+}
+
 /*--------------------------------------------------------------
 13.6 Footer
 --------------------------------------------------------------*/
 
 .site-footer {
-  border-top: 1px solid #eee;
+  border-top: 1px solid $entry-page-number-bg-color;
 }
 
 .site-footer .wrap {
@@ -1353,7 +1527,7 @@ body.page .entry-title {
 }
 
 h2.widget-title {
-  color: #222;
+  color: $link-color;
   font-size: 14px;
   font-size: 0.875rem;
   font-weight: 800;
@@ -1381,8 +1555,8 @@ h2.widget-title {
 
 .widget ul li,
 .widget ol li {
-  border-bottom: 1px solid #ddd;
-  border-top: 1px solid #ddd;
+  border-bottom: 1px solid $entry-page-number-bg-color;
+  border-top: 1px solid $entry-page-number-bg-color;
   padding: 0.5em 0;
 }
 
@@ -1444,6 +1618,13 @@ h2.widget-title {
   margin-top: -1px;
 }
 
+/* menu widget */
+
+.widget_menu li .icon {
+  font-size: 1.1875rem;
+  margin-right: 1.25ex;
+}
+
 /* Recent Posts widget */
 
 .widget_recent_entries .post-date {
@@ -1501,9 +1682,240 @@ p > object:only-child {
 16.1 Galleries
 --------------------------------------------------------------*/
 
+.gallery {
+  margin: 0.5em -4px 1.5em -4px;
+  font-size: 0;
+}
+
+a[data-fancybox] {
+  text-decoration: none;
+}
+
+.gallery a[data-fancybox] img {
+  /* height: 250px; */
+  width: 250px;
+  max-width: inherit;
+  display: inherit;
+  margin: 0;
+  padding: 4px;
+  box-shadow: none;
+  vertical-align: inherit;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+figcaption,
+.fancybox-caption {
+  font-size: .9375rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
-17.0 Customizer
+16.2 Bibliography and footnotes
 --------------------------------------------------------------*/
+
+.sources {
+  margin-top: 2em;
+}
+
+.sources .sources-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-style: italic;
+  margin-bottom: .25em;
+}
+
+.sources ul {
+  margin-left: 1.25rem;
+  padding-left: 0;
+  text-indent: -1.25rem;
+}
+
+.sources ul li {
+  font-size: 0.8125rem;
+  font-style: italic;
+}
+
+.sources ul li:before {
+  width: 1.25rem;
+}
+
+/* Footnotes. */
+
+.footnotes {
+  font-size: 0.875rem;
+}
+
+.footnotes p {
+  margin: 0 0 .25em;
+}
+
+/*--------------------------------------------------------------
+17.0 Search
+--------------------------------------------------------------*/
+
+body .site-search-button {
+  display: inline-block;
+  line-height: 3.9rem;
+  float: right;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.half {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+}
+
+.js-search {
+  font-size: 2rem;
+  color: $placeholder-color;
+}
+
+.search-results {
+  transform: scale(0);
+  background-color: white;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  overflow: scroll;
+  position: fixed;
+  visibility: hidden;
+  z-index: -99;
+}
+
+.searching {
+  overflow: hidden;
+}
+
+.searching .search-results {
+  transform: scale(1);
+  visibility: visible;
+  z-index: 11; /* Second highest index, after navbar. */
+}
+
+.searching #search-box #search-query {
+  width: 100%;
+}
+
+.search-results > .container {
+  padding-top: 150px;  /* Navbar height. */
+}
+@media screen and (max-width: 1200px) {
+  .search-results > .container {
+    padding-top: 150px;  /* Navbar height. */
+  }
+}
+
+.search-header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 70px;  /* Navbar height. */
+  background-color: white;
+  padding-top: 2rem;
+/*
+  padding-bottom: 1rem;
+ */
+}
+@media screen and (max-width: 1200px) {
+  .search-header {
+    top: 50px;  /* Navbar height. */
+  }
+}
+
+.search-header h1 {
+  margin: 0;
+  line-height: 1;
+}
+
+.col-search-close {
+  text-align: right;
+}
+
+.search-header i {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+#search-box {
+  position: relative; /* Required for search icon positioning. */
+  margin-bottom: 0.5em;
+}
+
+#search-box::before {
+  font-family: 'FontAwesome';
+  font-weight: 900;
+  content: "\f002";
+  font-size: 1.1rem;
+  opacity: 0.7;
+  line-height: 1rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 0.75rem;
+}
+
+#search-box #search-query {
+  border: 1px solid #ddd;
+  border-radius: 2.5rem;
+  padding: 1rem 1rem 1rem 2.5rem; /* Wider left padding for search icon to fit in. */
+  width: 250px;
+  line-height: 2rem;
+  height: 2.5rem;
+  font-size: 1rem;
+}
+
+.search-hit em {
+  font-style: normal;
+  background-color: #ffc4c4;
+/*
+  color: #E65100;
+  border-bottom: 1px solid #E65100;
+ */
+}
+
+.search-hit-type {
+  margin-bottom: 0 !important; /* Override .article-metadata margin. */
+  text-transform: capitalize;
+}
+
+.search-hit-description {
+  /* font-size: 0.7rem; */
+  font-style: italic;
+}
+
+/* Load more results button - hide when there are no more results. */
+#search-hits button[disabled] {
+  display: none;
+}
+
+.form-control:focus {
+/*
+  border-color: {{ .Get "primary" }};
+  box-shadow: 0 0 0 .2rem {{ .Get "primary_light" }};
+ */
+}
+
+.search-hit h2 {
+  margin-bottom: .25em;
+}
+
+.search-hit h2 a:hover {
+  color: $link-active-color;
+  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+}
 
 /*--------------------------------------------------------------
 18.0 SVGs Fallbacks
@@ -1660,7 +2072,6 @@ p > object:only-child {
     padding: 5.5em 0 0;
   }
 
-  .single-post .entry-title,
   .page .entry-title {
     font-size: 26px;
     font-size: 1.625rem;
@@ -1975,7 +2386,7 @@ p > object:only-child {
   body,
   a,
   .site-title a {
-    color: #222 !important; /* Make sure color schemes don't affect to print */
+    color: $link-color !important; /* Make sure color schemes don't affect to print */
   }
 
   h2,
