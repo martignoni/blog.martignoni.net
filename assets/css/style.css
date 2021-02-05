@@ -2369,6 +2369,11 @@ body .site-search-button {
 --------------------------------------------------------------*/
 
 @media screen and (prefers-color-scheme: dark) {
+  /* Decrease the brightness and contrast of images a bit. */
+  img {
+    filter: brightness(.8) contrast(1.2);
+  }
+
   body,
   button,
   input,
