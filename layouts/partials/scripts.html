@@ -36,7 +36,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.2/fuse.min.js" integrity="sha256-MZrTrdN1BIa3TcPV8ef6frM6x+rD/mBV92qQMqzg1c8=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
 
-  {{ if .Site.IsServer }}
+  {{ if site.IsServer }}
     {{ $customJS := resources.Get "js/custom.js" }}
     {{ $searchJS := resources.Get "js/search.js" }}
     <script src="{{ $customJS.Permalink }}"></script>

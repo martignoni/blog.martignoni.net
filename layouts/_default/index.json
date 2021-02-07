@@ -1,10 +1,10 @@
 {{- /* Generate the search index. */ -}}
 {{- $index := slice -}}
-{{- $pages := where .Site.RegularPages "Section" "!=" "home" -}}
+{{- $pages := where site.RegularPages "Section" "!=" "home" -}}
 {{- /* Add the index page of docs separately since it's not in RegularPages above. */ -}}
-{{- $pages := $pages | union (where (where .Site.Pages "Kind" "section") "Type" "docs") -}}
+{{- $pages := $pages | union (where (where site.Pages "Kind" "section") "Type" "docs") -}}
 {{- /* Add author pages to index so their bios can be searched. */ -}}
-{{- $pages := $pages | union (where $.Site.Pages "Section" "author") -}}
+{{- $pages := $pages | union (where site.Pages "Section" "author") -}}
 
 {{- range $pages -}}
   {{- /* Do not index drafts or private pages. */ -}}

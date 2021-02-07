@@ -1,7 +1,7 @@
 {{ $lastname := index (split (.Param "author") " ") 1 }}
 {{ $firstname := index (split (.Param "author") " ") 0 }}
 {{ $firstnameinitial := substr $firstname 0 1 }}
-{{ $sitetitle := .Site.Title }}
+{{ $sitetitle := site.Title }}
 {{ $title := .Page.Title }}
 {{ $formattedmonth := default .PublishDate (i18n .PublishDate.Month) }}
 {{ $formatteddate := printf "%s, %s %s" (.PublishDate.Format "2006") (.PublishDate.Format "2") $formattedmonth }}

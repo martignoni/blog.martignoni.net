@@ -7,14 +7,14 @@
       <div class="wrap">
 
         <div class="site-logo">
-          <a href="{{ .Site.LanguagePrefix | absURL | replaceRE "[^/]$" "${0}/" }}">
+          <a href="{{ site.LanguagePrefix | absURL | replaceRE "[^/]$" "${0}/" }}">
             <img src="{{ "/img/logo.svg" | absURL }}" alt="Logo" />
           </a>
         </div><!-- .site-branding-logo -->
 
         <div class="site-branding-text">
-          <h1 class="site-title"><a href="{{ .Site.LanguagePrefix | absURL | replaceRE "[^/]$" "${0}/" }}" rel="home">{{ .Site.Title }}</a></h1>
-          {{ with .Site.Params.Author }}
+          <h1 class="site-title"><a href="{{ site.LanguagePrefix | absURL | replaceRE "[^/]$" "${0}/" }}" rel="home">{{ site.Title }}</a></h1>
+          {{ with site.Params.Author }}
             <p class="site-description">{{ . }}</p>
           {{ end }}
         </div><!-- .site-branding-text -->

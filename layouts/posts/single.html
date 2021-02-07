@@ -62,7 +62,7 @@
         <span><a href="{{ .Permalink }}">{{ i18n "permalink" }}</a></span>
       </div>
     </div>
-    {{ if .Site.Params.citation }}
+    {{ if site.Params.citation }}
       {{ partial "post/citation" . }}
     {{ end }}
   </footer> <!-- .entry-footer -->

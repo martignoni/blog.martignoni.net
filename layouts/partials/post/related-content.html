@@ -1,4 +1,4 @@
-{{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+{{ range first 1 (where (where site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
   {{ $.Scratch.Set "has_related" true }}
 {{ end }}
 
@@ -7,8 +7,8 @@
     <header><strong>{{ i18n "relatedTitle" }}</strong></header>
     <hr>
     <ul>
-      {{ $num_to_show := .Site.Params.related_content_limit | default 7 }}
-      {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+      {{ $num_to_show := site.Params.related_content_limit | default 7 }}
+      {{ range first $num_to_show (where (where site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> &ndash; {{ .ReadingTime }} {{ partial "minutes" . }}
       {{ end }}
     </ul>
