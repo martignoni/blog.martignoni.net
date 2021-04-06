@@ -18,7 +18,7 @@ tags:
   - Continuité pédagogique
   - Enseignement à distance
 sources:
-  - "[Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue](https://tmb.apaopen.org/pub/nonverbal-overload/)"
+  - "Jeremy N. Bailenson, Stanford University’s Virtual Human Interaction Lab, [Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue](https://tmb.apaopen.org/pub/nonverbal-overload/)"
   - "Illustration: [Pubnub](https://www.pubnub.com/)"
 ---
 L'omniprésence de la [visio-conférence][visio], notamment pour organiser le [volet synchrone][synchrone] d'un [enseignement à distance][distance], a mis en évidence un accroissement de la fatigue des personnes lorsque cette technologie est utilisée.
