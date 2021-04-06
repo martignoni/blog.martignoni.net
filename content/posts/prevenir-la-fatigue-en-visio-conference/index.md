@@ -4,7 +4,6 @@ date: 2021-04-06
 author: Nicolas Martignoni
 slug: prevenir-la-fatigue-en-visio-conference
 description: "L'utilisation massive de la visio-conférence pour soutenir l'enseignement à distance a mis en évidence un accroissement de la fatigue engendrée par ce type de dispositif. Voici quelques clefs pour comprendre et prévenir cette fatigue."
-draft: true
 categories:
   - École, e-learning et ICT
   - Technologie
