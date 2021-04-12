@@ -1401,6 +1401,10 @@ section .citation > p {
   padding-bottom: 1.5em;
 }
 
+.page-two-column .entry-header {
+  float: left;
+}
+
 /* Archive page */
 
 #primary section.archive-group {
