@@ -1,8 +1,7 @@
 ---
 title: Interface de Windows 8
 author: Nicolas Martignoni
-
-date: 2011-06-02T09:25:12+00:00
+date: 2011-06-02
 slug: interface-de-windows-8
 categories:
   - Technologie

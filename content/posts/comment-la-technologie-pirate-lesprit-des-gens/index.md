@@ -1,8 +1,7 @@
 ---
 title: Comment la technologie pirate l’esprit des gens
 author: Nicolas Martignoni
-
-date: 2017-07-23T11:39:50+00:00
+date: 2017-07-23
 draft: true
 slug: to-complete
 categories:

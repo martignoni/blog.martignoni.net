@@ -1,8 +1,7 @@
 ---
 title: BECTA communique sur le brevet de Blackboard
 author: Nicolas Martignoni
-
-date: 2006-08-20T08:56:48+00:00
+date: 2006-08-20
 slug: becta-communique-sur-le-brevet-de-blackboard
 categories:
   - École, e-learning et ICT

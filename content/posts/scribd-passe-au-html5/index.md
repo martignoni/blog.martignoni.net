@@ -1,8 +1,7 @@
 ---
 title: Scribd passe au HTML5
 author: Nicolas Martignoni
-
-date: 2010-05-08T11:34:09+00:00
+date: 2010-05-08
 slug: scribd-passe-au-html5
 categories:
   - Technologie

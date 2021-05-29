@@ -1,8 +1,7 @@
 ---
 title: Lorem iPad
 author: Nicolas Martignoni
-
-date: 2010-04-03T08:51:14+00:00
+date: 2010-04-03
 slug: lorem-ipad
 categories:
   - Humour

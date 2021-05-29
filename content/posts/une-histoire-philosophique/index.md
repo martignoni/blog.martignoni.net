@@ -1,8 +1,7 @@
 ---
 title: Une histoire philosophique
 author: Nicolas Martignoni
-
-date: 2006-05-16T13:10:53+00:00
+date: 2006-05-16
 draft: true
 private: true
 slug: une-histoire-philosophique

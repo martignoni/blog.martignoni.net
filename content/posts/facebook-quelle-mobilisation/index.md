@@ -1,8 +1,7 @@
 ---
 title: "Facebook : quelle mobilisation ?"
 author: Nicolas Martignoni
-
-date: 2009-06-28T14:20:00+00:00
+date: 2009-06-28
 slug: facebook-quelle-mobilisation
 categories:
   - Sphère privée

@@ -1,8 +1,7 @@
 ---
 title: Google Glass revisité
 author: Nicolas Martignoni
-
-date: 2012-04-06T13:13:37+00:00
+date: 2012-04-06
 slug: google-glass-revisite
 categories:
   - Citoyenneté

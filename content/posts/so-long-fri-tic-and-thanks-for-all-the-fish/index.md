@@ -1,8 +1,7 @@
 ---
 title: "So Long fri-tic, and Thanks for All the Fish"
 author: Nicolas Martignoni
-
-date: 2017-07-31T16:19:34+00:00
+date: 2017-07-31
 slug: so-long-fri-tic-and-thanks-for-all-the-fish
 
 ---

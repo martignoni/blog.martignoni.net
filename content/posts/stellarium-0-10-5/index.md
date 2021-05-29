@@ -1,8 +1,7 @@
 ---
 title: Stellarium 0.10.5
 author: Nicolas Martignoni
-
-date: 2010-06-06T15:11:35+00:00
+date: 2010-06-06
 slug: stellarium-0-10-5
 categories:
   - Astronomie

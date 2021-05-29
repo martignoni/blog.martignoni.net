@@ -1,8 +1,7 @@
 ---
 title: Blackboard achète ANGEL !
 author: Nicolas Martignoni
-
-date: 2009-06-11T18:00:33+00:00
+date: 2009-06-11
 slug: blackboard-achete-angel
 categories:
   - École, e-learning et ICT

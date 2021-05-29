@@ -1,8 +1,7 @@
 ---
 title: "MoodleMoot 2012 : appel à contributions"
 author: Nicolas Martignoni
-
-date: 2012-02-08T19:45:16+00:00
+date: 2012-02-08
 slug: moodlemoot-2012-appel-a-contributions
 categories:
   - École, e-learning et ICT

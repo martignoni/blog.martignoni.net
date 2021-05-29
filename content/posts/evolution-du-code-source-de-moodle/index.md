@@ -1,8 +1,7 @@
 ---
 title: Évolution du code source de Moodle
 author: Nicolas Martignoni
-
-date: 2009-06-22T14:42:06+00:00
+date: 2009-06-22
 slug: evolution-du-code-source-de-moodle
 categories:
   - Logiciel libre

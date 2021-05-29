@@ -1,8 +1,7 @@
 ---
 title: Bienvenue au club !
 author: Nicolas Martignoni
-
-date: 2006-04-13T18:58:28+00:00
+date: 2006-04-13
 slug: bienvenue-au-club
 categories:
   - Technologie

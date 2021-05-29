@@ -1,8 +1,7 @@
 ---
 title: Martin Dougiamas à Fribourg
 author: Nicolas Martignoni
-
-date: 2010-08-10T20:41:27+00:00
+date: 2010-08-10
 slug: martin-dougiamas-a-fribourg
 categories:
   - École, e-learning et ICT

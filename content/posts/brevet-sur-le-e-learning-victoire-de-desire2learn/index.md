@@ -1,8 +1,7 @@
 ---
 title: "Brevet sur le e-learning : victoire de Desire2Learn"
 author: Nicolas Martignoni
-
-date: 2009-07-29T11:40:08+00:00
+date: 2009-07-29
 slug: brevet-sur-le-e-learning-victoire-de-desire2learn
 categories:
   - École, e-learning et ICT

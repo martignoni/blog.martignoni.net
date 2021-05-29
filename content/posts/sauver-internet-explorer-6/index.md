@@ -1,8 +1,7 @@
 ---
 title: Sauver Internet Explorer 6 ??
 author: Nicolas Martignoni
-
-date: 2009-07-16T16:22:23+00:00
+date: 2009-07-16
 slug: sauver-internet-explorer-6
 categories:
   - École, e-learning et ICT

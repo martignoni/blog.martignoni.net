@@ -1,8 +1,7 @@
 ---
 title: "Le cauchemar de l'interconnexion des bases de données"
 author: Nicolas Martignoni
-
-date: 2012-01-02T08:47:14+00:00
+date: 2012-01-02
 slug: le-cauchemar-de-linterconnexion-des-bases-de-donnees
 categories:
   - Citoyenneté

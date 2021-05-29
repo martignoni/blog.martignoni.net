@@ -1,8 +1,7 @@
 ---
 title: Brevet de Blackboard, le feuilleton continue
 author: Nicolas Martignoni
-
-date: 2008-12-26T11:30:45+00:00
+date: 2008-12-26
 slug: brevet-de-blackboard-le-feuilleton-continue
 categories:
   - École, e-learning et ICT
