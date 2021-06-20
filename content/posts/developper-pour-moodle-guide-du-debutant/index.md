@@ -12,7 +12,7 @@ tags:
   - Moodle
 
 ---
-Une excellente [introduction au développement de modules](https://moodle.org/mod/forum/discuss.php?d=355789) pour Moodle, par Michael Milette (en anglais) : comment développer un bloc pour [Moodle](https://moodle.org/).
+Une excellente [introduction au développement de modules](https://moodle.org/mod/forum/discuss.php?d=355789) pour Moodle, par Michael Milette (en anglais) : comment développer un bloc pour [Moodle](https://moodle.org/).
 
 [Getting Started with Moodle Development – Your first Moodle block](https://moodle.org/mod/forum/discuss.php?d=355789).
 

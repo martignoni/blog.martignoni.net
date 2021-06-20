@@ -15,6 +15,6 @@ tags:
 
 Le rapport peut être [acheté ici pour 10 euros](http://www.boutique.ccip.fr/Barometre_CCIP_2006_du_e_Learning-p-1025-t-4277.html).
 
-_<small>Source : [Le coin du e-learning](http://www.emob.fr/dotclear/index.php?Coin-elearning)</small>_
+_<small>Source : [Le coin du e-learning](http://www.emob.fr/dotclear/index.php?Coin-elearning)</small>_
 
 <!--more-->

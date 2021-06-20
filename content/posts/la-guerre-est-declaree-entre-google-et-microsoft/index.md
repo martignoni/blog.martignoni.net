@@ -23,13 +23,13 @@ tags:
 
 David Drummond y déclarait que l'achat des brevets de Nortel et Novell par un groupe d'entreprises et destiné à intenter des procès contre la plateforme [Android][4] est anti-concurrentielle (« anti-competitive »). Ce qu'il a oublié de dire, c'est que ce groupe d'entreprises a offert à Google de participer à l'achat commun, et que Google a refusé, mais a essayé d'acheter ces mêmes brevets à lui tout seul, vraisemblablement pour les utiliser contre quelqu'un d'autre (pourquoi sinon).
 
-Ces faits ont été [dévoilés sur Twitter][5] par Brad Smith, avocat de Microsoft, et [confirmés][6] par le porte-parole de l'entreprise de Seattle, Frank Shaw, [copie de mail][7] à l'appui !
+Ces faits ont été [dévoilés sur Twitter][5] par Brad Smith, avocat de Microsoft, et [confirmés][6] par le porte-parole de l'entreprise de Seattle, Frank Shaw, [copie de mail][7] à l'appui !
 
-Google n'a sur le coup pas l'air très crédible, reprochant à ses concurrents une pratique qu'ils utilisent eux-mêmes. Rappelons par exemple que Google a [breveté en mars dernier][8] le changement régulier de logos ou des pages d'accueil de sites web !
+Google n'a sur le coup pas l'air très crédible, reprochant à ses concurrents une pratique qu'ils utilisent eux-mêmes. Rappelons par exemple que Google a [breveté en mars dernier][8] le changement régulier de logos ou des pages d'accueil de sites web !
 
-Rappelle-toi Google : « Don't be evil !»
+Rappelle-toi Google : « Don't be evil !»
 
-_<small>Source de l'image : [Crooks and Liars][9].</small>_
+_<small>Source de l'image : [Crooks and Liars][9].</small>_
 
  [2]: https://googleblog.blogspot.com/2011/08/when-patents-attack-android.html
  [3]: https://google.com/

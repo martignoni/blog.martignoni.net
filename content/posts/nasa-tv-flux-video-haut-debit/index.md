@@ -1,5 +1,5 @@
 ---
-title: "NASA TV : flux vidéo haut débit"
+title: "NASA TV : flux vidéo haut débit"
 author: Nicolas Martignoni
 date: 2010-04-04
 slug: nasa-tv-flux-video-haut-debit
@@ -22,7 +22,7 @@ En cherchant un peu, on trouve un [flux vidéo Yahoo de la NASA TV][5] à 1200 k
 
 Ce n'est pas encore de la HD, mais c'est toujours ça.
 
-_<small>Source : [Michael Kratz][7].</small>_
+_<small>Source : [Michael Kratz][7].</small>_
 
  [1]: https://www.nasa.gov/
  [2]: https://www.nasa.gov/mission_pages/shuttle/main/index.html

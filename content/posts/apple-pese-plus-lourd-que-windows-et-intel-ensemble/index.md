@@ -13,11 +13,11 @@ tags:
 ---
 À la fermeture des marchés, hier, la valeur en bourse de [Microsoft][1] était de [$201.29 mia][2] et celle de [Intel][3] de [$115.48 mia][4]. Au total, ces deux valeurs additionnées se montent à $ 316.77 mia, un montant inférieur à la valeur de [Apple][5], qui est de [$317.54 mia][6].
 
-Qui l'eut cru il y a quelques années ? Certainement pas [Bill Gates][7], qui [disait en juin 1998][8] :
+Qui l'eut cru il y a quelques années ? Certainement pas [Bill Gates][7], qui [disait en juin 1998][8] :
 
 > What I can't figure out is why he [[Steve Jobs][9]] is even trying [to be the CEO of Apple]? He knows he can't win.
 
-En français :
+En français :
 
 > Ce que je n'arrive pas à comprendre, c'est pourquoi [Steve Jobs] essaie même [d'être le PDG de Apple] ? Il sait qu'il ne peut pas gagner.
 

@@ -14,6 +14,6 @@ tags:
 ---
 {{< figure src="asteroid.png" alt="Astéroïde" >}}
 
-_<small>Source : [XKCD](https://xkcd.com/618/)</small>_
+_<small>Source : [XKCD](https://xkcd.com/618/)</small>_
 
 <!--more-->

@@ -1,5 +1,5 @@
 ---
-title: "MoodleMoot 2010 : les inscriptions sont ouvertes"
+title: "MoodleMoot 2010 : les inscriptions sont ouvertes"
 author: Nicolas Martignoni
 date: 2010-05-03
 slug: moodlemoot-2010-les-inscriptions-sont-ouvertes

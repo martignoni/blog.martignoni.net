@@ -14,6 +14,6 @@ tags:
 
 {{< figure class="alignnone" src="mini-geeks.jpg" alt="Mini geeks" >}}
 
-_<small>Source : [Geek and Poke](http://geek-and-poke.com/)</small>_
+_<small>Source : [Geek and Poke](http://geek-and-poke.com/)</small>_
 
 <!--more-->

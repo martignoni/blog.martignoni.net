@@ -7,7 +7,7 @@ slug: so-long-fri-tic-and-thanks-for-all-the-fish
 ---
 C'est aujourd'hui 31 juillet 2017 mon dernier jour comme responsable du [Centre fri-tic][1]. Après 7 années comme collaborateur, puis plus de 9 ans à la direction du Centre, il est temps de tirer ma révérence et d'écrire un message d'au revoir.
 
-Je quitte le Centre pour une raison des plus banales : les aspirations personnelles et professionnelles changent, et il est temps pour moi de me tourner vers d'autres défis. Je dois confesser que j'ai assez bien réussi à cacher mon émotion à l'idée de quitter une équipe performante et un travail motivant, et la décision a été dure à prendre.
+Je quitte le Centre pour une raison des plus banales : les aspirations personnelles et professionnelles changent, et il est temps pour moi de me tourner vers d'autres défis. Je dois confesser que j'ai assez bien réussi à cacher mon émotion à l'idée de quitter une équipe performante et un travail motivant, et la décision a été dure à prendre.
 
 Dure à prendre à cause des qualités de mes collaborateurs, ceux d'aujourd'hui bien sûr, mais aussi les anciens, pour lesquels j'ai un profond respect et qui sont devenus au fil du temps plus que des collègues. Merci à eux. C'est grâce à leur compétence et à leur engagement que nous avons pu ensemble accomplir notre travail.
 

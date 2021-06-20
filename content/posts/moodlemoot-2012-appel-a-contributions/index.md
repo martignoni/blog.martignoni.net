@@ -1,5 +1,5 @@
 ---
-title: "MoodleMoot 2012 : appel à contributions"
+title: "MoodleMoot 2012 : appel à contributions"
 author: Nicolas Martignoni
 date: 2012-02-08
 slug: moodlemoot-2012-appel-a-contributions
@@ -14,7 +14,7 @@ tags:
 
 Les propositions de communications pour l'[édition 2012 du MoodleMoot][1] sont attendues avant le 19 mars 2012.
 
-Les retours d'expériences pédagogiques utilisant Moodle ou Mahara sont les bienvenues !
+Les retours d'expériences pédagogiques utilisant Moodle ou Mahara sont les bienvenues !
 
  [1]: http://moodlemoot2012.unimes.fr/ "MoodleMoot 2012"
 

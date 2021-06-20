@@ -1,5 +1,5 @@
 ---
-title: "Administration de Moodle 2.0 : une carte d'orientation"
+title: "Administration de Moodle 2.0 : une carte d'orientation"
 author: Nicolas Martignoni
 date: 2010-11-02
 slug: administration-de-moodle-2-0-une-carte-dorientation

@@ -12,11 +12,11 @@ tags:
 ---
 Si vous n'étiez pas encore convaincu de la stupidité des brevets logiciels, voici de quoi vous faire changer d'avis. Le [bureau des brevets des États-Unis][1] a accordé à [Apple][2] le brevet [D670713][3], qui donne donc à l'entreprise de Cupertino le droit exclusif sur le « tourner de page.»
 
-Non, ce n'est pas une blague, vous avez bien lu : une entreprise possède le droit exclusif sur le tourner de page. Et le brevet est illustré de 3 figures qui démontrent de façon évidente la nouveauté cette invention !
+Non, ce n'est pas une blague, vous avez bien lu : une entreprise possède le droit exclusif sur le tourner de page. Et le brevet est illustré de 3 figures qui démontrent de façon évidente la nouveauté cette invention !
 
 {{< figure src="tourner-page.jpg" alt="Tournez la page" >}}
 
-_<small>Source : [Nick Bilton][4], via [DaringFireball][5].</small>_
+_<small>Source : [Nick Bilton][4], via [DaringFireball][5].</small>_
 
  [1]: https://www.uspto.gov/ "United States Patent and Trademark Office"
  [2]: https://apple.com/ "Apple"

@@ -1,5 +1,5 @@
 ---
-title: "Facebook : quelle mobilisation ?"
+title: "Facebook : quelle mobilisation ?"
 author: Nicolas Martignoni
 date: 2009-06-28
 slug: facebook-quelle-mobilisation
@@ -16,12 +16,12 @@ Malgré de nombreuses questions soulevées sur l'identité numérique, en lien a
 
 Afin d'alimenter la réflexion à ce sujet, voici quelques liens intéressants.
 
-  * [Facebook, non merci !][2]
+  * [Facebook, non merci !][2]
   * [De la nouvelle identité][3]
   * [Does what happens in the Facebook stay in the Facebook?][4]
   * [CIA Gets in Your Face(book)][5]
 
-Bonne lecture !
+Bonne lecture !
 
  [1]: http://facebook.com/
  [2]: http://remolino.qc.ca/2007/07/18/facebook-non-merci/

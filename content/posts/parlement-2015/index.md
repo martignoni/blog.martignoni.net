@@ -1,5 +1,5 @@
 ---
-title: "Parlement fédéral : forces des partis 1971–2015"
+title: "Parlement fédéral : forces des partis 1971–2015"
 author: Nicolas Martignoni
 date: 2019-09-18
 slug: parlement-federal-2015

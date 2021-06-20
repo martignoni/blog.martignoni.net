@@ -20,7 +20,7 @@ Par exemple, il utilise de façon très judicieuse la communauté des utilisateu
 
 > &#54;. Traiter vos utilisateurs en tant que co-développeurs est le chemin le moins semé d'embuches vers une amélioration rapide du code et un débogage efficace.
 
-De même, ce que Raymond appelle _la loi de Linus_ est appliqué dans le développement de Moodle :
+De même, ce que Raymond appelle _la loi de Linus_ est appliqué dans le développement de Moodle :
 
 > &#56;. Étant donné un ensemble de bêta-testeurs et de co-développeurs suffisamment grand, chaque problème sera rapidement isolé, et sa solution semblera évidente à quelqu'un.
 

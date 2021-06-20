@@ -19,7 +19,7 @@ En février dernier, le procès entre Blackboard et Desire2Learn a eu lieu, et l
 
 Le 25 mars 2008, l'office des brevets des États-Unis a publié une information non définitive sur la recevabilité de la demande de brevet en question. En résumé, l'office des brevets y rejette la totalité des 44 revendications de Blackboard. Le document officiel est téléchargeable (format PDF) sur le [site de Desire2Learn][1]. C'est dire le peu de chance que le brevet tienne le coup, au final.
 
-Desire2Learn a sorti ensuite une nouvelle version de son logiciel qui n'enfreint pas le brevet, au cas où celui-ci serait valable. Depuis, Blackboard a accumulé les manœuvres pour entraver l'examen du brevet par le bureau des brevets, allant jusqu'à [porter plainte contre celui-ci][2] (PDF) ! On croit rêver (ou plutôt cauchemarder).
+Desire2Learn a sorti ensuite une nouvelle version de son logiciel qui n'enfreint pas le brevet, au cas où celui-ci serait valable. Depuis, Blackboard a accumulé les manœuvres pour entraver l'examen du brevet par le bureau des brevets, allant jusqu'à [porter plainte contre celui-ci][2] (PDF) ! On croit rêver (ou plutôt cauchemarder).
 
 P.S. Oui, c'est vrai, ce blog était inactif depuis longtemps. C'est promis, j'essaierai d'être plus assidu.
 

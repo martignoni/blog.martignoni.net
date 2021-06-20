@@ -22,17 +22,17 @@ tags:
 
 Ces trois annonces simultanées semblent une anticipation sur le 1er avril, au regard de l'histoire récente et des vaines attaques de Blackboard contre les projets de plateformes e-learning libres (voir l'affaire du brevet sur le e-learning).
 
-Qu'est-ce qui se cache derrière ce changement radical de stratégie, qui va plutôt dans le sens d'une diminution de la part de marché de son environnement d'apprentissage maison ? Quelles sont les véritables intentions de Blackboard, ou, pour le dire autrement, quels bénéfices compte y trouver l'entreprise de Washington ?
+Qu'est-ce qui se cache derrière ce changement radical de stratégie, qui va plutôt dans le sens d'une diminution de la part de marché de son environnement d'apprentissage maison ? Quelles sont les véritables intentions de Blackboard, ou, pour le dire autrement, quels bénéfices compte y trouver l'entreprise de Washington ?
 
-La réponse à cette question est très difficile, et l'on ne peut faire que des conjectures.Une raison possible évoquée serait de faire du tort à Moodle, en sapant son modèle économique de l'intérieur. Une piste plus vraisemblable est peut-être donnée par ce bref extrait de la [lettre ouverte à la communauté][8] publiée par Bb :
+La réponse à cette question est très difficile, et l'on ne peut faire que des conjectures.Une raison possible évoquée serait de faire du tort à Moodle, en sapant son modèle économique de l'intérieur. Une piste plus vraisemblable est peut-être donnée par ce bref extrait de la [lettre ouverte à la communauté][8] publiée par Bb :
 
 > [&hellip;] we're looking at the entire student lifecycle within the education institutions we serve.
 
-### Pas les produits, mais les données !
+### Pas les produits, mais les données !
 
 Comme le suggère [Marc Aberdour][9], Blackboard connaît le potentiel commercial des données. Et il s'agit ici d'un gigantesque marché, estimé à [100 milliards de dollars][10] (vous avez bien lu) et en croissance constante de 10% par année.
 
-En exploitant les informations livrées par le plus grand nombre de systèmes e-learning possible, une entreprise pourra faire énormément d'argent en monétisant les données (personnelles ou non) de nos élèves ou étudiants. Dans ce modèle, l'utilisateur final d'un service n'est plus le client, mais bien le produit. C'est le modèle commercial actuel de [Google][11] et de [Facebook][12] (vous croyiez vraiment que leurs outils vous sont offerts sans contrepartie ?). Il est vraisemblable que c'est sur ce terrain que s'aventure désormais Blackboard.
+En exploitant les informations livrées par le plus grand nombre de systèmes e-learning possible, une entreprise pourra faire énormément d'argent en monétisant les données (personnelles ou non) de nos élèves ou étudiants. Dans ce modèle, l'utilisateur final d'un service n'est plus le client, mais bien le produit. C'est le modèle commercial actuel de [Google][11] et de [Facebook][12] (vous croyiez vraiment que leurs outils vous sont offerts sans contrepartie ?). Il est vraisemblable que c'est sur ce terrain que s'aventure désormais Blackboard.
 
 La protection des données de nos enfants est de ce fait dans l'Œil du cyclone et il est de notre devoir d'être très vigilant.
 

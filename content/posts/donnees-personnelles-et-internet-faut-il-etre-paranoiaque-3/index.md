@@ -15,7 +15,7 @@ tags:
 
 ---
 
-> *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 1][Partie1], [partie 2][Partie2].*
+> *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 1][Partie1], [partie 2][Partie2].*
 
 #### Ce n’est pas l’analyse et l’exploitation des données qui est problématique, mais le manque d’encadrement
 
@@ -30,7 +30,7 @@ De plus, les nouvelles technologies et l’analyse des données modifient profon
 
 Ces exemples d’utilisation utile et raisonnable d’informations récoltées via les technologies modernes nous montrent qu’il est important de ne pas en faire une obsession ; ce n’est pas tant l’analyse et l’exploitation des données qui est problématique, mais le manque d’encadrement. C’est avant tout le fait que nous, les citoyens, nous ne soyons pas au courant de la collecte de nos données, que nous ne sachions pas lesquelles sont collectées et que nous n’ayons pas explicitement donné notre autorisation de les récolter.
 
-#### Que peut-on faire ?
+#### Que peut-on faire ?
 
 > « Imaginez que nous n'ayons pas à nous préoccuper de confidentialité, que nous ayons de solides garanties que nos inventions ne soient pas utilisées contre nous.»[^5]
 
@@ -52,7 +52,7 @@ La législation suisse en matière de protection des données nous protège bien
 
   * est-il normal que la collecte et le stockage permanent de n’importe quelles données issues de l’analyse comportementale sur le web soient autorisés, sans le consentement des personnes concernées, alors même que ces données sont issues de la « corrélation indirecte d'informations tirées des circonstances ou du contexte » citée dans la législation ? (on pourrait imaginer que la loi dresse une liste de ce qui n’est pas permis, et exige que les données autorisées soient détruites au bout d’un certain temps) ;
   * est-il normal que les entreprises puissent partager ces données avec d’autres entités, sans aucune limite, également lors d’une faillite, d’un rachat d’entreprise ? (on pourrait imaginer que la loi exige que ces données ne soient pas transférables, sauf accord exprès des personnes concernées) ;
-  * est-il normal qu’il soit si difficile d’obtenir les données enregistrées à son propre sujet par des entreprises ? (on pourrait imaginer que la loi exige que les entreprises fournissent systématiquement un lien permettant de télécharger ces données facilement) ;
+  * est-il normal qu’il soit si difficile d’obtenir les données enregistrées à son propre sujet par des entreprises ? (on pourrait imaginer que la loi exige que les entreprises fournissent systématiquement un lien permettant de télécharger ces données facilement) ;
   * est-il nécessaire d’autoriser la surveillance de masse des citoyens, sans égard pour la présomption d’innocence ? (on pourrait imaginer qu’il est normal pour un citoyen d’avoir son jardin secret sans être surveillé comme un criminel).
 
 En tant qu’enseignant-e-s et parents, nous avons le devoir de former nos enfants à la problématique de l’exploitation des données personnelles, et à les protéger.
@@ -75,11 +75,11 @@ _[[Vers la 2e partie de l'article][Partie2]]_
   [st]: https://www4.ti.ch/decs/ds/pubblicazioni/presentazione/
 
   [^1]: [Google Flu Trends](https://www.google.org/flutrends/about/)
-  [^2]: [Facebook, GPS, smartphone : comment concilier collecte de données et vie privée](http://www.lemonde.fr/technologies/article/2012/05/11/mobiles-facebook-gps-vos-donnees-valent-de-l-or_1699424_651865.html)
+  [^2]: [Facebook, GPS, smartphone : comment concilier collecte de données et vie privée](http://www.lemonde.fr/technologies/article/2012/05/11/mobiles-facebook-gps-vos-donnees-valent-de-l-or_1699424_651865.html)
   [^3]: Voir les [travaux de Robin Christopherson](http://www.abilitynet.org.uk/robinchristopherson)
   [^4]: Par exemple au moyen de [DeepFace](https://research.facebook.com/publications/480567225376225/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)
   [^5]: « Imagine if we didn't have to worry about privacy, if we had strong guarantees that our inventions wouldn't immediately be used against us », [Maciej Cegłowski](http://idlewords.com/bt14.htm)
-  [^6]: [Crypto : on est fichus… #oupas](https://www.techn0polis.net/2015/01/03/crypto-on-est-fichus-oupas/)
+  [^6]: [Crypto : on est fichus… #oupas](https://www.techn0polis.net/2015/01/03/crypto-on-est-fichus-oupas/)
   [^7]: [Télécharger Ghostery](https://www.ghostery.com)
   [^8]: [How does Ghostery work?](https://www.ghostery.com/fr/faqs/how-does-ghostery-work/)
   [^9]: [« (…) leadership needs to recognize that current advertising practices that enable « free » content are in direct conflict with security, privacy, stability, and performance concerns.»](http://monica-at-mozilla.blogspot.ch/2015/05/tracking-protection-for-firefox-at-web.html)

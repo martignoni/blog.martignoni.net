@@ -16,7 +16,7 @@ tags:
 
 ---
 
-Vous aimez suivre l'actualité des lancements des [navettes spatiales][2] et l'activité sur la [station spatiale internationale][3] ? Vous connaissez donc [NASA TV][4], la chaîne de télévision dédiée à ce thème.
+Vous aimez suivre l'actualité des lancements des [navettes spatiales][2] et l'activité sur la [station spatiale internationale][3] ? Vous connaissez donc [NASA TV][4], la chaîne de télévision dédiée à ce thème.
 
 {{< figure src="NASA_TV.png" alt="Nasa TV" >}}
 

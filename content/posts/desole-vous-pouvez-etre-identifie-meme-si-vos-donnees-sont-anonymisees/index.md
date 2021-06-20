@@ -17,7 +17,7 @@ tags:
   - Sécurité
 
 ---
-Notre monde hyper-connecté et bourré de capteurs fait de nous des producteurs de données de façon quasi-permanente : nous générons des données de localisation chaque fois que nous envoyons un message WhatsApp ou un SMS, quand nous marchons avec une montre connectée ou tout simplement en nous promenant avec notre smartphone.
+Notre monde hyper-connecté et bourré de capteurs fait de nous des producteurs de données de façon quasi-permanente : nous générons des données de localisation chaque fois que nous envoyons un message WhatsApp ou un SMS, quand nous marchons avec une montre connectée ou tout simplement en nous promenant avec notre smartphone.
 
 On nous dit souvent que ce n'est pas grave, puisque _les données sont anonymisées_, que tout ce qui pourrait nous identifier en est retiré et que l'on peut dormir tranquille.
 

@@ -18,7 +18,7 @@ Confirmant les résultats des élections au [Conseil National][5], le [Conseil d
 
 {{< figure src="CdE_71-19" alt="CdE: Force des partis 1971-2019" title="Conseil des États : force des partis 1971-2019" >}}
 
-Voir également :
+Voir également :
 
 - [Évolution des sièges au Conseil National 1971-2019][5]
 - [Évolution des sièges au Parlement fédéral 1971-2015][1]

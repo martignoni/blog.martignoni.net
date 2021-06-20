@@ -28,6 +28,6 @@ La classe répond, hilare et intriguée, que oui. Le prof se saisit alors d'un p
 
 «Soignez les grandes pierres en tout premier lieu, ce sont les choses qui comptent vraiment. Le reste n'est que sable qui s'écoule entre vos doigts.»
 
-Jusqu'ici, tout va bien: «Comme il a raison, comme ce discours est pertinent et élégant, etc.» Mais soudain, un étudiant se lève. Il s'approche du pupitre du maître et saisit le bocal, dont chacun s'accordait à dire qu'il était cette fois véritablement totalement rempli. L'étudiant prend un verre de pastis devant tout le monde et en verse tout le contenu dans le bocal. Ainsi, le liquide se disperse harmonieusement dans les espaces qui, à l'évidence, existaient encore dans le fameux bocal. Moralité : Aussi remplie que soit ton existence, il y aura toujours de la place pour l'apéro !
+Jusqu'ici, tout va bien: «Comme il a raison, comme ce discours est pertinent et élégant, etc.» Mais soudain, un étudiant se lève. Il s'approche du pupitre du maître et saisit le bocal, dont chacun s'accordait à dire qu'il était cette fois véritablement totalement rempli. L'étudiant prend un verre de pastis devant tout le monde et en verse tout le contenu dans le bocal. Ainsi, le liquide se disperse harmonieusement dans les espaces qui, à l'évidence, existaient encore dans le fameux bocal. Moralité : Aussi remplie que soit ton existence, il y aura toujours de la place pour l'apéro !
 
 <!--more-->

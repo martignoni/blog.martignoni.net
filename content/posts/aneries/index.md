@@ -14,19 +14,19 @@ tags:
   - Protection des données
 
 ---
-Apple :
+Apple :
 
   * Cette app web ou ce réseau social que nous réalisons sera génial.
   * Nos règles pour l'approbation des apps sont toujours en faveur des intérêts de tout le monde.
   * Personne ne veut [insérer ici le nom d'un nouveau produit répandu qu'Apple ne propose pas encore].
 
-Google :
+Google :
 
   * Android est ouvert.
   * « Don't be evil.»
   * Nous vous demandons toutes vos données personnelles et nous traquons tout ce que vous faites pour améliorer _votre_ vie.
 
-Facebook :
+Facebook :
 
   * Nos utilisateurs veulent interagir avec des marques.
   * Nous prenons au sérieux votre sphère privée.

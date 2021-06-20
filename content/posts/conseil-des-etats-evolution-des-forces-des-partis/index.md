@@ -1,5 +1,5 @@
 ---
-title: "Conseil des États : évolution des forces des partis 1971–2011"
+title: "Conseil des États : évolution des forces des partis 1971–2011"
 author: Nicolas Martignoni
 date: 2011-12-04
 slug: conseil-des-etats-evolution-des-forces-des-partis

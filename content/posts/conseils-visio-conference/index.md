@@ -22,7 +22,7 @@ tags:
   - Enseignement à distance
 sources:
   - "[Appui à la Pédagogie Universitaire et Innovante](https://apui.univ-avignon.fr/enseigner-a-distance/), Université d'Avignon"
-  - "[La classe virtuelle : un format pédagogique engageant](https://www.glowbl.com/fr/modalite-classe-virtuelle/), Glowbl, Lyon"
+  - "[La classe virtuelle : un format pédagogique engageant](https://www.glowbl.com/fr/modalite-classe-virtuelle/), Glowbl, Lyon"
 ---
 Nous avons vu dans l'[article sur l'enseignement à distance][distance] que pour sa partie synchrone, la _visio-conférence_, appelée également _conférence web_ ou _webinar_, peut être utilisée à profit.
 

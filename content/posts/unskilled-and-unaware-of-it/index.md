@@ -1,5 +1,5 @@
 ---
-title: Unskilled and unaware of it !
+title: Unskilled and unaware of it !
 author: Nicolas Martignoni
 date: 2006-12-15
 slug: unskilled-and-unaware-of-it
@@ -14,7 +14,7 @@ tags:
 
 Cette citation est tirée de l'article _Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments_, publié par le **Journal of Personality and Social Psychology**.
 
-Cette article tend à montrer que l'incompétence n'est pas seulement la cause de mauvais résultats, mais également de l'incapacité à reconnaître que sa propre performance est mauvaise. Ceci mène à un paradoxe intéressant : une façon de permettre aux personnes de s'auto-évaluer correctement et de reconnaître leur incompétence est de les rendre compétents !
+Cette article tend à montrer que l'incompétence n'est pas seulement la cause de mauvais résultats, mais également de l'incapacité à reconnaître que sa propre performance est mauvaise. Ceci mène à un paradoxe intéressant : une façon de permettre aux personnes de s'auto-évaluer correctement et de reconnaître leur incompétence est de les rendre compétents !
 
 Voir le [PDF de l'article][1].
 

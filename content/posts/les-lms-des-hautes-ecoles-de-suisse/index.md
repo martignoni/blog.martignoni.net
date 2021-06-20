@@ -20,7 +20,7 @@ La fondation [SWITCH][1] publie la [liste des environnements d'apprentissage][2]
 
 ----
 
-_Mise à jour du 17 novembre 2010_ : le graphique ci-dessus résume la situation des LMS des hautes écoles de Suisse.
+_Mise à jour du 17 novembre 2010_ : le graphique ci-dessus résume la situation des LMS des hautes écoles de Suisse.
 
  [1]: https://switch.ch/
  [2]: https://www.eduhub.ch/res/lms-installations/

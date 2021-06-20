@@ -1,5 +1,5 @@
 ---
-title: "Contributions au MoodleMoot 2010 : plus que 2 semaines"
+title: "Contributions au MoodleMoot 2010 : plus que 2 semaines"
 author: Nicolas Martignoni
 date: 2010-03-03
 slug: contributions-au-moodlemoot-2010-plus-que-2-semaines
@@ -13,7 +13,7 @@ tags:
 ---
 Il ne reste plus que deux semaines pour déposer les [propositions de contribution][1] au [MoodleMoot 2010][2], qui aura lieu à Troyes les 28, 29 et 30 juin prochain.
 
-Le délai pour les [dépôts][3] est fixé au vendredi 19 mars 2010 !
+Le délai pour les [dépôts][3] est fixé au vendredi 19 mars 2010 !
 
  [1]: http://moodlemoot2010.utt.fr/mod/resource/view.php?id=56
  [2]: http://moodlemoot2010.utt.fr/

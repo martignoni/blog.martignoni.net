@@ -1,5 +1,5 @@
 ---
-title: "Brevet sur le e-learning : victoire de Desire2Learn"
+title: "Brevet sur le e-learning : victoire de Desire2Learn"
 author: Nicolas Martignoni
 date: 2009-07-29
 slug: brevet-sur-le-e-learning-victoire-de-desire2learn
@@ -21,13 +21,13 @@ tags:
 
 Le blog de [Desire2Learn][1] a informé hier du [l'invalidation des 38 premières revendications][2] du brevet de Blackboard sur le e-learning. Rappelons que dans un premier temps, les 35 premières revendications avaient été [déjà jugées irrecevables][3]. Restent encore les revendications 39 à 44.
 
-La seule différence que Blackboard a pu mettre en évidence dans le libellé de son brevet est la connexion unique (single login), et c'est vraiment trop peu !
+La seule différence que Blackboard a pu mettre en évidence dans le libellé de son brevet est la connexion unique (single login), et c'est vraiment trop peu !
 
 Il s'agit d'une victoire complète de Desire2Learn, et, plus important encore, des défenseurs des logiciels libres, en particulier de [Moodle][4] et [Sakai][5].
 
 Mais le petit jeu n'est pas encore tout à fait terminé. Il reste à Blackboard plusieurs possibilités de se battre devant les tribunaux. Il serait cependant peut-être temps pour Blackboard de tout stopper, surtout que financièrement, l'affaire pourrait lui coûter cher. Voyons plutôt.
 
-Blackboard [doit maintenant reverser][6] à Desire2Learn les 3,3 millions de dollars de manque à gagner qui lui avaient été versés, avec des intérêts de 6%, qui se montent à environ 200'000 $. Pour une compagnie dont le bénéfice net pour 2008 a été de [2,8 millions de dollars][7], cette nouvelle n'est pas réjouissante !
+Blackboard [doit maintenant reverser][6] à Desire2Learn les 3,3 millions de dollars de manque à gagner qui lui avaient été versés, avec des intérêts de 6%, qui se montent à environ 200'000 $. Pour une compagnie dont le bénéfice net pour 2008 a été de [2,8 millions de dollars][7], cette nouvelle n'est pas réjouissante !
 
 Comme souvent, les seuls bénéficiaires de ce type de conflit sont les cabinets d'avocats, qui y ont certainement gagnés plusieurs millions de dollars.
 

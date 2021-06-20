@@ -1,5 +1,5 @@
 ---
-title: "Et Mars, c'est loin ?"
+title: "Et Mars, c'est loin ?"
 author: Nicolas Martignoni
 date: 2013-04-04
 slug: et-mars-cest-loin

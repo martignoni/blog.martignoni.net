@@ -1,5 +1,5 @@
 ---
-title: "Achat de Sun par Oracle : et l'avenir des logiciels libres ?"
+title: "Achat de Sun par Oracle : et l'avenir des logiciels libres ?"
 author: Nicolas Martignoni
 date: 2009-06-12
 slug: achat-de-sun-par-oracle-et-lavenir-des-logiciels-libres
@@ -15,9 +15,9 @@ tags:
 
 Cette acquisition pose toutefois plusieurs questions, notamment dans le domaine du logiciel libre. En effet depuis plusieurs années déjà, Sun a démontré son implication dans le soutien du développement du logiciel libre, en étant l'un des contributeurs les plus importants, si ce n'est le plus important.
 
-Cet achat signifie-t-il la fin de [MySQL][6], propriété de Sun ? MySQL, avec plus de 6 millions d'installations dans le monde, est clairement en concurrence avec le gestionnaire de base de données Oracle. La tentation sera grande pour Oracle de tuer MySQL afin de vendre fort cher une autre base de données.
+Cet achat signifie-t-il la fin de [MySQL][6], propriété de Sun ? MySQL, avec plus de 6 millions d'installations dans le monde, est clairement en concurrence avec le gestionnaire de base de données Oracle. La tentation sera grande pour Oracle de tuer MySQL afin de vendre fort cher une autre base de données.
 
-Et [OpenOffice.org][7], que va décider Larry Ellison à son sujet ? Même question pour [VirtualBox][8]. Il y a fort à craindre que s'il ne voit pas de profit à faire avec ces deux outils, Oracle ne les soutiendra plus.
+Et [OpenOffice.org][7], que va décider Larry Ellison à son sujet ? Même question pour [VirtualBox][8]. Il y a fort à craindre que s'il ne voit pas de profit à faire avec ces deux outils, Oracle ne les soutiendra plus.
 
 Heureusement, il s'agit de logiciels libres, et même dans le pire des cas, ni MySQL, ni OpenOffice.org, ni VirtualBox ne disparaîtront purement et simplement. La difficulté sera cependant de trouver des fonds pour soutenir leur développement actif. L'avenir nous dira si Oracle aura joué, à l'instar de Sun, le jeu du logiciel libre.
 

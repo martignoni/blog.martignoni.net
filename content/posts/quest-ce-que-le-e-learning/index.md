@@ -1,5 +1,5 @@
 ---
-title: "Qu'est-ce que le e-Learning ?"
+title: "Qu'est-ce que le e-Learning ?"
 author: Nicolas Martignoni
 date: 2006-09-25
 slug: quest-ce-que-le-e-learning
@@ -10,7 +10,7 @@ tags:
   - Enseignement et apprentissage
 
 ---
-J'aime bien la définition suivante de l'e-Learning, trouvée [ici](http://www.agentsolo.com/ca/fr/membre/documedia/capsules/90487.jsp) :
+J'aime bien la définition suivante de l'e-Learning, trouvée [ici](http://www.agentsolo.com/ca/fr/membre/documedia/capsules/90487.jsp) :
 
 > Le eLearning comprend toute initiative qui emploie une technologie électronique dans le but d'améliorer l'efficacité humaine.
 >

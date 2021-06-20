@@ -17,14 +17,14 @@ Apple a décidé cependant de ne pas activer cette option sur l'iPad 1, alors m�
 
 Il est toutefois possible d'activer la recopie vidéo sans jailbreaker son iPad. On emploie le programme utilisé normalement pour effectuer le jailbreak, mais ce [programme a été modifié][7] pour n'effectuer que la modification nécessaire à l'activation de la recopie vidéo (et accessoirement des gestes pour le multitâche). Voici comment ça marche (si vous avez un Mac).
 
-  1. Faites d'abord une sauvegarde de votre iPad ;
-  2. téléchargez le [programme Redsn0w][8] modifié ;
-  3. décompressez le fichier et lancer Redsn0w ;
+  1. Faites d'abord une sauvegarde de votre iPad ;
+  2. téléchargez le [programme Redsn0w][8] modifié ;
+  3. décompressez le fichier et lancer Redsn0w ;
   4. suivez les instructions de Redsn0w et patientez quelques minutes.
 
-C'est tout !
+C'est tout !
 
-_<small>Source : [Lifehacker][9].</small>_
+_<small>Source : [Lifehacker][9].</small>_
 
  [1]: https://www.apple.com/chfr/ipad/
  [2]: https://www.apple.com/ch-fr/shop/ipad/ipad-accessories

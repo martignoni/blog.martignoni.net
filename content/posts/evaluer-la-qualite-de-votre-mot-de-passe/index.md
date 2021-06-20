@@ -18,7 +18,7 @@ Lors d'une récente discussion, on m'a demandé comment évaluer la bonne qualit
 
 > For over 30 years, password requirements and feedback have largely remained a product of LUDS: counts of lower- and uppercase letters, digits and symbols. LUDS remains ubiquitous despite being a conclusively burdensome and ineffective security practice.
 
-Cet article propose en outre un algorithme permettant de tester vos mots de passe, que je mets à disposition ici : https://password.martignoni.net/.
+Cet article propose en outre un algorithme permettant de tester vos mots de passe, que je mets à disposition ici : https://password.martignoni.net/.
 
 ----
 

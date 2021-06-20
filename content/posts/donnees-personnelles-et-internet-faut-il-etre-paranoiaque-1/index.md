@@ -15,7 +15,7 @@ tags:
 
 ---
 
-> *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 2][Partie2], [partie 3][Partie3].*
+> *Cet article a été publié en septembre 2015 dans [l'édition no 323][article] de la revue [Scuola Ticinese][st]. Il est publié ici en trois parties : [partie 2][Partie2], [partie 3][Partie3].*
 
 En 2012, un client de Minneapolis du grand distributeur américain Target (le pendant de la Migros ou de la Coop) a souhaité rencontrer le gérant du magasin local. Il lui a demandé des explications concernant sa fille, étudiante au lycée, qui recevait du magasin des publicités et des bons d’achat pour des vêtements de grossesse, des berceaux, des habits de bébé, articles donnant à penser qu’elle était enceinte. Le père de la jeune fille demanda au gérant si le magasin voulait encourager sa fille à tomber enceinte. Stupéfait, le gérant s’excusa en déclarant n’avoir aucune idée de la raison de ces promotions.
 
@@ -24,9 +24,9 @@ Rentré à la maison, le papa en discuta avec sa fille et découvrit qu’elle a
 Cette anecdote réelle nous montre l’actualité de ce thème, et nous incite à réfléchir sur la nécessité pour notre société et notre école d’agir face à cette situation, et à développer quelques pistes de réflexion.
 <!--more-->
 
-#### Données personnelles : de quoi parle-t-on ?
+#### Données personnelles : de quoi parle-t-on ?
 
-La loi fédérale sur la protection des données définit les données personnelles comme : « toutes les informations qui se rapportent à une personne identifiée ou identifiable.»[^2]
+La loi fédérale sur la protection des données définit les données personnelles comme : « toutes les informations qui se rapportent à une personne identifiée ou identifiable.»[^2]
 
 Au premier abord, on se dit alors que les données personnelles sont des informations telles que le prénom, le nom, l’adresse, le numéro de téléphone et d’autres données similaires. Pas de quoi fouetter un chat. Mais la suite est intéressante.
 
@@ -46,7 +46,7 @@ Mais ne soyons pas paranoïaques : ce n’est pas le partage d'informations qui
 
 #### La collecte des données est devenue systématique
 
-Internet a été conçu pour résister à une attaque nucléaire. À ses débuts, on avait l’habitude de le représenter comme un filet ou un entrelacement de filets de pêche. Le réseau devait continuer à fonctionner, même si plusieurs centres de données étaient rasés par un bombardement. Il devait  donc être décentralisé. À ses débuts, le web reflétait cette organisation : c’était un ensemble de pages liées entre elles de manière chaotique à l’aide de liens hypertextes.
+Internet a été conçu pour résister à une attaque nucléaire. À ses débuts, on avait l’habitude de le représenter comme un filet ou un entrelacement de filets de pêche. Le réseau devait continuer à fonctionner, même si plusieurs centres de données étaient rasés par un bombardement. Il devait  donc être décentralisé. À ses débuts, le web reflétait cette organisation : c’était un ensemble de pages liées entre elles de manière chaotique à l’aide de liens hypertextes.
 
 Peu à peu, le web est devenu différent, et on a assisté à une centralisation ; certains sites web sont devenus incontournables : Google, Facebook, Twitter, Amazon, Whatsapp pour ne citer que certains d’entre eux. Ces sites ont des quasi-monopoles, ce qui a pour conséquence que le web se présente aujourd’hui plutôt comme une toile d’araignée ou un ensemble de toiles d’araignées, avec des points centraux. Le problème avec la centralisation, c’est qu’elle nous rend plus faciles à pister, grâce à ces points centraux vers lesquels convergent les informations, et qui attirent des individus pas toujours recommandables.
 

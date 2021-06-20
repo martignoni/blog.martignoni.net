@@ -24,7 +24,7 @@ On distingue facilement sur le détail de l'image les 16 panneaux solaire de l'I
 
 La photographie est l'oeuvre de [Thierry Legault](http://legault.club.fr/info_fr.html), un ingénieur français spécialiste du genre qui a déjà eu droit à plusieurs publications sur le célèbre site web [Astronomy Picture Of the Day](http://apod.nasa.gov/apod/). Le [site web de Thierry Legault](http://www.astrophoto.fr/) fait la preuve de son énorme talent pour l'astrophotographie. Découvrez-y de nombreuses autres photographies stupéfiantes, notamment prises à l'occasion d'[éclipses de Lune](http://legault.club.fr/eclipse031109.html) ou [de Soleil](http://legault.club.fr/eclipse.html).
 
-_<small>Source : [OnOrbit](http://www.onorbit.com/node/1288)</small>_
+_<small>Source : [OnOrbit](http://www.onorbit.com/node/1288)</small>_
 
  [1]: https://fr.wikipedia.org/wiki/Station_spatiale_internationale
  [2]: https://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/orbitersend.html

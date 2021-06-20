@@ -1,5 +1,5 @@
 ---
-title: "Le site moodle.org tout à l'envers ;-)"
+title: "Le site moodle.org tout à l'envers ;-)"
 author: Nicolas Martignoni
 date: 2010-04-01
 slug: le-site-moodle-org-tout-a-lenvers
@@ -12,7 +12,7 @@ tags:
   - Moodle
 
 ---
-Quelques commentaires et annonces de bogues liés à cette manifestation printanière, cités par [Helen Foster][1] :
+Quelques commentaires et annonces de bogues liés à cette manifestation printanière, cités par [Helen Foster][1] :
 
 > There were several reports of the problem in the Moodle Tracker ([MDLSITE-895][2], [MDLSITE-896][3] and [MDLSITE-897][4]), the forums ([Everything upside down!!][5] and [Is the backwards text an April Fool's day prank?][6]) and even in Moodle Docs ([Forum module revision][7]).
 

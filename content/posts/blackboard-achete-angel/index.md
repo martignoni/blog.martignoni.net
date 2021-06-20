@@ -1,5 +1,5 @@
 ---
-title: Blackboard achète ANGEL !
+title: Blackboard achète ANGEL !
 author: Nicolas Martignoni
 date: 2009-06-11
 slug: blackboard-achete-angel
@@ -14,7 +14,7 @@ tags:
 ---
 La firme [Blackboard][1], productrice du système e-learning du même nom, a annoncé le 11 mai dernier avoir acheté l'entreprise [ANGEL Learning][2], qui vend un autre système e-learning. Il est intéressant de noter que la division anti-trust du département américain de la justice a [ouvert une enquête][3] sur cette acquisition.
 
-Un des patrons de Blackboard, Matthew Small, [a par ailleurs déclaré][4] (traduction libre) :
+Un des patrons de Blackboard, Matthew Small, [a par ailleurs déclaré][4] (traduction libre) :
 
 > Je ne pense pas qu'il y a d'inquiétude à avoir au sujet de l'anti-trust, dans cette association.
 

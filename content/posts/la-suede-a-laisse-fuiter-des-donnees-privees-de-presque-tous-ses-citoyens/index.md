@@ -24,7 +24,7 @@ Cet épisode montre à quel point il est important pour un état de conserver so
 
 Un tel épisode devrait faire réfléchir nos élus, qui s'apprêtent dans le [projet de Loi e-ID][1] actuellement en consultation à livrer à des entreprises privées la gestion de l'identité des citoyens suisses.
 
-_<small>Source : [The Hacker News](http://thehackernews.com/2017/07/sweden-data-breach.html)</small>_
+_<small>Source : [The Hacker News](http://thehackernews.com/2017/07/sweden-data-breach.html)</small>_
 
  [1]: https://www.bj.admin.ch/bj/fr/home/staat/gesetzgebung/e-id.html
 

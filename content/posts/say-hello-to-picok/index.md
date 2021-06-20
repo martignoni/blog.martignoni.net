@@ -1,5 +1,5 @@
 ---
-title: Say hello to Picok !
+title: Say hello to Picok !
 author: Nicolas Martignoni
 date: 2009-06-13
 slug: say-hello-to-picok
@@ -12,7 +12,7 @@ tags:
   - Protection des données
 
 ---
-Vous avez aimé ou aimez encore [Google Reader][1] ou [Netvibes][2] ? Vous êtes tout comme moi inquiet par la quantité de vos données stockées sur des serveurs qui ne vous appartiennent pas ? Alors [Picok][3] est peut-être pour vous !
+Vous avez aimé ou aimez encore [Google Reader][1] ou [Netvibes][2] ? Vous êtes tout comme moi inquiet par la quantité de vos données stockées sur des serveurs qui ne vous appartiennent pas ? Alors [Picok][3] est peut-être pour vous !
 
 [{{< figure class="alignright" src="Picok.png" alt="Picok" width="214" height="70" >}}][4]Picok, qui vient de sortir (version 1.0.0), signifie « Personal Information Cockpit ». Il permet à ses utilisateurs de créer leur propre page personnelle d'informations, en agrégeant diverses sources d'informations. Les informations provenant de différentes sources sont affichées sous la forme de boîtes déplaçables par glisser-déposer. L'interface de Picok est multilingue. Actuellement, le français, l'allemand, l'italien et l'anglais sont compris dans le paquet.
 

@@ -1,5 +1,5 @@
 ---
-title: Pourquoi être contre les brevets logiciels ?
+title: Pourquoi être contre les brevets logiciels ?
 author: Nicolas Martignoni
 date: 2010-03-21
 slug: pourquoi-etre-contre-les-brevets-logiciels

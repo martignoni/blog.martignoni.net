@@ -27,7 +27,7 @@ L'objectif de Blackboard est de redorer son blason en ayant l'air de faire un pa
 
 En outre, Blackboard sait très bien que la presque totalité des institutions d'enseignement n'a pas la capacité de baser toute son infrastructure logicielle sur des logiciels libres. La plupart d'entre elles utilisent en effet un mélange de solutions propriétaires et libres, ou uniquement des logiciels propriétaires. Dans les deux cas, l'interdiction reste donc en vigueur.
 
-Ainsi, cet engagement ne change strictement rien à la donne !
+Ainsi, cet engagement ne change strictement rien à la donne !
 
  [1]: http://blackboard.com/patent/FAQ_013107.htm
 
