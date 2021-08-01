@@ -19,7 +19,7 @@ Martignoni N., _Cryptographie_, Cahiers de la CRM, Fribourg, 2004.
 
 Ouvrage collectif de la CRM, _Probabilités_, Édition du Tricorne, Genève, 2005.
 
-Humbert M., Martignoni N., Rennard J. Ph., _Moodle : analyse d’un succès_, Colloque AIM, HEC Montréal, Lausanne, Suisse, 2007.
+Humbert M., Martignoni N., Rennard J. Ph., _Moodle : analyse d'un succès_, Colloque AIM, HEC Montréal, Lausanne, Suisse, 2007.
 
 Martignoni N., _Guide des outils Moodle_ pour Moodle 1.9, PDF, [en ligne]({{< relref "../../posts/moodle-tool-guide-disponible-en-francais" >}}), 2010.
 

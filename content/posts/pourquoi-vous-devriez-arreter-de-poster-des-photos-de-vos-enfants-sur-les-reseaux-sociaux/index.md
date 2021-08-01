@@ -15,7 +15,7 @@ tags:
 ---
 [Interview de Florence Millot][1], psychologue pour enfants, à lire sur [atlantico.fr][2].
 
-> Le risque est que, lorsqu’un enfant comprend que pour être aimé par ses parents ou être aimé de l’extérieur il faut savoir faire quelque chose qui corresponde à une attente extérieure — à savoir être beau, fort, drôle et les mettre sur les réseaux sociaux — une fois adulte, celui-ci, pris dans ce piège affectif, continue de toujours rentrer dans ce mécanisme pour pouvoir plaire.
+> Le risque est que, lorsqu'un enfant comprend que pour être aimé par ses parents ou être aimé de l'extérieur il faut savoir faire quelque chose qui corresponde à une attente extérieure — à savoir être beau, fort, drôle et les mettre sur les réseaux sociaux — une fois adulte, celui-ci, pris dans ce piège affectif, continue de toujours rentrer dans ce mécanisme pour pouvoir plaire.
 
 _<small>Source : [atlantico.fr](http://www.atlantico.fr/decryptage/face-sombre-sharenting-pourquoi-devriez-arreter-poster-photos-vos-enfants-reseaux-sociaux-millot-3135952.html)</small>_
 

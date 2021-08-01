@@ -2,7 +2,6 @@
 title: "E-voting en Suisse : un risque pour la démocratie"
 description: La récente polémique sur le code source de la solution de vote électronique proposée par La Poste met en lumière les risques pour la démocratie ainsi que le manque de vision des autorités politiques de Suisse.
 author: Nicolas Martignoni
-
 date: 2019-02-24
 slug: e-voting-et-democratie
 categories:
@@ -36,6 +35,6 @@ La Confédération laisse faire. Les cantons déclinent leur responsabilité en 
 
 L'aspect essentiel du secret et de la sécurité des votations et élections est sacrifié sur l'autel du profit. Comme le dit [L'Affranchi](https://affranchi.ch/suisse/vote-electronique-lenjeu-nest-ni-financier-ni-technique-il-est-politique/) :
 
-> Le recours au vote électronique en Suisse n’est ni un enjeu technique, ni financier, mais bel et bien politique. Malheureusement, la Confédération ainsi que les cantons semblent avoir choisi de privilégier la logique de l’efficience, à savoir adopter un système qui soit le moins cher en termes de ressources financières et techniques, plutôt que d’opter pour un modèle qui satisfasse des exigences fondamentales en matière de démocratie (...).
+> Le recours au vote électronique en Suisse n'est ni un enjeu technique, ni financier, mais bel et bien politique. Malheureusement, la Confédération ainsi que les cantons semblent avoir choisi de privilégier la logique de l'efficience, à savoir adopter un système qui soit le moins cher en termes de ressources financières et techniques, plutôt que d'opter pour un modèle qui satisfasse des exigences fondamentales en matière de démocratie (...).
 
 Quand on sait que pour la gestion de l'identité électronique, la Confédération pense aussi confier son implémentation au secteur privé, doit-on en conclure que nos autorités ont définitivement abdiqué toute compétence dans le domaine du numérique ?

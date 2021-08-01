@@ -16,7 +16,7 @@ tags:
   - protection des données
   - Suisse
 ---
-En mai 2019, un [sondage représentatif][2] commandé pour clarifier les besoins de la population suisse en matière d'identification numérique (e-ID). Une nette majorité de 87% des répondants veut que l'État délivre l'e-ID. Seulement 2% souhaitent que l’e-ID prévue soit délivrée par des entreprises privées. Mais c'est précisément ce que veulent le Conseil fédéral et le parlement helvétique dans la Loi sur les services d'identification électronique (LSIE) qu'ils viennent d'accepter.
+En mai 2019, un [sondage représentatif][2] commandé pour clarifier les besoins de la population suisse en matière d'identification numérique (e-ID). Une nette majorité de 87% des répondants veut que l'État délivre l'e-ID. Seulement 2% souhaitent que l'e-ID prévue soit délivrée par des entreprises privées. Mais c'est précisément ce que veulent le Conseil fédéral et le parlement helvétique dans la Loi sur les services d'identification électronique (LSIE) qu'ils viennent d'accepter.
 
 Il s'agit d'une décision inquiétante : des entreprises privées délivreront désormais le passeport numérique suisse et pourront gérer nos données. Le bureau des passeports sera remplacé par de grandes banques privées, des compagnies d'assurance et des entreprises proches de l'État. Un [référendum est en préparation][1] : il faut [le soutenir][1].
 

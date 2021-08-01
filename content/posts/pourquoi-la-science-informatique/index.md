@@ -1,7 +1,6 @@
 ---
-title: "Pourquoi la science informatique à l’école ?"
+title: "Pourquoi la science informatique à l'école ?"
 author: Nicolas Martignoni
-
 date: 2019-02-15
 slug: pourquoi-la-science-informatique-a-lecole
 description: Les bons arguments pour enseigner la science informatique à l'école ne sont peut-être pas ceux auxquels on pense. Texte de la conférence donnée à l'occasion de la journée de formation romande [ForMITIC](http://f3romand.educanet2.ch) du 2 février 2019.
@@ -21,7 +20,7 @@ Le thème d'aujourd'hui est d'une brûlante actualité. Il ne se passe pas une j
 
 Parallèlement, l'enseignement de la science informatique a le vent en poupe en Suisse. Le LP21, publié en automne 2014, définit un [enseignement obligatoire de l'informatique][lp21], distinct de celui des compétences médias. En octobre 2017, la CDIP a mis à jour ses plans d'études en rendant [obligatoire l'enseignement de la science informatique au gymnase][cdip]. Tout récemment, en novembre 2018, la CIIP s'est dotée d'un « [Plan d'action en faveur de l'éducation numérique][ciip] » introduisant la science informatique dans la scolarité obligatoire, pour tous les élèves.
 
-Il pourrait sembler inutile ou vain de se poser la question formant le titre de ma conférence : pourquoi la science informatique à l’école ?
+Il pourrait sembler inutile ou vain de se poser la question formant le titre de ma conférence : pourquoi la science informatique à l'école ?
 
 <!--more-->
 Faisons malgré tout l'effort d'étudier si l'enseignement de la science informatique pour tous les élèves de Suisse a du sens, en allant au-delà des _buzzwords_ et du battage médiatique presque constant à ce sujet.
@@ -55,7 +54,7 @@ Les arguments se regroupent essentiellement en quatre catégories, que je désig
 
 L'argument technologique peut se paraphraser ainsi :
 
-> _« Celui qui ne connaît rien à la pensée informatique dans un monde régi par les algorithmes n’est qu’un pantin aux mains des spécialistes.»_[^2]
+> _« Celui qui ne connaît rien à la pensée informatique dans un monde régi par les algorithmes n'est qu'un pantin aux mains des spécialistes.»_[^2]
 
 On ne manquera pas de remarquer la connotation méprisante avec laquelle l'auteur de cette citation associe le lecteur — forcément non spécialiste — à un pantin, ainsi que le côté inquiétant qui sous-entend l'aspect inéluctable de l'avènement d'un tel monde de pantins, si les autorités ne font rien, et les conséquences délétères qui s'ensuivront.
 
@@ -87,11 +86,11 @@ Le terme a été utilisée pour la première fois par Seymour Papert en 1980.[^4
 
 Un peu oubliée par la suite, l'expression a été remise d'actualité en 2006 par Jeannette Wing, professeure d'informatique renommée de la Carnegie Mellon University à Pittsburgh, qui en a donné la définition suivante :
 
-> _« La pensée informatique est un ensemble d’attitudes et d’acquis universellement applicables que tous, et pas seulement les informaticiens, devraient apprendre et maîtriser.»_[^5]
+> _« La pensée informatique est un ensemble d'attitudes et d'acquis universellement applicables que tous, et pas seulement les informaticiens, devraient apprendre et maîtriser.»_[^5]
 
 En 2011, cette même Jeannette Wing rappelle :
 
-> _« La pensée informatique est le processus de pensée en action lors de la formulation d'un problème et de l'expression de sa ou ses solutions, de manière à ce qu'un humain ou un ordinateur puisse réellement l’appliquer.»_
+> _« La pensée informatique est le processus de pensée en action lors de la formulation d'un problème et de l'expression de sa ou ses solutions, de manière à ce qu'un humain ou un ordinateur puisse réellement l'appliquer.»_
 
 Là, l'enseignant (et le père) que je suis commence à être intéressé. N'est-ce pas là un processus de pensée que j'aimerais que mes enfants et tous mes élèves maîtrisent ? Cette forme de raisonnement permettant de résoudre des problèmes compliqués, n'est-ce pas ce dont rêve tout enseignant et toute enseignante pour ses élèves ? Une forme de raisonnement qui leur permette ainsi de développer leur esprit critique, dans une approche humaniste ?
 
@@ -109,7 +108,7 @@ Il s'agit aussi d'enseigner comment et quelles données sont récoltées de mani
 
 On entend parler ces jours d'intelligences artificielles utilisées pour traiter des dossiers de candidature à des postes de travail. S'est-on assuré que la personne qui a programmé cette IA l'a fait en visant des objectifs éthiques ? Le traitement des données massives (_big data_) permet assez facilement à des entreprises ou des États de déterminer la solvabilité d'une personne à l'aide de son comportement sur Internet. Est-ce une utilisation acceptable de l'informatique dans une démocratie ? Qui prend la décision de programmer une voiture autonome pour qu'elle privilégie la sécurité de son conducteur plutôt que celle du piéton traversant la route ? Sur quels critères — programmés par un humain — les robots tueurs, dont on nous dit qu'ils seront bientôt utilisés sur les théâtres de guerre, choisiront leurs cibles ?
 
-> _« Science sans conscience n’est que ruine de l’âme »_, disait Rabelais.
+> _« Science sans conscience n'est que ruine de l'âme »_, disait Rabelais.
 
 Au cours de la seconde guerre mondiale, les physiciens ont développé la science nucléaire dans le but initial louable de combattre le nazisme. Une fois celui-ci éliminé, certains scientifiques impliqués dans le projet Manhattan ont proposé d'arrêter ces efforts, puisque la bombe n'était plus justifiée. Il est essentiel qu'une telle disposition d'esprit soit développée également dans l'apprentissage de la science informatique. Tout plan d'études de la science informatique devrait comporter cet aspect critique de l'utilisation des algorithmes.
 

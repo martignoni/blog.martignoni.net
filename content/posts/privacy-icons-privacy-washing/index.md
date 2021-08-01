@@ -24,7 +24,7 @@ L'initiative est louable, tant il est important que les utilisateurs sachent de 
 <!--more-->
 La [Fédération romande des consommateurs](https://www.frc.ch/), citée par l'[ICTJournal](https://www.ictjournal.ch/articles/2020-11-30/les-cff-credit-suisse-migros-et-swisscom-deploient-une-signaletique-commune), ne s'y trompe pas.
 
-> Le souci principal de ces entreprises n’est pas forcément la transparence et la protection des données mais de donner le sentiment de maîtriser ses données.
+> Le souci principal de ces entreprises n'est pas forcément la transparence et la protection des données mais de donner le sentiment de maîtriser ses données.
 
 Les usagers ne peuvent en effet toujours pas profiter de plusieurs services sans consentir à l'utilisation de leurs données. __Une jolie étiquette qui me dit certes de manière plus claire que mes données vont être distribuées à d'autres entreprises sans que je ne puisse rien y faire n'est qu'un bien maigre progrès en matière du droit de la personnalité.__
 

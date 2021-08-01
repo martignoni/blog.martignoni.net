@@ -113,7 +113,7 @@ before_deploy:
   - ssh-add /tmp/deploy_rsa
   - echo -e "Host ${DEPLOY_HOST}\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 ```
-This ensures that the private key is decrypted and loaded into memory before the deploy is done. The last line permits that the deploy process doesn’t hang waiting for user input.
+This ensures that the private key is decrypted and loaded into memory before the deploy is done. The last line permits that the deploy process doesn't hang waiting for user input.
 
 #### Deployment configuration
 
