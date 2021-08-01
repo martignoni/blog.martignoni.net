@@ -20,7 +20,7 @@ sources:
   - "L'[article de Republik du 28 janvier 2021](https://www.republik.ch/2021/01/28/die-probleme-mit-der-schweizer-e-identitaet)"
 ---
 
-Un [article d'Adrienne Fichter]((https://www.republik.ch/2021/01/28/die-probleme-mit-der-schweizer-e-identitaet)) publié par [Republik](https://www.republik.ch/) développe les graves problèmes de la loi sur l'e-ID soumise à la votation populaire le 7 mars 2021.
+Un [article d'Adrienne Fichter](https://www.republik.ch/2021/01/28/die-probleme-mit-der-schweizer-e-identitaet) publié par [Republik](https://www.republik.ch/) développe les graves problèmes de la loi sur l'e-ID soumise à la votation populaire le 7 mars 2021.
 
 Elle devrait nous permettre d'acheter en ligne, de remplir notre déclaration d'impôts et de nous donner accès aux services numériques publics et privés avec un seul login, c'est la promesse qui nous est faite avec la [loi sur les services d'identification électronique][loi].
 
