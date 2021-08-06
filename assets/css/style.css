@@ -48,6 +48,7 @@ $gray-600: #767676;
 $gray-700: #555;
 $gray-800: #333;
 $gray-900: #222;
+$near-black: #151515;
 $black: #000;
 
 $red: #ed0000;
@@ -2555,7 +2556,7 @@ body .site-search-button {
     background: $body-background-color-dark;
   }
   .site-header {
-    background-color: $black;
+    background-color: $near-black;
   }
   .site-title,
   .site-title a {
