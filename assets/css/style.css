@@ -1824,7 +1824,7 @@ body .site-search-button {
 }
 
 #search-box::before {
-  font-family: 'FontAwesome';
+  font-family: 'ForkAwesome';
   font-weight: 900;
   content: "\f002";
   font-size: 1.1rem;
