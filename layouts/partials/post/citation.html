@@ -3,8 +3,7 @@
 {{ $firstnameinitial := substr $firstname 0 1 }}
 {{ $sitetitle := site.Title }}
 {{ $title := .Page.Title }}
-{{ $formattedmonth := default .PublishDate (i18n .PublishDate.Month) }}
-{{ $formatteddate := printf "%s, %s %s" (.PublishDate.Format "2006") (.PublishDate.Format "2") $formattedmonth }}
+{{ $formatteddate := .PublishDate | time.Format ":date_long" }}
 {{ $permalink := .Page.Permalink }}
 {{/* <!-- https://www.scribbr.fr/normes-apa/exemple-site-internet/ --> */}}
 <section class="citation">
