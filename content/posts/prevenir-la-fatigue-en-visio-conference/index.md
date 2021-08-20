@@ -7,7 +7,6 @@ description: "L'utilisation massive de la visio-conférence pour soutenir l'ense
 categories:
   - École, e-learning et ICT
   - Technologie
-  - Citoyenneté
 tags:
   - E-learning
   - Formation
