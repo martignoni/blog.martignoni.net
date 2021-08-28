@@ -8,6 +8,8 @@ theme:
 languageCode: fr
 # Set site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage: fr
+# Set time zone
+timeZone: Europe/Zurich
 # Set summary length.
 summaryLength: 250
 # Customize footnote return links.
