@@ -7,3 +7,6 @@
 [submodule "themes/hugo-video"]
 	path = themes/hugo-video
 	url = https://github.com/martignoni/hugo-video
+[submodule "themes/reveal-hugo"]
+	path = themes/reveal-hugo
+	url = git@github.com:dzello/reveal-hugo.git
