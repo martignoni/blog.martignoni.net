@@ -3,14 +3,14 @@ title: À propos
 author: Nicolas Martignoni
 slug: a-propos
 date: 2006-04-16
-lastmod: 2021-04-12
+lastmod: 2021-10-20
 ---
 Le site _Perspectives_ est écrit et produit par [Nicolas Martignoni](#l-auteur).
 
 ## L'auteur
 
 {{< figure class="alignright" src="nicolas.jpg" alt="Nicolas Martignoni" width="167" height="226" >}}
-Depuis plusieurs décennies, Nicolas Martignoni est actif dans la conception et le développement des ICT dans le domaine de l'éducation, en particulier pour les écoles du canton de Fribourg en Suisse. Dès 2001, il a été collaborateur du [Centre fritic][fritic], puis professeur en intégration des ICT à la [Haute École pédagogique de Fribourg](https://hepfr.ch/), et de 2008 à 2017, directeur du [Centre fritic][fritic]. Depuis 2017, il est professeur de mathématiques et d'informatique, actuellement au [Collège Sainte-Croix][stx] à Fribourg, conseiller en ICT auprès de la [Direction de l'instruction publique, de la culture et du sport](https://www.fr.ch/dics/) du canton de Fribourg et formateur d'adultes indépendant. Il a une formation de mathématicien et d'informaticien, d'enseignant et de formateur d'adultes.
+Depuis plusieurs décennies, Nicolas Martignoni est actif dans la conception et le développement des ICT dans le domaine de l'éducation, en particulier pour les écoles du canton de Fribourg en Suisse. Dès 2001, il a été collaborateur du [Centre fritic][fritic], puis professeur en intégration des ICT à la [Haute École pédagogique de Fribourg](https://hepfr.ch/), et de 2008 à 2017, directeur du [Centre fritic][fritic]. De 2017 à 2021, il a été conseiller en ICT auprès de la [Direction de l'instruction publique, de la culture et du sport](https://www.fr.ch/dics/) du canton de Fribourg. Depuis 2017, il est professeur de mathématiques et d'informatique, actuellement au [Collège Sainte-Croix][stx] à Fribourg, et formateur d'adultes indépendant. Il a une formation de mathématicien et d'informaticien, d'enseignant et de formateur d'adultes.
 
 Il intervient régulièrement dans des colloques nationaux et internationaux, en français, en anglais et en allemand.
 
