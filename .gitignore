@@ -3,6 +3,7 @@ public/
 resources/
 content/posts/test/*
 hugo_stats.json
+.hugo_build.lock
 
 # Node
 node_modules/
