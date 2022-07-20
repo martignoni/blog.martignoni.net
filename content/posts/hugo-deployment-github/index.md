@@ -16,7 +16,9 @@ tags:
   - GitHub
 ---
 
-_This article is an update of [Deploy your Hugo site through SSH with Travis][deploytravis]. I don't use Travis CI anymore since they left open source maintainers out in the dust with their new pricing plan in 2020._
+{{< notice info >}}
+This article is an update of <a href="{{< relref "posts/hugo-deployment" >}}">Deploy your Hugo site through SSH with Travis</a>. I don't use Travis CI anymore since they left open source maintainers out in the dust with their new pricing plan in 2020.
+{{< /notice >}}
 
 After having [moved my blog from WordPress to Hugo][move], my next objective was to have it built and deployed automatically to [my self-hosted webhosting server][netcup] whenever I push a commit to GitHub. The main reasons to use this process are these:
 
