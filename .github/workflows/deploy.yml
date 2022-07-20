@@ -38,7 +38,7 @@ jobs:
       - name: Run Node
         run: npm ci
       - name: Build website with Hugo
-        run: hugo --minify --i18n-warnings
+        run: hugo --minify --printI18nWarnings
       - name: Deploy website with rsync
         uses: burnett01/rsync-deployments@4.1
         with:
