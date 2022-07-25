@@ -185,7 +185,7 @@ if (typeof Fuse === 'function') {
     if (query = getSearchQuery('q')) {
       var results = document.querySelector(".search-results");
       document.querySelector("body").classList.add("searching");
-      results.style.opacity = 0;
+      results.style.opacity = 1;
       results.style.visibility = "visible";
       document.getElementById("search-query").value = query;
       document.getElementById("search-query").focus();

@@ -1,39 +1,41 @@
-/*************************************************
- *  Core JS functions and initialization.
- **************************************************/
+// Core JS functions and initialization.
 
-(function($){
+document.addEventListener('DOMContentLoaded', function() {
 
   /* Toggle search dialog. */
   function toggleSearchDialog() {
-    if ($('body').hasClass('searching')) {
-      $('[id=search-query]').blur();
-      $('body').removeClass('searching');
+    if (document.querySelector("body").classList.contains("searching")) {
+      document.querySelector("[id=search-query]").blur();
+      document.querySelector("body").classList.remove("searching");
     } else {
-      $('body').addClass('searching');
-      $('.search-results').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 200);
-      $('#search-query').focus();
+      var results = document.querySelector(".search-results");
+      document.querySelector("body").classList.add("searching");
+      results.style.opacity = 1;
+      results.style.visibility = "visible";
+      document.getElementById("search-query").focus();
     }
   }
 
-  $(window).on('load', function() {
+  window.onload = function() {
     // On search icon click toggle search dialog.
-    $('.js-search').click(function(e) {
-      e.preventDefault();
-      toggleSearchDialog();
+    document.querySelectorAll(".js-search").forEach(btn => {
+        btn.addEventListener("click", (e) => {
+        e.preventDefault();
+        toggleSearchDialog();
+      })
     });
-    $(document).on('keydown', function(e){
+    document.addEventListener("keydown", (e) => {
       if (e.which == 27) {
         // `Esc` key pressed.
-        if ($('body').hasClass('searching')) {
+        if (document.querySelector("body").classList.contains("searching")) {
           toggleSearchDialog();
         }
-      } else if (e.which == 191 && e.shiftKey == false && !$('input,textarea').is(':focus')) {
+      } else if (e.which == 191 && e.shiftKey == false && document.querySelector("input,textarea") !== document.activeElement) {
         // `/` key pressed outside of text input.
         e.preventDefault();
         toggleSearchDialog();
       }
     });
-  });
+  }
 
-})(jQuery);
+}); //end onload
