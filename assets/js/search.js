@@ -31,6 +31,44 @@ let summaryLength = 150;
 * Functions.
 * --------------------------------------------------------------------------- */
 
+// fetch some json in vanilla JS
+function fetchJSONFile(path, callback) {
+  var httpRequest = new XMLHttpRequest();
+  httpRequest.onreadystatechange = function() {
+    if (httpRequest.readyState === 4) {
+      if (httpRequest.status === 200) {
+        var data = JSON.parse(httpRequest.responseText);
+          if (callback) callback(data);
+      }
+    }
+  };
+  httpRequest.open('GET', path);
+  httpRequest.send();
+}
+
+/**
+ * By Mark Amery: https://stackoverflow.com/a/35385518
+ * @param {String} HTML representing a single element
+ * @return {Element}
+ */
+function htmlToElement(html) {
+    var template = document.createElement('template');
+    html = html.trim(); // Never return a text node of whitespace as the result
+    template.innerHTML = html;
+    return template.content.firstChild;
+}
+
+function render(template, data) {
+  // Replace placeholders with their values.
+  let key, find, re;
+  for (key in data) {
+    find = '\\{\\{\\s*' + key + '\\s*\\}\\}';  // Expect placeholder in the form `{{x}}`.
+    re = new RegExp(find, 'g');
+    template = template.replace(re, data[key]);
+  }
+  return template;
+}
+
 // Get query from URI.
 function getSearchQuery(name) {
   return decodeURIComponent((location.search.split(name + '=')[1] || '').split('&')[0]).replace(/\+/g, ' ');
@@ -45,11 +83,11 @@ function updateURL(url) {
 
 // Pre-process new search query.
 function initSearch(force, fuse) {
-  let query = $("#search-query").val();
+  let query = document.getElementById("search-query").value;
 
   // If query deleted, clear results.
   if ( query.length < 1) {
-    $('#search-hits').empty();
+    document.getElementById("search-query").innerHTML = "";
   }
 
   // Check for timer event (enter key not pressed) and query less than minimum length required.
@@ -57,7 +95,7 @@ function initSearch(force, fuse) {
     return;
 
   // Do search.
-  $('#search-hits').empty();
+  document.getElementById("search-hits").innerHTML = "";
   searchBlog(query, fuse);
   let newURL = window.location.protocol + "//" + window.location.host + window.location.pathname + '?q=' + encodeURIComponent(query) + window.location.hash;
   updateURL(newURL);
@@ -69,16 +107,21 @@ function searchBlog(query, fuse) {
   // console.log({"results": results});
 
   if (results.length > 0) {
-    $('#search-hits').append('<h2 class="">' + results.length + ' ' + i18n.results + '</h2>');
+    var hitsTitle = document.createElement("h2");
+    hitsTitle.textContent = results.length + " " + i18n.results;
+    document.getElementById("search-hits").append(hitsTitle);
     parseResults(query, results);
   } else {
-    $('#search-hits').append('<div class="search-no-results">' + i18n.no_results + '</div>');
+    var noResultsDiv = document.createElement("div");
+    noResultsDiv.textContent = i18n.no_results;
+    noResultsDiv.classList.add("search-no-results");
+    document.getElementById("search-hits").append(noResultsDiv);
   }
 }
 
 // Parse search results.
 function parseResults(query, results) {
-  $.each( results, function(key, value) {
+  results.forEach( function(value, key) {
     let content = value.item.content;
     let snippet = "";
     let snippetHighlights = [];
@@ -86,7 +129,7 @@ function parseResults(query, results) {
     if ( fuseOptions.tokenize ) {
       snippetHighlights.push(query);
     } else {
-      $.each( value.matches, function(matchKey, matchValue) {
+      value.matches.forEach( function(matchValue, matchKey) {
         if (matchValue.key == "content") {
           let start = (matchValue.indices[0][0]-summaryLength>0) ? matchValue.indices[0][0]-summaryLength : 0;
           let end = (matchValue.indices[0][1]+summaryLength<content.length) ? matchValue.indices[0][1]+summaryLength : content.length;
@@ -101,7 +144,7 @@ function parseResults(query, results) {
     }
 
     // Load template.
-    var template = $('#search-hit-fuse-template').html();
+    var template = document.getElementById("search-hit-fuse-template").innerHTML;
 
     // Localize content types.
     let content_key = value.item.section;
@@ -109,34 +152,23 @@ function parseResults(query, results) {
       content_key = content_type[content_key];
     }
 
-    // Parse template.
-    let templateData = {
+    //replace values
+    var output = render(template, {
       key: key,
       title: value.item.title,
       type: content_key,
       relpermalink: value.item.relpermalink,
       snippet: snippet
-    };
-    let output = render(template, templateData);
-    $('#search-hits').append(output);
+    });
+
+    document.getElementById("search-hits").appendChild(htmlToElement(output));
 
     // Highlight search terms in result.
-    $.each( snippetHighlights, function(hlKey, hlValue){
-      $("#summary-"+key).mark(hlValue);
+    snippetHighlights.forEach(function (snipvalue, snipkey) {
+      new Mark(document.getElementById("summary-" + key)).mark(snipvalue);
     });
 
   });
-}
-
-function render(template, data) {
-  // Replace placeholders with their values.
-  let key, find, re;
-  for (key in data) {
-    find = '\\{\\{\\s*' + key + '\\s*\\}\\}';  // Expect placeholder in the form `{{x}}`.
-    re = new RegExp(find, 'g');
-    template = template.replace(re, data[key]);
-  }
-  return template;
 }
 
 /* ---------------------------------------------------------------------------
@@ -145,29 +177,26 @@ function render(template, data) {
 
 // If built-in search is enabled and Fuse loaded, then initialize it.
 if (typeof Fuse === 'function') {
-// Wait for Fuse to initialize.
-  $.getJSON(search_index_filename, function (search_index) {
+  // Wait for Fuse to initialize.
+  fetchJSONFile(search_index_filename, function(search_index){
     let fuse = new Fuse(search_index, fuseOptions);
 
     // On page load, check for search query in URL.
     if (query = getSearchQuery('q')) {
-      $("body").addClass('searching');
-      $('.search-results').css({opacity: 0, visibility: "visible"}).animate({opacity: 1},200);
-      $("#search-query").val(query);
-      $("#search-query").focus();
+      var results = document.querySelector(".search-results");
+      document.querySelector("body").classList.add("searching");
+      results.style.opacity = 0;
+      results.style.visibility = "visible";
+      document.getElementById("search-query").value = query;
+      document.getElementById("search-query").focus();
       initSearch(true, fuse);
     }
 
     // On search box key up, process query.
-    $('#search-query').keyup(function (e) {
-      clearTimeout($.data(this, 'searchTimer')); // Ensure only one timer runs!
-      if (e.keyCode == 13) {
-        initSearch(true, fuse);
-      } else {
-        $(this).data('searchTimer', setTimeout(function () {
-          initSearch(false, fuse);
-        }, 250));
-      }
-    });
+    document.getElementById("search-query").onkeyup = function(e) {
+      initSearch(true, fuse);
+    }
+
   });
 }
+
