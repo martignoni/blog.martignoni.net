@@ -4,7 +4,7 @@
 {{ if .Get "link" }}
 <a href="{{ .Get "link" }}" {{ with or (or (.Get "title") (.Get "caption")) (.Get "attr") }}data-caption="{{ . }}"{{ end }}>
 {{ else }}
-<a data-fancybox="photo-{{ $image_src }}" href="{{ $imgurl.RelPermalink }}" {{ with or (or (.Get "title") (.Get "caption")) (.Get "attr") }}data-caption="{{ . }}"{{ end }}>
+<a class="lightbox-image" data-fancybox="photo-{{ $image_src }}" href="{{ $imgurl.RelPermalink }}" {{ with or (or (.Get "title") (.Get "caption")) (.Get "attr") }}data-caption="{{ . }}"{{ end }}>
 {{ end }}
 <img src="{{ $imgurl.Permalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{ . }}{{else}}{{ .Get "caption" }}{{ end }}" {{ end }}{{ with .Get "width" }}width="{{ . }}" {{ end }}{{ with .Get "height" }}height="{{ . }}" {{ end }}/>
 </a>

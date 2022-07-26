@@ -1,6 +1,6 @@
 {{ $album := "gallery" }}
 {{ with .Get "album" }}{{ $album = . }}{{ end }}
-<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+<div class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
   {{/* Attempt to automatically load gallery images from page bundle */}}
   {{ $images := ($.Page.Resources.ByType "image").Match (printf "%s/*" $album) }}
@@ -18,7 +18,7 @@
         {{end}}
       {{ end }}
     {{ end }}
-    <a data-fancybox="gallery-{{ $album }}" href="{{ .RelPermalink }}" {{ with $caption }}data-caption="{{ . }}"{{ end }}>
+    <a href="{{ .RelPermalink }}" {{ with $caption }}data-caption="{{ . }}"{{ end }}>
     <img src="{{ .RelPermalink }}" alt="">
     </a>
   {{ end }}
@@ -34,7 +34,7 @@
           {{ $.Scratch.Set "src" (printf "img/%s" .image | relURL) }}
         {{ end }}
       {{ end }}
-      <a data-fancybox="gallery{{ with .album }}-{{.}}{{ end }}" {{ with .caption }}data-caption="{{.}}"{{ end }} href="{{$.Scratch.Get "src"}}">
+      <a {{ with .caption }}data-caption="{{.}}"{{ end }} href="{{$.Scratch.Get "src"}}">
         <img src="{{$.Scratch.Get "src"}}" alt="">
       </a>
     {{ end }}
