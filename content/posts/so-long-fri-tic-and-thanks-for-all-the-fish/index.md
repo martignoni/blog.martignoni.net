@@ -18,7 +18,7 @@ _[So Long, and Thanks for All the Fish][6]!_
  [1]: https://www.fri-tic.ch/
  [2]: https://www.gyb.ch/
  [3]: http://www.fr.ch/dics
- [4]: https://blog.martignoni.net/
+ [4]: {{< relref "/" >}}
  [5]: https://twitter.com/nmartignoni
  [6]: https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#So_Long.2C_and_Thanks_for_All_the_Fish
 

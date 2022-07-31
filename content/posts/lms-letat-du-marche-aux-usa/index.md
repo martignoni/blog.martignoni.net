@@ -38,4 +38,4 @@ _<small>Source : [eLiterate](https://mfeldstein.com/the-state-of-the-lms-an-ins
  [2]: http://www.deltainitiative.com/
  [3]: https://fr.wikipedia.org/wiki/Conf%C3%A9rence_en_ligne
  [4]: https://deltainitiative.webex.com/deltainitiative/ldr.php?AT=pb&SP=MC&rID=31734537&rKey=6472ec7dd2df31e2
- [5]: https://blog.martignoni.net/2009/06/blackboard-achete-angel/
+ [5]: {{< relref "posts/blackboard-achete-angel" >}}
