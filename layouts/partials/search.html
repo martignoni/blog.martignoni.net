@@ -5,15 +5,15 @@
       <div class="site-content">
         <div class="wrap row">
           <div class="half">
-            <h1>{{ i18n "searchTitle" }}</h1>
+            <h1 id="{{ i18n "searchTitle" }}">{{ i18n "searchTitle" }}</h1>
           </div>
           <div class="half col-search-close">
-            <a class="js-search" href="#"><i class="fa fa-times-circle text-muted" aria-hidden="true"></i></a>
+            <a class="js-search" href="#" aria-label="Close"><i class="fa fa-times-circle text-muted" aria-hidden="true"></i></a>
           </div>
         </div>
         <div id="search-box" class="wrap">
-          <input name="q" id="search-query" placeholder="{{i18n "searchPlaceholder"}}" autocapitalize="off"
-          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+          <!-- <label for="q">{{i18n "searchPlaceholder"}}</label> -->
+          <input name="q" id="search-query" placeholder="{{i18n "searchPlaceholder"}}" autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search" aria-labelledby="{{ i18n "searchTitle" }}">
         </div>
       </div>
 
