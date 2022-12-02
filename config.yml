@@ -33,6 +33,7 @@ params:
   author: Nicolas Martignoni
   github: martignoni
   twitter: nmartignoni
+  mastodon: https://tooting.ch/@nmartignoni
   citation: false
 
   noindex_kinds: [ "taxonomy", "taxonomyTerm", "tags" ]
