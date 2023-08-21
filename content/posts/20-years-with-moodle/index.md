@@ -1,6 +1,6 @@
 ---
 title: 20 years with Moodle
-date: 2023-08-23
+date: 2023-08-23T00:01:00
 author: Nicolas Martignoni
 slug: 20-years-with-moodle
 description: Here's my review of 20 years of voluntary participation in the Moodle user community.
@@ -19,6 +19,9 @@ tags:
 sources:
   - Photo de <a href="https://unsplash.com/fr/@tex450">Matthew Ball</a> sur Unsplash.
 ---
+
+> __This is the translated version of [this article in French]({{< relref "posts/20-ans-avec-moodle" >}}).__
+
 Today marks the 20th anniversary of my voluntary participation in the Moodle community. I created my user account on the [moodle.org](https://moodle.org/) site on August 23, 2003.
 
 I had already been using Moodle for a few months for my courses at [Collège Sainte-Croix](https://cscfr.ch/), but it was exactly 20 years ago that I started to get really involved in the Moodle user community, and in particular its French-speaking community.

@@ -1,6 +1,6 @@
 ---
 title: 20 ans avec Moodle
-date: 2023-08-23
+date: 2023-08-23T00:00:00
 author: Nicolas Martignoni
 slug: 20-ans-avec-moodle
 description: Voici mon bilan après 20 années de participation bénévole à la communauté des utilisateurs de Moodle.
@@ -19,6 +19,8 @@ tags:
 sources:
   - Photo de <a href="https://unsplash.com/fr/@tex450">Matthew Ball</a> sur Unsplash.
 ---
+> __[An English translation of this article is available.]({{< relref "posts/20-years-with-moodle" >}})__
+
 Aujourd'hui, je fête le 20<sup>ème</sup> anniversaire de ma participation bénévole à la communauté Moodle. J'ai en effet créé mon compte utilisateur sur le site [moodle.org](https://moodle.org/) le 23 août 2003.
 
 J'utilisais Moodle depuis quelques mois déjà pour mes cours au [Collège Sainte-Croix](https://cscfr.ch/), mais il y a 20 ans exactement, j'ai commencé à m'impliquer véritablement dans la communauté des utilisateurs de Moodle, et en particulier dans sa communauté francophone.
