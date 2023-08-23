@@ -47,7 +47,7 @@ Aujourd'hui, près de 1500 personnes sont inscrites à ces discussions et les qu
 
 ## La traduction de Moodle en français
 
-Le 3 septembre 2002, Martin Dougiamas, le créateur de Moodle, a ajouté à Moodle la première traduction partielle de Moodle en français[^1], proposée par Sébastien Namèche, et qui comprenait 483 chaînes de caractères. Les premières chaînes de caractères pour le français du Canada on été ajoutées le 29 mai 2003, par Jean-François Nadeau, du Québec.
+Le 3 septembre 2002, Martin Dougiamas, le créateur de Moodle, a ajouté à Moodle la première traduction partielle de Moodle en français[^1], proposée par Sébastien Namèche, et qui comprenait 483 chaînes de caractères. Les premières chaînes de caractères pour le français du Canada ont été ajoutées le 29 mai 2003, par Jean-François Nadeau, du Québec.
 
 En septembre 2003, j'ai envoyé à Martin mes premières traductions pour Moodle, qui tout de suite ont été intégrées. Martin m'a immédiatement fait confiance et autorisé à intégrer les traductions dans le code source de Moodle. Lorsque je lui ai demandé en 2005 de me dire pourquoi cette confiance, il m'a répondu : "_You must have done something special!_"
 
@@ -59,13 +59,13 @@ Et c'est sans compter l'apport de nombreuses autres personnes[^traducteurs] qui 
 
 Dans les premières années, la [documentation de Moodle](https://docs.moodle.org/fr) était incluse dans le logiciel lui-même. Quelques années plus tard, un wiki a été mis en place pour publier cette documentation, avec l'avantage que toute personne pouvait (et peut toujours) en modifier le contenu et participer à sa traduction.
 
-Maintenir cette documentation est une des tâches que j'ai aussi pris à cœur de mener à bien. Fort heureusement, j'ai très vite pu compter sur l'assistance de Séverin Terrier et de quelques autres personnes motivées, car le travail est énorme : depuis 2003, 4 différentes versions de la documentation ont été créées, et chacune d'entre elles comprend plus 1000 pages. Aujourd'hui, la documentation en français de la version actuelle de Moodle comporte 1523 pages[^docs].
+Maintenir cette documentation est une des tâches que j'ai aussi pris à cœur de mener à bien. Fort heureusement, j'ai très vite pu compter sur l'assistance de Séverin Terrier et de quelques autres personnes motivées, car le travail est énorme : depuis 2003, 4 différentes versions de la documentation ont été créées, et chacune d'entre elles comprend plus de 1000 pages. Aujourd'hui, la documentation en français de la version actuelle de Moodle comporte 1523 pages[^docs].
 
 ## Les MoodleMoots francophones
 
 En 2005, la communauté francophone s'est réunie pour la première fois à l'ENST Bretagne à Brest pour son premier MoodleMoot, en présence de Martin Dougiamas.
 
-J'ai eu depuis le plaisir de participer à l'organisation des 18 éditions du MoodleMoot francophone et d'y présenter la conférence introductive sur la communauté francophone, ainsi que d'autres conférences. Dès 2013, avec quelques membres éminents de la communauté, j'ai fondé l'association [MoodleMoot.fr](https://moodlemoot.fr/) pour encadrer l'organisation des ces conférences à l'esprit si particulier.
+J'ai eu depuis le plaisir de participer à l'organisation des 18 éditions du MoodleMoot francophone et d'y présenter la conférence introductive sur la communauté francophone, ainsi que d'autres conférences. Dès 2013, avec quelques membres éminents de la communauté, j'ai fondé l'association [MoodleMoot.fr](https://moodlemoot.fr/) pour encadrer l'organisation de ces conférences à l'esprit si particulier.
 
 ## MoodleBox
 
@@ -77,7 +77,7 @@ Si vous en avez l'envie, [faites un don pour soutenir ce projet](https://moodleb
 
 C'est un magnifique voyage de 20 ans, beaucoup de temps investi, pas pour de l'argent, mais pour l'amélioration d'un outil auquel je crois, au service des étudiants et des enseignants qui l'utilisent. Car Moodle nous ouvre intelligemment et sans nous contraindre un large éventail de possibilités pour enrichir notre enseignement et promouvoir les apprentissages.
 
-Et bien sûr l'envie de continuer!
+Et bien sûr l'envie de continuer !
 
 [^release]: La toute première version de Moodle a été publiée le 22 novembre 2001. Il s'agissait d'une version de développement, numérotée Moodle 0.1. Merveille du logiciel libre, [on peut encore la télécharger](https://git.moodle.org/gw?p=moodle.git;a=tree;h=f9903ed0a41ce4df0cb3628a06d6c0a9455ac75c;hb=f9903ed0a41ce4df0cb3628a06d6c0a9455ac75c).
 [^1]: <https://moodle.org/mod/forum/discuss.php?d=61>.
