@@ -3,10 +3,10 @@ title: Informations de contact
 author: Nicolas Martignoni
 slug: contact
 date: 2019-02-13
-lastmod: 2021-04-12
+lastmod: 2023-08-24
 ---
 
-Ce blog n'offre pas la possibilité de laisser un commentaire à la fin des articles. Je préfère en effet que les réactions prennent la forme d'une autre publication, car je pense que les gens écrivent mieux lorsqu'ils doivent défendre leurs idées sur le propre terrain : cela nécessite une véritable considération pour les lecteurs et par conséquent des échanges de meilleure qualité.
+Ce blog n'offre pas la possibilité de laisser un commentaire à la fin des articles. Je préfère en effet que les réactions prennent la forme d'une autre publication, car je pense que les gens écrivent mieux lorsqu'ils doivent défendre leurs idées sur leur propre terrain : cela nécessite une véritable considération pour les lecteurs et par conséquent des échanges de meilleure qualité.
 
 Si vous souhaitez réagir publiquement à un article de ce blog, créez un blog avec [Wordpress][wp], ouvrez un blog sur [GitLab Pages][gitlab] ou [Github Pages][github], échangez sur [Twitter][twitter] ou publiez votre propre site web avec votre propre nom de domaine !
 

@@ -3,7 +3,7 @@ title: À propos
 author: Nicolas Martignoni
 slug: a-propos
 date: 2006-04-16
-lastmod: 2021-10-20
+lastmod: 2023-08-24
 ---
 Le site _Perspectives_ est écrit et produit par [Nicolas Martignoni](#l-auteur).
 
@@ -20,7 +20,7 @@ Nicolas Martignoni est le créateur de la [MoodleBox][moodlebox]. La [MoodleBox
 
 ## Commentaires
 
-Ce blog n'offre pas la possibilité de laisser un commentaire à la fin des articles. Je préfère en effet que les réactions prennent la forme d'une autre publication, car je pense que les gens écrivent mieux lorsqu'ils doivent défendre leurs idées sur le propre terrain : cela nécessite une véritable considération pour les lecteurs et par conséquent des échanges de meilleure qualité.
+Ce blog n'offre pas la possibilité de laisser un commentaire à la fin des articles. Je préfère en effet que les réactions prennent la forme d'une autre publication, car je pense que les gens écrivent mieux lorsqu'ils doivent défendre leurs idées sur leur propre terrain : cela nécessite une véritable considération pour les lecteurs et par conséquent des échanges de meilleure qualité.
 
 Si vous souhaitez réagir publiquement à un article de ce blog, créez un blog avec [Wordpress][wp], ouvrez un blog sur [GitLab Pages][gitlab] ou [Github Pages][github], échangez sur [Twitter][twitter] ou publiez votre propre site web avec votre propre nom de domaine !
 
