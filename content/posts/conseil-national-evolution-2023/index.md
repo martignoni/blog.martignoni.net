@@ -12,6 +12,8 @@ tags:
   - Parti
   - Suisse
   - Visualisation
+sources:
+  - https://www.ch.ch/fr/elections2023/resultats-des-elections/les-elus-au-conseil-national--canton-par-canton/
 
 ---
 Les élections fédérales du 22 octobre dernier au [Conseil National][cn] Suisse montrent un retour à la situation de 2015, après une poussée des partis des Verts et des Verts libéraux. Voici une visualisation de l'évolution des sièges, de 1971 à 2023.
