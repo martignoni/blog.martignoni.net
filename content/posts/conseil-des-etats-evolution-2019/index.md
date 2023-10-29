@@ -14,7 +14,7 @@ tags:
   - Visualisation
 
 ---
-Confirmant les résultats des élections au [Conseil National][5], le [Conseil des États][4] Suisse quintuple sa députation verte, passant de 1 à 5 représentants, essentiellement aux dépends du parti socialiste, qui perd 3 sièges. Voici une visualisation de l'évolution des sièges, de 1971 à 2011.
+Confirmant les résultats des élections au [Conseil National][5], le [Conseil des États][4] Suisse quintuple sa députation verte, passant de 1 à 5 représentants, essentiellement aux dépends du parti socialiste, qui perd 3 sièges. Voici une visualisation de l'évolution des sièges, de 1971 à 2019.
 
 {{< figure src="CdE_71-19" alt="CdE: Force des partis 1971-2019" title="Conseil des États : force des partis 1971-2019" >}}
 

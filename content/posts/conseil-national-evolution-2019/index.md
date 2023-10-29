@@ -14,7 +14,7 @@ tags:
   - Visualisation
 
 ---
-Les élections fédérales d'hier ont livré de grosses variations dans les forces des partis au [Conseil National][2] Suisse. Voici une visualisation de l'évolution des sièges, de 1971 à 2011.
+Les élections fédérales d'hier ont livré de grosses variations dans les forces des partis au [Conseil National][2] Suisse. Voici une visualisation de l'évolution des sièges, de 1971 à 2019.
 
 {{< figure src="CN_71-19" alt="CN: Force des partis 1971-2019" title="Conseil national : force des partis 1971-2019" >}}
 
