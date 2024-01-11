@@ -112,14 +112,6 @@
   translation: "Le terme recherché doit comporter au moins 3 caractères."
 - id: recentNews
   translation: "Nouveautés"
-- id: warning
-  translation: "Avertissement"
-- id: note
-  translation: "Remarque"
-- id: info
-  translation: "Information"
-- id: tip
-  translation: "Astuce"
 - id: RSSFeed
   translation: "Flux RSS"
 - id: lastUpdated
