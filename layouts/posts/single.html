@@ -45,7 +45,7 @@
       <div class="cat-links"><i class="icon fa fa-folder-open" aria-hidden="true"></i>
         <span class="screen-reader-text">{{ i18n "categoriesTitle" }}</span>
         {{ with .Params.categories }}
-          <span>{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " }}</span>
+          <span>{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " | safeHTML }}</span>
         {{ end }}
       </div>
       {{ end }}
@@ -53,7 +53,8 @@
       <div class="tags-links"><i class="icon fa fa-tags" aria-hidden="true"></i>
         <span class="screen-reader-text">{{ i18n "tagsTitle" }}</span>
         {{ with .Params.tags }}
-          <span>{{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " }}</span>
+          <span>{{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " | safeHTML }}</span>
+          <span></span>
         {{ end }}
       </div>
       {{ end }}
