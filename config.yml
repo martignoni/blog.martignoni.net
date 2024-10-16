@@ -14,8 +14,6 @@ timeZone: Europe/Zurich
 summaryLength: 250
 # Customize footnote return links.
 footnoteReturnLinkContents: ↩
-# Set number of posts per page.
-paginate: 5
 # Make relative URLs relative to content root.
 relativeURLs: true
 
@@ -24,6 +22,10 @@ enableRobotsTXT: true
 
 # Enable menu system for lazy bloggers.
 SectionPagesMenu: main
+
+# Set number of posts per page.
+pagination:
+  pagerSize: 5
 
 build:
   writeStats: false
