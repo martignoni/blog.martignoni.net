@@ -33,9 +33,8 @@
     {{ if .NextInSection }}<link rel="next" href="{{ .NextInSection.Permalink }}">{{ end }}
   {{ end }}
   {{ partial "favicon" . }}
-  <link rel="me" href="{{ site.Params.mastodon }}" />
-  <link rel="me" href="https://twitter.com/{{ site.Params.twitter }}" />
-
+  <link rel="me" href="{{ site.Params.mastodon }}" class="u-url" />
+  <link rel="me" href="https://twitter.com/{{ site.Params.twitter }}" class="u-url" />
   {{ partial "css" . }}
   {{ block "style" . }}{{ end }}
   {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}

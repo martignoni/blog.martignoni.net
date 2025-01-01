@@ -1,6 +1,6 @@
 
 {{ if isset .Params "author" }}
-  <meta name="author" content="{{ index .Params "author" }}">
+  <meta name="author" content="{{ index .Params "author" }}" class="p-name">
 {{ else }}
-  <meta name="author" content="{{ site.Params.author }}">
+  <meta name="author" content="{{ site.Params.author }}" class="p-name">
 {{ end }}
