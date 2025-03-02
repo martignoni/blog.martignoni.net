@@ -2,9 +2,13 @@
 {{ $css_options := (dict ) }}
 {{ if not hugo.IsProduction }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
-  {{ $forkawesomeCSS := resources.Get "css/fork-awesome.css" | toCSS $cssOpts }}
+  {{ $fontawesomeCSS := resources.Get "css/fontawesome.css" | toCSS $cssOpts }}
+  {{ $fontawesomeBrandsCSS := resources.Get "css/brands.css" | toCSS $cssOpts }}
+  {{ $fontawesomeSolidCSS := resources.Get "css/solid.css" | toCSS $cssOpts }}
   {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts }}
-  <link href="{{ $forkawesomeCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $fontawesomeCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $fontawesomeBrandsCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $fontawesomeSolidCSS.Permalink }}" rel="stylesheet">
   <link href="{{ $styleCSS.Permalink }}" rel="stylesheet">
   {{ if or (.HasShortcode "gallery") (.HasShortcode "figure") }}
     {{ $lightboxCSS := resources.Get "css/lightbox.css" | toCSS $cssOpts }}
@@ -16,9 +20,13 @@
   {{ end }}
 {{ else }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" false "outputStyle" "compressed") }}
-  {{ $forkawesomeCSS := resources.Get "css/fork-awesome.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
+  {{ $fontawesomeCSS := resources.Get "css/fontawesome.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
+  {{ $fontawesomeBrandsCSS := resources.Get "css/brands.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
+  {{ $fontawesomeSolidCSS := resources.Get "css/solid.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
   {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
-  <link href="{{ $forkawesomeCSS.Permalink }}" integrity="{{ $forkawesomeCSS.Data.Integrity }}" rel="stylesheet">
+  <link href="{{ $fontawesomeCSS.Permalink }}" integrity="{{ $fontawesomeCSS.Data.Integrity }}" rel="stylesheet">
+  <link href="{{ $fontawesomeBrandsCSS.Permalink }}" integrity="{{ $fontawesomeBrandsCSS.Data.Integrity }}" rel="stylesheet">
+  <link href="{{ $fontawesomeSolidCSS.Permalink }}" integrity="{{ $fontawesomeBrandsCSS.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $styleCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" rel="stylesheet">
   {{ if or (.HasShortcode "gallery") (.HasShortcode "figure") }}
     {{ $lightboxCSS := resources.Get "css/lightbox.css" | toCSS $cssOpts | minify | fingerprint }}
