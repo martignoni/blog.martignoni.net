@@ -26,7 +26,7 @@
   {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
   <link href="{{ $fontawesomeCSS.Permalink }}" integrity="{{ $fontawesomeCSS.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $fontawesomeBrandsCSS.Permalink }}" integrity="{{ $fontawesomeBrandsCSS.Data.Integrity }}" rel="stylesheet">
-  <link href="{{ $fontawesomeSolidCSS.Permalink }}" integrity="{{ $fontawesomeBrandsCSS.Data.Integrity }}" rel="stylesheet">
+  <link href="{{ $fontawesomeSolidCSS.Permalink }}" integrity="{{ $fontawesomeSolidCSS.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $styleCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" rel="stylesheet">
   {{ if or (.HasShortcode "gallery") (.HasShortcode "figure") }}
     {{ $lightboxCSS := resources.Get "css/lightbox.css" | toCSS $cssOpts | minify | fingerprint }}
