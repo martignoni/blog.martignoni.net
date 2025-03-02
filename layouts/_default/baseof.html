@@ -34,7 +34,7 @@
   {{ end }}
   {{ partial "favicon" . }}
   <link rel="me" href="{{ site.Params.mastodon }}" class="u-url" />
-  <link rel="me" href="https://twitter.com/{{ site.Params.twitter }}" class="u-url" />
+  <link rel="me" href="https://bsky.app/profile/{{ site.Params.bluesky }}.bsky.social" class="u-url" />
   {{ partial "css" . }}
   {{ block "style" . }}{{ end }}
   {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}

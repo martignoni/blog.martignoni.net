@@ -62,7 +62,7 @@ function render(template, data) {
   // Replace placeholders with their values.
   let key, find, re;
   for (key in data) {
-    find = '\\{\\{\\s*' + key + '\\s*\\}\\}';  // Expect placeholder in the form `{{x}}`.
+    find = '\\{\\{\\s*' + key + '\\s*\\}\\}';  // Expect placeholder in the form `{{bla}}`.
     re = new RegExp(find, 'g');
     template = template.replace(re, data[key]);
   }
