@@ -1,0 +1,47 @@
+/* Reveal custom theme */
+@import "../reveal-js/dist/theme/template/mixins";
+@import "../reveal-js/dist/theme/template/settings";
+
+// Background of the presentation
+// $backgroundColor: rgb(0, 39, 84);
+$backgroundColor: #002754;
+// $backgroundColor: #00306b; // a bit lighter
+
+// Primary/body text
+$headingFont: 'Avenir', Arial, Helvetica, sans-serif;
+$mainFontSize: 48px;
+$mainColor: #fff;
+
+// Headings
+$headingFont: 'Avenir', Arial, Helvetica, sans-serif;
+$headingColor: #fff;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingTextShadow: none;
+$headingFontWeight: 600;
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+$codeFont: monospace;
+
+// Links and actions
+$linkColor: #42affa;
+$linkColorHover: lighten( $linkColor, 15% );
+
+// Text selection
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+@import "../reveal-js/dist/theme/template/theme";
+
+section.has-light-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #222;
+	}
+}
+
+.reveal pre {
+	margin: 50px auto;
+}
