@@ -3,7 +3,6 @@ title: "Innovation numérique et responsabilité"
 date: 2019-03-03
 slug: innovation-numerique-et-responsabilite
 description: Nos autorités jouent aux apprentis sorciers en matière de cybersécurité avec leur enthousiasme naïf face à l'innovation dans le domaine du numérique. C'est aussi l'avis de Suzette Sandoz.
-draft: false
 categories:
   - Citoyenneté
   - Politique

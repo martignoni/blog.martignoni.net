@@ -3,7 +3,6 @@ title: "E-voting : nous avons besoin de confiance"
 date: "2019-03-18"
 slug: e-voting-et-confiance
 description: Ce n'est pas tant le vote électronique qui est problématique que la façon dont les autorités sous-estiment ses risques pour la démocratie quand il est mal géré ou mal implémenté.
-draft: false
 categories:
   - Citoyenneté
   - Politique
