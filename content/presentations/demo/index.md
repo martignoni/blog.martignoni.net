@@ -1,5 +1,6 @@
 ---
 title: Section presentation example
+description: Bla bla bla
 author: Nicolas Martignoni
 date: 2025-08-09
 lastmod: 2025-08-09

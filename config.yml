@@ -39,6 +39,7 @@ build:
 params:
   description: Un blog sur la technologie et la citoyenneté, l'enseignement et l'apprentissage et parfois d'autres sujets. Par Nicolas Martignoni, enseignant, spécialiste e-learning, enseignement hybride (blended learning) et à distance, fan de Moodle et des EdTechs, geek du logiciel libre et développeur de MoodleBox.
   author: Nicolas Martignoni
+  email: nicolas@martignoni.net
   github: martignoni
   bluesky: nmartignoni
   mastodon: https://tooting.ch/@nmartignoni
