@@ -1,39 +1,42 @@
 <!-- Custom styles -->
-{{ $css_options := (dict ) }}
-{{ if not hugo.IsProduction }}
-  {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
-  {{ $fontawesomeCSS := resources.Get "css/fontawesome.css" | toCSS $cssOpts }}
-  {{ $fontawesomeBrandsCSS := resources.Get "css/brands.css" | toCSS $cssOpts }}
-  {{ $fontawesomeSolidCSS := resources.Get "css/solid.css" | toCSS $cssOpts }}
-  {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts }}
-  <link href="{{ $fontawesomeCSS.Permalink }}" rel="stylesheet">
-  <link href="{{ $fontawesomeBrandsCSS.Permalink }}" rel="stylesheet">
-  <link href="{{ $fontawesomeSolidCSS.Permalink }}" rel="stylesheet">
-  <link href="{{ $styleCSS.Permalink }}" rel="stylesheet">
-  {{ if or (.HasShortcode "gallery") (.HasShortcode "figure") }}
-    {{ $lightboxCSS := resources.Get "css/lightbox.css" | toCSS $cssOpts }}
-    <link href="{{ $lightboxCSS.Permalink }}" rel="stylesheet">
-    {{ if .HasShortcode "gallery" }}
-      {{ $galleryCSS := resources.Get "css/gallery.css" | toCSS $cssOpts }}
-      <link href="{{ $galleryCSS.Permalink }}" rel="stylesheet">
-    {{ end }}
-  {{ end }}
+{{ $cssOpts := (dict) }}
+{{ if hugo.IsProduction }}
+  {{ $cssOpts = merge $cssOpts (dict "enableSourceMap" false "outputStyle" "compressed") }}
 {{ else }}
-  {{ $cssOpts := merge $css_options (dict "enableSourceMap" false "outputStyle" "compressed") }}
-  {{ $fontawesomeCSS := resources.Get "css/fontawesome.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
-  {{ $fontawesomeBrandsCSS := resources.Get "css/brands.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
-  {{ $fontawesomeSolidCSS := resources.Get "css/solid.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
-  {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts | postCSS | minify | fingerprint }}
+  {{ $cssOpts = merge $cssOpts (dict "enableSourceMap" true) }}
+{{ end }}
+{{ $fontawesomeCSS := resources.Get "css/fontawesome.css" | toCSS $cssOpts | css.PostCSS }}
+{{ $fontawesomeBrandsCSS := resources.Get "css/brands.css" | toCSS $cssOpts | css.PostCSS }}
+{{ $fontawesomeSolidCSS := resources.Get "css/solid.css" | toCSS $cssOpts | css.PostCSS }}
+{{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts }} <!-- Do NOT post-process -->
+{{ $lightboxCSS := resources.Get "css/lightbox.css" | toCSS $cssOpts | css.PostCSS }}
+{{ $galleryCSS := resources.Get "css/gallery.css" | toCSS $cssOpts | css.PostCSS }}
+{{ if hugo.IsProduction }}
+  {{ $fontawesomeCSS = $fontawesomeCSS | minify | fingerprint | resources.PostProcess }}
+  {{ $fontawesomeBrandsCSS = $fontawesomeBrandsCSS | minify | fingerprint | resources.PostProcess }}
+  {{ $fontawesomeSolidCSS = $fontawesomeSolidCSS | minify | fingerprint | resources.PostProcess }}
+  {{ $styleCSS = $styleCSS | minify | fingerprint | resources.PostProcess }}
   <link href="{{ $fontawesomeCSS.Permalink }}" integrity="{{ $fontawesomeCSS.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $fontawesomeBrandsCSS.Permalink }}" integrity="{{ $fontawesomeBrandsCSS.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $fontawesomeSolidCSS.Permalink }}" integrity="{{ $fontawesomeSolidCSS.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $styleCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" rel="stylesheet">
   {{ if or (.HasShortcode "gallery") (.HasShortcode "figure") }}
-    {{ $lightboxCSS := resources.Get "css/lightbox.css" | toCSS $cssOpts | minify | fingerprint }}
+    {{ $lightboxCSS = $lightboxCSS | minify | fingerprint | resources.PostProcess }}
     <link href="{{ $lightboxCSS.Permalink }}" integrity="{{ $lightboxCSS.Data.Integrity }}" rel="stylesheet">
     {{ if .HasShortcode "gallery" }}
-      {{ $galleryCSS := resources.Get "css/gallery.css" | toCSS $cssOpts | minify | fingerprint }}
+      {{ $galleryCSS = $galleryCSS | minify | fingerprint | resources.PostProcess }}
       <link href="{{ $galleryCSS.Permalink }}" integrity="{{ $galleryCSS.Data.Integrity }}" rel="stylesheet">
+    {{ end }}
+  {{ end }}
+{{ else }}
+  <link href="{{ $fontawesomeCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $fontawesomeBrandsCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $fontawesomeSolidCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $styleCSS.Permalink }}" rel="stylesheet">
+  {{ if or (.HasShortcode "gallery") (.HasShortcode "figure") }}
+    <link href="{{ $lightboxCSS.Permalink }}" rel="stylesheet">
+    {{ if .HasShortcode "gallery" }}
+      <link href="{{ $galleryCSS.Permalink }}" rel="stylesheet">
     {{ end }}
   {{ end }}
 {{ end }}

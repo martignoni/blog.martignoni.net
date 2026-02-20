@@ -6,14 +6,19 @@ theme:
   - hugo-video
   - reveal-hugo
 languageCode: fr
+
 # Set site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage: fr
+
 # Set time zone
 timeZone: Europe/Zurich
+
 # Set summary length.
 summaryLength: 250
+
 # Customize footnote return links.
 footnoteReturnLinkContents: ↩
+
 # Make relative URLs relative to content root.
 relativeURLs: true
 
@@ -28,7 +33,8 @@ pagination:
   pagerSize: 5
 
 build:
-  writeStats: false
+  buildStats:
+    enable: true
 
 params:
   description: Un blog sur la technologie et la citoyenneté, l'enseignement et l'apprentissage et parfois d'autres sujets. Par Nicolas Martignoni, enseignant, spécialiste e-learning, enseignement hybride (blended learning) et à distance, fan de Moodle et des EdTechs, geek du logiciel libre et développeur de MoodleBox.
@@ -85,7 +91,10 @@ privacy:
 markup:
   goldmark:
     parser:
-      autoHeadingIDType: blackfriday
+      attribute:
+        block: true
+        title: true
+      autoHeadingIDType: github-ascii
     renderer:
       unsafe: true
   highlight:
@@ -111,7 +120,5 @@ related:
       weight: 10
       pattern: "2006"
 
-# pygmentsCodeFences: true
-# pygmentsCodeFencesGuessSyntax: true
-# pygmentsUseClasses: true
-# pygmentsStyle: "dracula"
+# minify:
+#   disableJS: true
