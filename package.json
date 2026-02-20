@@ -7,11 +7,11 @@
     "autoprefixer": "^10.2.5",
     "child_process": "^1.0.2",
     "postcss-cli": "^8.3.1",
-    "purgecss": "^4.0.3",
+    "purgecss": "^8.0.0",
     "tailwindcss": "^2.1.2"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.3"
+    "@fullhuman/postcss-purgecss": "^8.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
