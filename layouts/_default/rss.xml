@@ -4,7 +4,7 @@
     <link>{{ .Permalink }}</link>
     <description>Recent content on {{ site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>
-    {{ with site.LanguageCode }}<language>{{.}}</language>{{end}}
+    {{ with .Site.Language.Locale }}<language>{{.}}</language>{{end}}
     {{ with site.Params.author }}
       <managingEditor>{{.}}{{ with site.Params.email }} ({{.}}){{end}}</managingEditor>
     {{end}}
